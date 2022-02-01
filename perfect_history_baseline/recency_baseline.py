@@ -43,7 +43,7 @@ def recency_baseline(combined_references_and_mentions, ordered_mention_data):
 '''
 def New recency algorithm 
 input: candidate list (all mentioned entities); utterance history (e.g. scene) with information
-about reference, speaker, timestamp, sentence; brain with memory of mentioned entities
+about reference, speaker, timestamp, sentence; brain with memory of mentioned entities and references used for them
 function: when called, take candidate list and for each candidate compute recency (sum of inverted distances to 
 previous mentions, based on utterance history and mention memory
 function: sort candidate list based on recency scores
