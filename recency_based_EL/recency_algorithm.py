@@ -47,8 +47,9 @@ def rank_by_recency(scene_history, candidates, memory, current_reference, ignore
                 if timepoint == entity:
                     distance = index+1
                     recency_score += (1 / distance) ** alpha
-        # TODO: normalize recency scores
         recency_scores[entity] = recency_score
+
+    # TODO: normalize recency scores
 
     recency_ranking = {entity: score for entity, score in sorted(recency_scores.items(), key=lambda item: item[1])}
 
