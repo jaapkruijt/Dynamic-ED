@@ -6,12 +6,18 @@ def create_utterance_history(data, index):
     history_from_start = data[:index]
     current = history_from_start[index]
     scene_history = []
+    scene_timestamps = []
     for token in history_from_start[::-1]:
         if token[1] != current[1]:
             break
         else:
             scene_history.append(token)
-    return scene_history
+            scene_timestamps.append(token[0])
+    scene_history_rev = reversed(scene_history)
+    scene_history_rev = list(scene_history_rev)
+    scene_timestamps_rev = reversed(scene_timestamps)
+    scene_timestamps_rev = list(scene_timestamps_rev)
+    return scene_history_rev, scene_timestamps_rev
 
 
 def create_candidate_list(memory):
@@ -21,13 +27,24 @@ def create_candidate_list(memory):
     return candidates
 
 
-def rank_by_recency(scene_history, candidates, memory, current_reference, ignored_pronouns=fst_snd_prons, alpha=2,
+def rank_by_recency(scene_timestamps, candidates, memory, current_label, ignored_pronouns=fst_snd_prons, alpha=2,
                     mention_specific=False):
-    memory_recent_first = reversed(memory)
-    memory_recent_first = list(memory_recent_first)
-    # next line will not work since there is also non-mention lines in the scene_history. How to find the length?
-    # idea: use timestamps (make unique) in memory dict, iterate over timestamps (like in baseline)
-    memory_scene = memory_recent_first[:len(scene_history)]
+    """
+    :param scene_timestamps: List. All timestamps for the current scene from current timestamp to beginning
+    :param candidates: List. All entity cluster identifiers known at to this point
+    :param memory: Dict. timestamp:(mention, label)
+    :param current_label: String. Label used in the current mention
+    :param ignored_pronouns: List. Contains the labels which will be ignored by the ranker
+    :param alpha: Int. Parameterizable value to simulate rate of forgetting
+    :param mention_specific: Bool. Whether the ranker will compute recency based on the label or not
+    :return: Mention candidate list ranked by recency
+    """
+
+    memory_scene = []
+    for timestamp in scene_timestamps:
+        if timestamp in memory.keys():
+            memory_scene.append(memory[timestamp])
+
     recency_scores = {}
     for entity in candidates:
         recency_score = 0
@@ -38,7 +55,7 @@ def rank_by_recency(scene_history, candidates, memory, current_reference, ignore
                 pass
             elif mention_specific:
                 # distance += 1
-                if reference == current_reference:
+                if reference == current_label:
                     if timepoint == entity:
                         distance = index + 1  # is distance only counted in mentions?
                         recency_score += (1 / distance) ** alpha

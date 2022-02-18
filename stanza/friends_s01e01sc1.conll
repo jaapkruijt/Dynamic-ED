@@ -1,0 +1,270 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2580
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fnil\fcharset0 Menlo-Regular;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww35640\viewh20780\viewkind0
+\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 \
+/friends-s01e01   0   0              Of    IN                (TOP(S(PP*              of     -     -  Joey_Tribbiani          *          -\
+/friends-s01e01   0   1          course    NN                    (NP*))          course     -     -  Joey_Tribbiani          *          -\
+/friends-s01e01   0   2              it   PRP                     (NP*)              it     -     -  Joey_Tribbiani          *          -\
+/friends-s01e01   0   3             was   VBD                      (VP*              be     -     -  Joey_Tribbiani          *          -\
+/friends-s01e01   0   4               a    DT                      (NP*               a     -     -  Joey_Tribbiani          *          -\
+/friends-s01e01   0   5            line    NN                       *))            line     -     -  Joey_Tribbiani          *          -\
+/friends-s01e01   0   6               !     .                       *))               !     -     -  Joey_Tribbiani          *          -\
+\
+/friends-s01e01   0   0             Why   WRB       (TOP(SBARQ(WHADVP*)             why     -     -   Monica_Geller          *          -\
+/friends-s01e01   0   1              ?!   VBP               (SQ(VP*))))              ?!     -     -   Monica_Geller          *          -\
+\
+/friends-s01e01   0   0             Why   WRB                (TOP(FRAG*             why     -     -   Monica_Geller          *          -\
+/friends-s01e01   0   1               ?     .                       *))               ?     -     -   Monica_Geller          *          -\
+\
+/friends-s01e01   0   0             Why   WRB       (TOP(SBARQ(WHADVP*)             why     -     -   Monica_Geller          *          -\
+/friends-s01e01   0   1               ,     ,                         *               ,     -     -   Monica_Geller          *          -\
+/friends-s01e01   0   2             why   WRB                 (WHADVP*)             why     -     -   Monica_Geller          *          -\
+/friends-s01e01   0   3           would    MD                      (SQ*           would     -     -   Monica_Geller          *          -\
+/friends-s01e01   0   4         anybody    NN                     (NP*)         anybody     -     -   Monica_Geller          *          -\
+/friends-s01e01   0   5              do    VB                      (VP*              do     -     -   Monica_Geller          *          -\
+/friends-s01e01   0   6       something    NN                     (NP*)       something     -     -   Monica_Geller          *          -\
+/friends-s01e01   0   7            like    IN                      (PP*            like     -     -   Monica_Geller          *          -\
+/friends-s01e01   0   8            that    DT                  (NP*))))            that     -     -   Monica_Geller          *          -\
+/friends-s01e01   0   9               ?     .                       *))               ?     -     -   Monica_Geller          *          -\
+\
+/friends-s01e01   0   0               I   PRP               (TOP(S(NP*)               I     -     -     Ross_Geller          *      (-1)\
+/friends-s01e01   0   1          assume   VBP                      (VP*          assume     -     -     Ross_Geller          *          -\
+/friends-s01e01   0   2              we   PRP              (SBAR(S(NP*)              we     -     -     Ross_Geller          *          -\
+/friends-s01e01   0   3             're   VBP                      (VP*              be     -     -     Ross_Geller          *          -\
+/friends-s01e01   0   4         looking   VBG                      (VP*            look     -     -     Ross_Geller          *          -\
+/friends-s01e01   0   5             for    IN                      (PP*             for     -     -     Ross_Geller          *          -\
+/friends-s01e01   0   6              an    DT                   (NP(NP*               a     -     -     Ross_Geller          *          -\
+/friends-s01e01   0   7          answer    NN                        *)          answer     -     -     Ross_Geller          *          -\
+/friends-s01e01   0   8            more   RBR                    (ADJP*            more     -     -     Ross_Geller          *          -\
+/friends-s01e01   0   9   sophisticated    JJ                      *)))   sophisticated     -     -     Ross_Geller          *          -\
+/friends-s01e01   0  10            than    IN                   (ADVP*)            than     -     -     Ross_Geller          *          -\
+/friends-s01e01   0  11               '    ''                         *               '     -     -     Ross_Geller          *          -\
+/friends-s01e01   0  12              to    TO                    (S(VP*              to     -     -     Ross_Geller          *          -\
+/friends-s01e01   0  13             get    VB                      (VP*             get     -     -     Ross_Geller          *          -\
+/friends-s01e01   0  14             you   PRP                     (NP*)             you     -     -     Ross_Geller          *      (-1)\
+/friends-s01e01   0  15            into    IN                      (PP*            into     -     -     Ross_Geller          *          -\
+/friends-s01e01   0  16             bed    NN                      (NP*             bed     -     -     Ross_Geller          *          -\
+/friends-s01e01   0  17               '    ''               *))))))))))               '     -     -     Ross_Geller          *          -\
+/friends-s01e01   0  18               .     .                       *))               .     -     -     Ross_Geller          *          -\
+\
+/friends-s01e01   0   0               I   PRP               (TOP(S(NP*)               I     -     -   Monica_Geller          *      (-1)\
+/friends-s01e01   0   1            hate   VBP                      (VP*            hate     -     -   Monica_Geller          *          -\
+/friends-s01e01   0   2             men   NNS                    (NP*))             man     -     -   Monica_Geller          *          -\
+/friends-s01e01   0   3               !     .                       *))               !     -     -   Monica_Geller          *          -\
+\
+/friends-s01e01   0   0               I   PRP               (TOP(S(NP*)               I     -     -   Monica_Geller          *      (-1)\
+/friends-s01e01   0   1            hate   VBP                      (VP*            hate     -     -   Monica_Geller          *          -\
+/friends-s01e01   0   2             men   NNS                    (NP*))             man     -     -   Monica_Geller          *          -\
+/friends-s01e01   0   3               !     .                       *))               !     -     -   Monica_Geller          *          -\
+\
+/friends-s01e01   0   0              Oh    UH         (TOP(SBARQ(INTJ*)              oh     -     -   Phoebe_Buffay          *          -\
+/friends-s01e01   0   1              no    DT                 (WHADVP*)              no     -     -   Phoebe_Buffay          *          -\
+/friends-s01e01   0   2               ,     ,                     (PRN*               ,     -     -   Phoebe_Buffay          *          -\
+/friends-s01e01   0   3              do   VBP                    (S(VP*              do     -     -   Phoebe_Buffay          *          -\
+/friends-s01e01   0   4             n't    RB                         *             not     -     -   Phoebe_Buffay          *          -\
+/friends-s01e01   0   5            hate    VB                   (VP*)))            hate     -     -   Phoebe_Buffay          *          -\
+/friends-s01e01   0   6               ,     ,                        *)               ,     -     -   Phoebe_Buffay          *          -\
+/friends-s01e01   0   7             you   PRP                  (SQ(NP*)             you     -     -   Phoebe_Buffay          *      (-1)\
+/friends-s01e01   0   8              do   VBP                      (VP*              do     -     -   Phoebe_Buffay          *          -\
+/friends-s01e01   0   9             n't    RB                         *             not     -     -   Phoebe_Buffay          *          -\
+/friends-s01e01   0  10            want    VB                      (VP*            want     -     -   Phoebe_Buffay          *          -\
+/friends-s01e01   0  11              to    TO                    (S(VP*              to     -     -   Phoebe_Buffay          *          -\
+/friends-s01e01   0  12             put    VB                      (VP*             put     -     -   Phoebe_Buffay          *          -\
+/friends-s01e01   0  13            that    DT                     (NP*)            that     -     -   Phoebe_Buffay          *          -\
+/friends-s01e01   0  14             out    RP                    (PRT*)             out     -     -   Phoebe_Buffay          *          -\
+/friends-s01e01   0  15            into    IN                      (PP*            into     -     -   Phoebe_Buffay          *          -\
+/friends-s01e01   0  16             the    DT                      (NP*             the     -     -   Phoebe_Buffay          *          -\
+/friends-s01e01   0  17        universe    NN                 *))))))))        universe     -     -   Phoebe_Buffay          *          -\
+/friends-s01e01   0  18               .     .                       *))               .     -     -   Phoebe_Buffay          *          -\
+\
+/friends-s01e01   0   0              Is   VBZ                  (TOP(SQ*              be     -     -   Monica_Geller          *          -\
+/friends-s01e01   0   1              it   PRP                     (NP*)              it     -     -   Monica_Geller          *          -\
+/friends-s01e01   0   2              me   PRP                     (NP*)               I     -     -   Monica_Geller          *      (-1)\
+/friends-s01e01   0   3               ?     .                       *))               ?     -     -   Monica_Geller          *          -\
+\
+/friends-s01e01   0   0              Is   VBZ            (TOP(SINV(VP*)              be     -     -   Monica_Geller          *          -\
+/friends-s01e01   0   1              it   PRP                     (NP*)              it     -     -   Monica_Geller          *          -\
+/friends-s01e01   0   2            like    IN                    (SBAR*            like     -     -   Monica_Geller          *          -\
+/friends-s01e01   0   3               I   PRP                   (S(NP*)               I     -     -   Monica_Geller          *      (-1)\
+/friends-s01e01   0   4            have   VBP                      (VP*            have     -     -   Monica_Geller          *          -\
+/friends-s01e01   0   5            some    DT                   (NP(NP*            some     -     -   Monica_Geller          *          -\
+/friends-s01e01   0   6            sort    NN                        *)            sort     -     -   Monica_Geller          *          -\
+/friends-s01e01   0   7              of    IN                      (PP*              of     -     -   Monica_Geller          *          -\
+/friends-s01e01   0   8          beacon    NN                   (NP*)))          beacon     -     -   Monica_Geller          *          -\
+/friends-s01e01   0   9            that    IN                    (SBAR*            that     -     -   Monica_Geller          *          -\
+/friends-s01e01   0  10            only    JJ                 (S(NP(NP*            only     -     -   Monica_Geller          *          -\
+/friends-s01e01   0  11            dogs   NNS                         *             dog     -     -   Monica_Geller          *          -\
+/friends-s01e01   0  12             and    CC                         *             and     -     -   Monica_Geller          *          -\
+/friends-s01e01   0  13             men   NNS                        *)             man     -     -   Monica_Geller          *          -\
+/friends-s01e01   0  14            with    IN                      (PP*            with     -     -   Monica_Geller          *          -\
+/friends-s01e01   0  15          severe    JJ                      (NP*          severe     -     -   Monica_Geller          *          -\
+/friends-s01e01   0  16       emotional    JJ                         *       emotional     -     -   Monica_Geller          *          -\
+/friends-s01e01   0  17        problems   NNS                      *)))         problem     -     -   Monica_Geller          *          -\
+/friends-s01e01   0  18             can    MD                      (VP*             can     -     -   Monica_Geller          *          -\
+/friends-s01e01   0  19            hear    VB                (VP*))))))            hear     -     -   Monica_Geller          *          -\
+/friends-s01e01   0  20               ?     .                      *)))               ?     -     -   Monica_Geller          *          -\
+\
+/friends-s01e01   0   0             All    DT                (TOP(S(NP*             all     -     -   Phoebe_Buffay          *          -\
+/friends-s01e01   0   1           right    NN                        *)           right     -     -   Phoebe_Buffay          *          -\
+/friends-s01e01   0   2               ,     ,                         *               ,     -     -   Phoebe_Buffay          *          -\
+/friends-s01e01   0   3          c'mere    RB                   (ADVP*)          c'mere     -     -   Phoebe_Buffay          *          -\
+/friends-s01e01   0   4               ,     ,                         *               ,     -     -   Phoebe_Buffay          *          -\
+/friends-s01e01   0   5             gim   VBP                      (VP*             gim     -     -   Phoebe_Buffay          *          -\
+/friends-s01e01   0   6              me   PRP                   (S(NP*)               I     -     -   Phoebe_Buffay          *      (-1)\
+/friends-s01e01   0   7            your  PRP$                      (NP*             you     -     -   Phoebe_Buffay          *      (-1)\
+/friends-s01e01   0   8            feet   NNS                      *)))            foot     -     -   Phoebe_Buffay          *          -\
+/friends-s01e01   0   9               .     .                       *))               .     -     -   Phoebe_Buffay          *          -\
+\
+/friends-s01e01   0   0               I   PRP               (TOP(S(NP*)               I     -     -   Monica_Geller          *      (-1)\
+/friends-s01e01   0   1            just    RB                   (ADVP*)            just     -     -   Monica_Geller          *          -\
+/friends-s01e01   0   2         thought   VBD                      (VP*           think     -     -   Monica_Geller          *          -\
+/friends-s01e01   0   3              he   PRP              (SBAR(S(NP*)              he     -     -   Monica_Geller          *      (-1)\
+/friends-s01e01   0   4             was   VBD                      (VP*              be     -     -   Monica_Geller          *          -\
+/friends-s01e01   0   5            nice    JJ                   (ADJP*)            nice     -     -   Monica_Geller          *          -\
+/friends-s01e01   0   6               ,     ,                         *               ,     -     -   Monica_Geller          *          -\
+/friends-s01e01   0   7          y'know    VB              (S(VP*))))))          y'know     -     -   Monica_Geller          *          -\
+/friends-s01e01   0   8               ?     .                       *))               ?     -     -   Monica_Geller          *          -\
+\
+/friends-s01e01   0   0               I   PRP               (TOP(S(NP*)               I     -     -  Joey_Tribbiani          *      (-1)\
+/friends-s01e01   0   1              ca    MD                      (VP*             can     -     -  Joey_Tribbiani          *          -\
+/friends-s01e01   0   2             n't    RB                         *             not     -     -  Joey_Tribbiani          *          -\
+/friends-s01e01   0   3         believe    VB                      (VP*         believe     -     -  Joey_Tribbiani          *          -\
+/friends-s01e01   0   4             you   PRP              (SBAR(S(NP*)             you     -     -  Joey_Tribbiani          *      (-1)\
+/friends-s01e01   0   5             did   VBD                      (VP*              do     -     -  Joey_Tribbiani          *          -\
+/friends-s01e01   0   6             n't    RB                         *             not     -     -  Joey_Tribbiani          *          -\
+/friends-s01e01   0   7            know    VB                      (VP*            know     -     -  Joey_Tribbiani          *          -\
+/friends-s01e01   0   8              it   PRP              (SBAR(S(NP*)              it     -     -  Joey_Tribbiani          *          -\
+/friends-s01e01   0   9             was   VBD                      (VP*              be     -     -  Joey_Tribbiani          *          -\
+/friends-s01e01   0  10               a    DT                      (NP*               a     -     -  Joey_Tribbiani          *          -\
+/friends-s01e01   0  11            line    NN               *))))))))))            line     -     -  Joey_Tribbiani          *          -\
+/friends-s01e01   0  12               !     .                       *))               !     -     -  Joey_Tribbiani          *          -\
+\
+/friends-s01e01   0   0           Guess    VB                (TOP(S(VP*           guess     -     -    Rachel_Green          *          -\
+/friends-s01e01   0   1            what    WP        (FRAG(SBARQ(WHNP*)            what     -     -    Rachel_Green          *          -\
+/friends-s01e01   0   2               ?     .                    *)))))               ?     -     -    Rachel_Green          *          -\
+\
+/friends-s01e01   0   0             You   PRP               (TOP(S(NP*)             you     -     -     Ross_Geller          *      (-1)\
+/friends-s01e01   0   1             got   VBD                      (VP*             get     -     -     Ross_Geller          *          -\
+/friends-s01e01   0   2               a    DT                      (NP*               a     -     -     Ross_Geller          *          -\
+/friends-s01e01   0   3             job    NN                       *))             job     -     -     Ross_Geller          *          -\
+/friends-s01e01   0   4               ?     .                       *))               ?     -     -     Ross_Geller          *          -\
+\
+/friends-s01e01   0   0             Are   VBP                  (TOP(SQ*              be     -     -    Rachel_Green          *          -\
+/friends-s01e01   0   1             you   PRP                     (NP*)             you     -     -    Rachel_Green          *      (-1)\
+/friends-s01e01   0   2         kidding   VBG                     (VP*)             kid     -     -    Rachel_Green          *          -\
+/friends-s01e01   0   3               ?     .                       *))               ?     -     -    Rachel_Green          *          -\
+\
+/friends-s01e01   0   0               I   PRP               (TOP(S(NP*)               I     -     -    Rachel_Green          *      (-1)\
+/friends-s01e01   0   1              'm   VBP                      (VP*              be     -     -    Rachel_Green          *          -\
+/friends-s01e01   0   2         trained   VBN                      (VP*           train     -     -    Rachel_Green          *          -\
+/friends-s01e01   0   3             for    IN                      (PP*             for     -     -    Rachel_Green          *          -\
+/friends-s01e01   0   4         nothing    NN                  (NP*))))         nothing     -     -    Rachel_Green          *          -\
+/friends-s01e01   0   5               !     .                       *))               !     -     -    Rachel_Green          *          -\
+\
+/friends-s01e01   0   0               I   PRP               (TOP(S(NP*)               I     -     -    Rachel_Green          *      (-1)\
+/friends-s01e01   0   1             was   VBD                      (VP*              be     -     -    Rachel_Green          *          -\
+/friends-s01e01   0   2         laughed   VBN                      (VP*           laugh     -     -    Rachel_Green          *          -\
+/friends-s01e01   0   3             out    IN                    (PRT*)             out     -     -    Rachel_Green          *          -\
+/friends-s01e01   0   4              of    IN                      (PP*              of     -     -    Rachel_Green          *          -\
+/friends-s01e01   0   5          twelve    CD                      (NP*          twelve     -     -    Rachel_Green   (NUMBER)          -\
+/friends-s01e01   0   6      interviews   NNS                       *))       interview     -     -    Rachel_Green          *          -\
+/friends-s01e01   0   7           today    NN               (NP-TMP*)))           today     -     -    Rachel_Green     (DATE)          -\
+/friends-s01e01   0   8               .     .                       *))               .     -     -    Rachel_Green          *          -\
+\
+/friends-s01e01   0   0             And    CC                   (TOP(S*             and     -     -   Chandler_Bing          *          -\
+/friends-s01e01   0   1             yet    RB                   (ADVP*)             yet     -     -   Chandler_Bing          *          -\
+/friends-s01e01   0   2             you   PRP                     (NP*)             you     -     -   Chandler_Bing          *      (-1)\
+/friends-s01e01   0   3             're   VBP                      (VP*              be     -     -   Chandler_Bing          *          -\
+/friends-s01e01   0   4    surprisingly    RB                    (ADJP*    surprisingly     -     -   Chandler_Bing          *          -\
+/friends-s01e01   0   5          upbeat    JJ                       *))          upbeat     -     -   Chandler_Bing          *          -\
+/friends-s01e01   0   6               .     .                       *))               .     -     -   Chandler_Bing          *          -\
+\
+/friends-s01e01   0   0             You   PRP               (TOP(S(NP*)             you     -     -    Rachel_Green          *       (-1)\
+/friends-s01e01   0   1           would    MD                      (VP*           would     -     -    Rachel_Green          *          -\
+/friends-s01e01   0   2              be    VB                      (VP*              be     -     -    Rachel_Green          *          -\
+/friends-s01e01   0   3             too    RB                   (ADVP*)             too     -     -    Rachel_Green          *          -\
+/friends-s01e01   0   4              if    IN                    (SBAR*              if     -     -    Rachel_Green          *          -\
+/friends-s01e01   0   5             you   PRP                   (S(NP*)             you     -     -    Rachel_Green          *       (-1)\
+/friends-s01e01   0   6           found   VBD                      (VP*            find     -     -    Rachel_Green          *          -\
+/friends-s01e01   0   7            John   NNP                      (NP*            John     -     -    Rachel_Green   (PERSON)          -\
+/friends-s01e01   0   8             and    CC                         *             and     -     -    Rachel_Green          *          -\
+/friends-s01e01   0   9           David   NNP                         *           David     -     -    Rachel_Green   (PERSON)          -\
+/friends-s01e01   0  10           boots   NNS                        *)            boot     -     -    Rachel_Green          *          -\
+/friends-s01e01   0  11              on    IN                      (PP*              on     -     -    Rachel_Green          *          -\
+/friends-s01e01   0  12            sale    NN                  (NP(NP*)            sale     -     -    Rachel_Green          *          -\
+/friends-s01e01   0  13               ,     ,                         *               ,     -     -    Rachel_Green          *          -\
+/friends-s01e01   0  14           fifty    CD                 (ADVP(NP*           fifty     -     -    Rachel_Green  (PERCENT*          -\
+/friends-s01e01   0  15         percent    NN                        *)         percent     -     -    Rachel_Green         *)          -\
+/friends-s01e01   0  16             off    IN                 *))))))))             off     -     -    Rachel_Green          *          -\
+/friends-s01e01   0  17               !     .                       *))               !     -     -    Rachel_Green          *          -\
+\
+/friends-s01e01   0   0              Oh    UH             (TOP(S(INTJ*)              oh     -     -   Chandler_Bing          *          -\
+/friends-s01e01   0   1               ,     ,                         *               ,     -     -   Chandler_Bing          *          -\
+/friends-s01e01   0   2             how   WRB                   (ADVP*)             how     -     -   Chandler_Bing          *          -\
+/friends-s01e01   0   3            well    RB                      (NP*            well     -     -   Chandler_Bing          *          -\
+/friends-s01e01   0   4             you   PRP                        *)             you     -     -   Chandler_Bing          *      (-1)\
+/friends-s01e01   0   5            know   VBP                      (VP*            know     -     -   Chandler_Bing          *          -\
+/friends-s01e01   0   6              me   PRP                    (NP*))               I     -     -   Chandler_Bing          *       (-1)\
+/friends-s01e01   0   7             ...     :                       *))             ...     -     -   Chandler_Bing          *          -\
+\
+/friends-s01e01   0   0            They   PRP             (TOP(S(S(NP*)            they     -     -    Rachel_Green          *          -\
+/friends-s01e01   0   1             're   VBP                      (VP*              be     -     -    Rachel_Green          *          -\
+/friends-s01e01   0   2              my  PRP$                   (NP(NP*              my     -     -    Rachel_Green          *      (-1)\
+/friends-s01e01   0   3             new    JJ                        *)             new     -     -    Rachel_Green          *          -\
+/friends-s01e01   0   4               '    ''                         *               '     -     -    Rachel_Green          *          -\
+/friends-s01e01   0   5               I   PRP              (SBAR(S(NP*)               I     -     -    Rachel_Green          *      (-1)\
+/friends-s01e01   0   6              do   VBP                      (VP*              do     -     -    Rachel_Green          *          -\
+/friends-s01e01   0   7             n't    RB                         *             not     -     -    Rachel_Green          *          -\
+/friends-s01e01   0   8            need    VB                      (VP*            need     -     -    Rachel_Green          *          -\
+/friends-s01e01   0   9               a    DT                      (NP*               a     -     -    Rachel_Green          *          -\
+/friends-s01e01   0  10             job    NN                    *)))))             job     -     -    Rachel_Green          *          -\
+/friends-s01e01   0  11               ,     ,                         *               ,     -     -    Rachel_Green          *          -\
+/friends-s01e01   0  12               I   PRP              (SBAR(S(NP*)               I     -     -    Rachel_Green          *      (-1)\
+/friends-s01e01   0  13              do   VBP                      (VP*              do     -     -    Rachel_Green          *          -\
+/friends-s01e01   0  14             n't    RB                         *             not     -     -    Rachel_Green          *          -\
+/friends-s01e01   0  15            need    VB                      (VP*            need     -     -    Rachel_Green          *          -\
+/friends-s01e01   0  16              my  PRP$                      (NP*              my     -     -    Rachel_Green          *      (-1)\
+/friends-s01e01   0  17         parents   NNS                 *))))))))          parent     -     -    Rachel_Green          *          -\
+/friends-s01e01   0  18               ,     ,                         *               ,     -     -    Rachel_Green          *          -\
+/friends-s01e01   0  19               I   PRP                     (NP*)               I     -     -    Rachel_Green          *      (-1)\
+/friends-s01e01   0  20             've   VBP                      (VP*            have     -     -    Rachel_Green          *          -\
+/friends-s01e01   0  21             got   VBN                      (VP*             get     -     -    Rachel_Green          *          -\
+/friends-s01e01   0  22           great    JJ                   (NP(NP*           great     -     -    Rachel_Green          *          -\
+/friends-s01e01   0  23           boots   NNS                         *            boot     -     -    Rachel_Green          *          -\
+/friends-s01e01   0  24               '   POS                        *)               '     -     -    Rachel_Green          *          -\
+/friends-s01e01   0  25           boots   NNS                      *)))            boot     -     -    Rachel_Green          *          -\
+/friends-s01e01   0  26               !     .                       *))               !     -     -    Rachel_Green          *          -\
+\
+/friends-s01e01   0   0             How   WRB       (TOP(SBARQ(WHADVP*)             how     -     -   Monica_Geller          *          -\
+/friends-s01e01   0   1              'd    MD                      (SQ*           would     -     -   Monica_Geller          *          -\
+/friends-s01e01   0   2             you   PRP                     (NP*)             you     -     -   Monica_Geller          *      (-1)\
+/friends-s01e01   0   3             pay    VB                      (VP*             pay     -     -   Monica_Geller          *          -\
+/friends-s01e01   0   4             for    IN                      (PP*             for     -     -   Monica_Geller          *          -\
+/friends-s01e01   0   5            them   PRP                  (NP*))))            they     -     -   Monica_Geller          *          -\
+/friends-s01e01   0   6               ?     .                       *))               ?     -     -   Monica_Geller          *          -\
+\
+/friends-s01e01   0   0              Uh    RB          (TOP(FRAG(ADVP*)              uh     -     -    Rachel_Green          *          -\
+/friends-s01e01   0   1               ,     ,                         *               ,     -     -    Rachel_Green          *          -\
+/friends-s01e01   0   2          credit    NN                      (NP*          credit     -     -    Rachel_Green          *          -\
+/friends-s01e01   0   3            card    NN                        *)            card     -     -    Rachel_Green          *          -\
+/friends-s01e01   0   4               .     .                       *))               .     -     -    Rachel_Green          *          -\
+\
+/friends-s01e01   0   0             And    CC               (TOP(SBARQ*             and     -     -   Monica_Geller          *          -\
+/friends-s01e01   0   1             who    WP                   (WHNP*)             who     -     -   Monica_Geller          *          -\
+/friends-s01e01   0   2            pays   VBZ                   (SQ(VP*             pay     -     -   Monica_Geller          *          -\
+/friends-s01e01   0   3             for    IN                      (PP*             for     -     -   Monica_Geller          *          -\
+/friends-s01e01   0   4            that    DT                  (NP*))))            that     -     -   Monica_Geller          *          -\
+/friends-s01e01   0   5               ?     .                       *))               ?     -     -   Monica_Geller          *          -\
+\
+/friends-s01e01   0   0              Um    NN                  (TOP(NP*              um     -     -    Rachel_Green          *          -\
+/friends-s01e01   0   1             ...     :                       *))             ...     -     -    Rachel_Green          *          -\
+\
+/friends-s01e01   0   0              my  PRP$              (TOP(NP(NP*)              my     -     -    Rachel_Green          *          -\
+/friends-s01e01   0   1             ...     :                       *))             ...     -     -    Rachel_Green          *          -\
+\
+/friends-s01e01   0   0          father    NN                  (TOP(NP*          father     -     -    Rachel_Green          *      (-1)\
+/friends-s01e01   0   1               .     .                       *))               .     -     -    Rachel_Green          *          -}
