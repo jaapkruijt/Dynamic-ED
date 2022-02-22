@@ -67,7 +67,7 @@ def prepare_data(filename, alt=True):
 
 
 if __name__ == "__main__":
-    file = "friends_s01_e03_sc0_test.txt"  # TODO change file path
+    file = "recency_based_EL/friends_s01_e03_sc0_test.txt"
 
     working_data = prepare_data(file)
 
