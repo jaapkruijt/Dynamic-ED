@@ -37,7 +37,7 @@ def predict_clusters(data, proper_nouns, ignored_labels=fst_snd_prons):
         if label in ignored_labels:
             continue
 
-        elif label in proper_nouns:
+        elif line[4] == 'NNP' or line[4] == 'NNPS':  # pos annotation is not perfect but so is SpaCy
             if label in unique_labels.keys():
                 cluster_id = unique_labels[label]
                 clusters[cluster_id].append(current_timestamp)
