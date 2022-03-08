@@ -1,5 +1,3 @@
-from data_preprocessing import prepare_data
-from create_mention_lists import create_all_mention_data
 
 # Override spacy function (RECOMMENDED):
 
