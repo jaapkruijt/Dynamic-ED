@@ -3,6 +3,7 @@ from perfect_history_baseline.categorize_mentions import fst_snd_prons
 import math
 import operator
 
+
 def create_utterance_history(data, index):
     history_from_start = data[:index]
     current = data[index]
