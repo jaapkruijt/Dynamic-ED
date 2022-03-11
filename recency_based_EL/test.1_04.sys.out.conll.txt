@@ -1,0 +1,2764 @@
+#begin document (/friends-s01e01); part 000
+1_01_0_1 0 0 Of IN (TOP(S(PP* of - - Joey_Tribbiani * -
+1_01_0_2 0 1 course NN (NP*)) course - - Joey_Tribbiani * -
+1_01_0_3 0 2 it PRP (NP*) it - - Joey_Tribbiani * -
+1_01_0_4 0 3 was VBD (VP* be - - Joey_Tribbiani * -
+1_01_0_5 0 4 a DT (NP* a - - Joey_Tribbiani * -
+1_01_0_6 0 5 line NN *)) line - - Joey_Tribbiani * -
+1_01_0_7 0 6 ! . *)) ! - - Joey_Tribbiani * -
+
+1_01_0_8 0 0 Why WRB (TOP(SBARQ(WHADVP*) why - - Monica_Geller * -
+1_01_0_9 0 1 ?! VBP (SQ(VP*)))) ?! - - Monica_Geller * -
+
+1_01_0_10 0 0 Why WRB (TOP(FRAG* why - - Monica_Geller * -
+1_01_0_11 0 1 ? . *)) ? - - Monica_Geller * -
+
+1_01_0_12 0 0 Why WRB (TOP(SBARQ(WHADVP*) why - - Monica_Geller * -
+1_01_0_13 0 1 , , * , - - Monica_Geller * -
+1_01_0_14 0 2 why WRB (WHADVP*) why - - Monica_Geller * -
+1_01_0_15 0 3 would MD (SQ* would - - Monica_Geller * -
+1_01_0_16 0 4 anybody NN (NP*) anybody - - Monica_Geller * -
+1_01_0_17 0 5 do VB (VP* do - - Monica_Geller * -
+1_01_0_18 0 6 something NN (NP*) something - - Monica_Geller * -
+1_01_0_19 0 7 like IN (PP* like - - Monica_Geller * -
+1_01_0_20 0 8 that DT (NP*)))) that - - Monica_Geller * -
+1_01_0_21 0 9 ? . *)) ? - - Monica_Geller * -
+
+1_01_0_22 0 0 I PRP (TOP(S(NP*) I - - Ross_Geller * -
+1_01_0_23 0 1 assume VBP (VP* assume - - Ross_Geller * -
+1_01_0_24 0 2 we PRP (SBAR(S(NP*) we - - Ross_Geller * -
+1_01_0_25 0 3 're VBP (VP* be - - Ross_Geller * -
+1_01_0_26 0 4 looking VBG (VP* look - - Ross_Geller * -
+1_01_0_27 0 5 for IN (PP* for - - Ross_Geller * -
+1_01_0_28 0 6 an DT (NP(NP* a - - Ross_Geller * -
+1_01_0_29 0 7 answer NN *) answer - - Ross_Geller * -
+1_01_0_30 0 8 more RBR (ADJP* more - - Ross_Geller * -
+1_01_0_31 0 9 sophisticated JJ *))) sophisticated - - Ross_Geller * -
+1_01_0_32 0 10 than IN (ADVP*) than - - Ross_Geller * -
+1_01_0_33 0 11 ' '' * ' - - Ross_Geller * -
+1_01_0_34 0 12 to TO (S(VP* to - - Ross_Geller * -
+1_01_0_35 0 13 get VB (VP* get - - Ross_Geller * -
+1_01_0_36 0 14 you PRP (NP*) you - - Ross_Geller * -
+1_01_0_37 0 15 into IN (PP* into - - Ross_Geller * -
+1_01_0_38 0 16 bed NN (NP* bed - - Ross_Geller * -
+1_01_0_39 0 17 ' '' *)))))))))) ' - - Ross_Geller * -
+1_01_0_40 0 18 . . *)) . - - Ross_Geller * -
+
+1_01_0_41 0 0 I PRP (TOP(S(NP*) I - - Monica_Geller * -
+1_01_0_42 0 1 hate VBP (VP* hate - - Monica_Geller * -
+1_01_0_43 0 2 men NNS (NP*)) man - - Monica_Geller * -
+1_01_0_44 0 3 ! . *)) ! - - Monica_Geller * -
+
+1_01_0_45 0 0 I PRP (TOP(S(NP*) I - - Monica_Geller * -
+1_01_0_46 0 1 hate VBP (VP* hate - - Monica_Geller * -
+1_01_0_47 0 2 men NNS (NP*)) man - - Monica_Geller * -
+1_01_0_48 0 3 ! . *)) ! - - Monica_Geller * -
+
+1_01_0_49 0 0 Oh UH (TOP(SBARQ(INTJ*) oh - - Phoebe_Buffay * -
+1_01_0_50 0 1 no DT (WHADVP*) no - - Phoebe_Buffay * -
+1_01_0_51 0 2 , , (PRN* , - - Phoebe_Buffay * -
+1_01_0_52 0 3 do VBP (S(VP* do - - Phoebe_Buffay * -
+1_01_0_53 0 4 n't RB * not - - Phoebe_Buffay * -
+1_01_0_54 0 5 hate VB (VP*))) hate - - Phoebe_Buffay * -
+1_01_0_55 0 6 , , *) , - - Phoebe_Buffay * -
+1_01_0_56 0 7 you PRP (SQ(NP*) you - - Phoebe_Buffay * -
+1_01_0_57 0 8 do VBP (VP* do - - Phoebe_Buffay * -
+1_01_0_58 0 9 n't RB * not - - Phoebe_Buffay * -
+1_01_0_59 0 10 want VB (VP* want - - Phoebe_Buffay * -
+1_01_0_60 0 11 to TO (S(VP* to - - Phoebe_Buffay * -
+1_01_0_61 0 12 put VB (VP* put - - Phoebe_Buffay * -
+1_01_0_62 0 13 that DT (NP*) that - - Phoebe_Buffay * -
+1_01_0_63 0 14 out RP (PRT*) out - - Phoebe_Buffay * -
+1_01_0_64 0 15 into IN (PP* into - - Phoebe_Buffay * -
+1_01_0_65 0 16 the DT (NP* the - - Phoebe_Buffay * -
+1_01_0_66 0 17 universe NN *)))))))) universe - - Phoebe_Buffay * -
+1_01_0_67 0 18 . . *)) . - - Phoebe_Buffay * -
+
+1_01_0_68 0 0 Is VBZ (TOP(SQ* be - - Monica_Geller * -
+1_01_0_69 0 1 it PRP (NP*) it - - Monica_Geller * -
+1_01_0_70 0 2 me PRP (NP*) I - - Monica_Geller * -
+1_01_0_71 0 3 ? . *)) ? - - Monica_Geller * -
+
+1_01_0_72 0 0 Is VBZ (TOP(SINV(VP*) be - - Monica_Geller * -
+1_01_0_73 0 1 it PRP (NP*) it - - Monica_Geller * -
+1_01_0_74 0 2 like IN (SBAR* like - - Monica_Geller * -
+1_01_0_75 0 3 I PRP (S(NP*) I - - Monica_Geller * -
+1_01_0_76 0 4 have VBP (VP* have - - Monica_Geller * -
+1_01_0_77 0 5 some DT (NP(NP* some - - Monica_Geller * -
+1_01_0_78 0 6 sort NN *) sort - - Monica_Geller * -
+1_01_0_79 0 7 of IN (PP* of - - Monica_Geller * -
+1_01_0_80 0 8 beacon NN (NP*))) beacon - - Monica_Geller * -
+1_01_0_81 0 9 that IN (SBAR* that - - Monica_Geller * -
+1_01_0_82 0 10 only JJ (S(NP(NP* only - - Monica_Geller * -
+1_01_0_83 0 11 dogs NNS * dog - - Monica_Geller * -
+1_01_0_84 0 12 and CC * and - - Monica_Geller * -
+1_01_0_85 0 13 men NNS *) man - - Monica_Geller * -
+1_01_0_86 0 14 with IN (PP* with - - Monica_Geller * -
+1_01_0_87 0 15 severe JJ (NP* severe - - Monica_Geller * -
+1_01_0_88 0 16 emotional JJ * emotional - - Monica_Geller * -
+1_01_0_89 0 17 problems NNS *))) problem - - Monica_Geller * -
+1_01_0_90 0 18 can MD (VP* can - - Monica_Geller * -
+1_01_0_91 0 19 hear VB (VP*)))))) hear - - Monica_Geller * -
+1_01_0_92 0 20 ? . *))) ? - - Monica_Geller * -
+
+1_01_0_93 0 0 All DT (TOP(S(NP* all - - Phoebe_Buffay * -
+1_01_0_94 0 1 right NN *) right - - Phoebe_Buffay * -
+1_01_0_95 0 2 , , * , - - Phoebe_Buffay * -
+1_01_0_96 0 3 c'mere RB (ADVP*) c'mere - - Phoebe_Buffay * -
+1_01_0_97 0 4 , , * , - - Phoebe_Buffay * -
+1_01_0_98 0 5 gim VBP (VP* gim - - Phoebe_Buffay * -
+1_01_0_99 0 6 me PRP (S(NP*) I - - Phoebe_Buffay * -
+1_01_0_100 0 7 your PRP$ (NP* you - - Phoebe_Buffay * -
+1_01_0_101 0 8 feet NNS *))) foot - - Phoebe_Buffay * -
+1_01_0_102 0 9 . . *)) . - - Phoebe_Buffay * -
+
+1_01_0_103 0 0 I PRP (TOP(S(NP*) I - - Monica_Geller * -
+1_01_0_104 0 1 just RB (ADVP*) just - - Monica_Geller * -
+1_01_0_105 0 2 thought VBD (VP* think - - Monica_Geller * -
+1_01_0_106 0 3 he PRP (SBAR(S(NP*) he - - Monica_Geller * (1)
+1_01_0_107 0 4 was VBD (VP* be - - Monica_Geller * -
+1_01_0_108 0 5 nice JJ (ADJP*) nice - - Monica_Geller * -
+1_01_0_109 0 6 , , * , - - Monica_Geller * -
+1_01_0_110 0 7 y'know VB (S(VP*)))))) y'know - - Monica_Geller * -
+1_01_0_111 0 8 ? . *)) ? - - Monica_Geller * -
+
+1_01_0_112 0 0 I PRP (TOP(S(NP*) I - - Joey_Tribbiani * -
+1_01_0_113 0 1 ca MD (VP* can - - Joey_Tribbiani * -
+1_01_0_114 0 2 n't RB * not - - Joey_Tribbiani * -
+1_01_0_115 0 3 believe VB (VP* believe - - Joey_Tribbiani * -
+1_01_0_116 0 4 you PRP (SBAR(S(NP*) you - - Joey_Tribbiani * -
+1_01_0_117 0 5 did VBD (VP* do - - Joey_Tribbiani * -
+1_01_0_118 0 6 n't RB * not - - Joey_Tribbiani * -
+1_01_0_119 0 7 know VB (VP* know - - Joey_Tribbiani * -
+1_01_0_120 0 8 it PRP (SBAR(S(NP*) it - - Joey_Tribbiani * -
+1_01_0_121 0 9 was VBD (VP* be - - Joey_Tribbiani * -
+1_01_0_122 0 10 a DT (NP* a - - Joey_Tribbiani * -
+1_01_0_123 0 11 line NN *)))))))))) line - - Joey_Tribbiani * -
+1_01_0_124 0 12 ! . *)) ! - - Joey_Tribbiani * -
+
+1_01_0_125 0 0 Guess VB (TOP(S(VP* guess - - Rachel_Green * -
+1_01_0_126 0 1 what WP (FRAG(SBARQ(WHNP*) what - - Rachel_Green * -
+1_01_0_127 0 2 ? . *))))) ? - - Rachel_Green * -
+
+1_01_0_128 0 0 You PRP (TOP(S(NP*) you - - Ross_Geller * -
+1_01_0_129 0 1 got VBD (VP* get - - Ross_Geller * -
+1_01_0_130 0 2 a DT (NP* a - - Ross_Geller * -
+1_01_0_131 0 3 job NN *)) job - - Ross_Geller * -
+1_01_0_132 0 4 ? . *)) ? - - Ross_Geller * -
+
+1_01_0_133 0 0 Are VBP (TOP(SQ* be - - Rachel_Green * -
+1_01_0_134 0 1 you PRP (NP*) you - - Rachel_Green * -
+1_01_0_135 0 2 kidding VBG (VP*) kid - - Rachel_Green * -
+1_01_0_136 0 3 ? . *)) ? - - Rachel_Green * -
+
+1_01_0_137 0 0 I PRP (TOP(S(NP*) I - - Rachel_Green * -
+1_01_0_138 0 1 'm VBP (VP* be - - Rachel_Green * -
+1_01_0_139 0 2 trained VBN (VP* train - - Rachel_Green * -
+1_01_0_140 0 3 for IN (PP* for - - Rachel_Green * -
+1_01_0_141 0 4 nothing NN (NP*)))) nothing - - Rachel_Green * -
+1_01_0_142 0 5 ! . *)) ! - - Rachel_Green * -
+
+1_01_0_143 0 0 I PRP (TOP(S(NP*) I - - Rachel_Green * -
+1_01_0_144 0 1 was VBD (VP* be - - Rachel_Green * -
+1_01_0_145 0 2 laughed VBN (VP* laugh - - Rachel_Green * -
+1_01_0_146 0 3 out IN (PRT*) out - - Rachel_Green * -
+1_01_0_147 0 4 of IN (PP* of - - Rachel_Green * -
+1_01_0_148 0 5 twelve CD (NP* twelve - - Rachel_Green (NUMBER) -
+1_01_0_149 0 6 interviews NNS *)) interview - - Rachel_Green * -
+1_01_0_150 0 7 today NN (NP-TMP*))) today - - Rachel_Green (DATE) -
+1_01_0_151 0 8 . . *)) . - - Rachel_Green * -
+
+1_01_0_152 0 0 And CC (TOP(S* and - - Chandler_Bing * -
+1_01_0_153 0 1 yet RB (ADVP*) yet - - Chandler_Bing * -
+1_01_0_154 0 2 you PRP (NP*) you - - Chandler_Bing * -
+1_01_0_155 0 3 're VBP (VP* be - - Chandler_Bing * -
+1_01_0_156 0 4 surprisingly RB (ADJP* surprisingly - - Chandler_Bing * -
+1_01_0_157 0 5 upbeat JJ *)) upbeat - - Chandler_Bing * -
+1_01_0_158 0 6 . . *)) . - - Chandler_Bing * -
+
+1_01_0_159 0 0 You PRP (TOP(S(NP*) you - - Rachel_Green * -
+1_01_0_160 0 1 would MD (VP* would - - Rachel_Green * -
+1_01_0_161 0 2 be VB (VP* be - - Rachel_Green * -
+1_01_0_162 0 3 too RB (ADVP*) too - - Rachel_Green * -
+1_01_0_163 0 4 if IN (SBAR* if - - Rachel_Green * -
+1_01_0_164 0 5 you PRP (S(NP*) you - - Rachel_Green * -
+1_01_0_165 0 6 found VBD (VP* find - - Rachel_Green * -
+1_01_0_166 0 7 John NNP (NP* John - - Rachel_Green (PERSON) -
+1_01_0_167 0 8 and CC * and - - Rachel_Green * -
+1_01_0_168 0 9 David NNP * David - - Rachel_Green (PERSON) -
+1_01_0_169 0 10 boots NNS *) boot - - Rachel_Green * -
+1_01_0_170 0 11 on IN (PP* on - - Rachel_Green * -
+1_01_0_171 0 12 sale NN (NP(NP*) sale - - Rachel_Green * -
+1_01_0_172 0 13 , , * , - - Rachel_Green * -
+1_01_0_173 0 14 fifty CD (ADVP(NP* fifty - - Rachel_Green (PERCENT* -
+1_01_0_174 0 15 percent NN *) percent - - Rachel_Green *) -
+1_01_0_175 0 16 off IN *)))))))) off - - Rachel_Green * -
+1_01_0_176 0 17 ! . *)) ! - - Rachel_Green * -
+
+1_01_0_177 0 0 Oh UH (TOP(S(INTJ*) oh - - Chandler_Bing * -
+1_01_0_178 0 1 , , * , - - Chandler_Bing * -
+1_01_0_179 0 2 how WRB (ADVP*) how - - Chandler_Bing * -
+1_01_0_180 0 3 well RB (NP* well - - Chandler_Bing * -
+1_01_0_181 0 4 you PRP *) you - - Chandler_Bing * -
+1_01_0_182 0 5 know VBP (VP* know - - Chandler_Bing * -
+1_01_0_183 0 6 me PRP (NP*)) I - - Chandler_Bing * -
+1_01_0_184 0 7 ... : *)) ... - - Chandler_Bing * -
+
+1_01_0_185 0 0 They PRP (TOP(S(S(NP*) they - - Rachel_Green * -
+1_01_0_186 0 1 're VBP (VP* be - - Rachel_Green * -
+1_01_0_187 0 2 my PRP$ (NP(NP* my - - Rachel_Green * -
+1_01_0_188 0 3 new JJ *) new - - Rachel_Green * -
+1_01_0_189 0 4 ' '' * ' - - Rachel_Green * -
+1_01_0_190 0 5 I PRP (SBAR(S(NP*) I - - Rachel_Green * -
+1_01_0_191 0 6 do VBP (VP* do - - Rachel_Green * -
+1_01_0_192 0 7 n't RB * not - - Rachel_Green * -
+1_01_0_193 0 8 need VB (VP* need - - Rachel_Green * -
+1_01_0_194 0 9 a DT (NP* a - - Rachel_Green * -
+1_01_0_195 0 10 job NN *))))) job - - Rachel_Green * -
+1_01_0_196 0 11 , , * , - - Rachel_Green * -
+1_01_0_197 0 12 I PRP (SBAR(S(NP*) I - - Rachel_Green * -
+1_01_0_198 0 13 do VBP (VP* do - - Rachel_Green * -
+1_01_0_199 0 14 n't RB * not - - Rachel_Green * -
+1_01_0_200 0 15 need VB (VP* need - - Rachel_Green * -
+1_01_0_201 0 16 my PRP$ (NP* my - - Rachel_Green * -
+1_01_0_202 0 17 parents NNS *)))))))) parent - - Rachel_Green * -
+1_01_0_203 0 18 , , * , - - Rachel_Green * -
+1_01_0_204 0 19 I PRP (NP*) I - - Rachel_Green * -
+1_01_0_205 0 20 've VBP (VP* have - - Rachel_Green * -
+1_01_0_206 0 21 got VBN (VP* get - - Rachel_Green * -
+1_01_0_207 0 22 great JJ (NP(NP* great - - Rachel_Green * -
+1_01_0_208 0 23 boots NNS * boot - - Rachel_Green * -
+1_01_0_209 0 24 ' POS *) ' - - Rachel_Green * -
+1_01_0_210 0 25 boots NNS *))) boot - - Rachel_Green * -
+1_01_0_211 0 26 ! . *)) ! - - Rachel_Green * -
+
+1_01_0_212 0 0 How WRB (TOP(SBARQ(WHADVP*) how - - Monica_Geller * -
+1_01_0_213 0 1 'd MD (SQ* would - - Monica_Geller * -
+1_01_0_214 0 2 you PRP (NP*) you - - Monica_Geller * -
+1_01_0_215 0 3 pay VB (VP* pay - - Monica_Geller * -
+1_01_0_216 0 4 for IN (PP* for - - Monica_Geller * -
+1_01_0_217 0 5 them PRP (NP*)))) they - - Monica_Geller * -
+1_01_0_218 0 6 ? . *)) ? - - Monica_Geller * -
+
+1_01_0_219 0 0 Uh RB (TOP(FRAG(ADVP*) uh - - Rachel_Green * -
+1_01_0_220 0 1 , , * , - - Rachel_Green * -
+1_01_0_221 0 2 credit NN (NP* credit - - Rachel_Green * -
+1_01_0_222 0 3 card NN *) card - - Rachel_Green * -
+1_01_0_223 0 4 . . *)) . - - Rachel_Green * -
+
+1_01_0_224 0 0 And CC (TOP(SBARQ* and - - Monica_Geller * -
+1_01_0_225 0 1 who WP (WHNP*) who - - Monica_Geller * -
+1_01_0_226 0 2 pays VBZ (SQ(VP* pay - - Monica_Geller * -
+1_01_0_227 0 3 for IN (PP* for - - Monica_Geller * -
+1_01_0_228 0 4 that DT (NP*)))) that - - Monica_Geller * -
+1_01_0_229 0 5 ? . *)) ? - - Monica_Geller * -
+
+1_01_0_230 0 0 Um NN (TOP(NP* um - - Rachel_Green * -
+1_01_0_231 0 1 ... : *)) ... - - Rachel_Green * -
+
+1_01_0_232 0 0 my PRP$ (TOP(NP(NP*) my - - Rachel_Green * -
+1_01_0_233 0 1 ... : *)) ... - - Rachel_Green * -
+
+1_01_0_234 0 0 father NN (TOP(NP* father - - Rachel_Green * (1)
+1_01_0_235 0 1 . . *)) . - - Rachel_Green * -
+
+#end document
+#begin document (/friends-s01e01); part 001
+1_01_1_1 1 0 Oh UH (TOP(S(S(INTJ*) oh - - Rachel_Green * -
+1_01_1_2 1 1 God NNP (NP* God - - Rachel_Green * -
+1_01_1_3 1 2 , , *) , - - Rachel_Green * -
+1_01_1_4 1 3 come VBN (VP(VP(S(VP* come - - Rachel_Green * -
+1_01_1_5 1 4 on IN (PP* on - - Rachel_Green * -
+1_01_1_6 1 5 you PRP (NP* you - - Rachel_Green * -
+1_01_1_7 1 6 guys NNS *)))) guy - - Rachel_Green * -
+1_01_1_8 1 7 , , * , - - Rachel_Green * -
+1_01_1_9 1 8 is VBZ (VP*)) be - - Rachel_Green * -
+1_01_1_10 1 9 this DT (NP* this - - Rachel_Green * -
+1_01_1_11 1 10 really RB (ADJP* really - - Rachel_Green * -
+1_01_1_12 1 11 necessary JJ *)))) necessary - - Rachel_Green * -
+1_01_1_13 1 12 ? . *)) ? - - Rachel_Green * -
+
+1_01_1_14 1 0 I PRP (TOP(S(S(NP*) I - - Rachel_Green * -
+1_01_1_15 1 1 mean VBP (VP*)) mean - - Rachel_Green * -
+1_01_1_16 1 2 , , * , - - Rachel_Green * -
+1_01_1_17 1 3 I PRP (NP*) I - - Rachel_Green * -
+1_01_1_18 1 4 can MD (VP* can - - Rachel_Green * -
+1_01_1_19 1 5 stop VB (VP* stop - - Rachel_Green * -
+1_01_1_20 1 6 charging VBG (S(VP* charge - - Rachel_Green * -
+1_01_1_21 1 7 anytime RB (NP(NP*) anytime - - Rachel_Green * -
+1_01_1_22 1 8 I PRP (SBAR(S(NP*) I - - Rachel_Green * -
+1_01_1_23 1 9 want VBP (VP*)))))))) want - - Rachel_Green * -
+1_01_1_24 1 10 . . *)) . - - Rachel_Green * -
+
+1_01_1_25 1 0 C'mon VB (TOP(S(S(VP*)) c'mon - - Monica_Geller * -
+1_01_1_26 1 1 , , * , - - Monica_Geller * -
+1_01_1_27 1 2 you PRP (NP*) you - - Monica_Geller * -
+1_01_1_28 1 3 ca MD (VP* can - - Monica_Geller * -
+1_01_1_29 1 4 n't RB * not - - Monica_Geller * -
+1_01_1_30 1 5 live VB (VP* live - - Monica_Geller * -
+1_01_1_31 1 6 off RP (PRT*) off - - Monica_Geller * -
+1_01_1_32 1 7 your PRP$ (NP(NP* you - - Monica_Geller * -
+1_01_1_33 1 8 parents NNS *) parent - - Monica_Geller * -
+1_01_1_34 1 9 your PRP$ (NP* you - - Monica_Geller * -
+1_01_1_35 1 10 whole JJ * whole - - Monica_Geller * -
+1_01_1_36 1 11 life NN *)))) life - - Monica_Geller * -
+1_01_1_37 1 12 . . *)) . - - Monica_Geller * -
+
+1_01_1_38 1 0 I PRP (TOP(S(NP*) I - - Rachel_Green * -
+1_01_1_39 1 1 know VBP (VP* know - - Rachel_Green * -
+1_01_1_40 1 2 that IN (ADVP*)) that - - Rachel_Green * -
+1_01_1_41 1 3 . . *)) . - - Rachel_Green * -
+
+1_01_1_42 1 0 That DT (TOP(S(NP*) that - - Rachel_Green * -
+1_01_1_43 1 1 's VBZ (VP* be - - Rachel_Green * -
+1_01_1_44 1 2 why WRB (SBAR(WHADVP*) why - - Rachel_Green * -
+1_01_1_45 1 3 I PRP (S(NP*) I - - Rachel_Green * -
+1_01_1_46 1 4 was VBD (VP* be - - Rachel_Green * -
+1_01_1_47 1 5 getting VBG (VP* get - - Rachel_Green * -
+1_01_1_48 1 6 married VBN (S(VP*))))))) marry - - Rachel_Green * -
+1_01_1_49 1 7 . . *)) . - - Rachel_Green * -
+
+1_01_1_50 1 0 Give VB (TOP(S(S(VP* give - - Phoebe_Buffay * -
+1_01_1_51 1 1 her PRP (NP*) she - - Phoebe_Buffay * (2)
+1_01_1_52 1 2 a DT (NP* a - - Phoebe_Buffay * -
+1_01_1_53 1 3 break NN *))) break - - Phoebe_Buffay * -
+1_01_1_54 1 4 , , * , - - Phoebe_Buffay * -
+1_01_1_55 1 5 it PRP (NP*) it - - Phoebe_Buffay * -
+1_01_1_56 1 6 's VBZ (VP* be - - Phoebe_Buffay * -
+1_01_1_57 1 7 hard JJ (ADJP*) hard - - Phoebe_Buffay * -
+1_01_1_58 1 8 being VBG (S(VP* be - - Phoebe_Buffay * -
+1_01_1_59 1 9 on IN (PP* on - - Phoebe_Buffay * -
+1_01_1_60 1 10 your PRP$ (NP* you - - Phoebe_Buffay * -
+1_01_1_61 1 11 own JJ *)) own - - Phoebe_Buffay * -
+1_01_1_62 1 12 for IN (PP* for - - Phoebe_Buffay * -
+1_01_1_63 1 13 the DT (NP* the - - Phoebe_Buffay * -
+1_01_1_64 1 14 first JJ * first - - Phoebe_Buffay (ORDINAL) -
+1_01_1_65 1 15 time NN *))))) time - - Phoebe_Buffay * -
+1_01_1_66 1 16 . . *)) . - - Phoebe_Buffay * -
+
+1_01_1_67 1 0 Thank VB (TOP(S(VP* thank - - Rachel_Green * -
+1_01_1_68 1 1 you PRP (NP*)) you - - Rachel_Green * -
+1_01_1_69 1 2 . . *)) . - - Rachel_Green * -
+
+1_01_1_70 1 0 You PRP (TOP(S(NP*) you - - Phoebe_Buffay * -
+1_01_1_71 1 1 're VBP (VP* be - - Phoebe_Buffay * -
+1_01_1_72 1 2 welcome JJ (ADJP*)) welcome - - Phoebe_Buffay * -
+1_01_1_73 1 3 . . *)) . - - Phoebe_Buffay * -
+
+1_01_1_74 1 0 I PRP (TOP(S(NP*) I - - Phoebe_Buffay * -
+1_01_1_75 1 1 remember VBP (VP* remember - - Phoebe_Buffay * -
+1_01_1_76 1 2 when WRB (SBAR(WHADVP*) when - - Phoebe_Buffay * -
+1_01_1_77 1 3 I PRP (S(NP*) I - - Phoebe_Buffay * -
+1_01_1_78 1 4 first RB (ADVP*) first - - Phoebe_Buffay (ORDINAL) -
+1_01_1_79 1 5 came VBD (VP* come - - Phoebe_Buffay * -
+1_01_1_80 1 6 to TO (PP* to - - Phoebe_Buffay * -
+1_01_1_81 1 7 this DT (NP* this - - Phoebe_Buffay * -
+1_01_1_82 1 8 city NN *)))))) city - - Phoebe_Buffay * -
+1_01_1_83 1 9 . . *)) . - - Phoebe_Buffay * -
+
+1_01_1_84 1 0 I PRP (TOP(S(NP*) I - - Phoebe_Buffay * -
+1_01_1_85 1 1 was VBD (VP* be - - Phoebe_Buffay * -
+1_01_1_86 1 2 fourteen CD (NP*)) fourteen - - Phoebe_Buffay (NUMBER) -
+1_01_1_87 1 3 . . *)) . - - Phoebe_Buffay * -
+
+1_01_1_88 1 0 My PRP$ (TOP(S(S(S(NP* my - - Phoebe_Buffay * -
+1_01_1_89 1 1 mom NN *) mom - - Phoebe_Buffay * (2)
+1_01_1_90 1 2 had VBD (VP* have - - Phoebe_Buffay * -
+1_01_1_91 1 3 just RB (ADVP*) just - - Phoebe_Buffay * -
+1_01_1_92 1 4 killed VBN (VP* kill - - Phoebe_Buffay * -
+1_01_1_93 1 5 herself PRP (NP*)))) herself - - Phoebe_Buffay * (2)
+1_01_1_94 1 6 and CC * and - - Phoebe_Buffay * -
+1_01_1_95 1 7 my PRP$ (S(NP* my - - Phoebe_Buffay * -
+1_01_1_96 1 8 step-dad NN *) step-dad - - Phoebe_Buffay * -
+1_01_1_97 1 9 was VBD (VP* be - - Phoebe_Buffay * -
+1_01_1_98 1 10 back RB (ADVP*) back - - Phoebe_Buffay * -
+1_01_1_99 1 11 in IN (PP* in - - Phoebe_Buffay * -
+1_01_1_100 1 12 prison NN (NP*))))) prison - - Phoebe_Buffay * -
+1_01_1_101 1 13 , , * , - - Phoebe_Buffay * -
+1_01_1_102 1 14 and CC * and - - Phoebe_Buffay * -
+1_01_1_103 1 15 I PRP (S(S(NP*) I - - Phoebe_Buffay * -
+1_01_1_104 1 16 got VBD (VP* get - - Phoebe_Buffay * -
+1_01_1_105 1 17 here RB (ADVP*))) here - - Phoebe_Buffay * -
+1_01_1_106 1 18 , , * , - - Phoebe_Buffay * -
+1_01_1_107 1 19 and CC * and - - Phoebe_Buffay * -
+1_01_1_108 1 20 I PRP (S(NP*) I - - Phoebe_Buffay * -
+1_01_1_109 1 21 did VBD (VP* do - - Phoebe_Buffay * -
+1_01_1_110 1 22 n't RB * not - - Phoebe_Buffay * -
+1_01_1_111 1 23 know VB (VP* know - - Phoebe_Buffay * -
+1_01_1_112 1 24 anybody NN (NP*))))) anybody - - Phoebe_Buffay * -
+1_01_1_113 1 25 . . *)) . - - Phoebe_Buffay * -
+
+1_01_1_114 1 0 And CC (TOP(S* and - - Phoebe_Buffay * -
+1_01_1_115 1 1 I PRP (S(NP*) I - - Phoebe_Buffay * -
+1_01_1_116 1 2 ended VBD (VP* end - - Phoebe_Buffay * -
+1_01_1_117 1 3 up RB (S(ADVP*) up - - Phoebe_Buffay * -
+1_01_1_118 1 4 living VBG (VP* live - - Phoebe_Buffay * -
+1_01_1_119 1 5 with IN (PP* with - - Phoebe_Buffay * -
+1_01_1_120 1 6 this DT (NP(NP* this - - Phoebe_Buffay * -
+1_01_1_121 1 7 albino NN * albino - - Phoebe_Buffay * -
+1_01_1_122 1 8 guy NN *) guy - - Phoebe_Buffay * (2)
+1_01_1_123 1 9 who WP (SBAR(WHNP*) who - - Phoebe_Buffay * -
+1_01_1_124 1 10 was VBD (S(VP* be - - Phoebe_Buffay * -
+1_01_1_125 1 11 , , * , - - Phoebe_Buffay * -
+1_01_1_126 1 12 like IN (PP*) like - - Phoebe_Buffay * -
+1_01_1_127 1 13 , , * , - - Phoebe_Buffay * -
+1_01_1_128 1 14 cleaning VBG (S(VP* clean - - Phoebe_Buffay * -
+1_01_1_129 1 15 windshields NNS (NP*) windshield - - Phoebe_Buffay * -
+1_01_1_130 1 16 outside IN (PP* outside - - Phoebe_Buffay * -
+1_01_1_131 1 17 port NN (NP* port - - Phoebe_Buffay * -
+1_01_1_132 1 18 authority NN *))))))))))))) authority - - Phoebe_Buffay * -
+1_01_1_133 1 19 , , * , - - Phoebe_Buffay * -
+1_01_1_134 1 20 and CC * and - - Phoebe_Buffay * -
+1_01_1_135 1 21 then RB (S(S(ADVP*) then - - Phoebe_Buffay * -
+1_01_1_136 1 22 he PRP (NP*) he - - Phoebe_Buffay * (2)
+1_01_1_137 1 23 killed VBD (VP* kill - - Phoebe_Buffay * -
+1_01_1_138 1 24 himself PRP (NP*))) himself - - Phoebe_Buffay * (2)
+1_01_1_139 1 25 , , * , - - Phoebe_Buffay * -
+1_01_1_140 1 26 and CC * and - - Phoebe_Buffay * -
+1_01_1_141 1 27 then RB * then - - Phoebe_Buffay * -
+1_01_1_142 1 28 I PRP (S(NP*) I - - Phoebe_Buffay * -
+1_01_1_143 1 29 found VBD (VP* find - - Phoebe_Buffay * -
+1_01_1_144 1 30 aromatherapy NN (NP*)))) aromatherapy - - Phoebe_Buffay * -
+1_01_1_145 1 31 . . *)) . - - Phoebe_Buffay * -
+
+1_01_1_146 1 0 So RB (TOP(S(S(ADVP*) so - - Phoebe_Buffay * -
+1_01_1_147 1 1 believe VB (VP* believe - - Phoebe_Buffay * -
+1_01_1_148 1 2 me PRP (NP*))) I - - Phoebe_Buffay * -
+1_01_1_149 1 3 , , * , - - Phoebe_Buffay * -
+1_01_1_150 1 4 I PRP (NP*) I - - Phoebe_Buffay * -
+1_01_1_151 1 5 know VBP (VP* know - - Phoebe_Buffay * -
+1_01_1_152 1 6 exactly RB (SBAR(WHADVP* exactly - - Phoebe_Buffay * -
+1_01_1_153 1 7 how WRB *) how - - Phoebe_Buffay * -
+1_01_1_154 1 8 you PRP (S(NP*) you - - Phoebe_Buffay * -
+1_01_1_155 1 9 feel VBP (VP*)))) feel - - Phoebe_Buffay * -
+1_01_1_156 1 10 . . *)) . - - Phoebe_Buffay * -
+
+1_01_1_157 1 0 The DT (TOP(NP(NP(NP* the - - Ross_Geller * -
+1_01_1_158 1 1 word NN *) word - - Ross_Geller * -
+1_01_1_159 1 2 you PRP (SBAR(S(NP*) you - - Ross_Geller * -
+1_01_1_160 1 3 're VBP (VP* be - - Ross_Geller * -
+1_01_1_161 1 4 looking VBG (VP* look - - Ross_Geller * -
+1_01_1_162 1 5 for IN (SBAR* for - - Ross_Geller * -
+1_01_1_163 1 6 is VBZ (S(VP*))) be - - Ross_Geller * -
+1_01_1_164 1 7 ' '' * ' - - Ross_Geller * -
+1_01_1_165 1 8 Anyway RB (NP* anyway - - Ross_Geller * -
+1_01_1_166 1 9 ' '' *)))))) ' - - Ross_Geller * -
+1_01_1_167 1 10 ... : *)) ... - - Ross_Geller * -
+
+1_01_1_168 1 0 All DT (TOP(FRAG(NP(NP* all - - Monica_Geller * -
+1_01_1_169 1 1 right NN *) right - - Monica_Geller * -
+1_01_1_170 1 2 , , * , - - Monica_Geller * -
+1_01_1_171 1 3 you PRP (ADJP(NP*) you - - Monica_Geller * -
+1_01_1_172 1 4 ready JJ *)) ready - - Monica_Geller * -
+1_01_1_173 1 5 ? . *)) ? - - Monica_Geller * -
+
+1_01_1_174 1 0 No DT (TOP(FRAG(NP*) no - - Rachel_Green * -
+1_01_1_175 1 1 . . *)) . - - Rachel_Green * -
+
+1_01_1_176 1 0 No DT (TOP(S(NP*) no - - Rachel_Green * -
+1_01_1_177 1 1 , , * , - - Rachel_Green * -
+1_01_1_178 1 2 no DT (ADVP*) no - - Rachel_Green * -
+1_01_1_179 1 3 , , * , - - Rachel_Green * -
+1_01_1_180 1 4 I PRP (NP*) I - - Rachel_Green * -
+1_01_1_181 1 5 'm VBP (VP* be - - Rachel_Green * -
+1_01_1_182 1 6 not RB * not - - Rachel_Green * -
+1_01_1_183 1 7 ready JJ (ADJP*)) ready - - Rachel_Green * -
+1_01_1_184 1 8 ! . *)) ! - - Rachel_Green * -
+
+1_01_1_185 1 0 How WRB (TOP(SBARQ(WHADVP*) how - - Rachel_Green * -
+1_01_1_186 1 1 can MD (SQ* can - - Rachel_Green * -
+1_01_1_187 1 2 I PRP (NP*) I - - Rachel_Green * -
+1_01_1_188 1 3 be VB (VP* be - - Rachel_Green * -
+1_01_1_189 1 4 ready JJ (ADJP*))) ready - - Rachel_Green * -
+1_01_1_190 1 5 ? . *)) ? - - Rachel_Green * -
+
+1_01_1_191 1 0 " `` (TOP(FRAG(INTJ* " - - Rachel_Green * -
+1_01_1_192 1 1 Hey UH *) hey - - Rachel_Green * -
+1_01_1_193 1 2 , , * , - - Rachel_Green * -
+1_01_1_194 1 3 Rach NN (NP*) rach - - Rachel_Green * (2)
+1_01_1_195 1 4 ! . *)) ! - - Rachel_Green * -
+
+1_01_1_196 1 0 You PRP (TOP(S(NP*) you - - Rachel_Green * -
+1_01_1_197 1 1 ready JJ (ADJP* ready - - Rachel_Green * -
+1_01_1_198 1 2 to TO (S(VP* to - - Rachel_Green * -
+1_01_1_199 1 3 jump VB (VP* jump - - Rachel_Green * -
+1_01_1_200 1 4 out RP (PRT*) out - - Rachel_Green * -
+1_01_1_201 1 5 the DT (NP* the - - Rachel_Green * -
+1_01_1_202 1 6 airplane NN *) airplane - - Rachel_Green * -
+1_01_1_203 1 7 without IN (PP* without - - Rachel_Green * -
+1_01_1_204 1 8 your PRP$ (FRAG(NP* you - - Rachel_Green * -
+1_01_1_205 1 9 parachute NN *) parachute - - Rachel_Green * -
+1_01_1_206 1 10 ? . *)) ? - - Rachel_Green * -
+1_01_1_207 1 11 " '' *)))))) " - - Rachel_Green * -
+
+1_01_1_208 1 0 Come VB (TOP(S(S(VP* come - - Rachel_Green * -
+1_01_1_209 1 1 on IN (PP*))) on - - Rachel_Green * -
+1_01_1_210 1 2 , , * , - - Rachel_Green * -
+1_01_1_211 1 3 I PRP (NP*) I - - Rachel_Green * -
+1_01_1_212 1 4 ca MD (VP* can - - Rachel_Green * -
+1_01_1_213 1 5 n't RB * not - - Rachel_Green * -
+1_01_1_214 1 6 do VB (VP* do - - Rachel_Green * -
+1_01_1_215 1 7 this DT (NP*))) this - - Rachel_Green * -
+1_01_1_216 1 8 ! . *)) ! - - Rachel_Green * -
+
+1_01_1_217 1 0 You PRP (TOP(S(S(NP*) you - - Monica_Geller * -
+1_01_1_218 1 1 can MD (VP*)) can - - Monica_Geller * -
+1_01_1_219 1 2 , , * , - - Monica_Geller * -
+1_01_1_220 1 3 I PRP (NP*) I - - Monica_Geller * -
+1_01_1_221 1 4 know VBP (VP* know - - Monica_Geller * -
+1_01_1_222 1 5 you PRP (SBAR(S(NP*) you - - Monica_Geller * -
+1_01_1_223 1 6 can MD (VP*)))) can - - Monica_Geller * -
+1_01_1_224 1 7 ! . *)) ! - - Monica_Geller * -
+
+1_01_1_225 1 0 I PRP (TOP(S(NP*) I - - Rachel_Green * -
+1_01_1_226 1 1 do VBP (VP* do - - Rachel_Green * -
+1_01_1_227 1 2 n't RB * not - - Rachel_Green * -
+1_01_1_228 1 3 think VB (VP* think - - Rachel_Green * -
+1_01_1_229 1 4 so RB (ADVP*))) so - - Rachel_Green * -
+1_01_1_230 1 5 . . *)) . - - Rachel_Green * -
+
+1_01_1_231 1 0 Come VB (TOP(S(S(VP* come - - Ross_Geller * -
+1_01_1_232 1 1 on IN (PP*))) on - - Ross_Geller * -
+1_01_1_233 1 2 , , * , - - Ross_Geller * -
+1_01_1_234 1 3 you PRP (NP*) you - - Ross_Geller * -
+1_01_1_235 1 4 made VBD (VP* make - - Ross_Geller * -
+1_01_1_236 1 5 coffee NN (NP*)) coffee - - Ross_Geller * -
+1_01_1_237 1 6 ! . *)) ! - - Ross_Geller * -
+
+1_01_1_238 1 0 You PRP (TOP(S(NP*) you - - Ross_Geller * -
+1_01_1_239 1 1 can MD (VP* can - - Ross_Geller * -
+1_01_1_240 1 2 do VB (VP* do - - Ross_Geller * -
+1_01_1_241 1 3 anything NN (NP*))) anything - - Ross_Geller * -
+1_01_1_242 1 4 ! . *)) ! - - Ross_Geller * -
+
+1_01_1_243 1 0 C'mon VB (TOP(S(VP(VP*) c'mon - - Ross_Geller * -
+1_01_1_244 1 1 , , * , - - Ross_Geller * -
+1_01_1_245 1 2 cut VB (VP*)) cut - - Ross_Geller * -
+1_01_1_246 1 3 . . *)) . - - Ross_Geller * -
+
+1_01_1_247 1 0 Cut NNP (TOP(NP(NP*) Cut - - Ross_Geller * -
+1_01_1_248 1 1 , , (PRN* , - - Ross_Geller * -
+1_01_1_249 1 2 cut NN (NP(NP*) cut - - Ross_Geller * -
+1_01_1_250 1 3 , , * , - - Ross_Geller * -
+1_01_1_251 1 4 cut NN (NP*)) cut - - Ross_Geller * -
+1_01_1_252 1 5 , , *) , - - Ross_Geller * -
+1_01_1_253 1 6 ... : *)) ... - - Ross_Geller * -
+
+1_01_1_254 1 0 Cut NNP (TOP(NP(NP*) Cut - - All * -
+1_01_1_255 1 1 , , * , - - All * -
+1_01_1_256 1 2 cut NN (NP* cut - - All * -
+1_01_1_257 1 3 , , * , - - All * -
+1_01_1_258 1 4 cut NN * cut - - All * -
+1_01_1_259 1 5 , , * , - - All * -
+1_01_1_260 1 6 cut NN * cut - - All * -
+1_01_1_261 1 7 , , * , - - All * -
+1_01_1_262 1 8 cut NN * cut - - All * -
+1_01_1_263 1 9 , , * , - - All * -
+1_01_1_264 1 10 cut NN * cut - - All * -
+1_01_1_265 1 11 , , * , - - All * -
+1_01_1_266 1 12 cut NN *) cut - - All * -
+1_01_1_267 1 13 ... : *)) ... - - All * -
+
+1_01_1_268 1 0 Y'know VB (TOP(S(VP* y'know - - Rachel_Green * -
+1_01_1_269 1 1 what WP (FRAG(SBARQ(WHNP*) what - - Rachel_Green * -
+1_01_1_270 1 2 ? . *))))) ? - - Rachel_Green * -
+
+1_01_1_271 1 0 I PRP (TOP(S(NP*) I - - Rachel_Green * -
+1_01_1_272 1 1 think VBP (VP* think - - Rachel_Green * -
+1_01_1_273 1 2 we PRP (SBAR(S(NP*) we - - Rachel_Green * -
+1_01_1_274 1 3 can MD (VP* can - - Rachel_Green * -
+1_01_1_275 1 4 just RB (ADVP*) just - - Rachel_Green * -
+1_01_1_276 1 5 leave VB (VP* leave - - Rachel_Green * -
+1_01_1_277 1 6 it PRP (NP*) it - - Rachel_Green * -
+1_01_1_278 1 7 at IN (PP* at - - Rachel_Green * -
+1_01_1_279 1 8 that DT (NP*))))))) that - - Rachel_Green * -
+1_01_1_280 1 9 . . *)) . - - Rachel_Green * -
+
+1_01_1_281 1 0 It PRP (TOP(S(NP*) it - - Rachel_Green * -
+1_01_1_282 1 1 's VBZ (VP* be - - Rachel_Green * -
+1_01_1_283 1 2 kinda NN (NP(NP*) kinda - - Rachel_Green * -
+1_01_1_284 1 3 like IN (PP* like - - Rachel_Green * -
+1_01_1_285 1 4 a DT (NP* a - - Rachel_Green * -
+1_01_1_286 1 5 symbolic JJ * symbolic - - Rachel_Green * -
+1_01_1_287 1 6 gesture NN *)))) gesture - - Rachel_Green * -
+1_01_1_288 1 7 ... : *)) ... - - Rachel_Green * -
+
+1_01_1_289 1 0 Rachel NNP (TOP(FRAG(NP*) Rachel - - Monica_Geller (PERSON) -
+1_01_1_290 1 1 ! . *)) ! - - Monica_Geller * -
+
+1_01_1_291 1 0 That DT (TOP(S(NP*) that - - Monica_Geller * -
+1_01_1_292 1 1 was VBD (VP* be - - Monica_Geller * -
+1_01_1_293 1 2 a DT (NP* a - - Monica_Geller * -
+1_01_1_294 1 3 library NN * library - - Monica_Geller * -
+1_01_1_295 1 4 card NN *)) card - - Monica_Geller * -
+1_01_1_296 1 5 ! . *)) ! - - Monica_Geller * -
+
+1_01_1_297 1 0 Cut NNP (TOP(S(NP(NP*) Cut - - All * -
+1_01_1_298 1 1 , , * , - - All * -
+1_01_1_299 1 2 cut NN (NP* cut - - All * -
+1_01_1_300 1 3 , , * , - - All * -
+1_01_1_301 1 4 cut NN * cut - - All * -
+1_01_1_302 1 5 , , * , - - All * -
+1_01_1_303 1 6 cut NN * cut - - All * -
+1_01_1_304 1 7 , , * , - - All * -
+1_01_1_305 1 8 cut NN * cut - - All * -
+1_01_1_306 1 9 , , * , - - All * -
+1_01_1_307 1 10 cut NN *) cut - - All * -
+1_01_1_308 1 11 , , *) , - - All * -
+1_01_1_309 1 12 cut VBD (VP* cut - - All * -
+1_01_1_310 1 13 .. CD (NP*)))) .. - - All (NUMBER) -
+
+1_01_1_311 1 0 Y'know NNP (TOP(S(NP*) Y'know - - Chandler_Bing * -
+1_01_1_312 1 1 , , * , - - Chandler_Bing * -
+1_01_1_313 1 2 if IN (SBAR* if - - Chandler_Bing * -
+1_01_1_314 1 3 you PRP (S(NP*) you - - Chandler_Bing * -
+1_01_1_315 1 4 listen VBP (VP* listen - - Chandler_Bing * -
+1_01_1_316 1 5 closely RB (ADVP*)))) closely - - Chandler_Bing * -
+1_01_1_317 1 6 , , * , - - Chandler_Bing * -
+1_01_1_318 1 7 you PRP (NP*) you - - Chandler_Bing * -
+1_01_1_319 1 8 can MD (VP* can - - Chandler_Bing * -
+1_01_1_320 1 9 hear VB (VP* hear - - Chandler_Bing * -
+1_01_1_321 1 10 a DT (SBAR(S(NP* a - - Chandler_Bing * -
+1_01_1_322 1 11 thousand CD * thousand - - Chandler_Bing (NUMBER) -
+1_01_1_323 1 12 retailers NNS *) retailer - - Chandler_Bing * -
+1_01_1_324 1 13 scream VBP (VP*))))) scream - - Chandler_Bing * -
+1_01_1_325 1 14 . . *)) . - - Chandler_Bing * -
+
+1_01_1_326 1 0 Welcome VB (TOP(S(VP* welcome - - Monica_Geller * -
+1_01_1_327 1 1 to TO (PP* to - - Monica_Geller * -
+1_01_1_328 1 2 the DT (NP* the - - Monica_Geller * -
+1_01_1_329 1 3 real JJ * real - - Monica_Geller * -
+1_01_1_330 1 4 world NN *))) world - - Monica_Geller * -
+1_01_1_331 1 5 ! . *)) ! - - Monica_Geller * -
+
+1_01_1_332 1 0 It PRP (TOP(S(NP*) it - - Monica_Geller * -
+1_01_1_333 1 1 sucks VBZ (VP*) suck - - Monica_Geller * -
+1_01_1_334 1 2 . . *)) . - - Monica_Geller * -
+
+1_01_1_335 1 0 You PRP (TOP(S(NP*) you - - Monica_Geller * -
+1_01_1_336 1 1 're VBP (VP* be - - Monica_Geller * -
+1_01_1_337 1 2 gon VBG (VP* gon - - Monica_Geller * -
+1_01_1_338 1 3 na TO (S(VP* na - - Monica_Geller * -
+1_01_1_339 1 4 love VB (VP* love - - Monica_Geller * -
+1_01_1_340 1 5 it PRP (NP*)))))) it - - Monica_Geller * -
+1_01_1_341 1 6 ! . *)) ! - - Monica_Geller * -
+
+1_01_1_342 1 0 Well RB (TOP(S(INTJ*) well - - Monica_Geller * -
+1_01_1_343 1 1 , , * , - - Monica_Geller * -
+1_01_1_344 1 2 that DT (NP*) that - - Monica_Geller * -
+1_01_1_345 1 3 's VBZ (VP* be - - Monica_Geller * -
+1_01_1_346 1 4 it PRP (S(NP*) it - - Monica_Geller * -
+1_01_1_347 1 5 You PRP (NP*) you - - Monica_Geller * -
+1_01_1_348 1 6 gon VBG (S(VP* gon - - Monica_Geller * -
+1_01_1_349 1 7 na TO (S(VP* na - - Monica_Geller * -
+1_01_1_350 1 8 crash VB (VP* crash - - Monica_Geller * -
+1_01_1_351 1 9 on IN (PP* on - - Monica_Geller * -
+1_01_1_352 1 10 the DT (NP* the - - Monica_Geller * -
+1_01_1_353 1 11 couch NN *))))))))) couch - - Monica_Geller * -
+1_01_1_354 1 12 ? . *)) ? - - Monica_Geller * -
+
+1_01_1_355 1 0 No DT (TOP(FRAG(NP*) no - - Ross_Geller * -
+1_01_1_356 1 1 . . *)) . - - Ross_Geller * -
+
+1_01_1_357 1 0 No DT (TOP(S(NP-TMP*) no - - Ross_Geller * -
+1_01_1_358 1 1 , , * , - - Ross_Geller * -
+1_01_1_359 1 2 I PRP (NP*) I - - Ross_Geller * -
+1_01_1_360 1 3 got VBD (VP* get - - Ross_Geller * -
+1_01_1_361 1 4 ta RB (ADVP*) ta - - Ross_Geller * -
+1_01_1_362 1 5 go VB (VP* go - - Ross_Geller * -
+1_01_1_363 1 6 home NN (NP*) home - - Ross_Geller * -
+1_01_1_364 1 7 sometime RB (ADVP*))) sometime - - Ross_Geller * -
+1_01_1_365 1 8 . . *)) . - - Ross_Geller * -
+
+1_01_1_366 1 0 You PRP (TOP(S(NP*) you - - Monica_Geller * -
+1_01_1_367 1 1 be VB (VP* be - - Monica_Geller * -
+1_01_1_368 1 2 okay JJ (ADJP*)) okay - - Monica_Geller * -
+1_01_1_369 1 3 ? . *)) ? - - Monica_Geller * -
+
+1_01_1_370 1 0 Yeah UH (TOP(INTJ* yeah - - Ross_Geller * -
+1_01_1_371 1 1 . . *)) . - - Ross_Geller * -
+
+1_01_1_372 1 0 Hey UH (TOP(S(S(INTJ*) hey - - Rachel_Green * -
+1_01_1_373 1 1 Mon NNP (NP* Mon - - Rachel_Green (DATE) -
+1_01_1_374 1 2 , , *) , - - Rachel_Green * -
+1_01_1_375 1 3 look VBP (VP* look - - Rachel_Green * -
+1_01_1_376 1 4 what WP (SBAR(WHNP*) what - - Rachel_Green * -
+1_01_1_377 1 5 I PRP (S(NP*) I - - Rachel_Green * -
+1_01_1_378 1 6 just RB (ADVP*) just - - Rachel_Green * -
+1_01_1_379 1 7 found VBD (VP* find - - Rachel_Green * -
+1_01_1_380 1 8 on IN (PP* on - - Rachel_Green * -
+1_01_1_381 1 9 the DT (NP* the - - Rachel_Green * -
+1_01_1_382 1 10 floor NN *))))))) floor - - Rachel_Green * -
+1_01_1_383 1 11 . . *)) . - - Rachel_Green * -
+
+1_01_1_384 1 0 What WDT (TOP(FRAG(WHNP*) what - - Rachel_Green * -
+1_01_1_385 1 1 ? . *)) ? - - Rachel_Green * -
+
+1_01_1_386 1 0 That DT (TOP(S(NP*) that - - Monica_Geller * -
+1_01_1_387 1 1 's VBZ (VP* be - - Monica_Geller * -
+1_01_1_388 1 2 Paul NNP (NP(NP* Paul - - Monica_Geller (PERSON) (3)
+1_01_1_389 1 3 's POS *) 's - - Monica_Geller * -
+1_01_1_390 1 4 watch NN *)) watch - - Monica_Geller * -
+1_01_1_391 1 5 . . *)) . - - Monica_Geller * -
+
+1_01_1_392 1 0 You PRP (TOP(S(NP*) you - - Monica_Geller * -
+1_01_1_393 1 1 just RB (ADVP*) just - - Monica_Geller * -
+1_01_1_394 1 2 put VBD (VP* put - - Monica_Geller * -
+1_01_1_395 1 3 it PRP (NP*) it - - Monica_Geller * -
+1_01_1_396 1 4 back RB (ADVP*) back - - Monica_Geller * -
+1_01_1_397 1 5 where WRB (SBAR(WHADVP*) where - - Monica_Geller * -
+1_01_1_398 1 6 you PRP (S(NP*) you - - Monica_Geller * -
+1_01_1_399 1 7 found VBD (VP* find - - Monica_Geller * -
+1_01_1_400 1 8 it PRP (NP*))))) it - - Monica_Geller * -
+1_01_1_401 1 9 . . *)) . - - Monica_Geller * -
+
+1_01_1_402 1 0 Oh UH (TOP(S(INTJ*) oh - - Monica_Geller * -
+1_01_1_403 1 1 boy UH (VP*) boy - - Monica_Geller * -
+1_01_1_404 1 2 . . *)) . - - Monica_Geller * -
+
+1_01_1_405 1 0 Alright NNP (TOP(FRAG(NP*) Alright - - Monica_Geller * -
+1_01_1_406 1 1 . . *)) . - - Monica_Geller * -
+
+1_01_1_407 1 0 Goodnight NN (TOP(NP(NP*) goodnight - - Monica_Geller * -
+1_01_1_408 1 1 , , * , - - Monica_Geller * -
+1_01_1_409 1 2 everybody NN (NP*) everybody - - Monica_Geller * -
+1_01_1_410 1 3 . . *)) . - - Monica_Geller * -
+
+1_01_1_411 1 0 Goodnight NN (TOP(NP* goodnight - - Rachel,_Ross * -
+1_01_1_412 1 1 . . *)) . - - Rachel,_Ross * -
+
+1_01_1_413 1 0 Mmm. NNP (TOP(FRAG(INTJ* Mmm. - - Ross_Geller * -
+1_01_1_414 1 1 Oh UH *) oh - - Ross_Geller * -
+1_01_1_415 1 2 , , * , - - Ross_Geller * -
+1_01_1_416 1 3 no DT (NP*) no - - Ross_Geller * -
+1_01_1_417 1 4 - : *)) - - - Ross_Geller * -
+
+1_01_1_418 1 0 Sorry JJ (TOP(FRAG(ADJP*) sorry - - Rachel_Green * -
+1_01_1_419 1 1 - : *)) - - - Rachel_Green * -
+
+1_01_1_420 1 0 No DT (TOP(NP(NP(NP* no - - Ross_Geller * -
+1_01_1_421 1 1 no DT *) no - - Ross_Geller * -
+1_01_1_422 1 2 no DT (SBAR(WHNP*) no - - Ross_Geller * -
+1_01_1_423 1 3 , , * , - - Ross_Geller * -
+1_01_1_424 1 4 go VB (S(VP*)))) go - - Ross_Geller * -
+1_01_1_425 1 5 - : *)) - - - Ross_Geller * -
+
+1_01_1_426 1 0 No DT (TOP(S(NP*) no - - Rachel_Green * -
+1_01_1_427 1 1 , , * , - - Rachel_Green * -
+1_01_1_428 1 2 you PRP (PRN(S(NP*) you - - Rachel_Green * -
+1_01_1_429 1 3 have VBP (VP* have - - Rachel_Green * -
+1_01_1_430 1 4 it PRP (NP*) it - - Rachel_Green * -
+1_01_1_431 1 5 , , * , - - Rachel_Green * -
+1_01_1_432 1 6 really RB (ADVP*)))) really - - Rachel_Green * -
+1_01_1_433 1 7 , , * , - - Rachel_Green * -
+1_01_1_434 1 8 I PRP (NP*) I - - Rachel_Green * -
+1_01_1_435 1 9 do VBP (VP* do - - Rachel_Green * -
+1_01_1_436 1 10 n't RB * not - - Rachel_Green * -
+1_01_1_437 1 11 want VB (VP* want - - Rachel_Green * -
+1_01_1_438 1 12 it PRP (NP*))) it - - Rachel_Green * -
+1_01_1_439 1 13 - : *)) - - - Rachel_Green * -
+
+1_01_1_440 1 0 Split VB (TOP(SQ(VP* split - - Ross_Geller * -
+1_01_1_441 1 1 it PRP (NP*)) it - - Ross_Geller * -
+1_01_1_442 1 2 ? . *)) ? - - Ross_Geller * -
+
+1_01_1_443 1 0 Okay UH (TOP(INTJ* okay - - Rachel_Green * -
+1_01_1_444 1 1 . . *)) . - - Rachel_Green * -
+
+1_01_1_445 1 0 Okay UH (TOP(INTJ* okay - - Ross_Geller * -
+1_01_1_446 1 1 . . *)) . - - Ross_Geller * -
+
+1_01_1_447 1 0 You PRP (TOP(S(S(NP*) you - - Ross_Geller * -
+1_01_1_448 1 1 know VBP (VP* know - - Ross_Geller * -
+1_01_1_449 1 2 you PRP (SBAR(S(NP*) you - - Ross_Geller * -
+1_01_1_450 1 3 probably RB (ADVP*) probably - - Ross_Geller * -
+1_01_1_451 1 4 did VBD (VP* do - - Ross_Geller * -
+1_01_1_452 1 5 n't RB * not - - Ross_Geller * -
+1_01_1_453 1 6 know VB (VP* know - - Ross_Geller * -
+1_01_1_454 1 7 this DT (NP*))))))) this - - Ross_Geller * -
+1_01_1_455 1 8 , , * , - - Ross_Geller * -
+1_01_1_456 1 9 but CC * but - - Ross_Geller * -
+1_01_1_457 1 10 back RB (S(ADVP* back - - Ross_Geller * -
+1_01_1_458 1 11 in IN (PP* in - - Ross_Geller * -
+1_01_1_459 1 12 high JJ (NP* high - - Ross_Geller * -
+1_01_1_460 1 13 school NN *))) school - - Ross_Geller * -
+1_01_1_461 1 14 , , * , - - Ross_Geller * -
+1_01_1_462 1 15 I PRP (NP*) I - - Ross_Geller * -
+1_01_1_463 1 16 had VBD (VP* have - - Ross_Geller * -
+1_01_1_464 1 17 a DT (NP(NP* a - - Ross_Geller * -
+1_01_1_465 1 18 , , (PRN* , - - Ross_Geller * -
+1_01_1_466 1 19 um NN (NP*) um - - Ross_Geller * -
+1_01_1_467 1 20 , , *) , - - Ross_Geller * -
+1_01_1_468 1 21 major JJ * major - - Ross_Geller * -
+1_01_1_469 1 22 crush NN *) crush - - Ross_Geller * -
+1_01_1_470 1 23 on IN (PP* on - - Ross_Geller * -
+1_01_1_471 1 24 you PRP (NP*))))) you - - Ross_Geller * -
+1_01_1_472 1 25 . . *)) . - - Ross_Geller * -
+
+1_01_1_473 1 0 I PRP (TOP(S(NP*) I - - Rachel_Green * -
+1_01_1_474 1 1 knew VBD (VP*) know - - Rachel_Green * -
+1_01_1_475 1 2 . . *)) . - - Rachel_Green * -
+
+1_01_1_476 1 0 You PRP (TOP(S(NP*) you - - Ross_Geller * -
+1_01_1_477 1 1 did VBD (VP*) do - - Ross_Geller * -
+1_01_1_478 1 2 ! . *)) ! - - Ross_Geller * -
+
+1_01_1_479 1 0 Oh UH (TOP(INTJ* oh - - Ross_Geller * -
+1_01_1_480 1 1 .... CD *)) .... - - Ross_Geller (NUMBER) -
+
+1_01_1_481 1 0 I PRP (TOP(S(NP*) I - - Ross_Geller * -
+1_01_1_482 1 1 always RB (ADVP*) always - - Ross_Geller * -
+1_01_1_483 1 2 figured VBD (VP* figure - - Ross_Geller * -
+1_01_1_484 1 3 you PRP (SBAR(S(NP*) you - - Ross_Geller * -
+1_01_1_485 1 4 just RB (ADVP*) just - - Ross_Geller * -
+1_01_1_486 1 5 thought VBD (VP* think - - Ross_Geller * -
+1_01_1_487 1 6 I PRP (SBAR(S(NP*) I - - Ross_Geller * -
+1_01_1_488 1 7 was VBD (VP* be - - Ross_Geller * -
+1_01_1_489 1 8 Monica NNP (NP(NP* Monica - - Ross_Geller (PERSON) (4)
+1_01_1_490 1 9 's POS *) 's - - Ross_Geller * -
+1_01_1_491 1 10 geeky JJ (ADJP* geeky - - Ross_Geller * -
+1_01_1_492 1 11 older JJR *) older - - Ross_Geller * -
+1_01_1_493 1 12 brother NN *)))))))) brother - - Ross_Geller * (4)
+1_01_1_494 1 13 . . *)) . - - Ross_Geller * -
+
+1_01_1_495 1 0 I PRP (TOP(S(NP*) I - - Rachel_Green * -
+1_01_1_496 1 1 did VBD (VP*) do - - Rachel_Green * -
+1_01_1_497 1 2 . . *)) . - - Rachel_Green * -
+
+1_01_1_498 1 0 Oh UH (TOP(INTJ* oh - - Ross_Geller * -
+1_01_1_499 1 1 . . *)) . - - Ross_Geller * -
+
+1_01_1_500 1 0 Listen VB (TOP(S(S(S(VP*)) listen - - Ross_Geller * -
+1_01_1_501 1 1 , , * , - - Ross_Geller * -
+1_01_1_502 1 2 do VBP (S(VP(VP* do - - Ross_Geller * -
+1_01_1_503 1 3 you PRP (S(NP*) you - - Ross_Geller * -
+1_01_1_504 1 4 think VB (VP*))) think - - Ross_Geller * -
+1_01_1_505 1 5 - : * - - - Ross_Geller * -
+1_01_1_506 1 6 and CC * and - - Ross_Geller * -
+1_01_1_507 1 7 try VB (VP* try - - Ross_Geller * -
+1_01_1_508 1 8 not RB (S* not - - Ross_Geller * -
+1_01_1_509 1 9 to TO (VP* to - - Ross_Geller * -
+1_01_1_510 1 10 let VB (VP* let - - Ross_Geller * -
+1_01_1_511 1 11 my PRP$ (S(NP* my - - Ross_Geller * -
+1_01_1_512 1 12 intense JJ * intense - - Ross_Geller * -
+1_01_1_513 1 13 vulnerability NN *) vulnerability - - Ross_Geller * -
+1_01_1_514 1 14 become VB (VP* become - - Ross_Geller * -
+1_01_1_515 1 15 any DT (NP(NP* any - - Ross_Geller * -
+1_01_1_516 1 16 kind NN *) kind - - Ross_Geller * -
+1_01_1_517 1 17 of IN (PP* of - - Ross_Geller * -
+1_01_1_518 1 18 a DT (NP* a - - Ross_Geller * -
+1_01_1_519 1 19 factor NN *))))) factor - - Ross_Geller * -
+1_01_1_520 1 20 here RB (ADVP*)))))))) here - - Ross_Geller * -
+1_01_1_521 1 21 - : * - - - Ross_Geller * -
+1_01_1_522 1 22 but CC * but - - Ross_Geller * -
+1_01_1_523 1 23 do VBP (SQ* do - - Ross_Geller * -
+1_01_1_524 1 24 you PRP (NP*) you - - Ross_Geller * -
+1_01_1_525 1 25 think VB (VP* think - - Ross_Geller * -
+1_01_1_526 1 26 it PRP (SBAR(S(NP*) it - - Ross_Geller * -
+1_01_1_527 1 27 would MD (VP* would - - Ross_Geller * -
+1_01_1_528 1 28 be VB (VP* be - - Ross_Geller * -
+1_01_1_529 1 29 okay JJ (ADJP*) okay - - Ross_Geller * -
+1_01_1_530 1 30 if IN (SBAR* if - - Ross_Geller * -
+1_01_1_531 1 31 I PRP (S(NP*) I - - Ross_Geller * -
+1_01_1_532 1 32 asked VBD (VP* ask - - Ross_Geller * -
+1_01_1_533 1 33 you PRP (NP*) you - - Ross_Geller * -
+1_01_1_534 1 34 out RP (PRT*))))))))) out - - Ross_Geller * -
+1_01_1_535 1 35 ? . *))) ? - - Ross_Geller * -
+
+1_01_1_536 1 0 Sometime RB (TOP(FRAG(ADVP*) sometime - - Ross_Geller * -
+1_01_1_537 1 1 ? . *)) ? - - Ross_Geller * -
+
+1_01_1_538 1 0 Maybe RB (TOP(FRAG(ADVP*) maybe - - Ross_Geller * -
+1_01_1_539 1 1 ? . *)) ? - - Ross_Geller * -
+
+1_01_1_540 1 0 Yeah UH (TOP(FRAG(INTJ*) yeah - - Rachel_Green * -
+1_01_1_541 1 1 , , * , - - Rachel_Green * -
+1_01_1_542 1 2 maybe RB (NP*) maybe - - Rachel_Green * -
+1_01_1_543 1 3 ... : *)) ... - - Rachel_Green * -
+
+1_01_1_544 1 0 Okay UH (TOP(NP* okay - - Ross_Geller * -
+1_01_1_545 1 1 ... : *)) ... - - Ross_Geller * -
+
+1_01_1_546 1 0 okay JJ (TOP(S(S(ADJP*)) okay - - Ross_Geller * -
+1_01_1_547 1 1 , , * , - - Ross_Geller * -
+1_01_1_548 1 2 maybe RB (NP* maybe - - Ross_Geller * -
+1_01_1_549 1 3 I PRP *) I - - Ross_Geller * -
+1_01_1_550 1 4 will MD (VP*) will - - Ross_Geller * -
+1_01_1_551 1 5 ... : *)) ... - - Ross_Geller * -
+
+1_01_1_552 1 0 Goodnight NN (TOP(NP* goodnight - - Rachel_Green * -
+1_01_1_553 1 1 . . *)) . - - Rachel_Green * -
+
+1_01_1_554 1 0 Goodnight NN (TOP(NP* goodnight - - Ross_Geller * -
+1_01_1_555 1 1 . . *)) . - - Ross_Geller * -
+
+1_01_1_556 1 0 See VB (TOP(S(VP* see - - Monica_Geller * -
+1_01_1_557 1 1 ya PRP (NP*) ya - - Monica_Geller * -
+1_01_1_558 1 2 .... IN (PP*)))) .... - - Monica_Geller * -
+
+1_01_1_559 1 0 Waitwait NNP (TOP(SBARQ(NP*) Waitwait - - Monica_Geller (PERSON) -
+1_01_1_560 1 1 , , * , - - Monica_Geller * -
+1_01_1_561 1 2 what WP (WHNP*) what - - Monica_Geller * -
+1_01_1_562 1 3 's VBZ (SQ* be - - Monica_Geller * -
+1_01_1_563 1 4 with IN (PP* with - - Monica_Geller * -
+1_01_1_564 1 5 you PRP (NP*))) you - - Monica_Geller * -
+1_01_1_565 1 6 ? . *)) ? - - Monica_Geller * -
+
+1_01_1_566 1 0 I PRP (TOP(S(NP*) I - - Ross_Geller * -
+1_01_1_567 1 1 just RB (ADVP*) just - - Ross_Geller * -
+1_01_1_568 1 2 grabbed VBD (VP* grab - - Ross_Geller * -
+1_01_1_569 1 3 a DT (NP* a - - Ross_Geller * -
+1_01_1_570 1 4 spoon NN *)) spoon - - Ross_Geller * -
+1_01_1_571 1 5 . . *)) . - - Ross_Geller * -
+
+#end document
+#begin document (/friends-s01e01); part 002
+1_01_2_1 2 0 I PRP (TOP(S(NP*) I - - Joey_Tribbiani * -
+1_01_2_2 2 1 ca MD (VP* can - - Joey_Tribbiani * -
+1_01_2_3 2 2 n't RB * not - - Joey_Tribbiani * -
+1_01_2_4 2 3 believe VB (VP* believe - - Joey_Tribbiani * -
+1_01_2_5 2 4 what WP (SBAR(WHNP*) what - - Joey_Tribbiani * -
+1_01_2_6 2 5 I PRP (S(NP*) I - - Joey_Tribbiani * -
+1_01_2_7 2 6 'm VBP (VP* be - - Joey_Tribbiani * -
+1_01_2_8 2 7 hearing VBG (VP* hear - - Joey_Tribbiani * -
+1_01_2_9 2 8 here RB (ADVP*))))))) here - - Joey_Tribbiani * -
+1_01_2_10 2 9 . . *)) . - - Joey_Tribbiani * -
+
+1_01_2_11 2 0 I PRP (TOP(S(NP*) I - - Phoebe_Buffay * -
+1_01_2_12 2 1 ca MD (VP* can - - Phoebe_Buffay * -
+1_01_2_13 2 2 n't RB * not - - Phoebe_Buffay * -
+1_01_2_14 2 3 believe VB (VP* believe - - Phoebe_Buffay * -
+1_01_2_15 2 4 what WP (SBAR(WHNP*) what - - Phoebe_Buffay * -
+1_01_2_16 2 5 I PRP (S(NP*) I - - Phoebe_Buffay * -
+1_01_2_17 2 6 'm VBP (VP* be - - Phoebe_Buffay * -
+1_01_2_18 2 7 hearing VBG (VP* hear - - Phoebe_Buffay * -
+1_01_2_19 2 8 here RB (ADVP*))))))) here - - Phoebe_Buffay * -
+1_01_2_20 2 9 ... : *)) ... - - Phoebe_Buffay * -
+
+1_01_2_21 2 0 What WDT (TOP(FRAG(WHNP*) what - - Monica_Geller * -
+1_01_2_22 2 1 ? . *)) ? - - Monica_Geller * -
+
+1_01_2_23 2 0 I PRP (TOP(S(SBAR(S(NP*) I - - Monica_Geller * -
+1_01_2_24 2 1 - : * - - - Monica_Geller * -
+1_01_2_25 2 2 I PRP (NP*) I - - Monica_Geller * -
+1_01_2_26 2 3 said VBD (VP*))) say - - Monica_Geller * -
+1_01_2_27 2 4 you PRP (NP*) you - - Monica_Geller * -
+1_01_2_28 2 5 had VBD (VP* have - - Monica_Geller * -
+1_01_2_29 2 6 a SYM (X(NP*))) a - - Monica_Geller * -
+1_01_2_30 2 7 - : *)) - - - Monica_Geller * -
+
+1_01_2_31 2 0 What WP (TOP(NP(NP(NP*) what - - Phoebe_Buffay * -
+1_01_2_32 2 1 I PRP (SBAR(S(NP*) I - - Phoebe_Buffay * -
+1_01_2_33 2 2 said VBD (VP* say - - Phoebe_Buffay * -
+1_01_2_34 2 3 you PRP (SBAR(S(NP*) you - - Phoebe_Buffay * -
+1_01_2_35 2 4 had VBD (VP*))))))) have - - Phoebe_Buffay * -
+1_01_2_36 2 5 ... : *)) ... - - Phoebe_Buffay * -
+
+1_01_2_37 2 0 Would MD (TOP(SQ* would - - Monica_Geller * -
+1_01_2_38 2 1 you PRP (NP*) you - - Monica_Geller * -
+1_01_2_39 2 2 stop VB (VP*) stop - - Monica_Geller * -
+1_01_2_40 2 3 ? . *)) ? - - Monica_Geller * -
+
+1_01_2_41 2 0 Oh UH (TOP(SINV(FRAG(INTJ*)) oh - - Phoebe_Buffay * -
+1_01_2_42 2 1 , , * , - - Phoebe_Buffay * -
+1_01_2_43 2 2 was VBD (VP*) be - - Phoebe_Buffay * -
+1_01_2_44 2 3 I PRP (NP*) I - - Phoebe_Buffay * -
+1_01_2_45 2 4 doing VBG (S(VP* do - - Phoebe_Buffay * -
+1_01_2_46 2 5 it PRP (NP*) it - - Phoebe_Buffay * -
+1_01_2_47 2 6 again RB (ADVP*))) again - - Phoebe_Buffay * -
+1_01_2_48 2 7 ? . *)) ? - - Phoebe_Buffay * -
+
+1_01_2_49 2 0 Yes UH (TOP(INTJ* yes - - All * -
+1_01_2_50 2 1 ! . *)) ! - - All * -
+
+1_01_2_51 2 0 I PRP (TOP(S(S(NP*) I - - Monica_Geller * -
+1_01_2_52 2 1 said VBD (VP* say - - Monica_Geller * -
+1_01_2_53 2 2 that IN (SBAR* that - - Monica_Geller * -
+1_01_2_54 2 3 you PRP (S(NP*) you - - Monica_Geller * -
+1_01_2_55 2 4 had VBD (VP* have - - Monica_Geller * -
+1_01_2_56 2 5 a DT (NP* a - - Monica_Geller * -
+1_01_2_57 2 6 nice JJ * nice - - Monica_Geller * -
+1_01_2_58 2 7 butt NN *)))))) butt - - Monica_Geller * -
+1_01_2_59 2 8 , , * , - - Monica_Geller * -
+1_01_2_60 2 9 it PRP (NP*) it - - Monica_Geller * -
+1_01_2_61 2 10 's VBZ (VP* be - - Monica_Geller * -
+1_01_2_62 2 11 just RB (ADVP*) just - - Monica_Geller * -
+1_01_2_63 2 12 not RB (NP* not - - Monica_Geller * -
+1_01_2_64 2 13 a DT * a - - Monica_Geller * -
+1_01_2_65 2 14 great JJ * great - - Monica_Geller * -
+1_01_2_66 2 15 butt NN *)) butt - - Monica_Geller * -
+1_01_2_67 2 16 . . *)) . - - Monica_Geller * -
+
+1_01_2_68 2 0 Oh UH (TOP(S(INTJ*) oh - - Joey_Tribbiani * -
+1_01_2_69 2 1 , , * , - - Joey_Tribbiani * -
+1_01_2_70 2 2 you PRP (NP*) you - - Joey_Tribbiani * -
+1_01_2_71 2 3 would MD (VP* would - - Joey_Tribbiani * -
+1_01_2_72 2 4 n't RB * not - - Joey_Tribbiani * -
+1_01_2_73 2 5 know VB (VP* know - - Joey_Tribbiani * -
+1_01_2_74 2 6 a DT (NP* a - - Joey_Tribbiani * -
+1_01_2_75 2 7 great JJ * great - - Joey_Tribbiani * -
+1_01_2_76 2 8 butt NN *) butt - - Joey_Tribbiani * -
+1_01_2_77 2 9 if IN (SBAR* if - - Joey_Tribbiani * -
+1_01_2_78 2 10 it PRP (S(NP*) it - - Joey_Tribbiani * -
+1_01_2_79 2 11 came VBD (VP* come - - Joey_Tribbiani * -
+1_01_2_80 2 12 up RB (ADVP* up - - Joey_Tribbiani * -
+1_01_2_81 2 13 and CC * and - - Joey_Tribbiani * -
+1_01_2_82 2 14 bit RB *) bit - - Joey_Tribbiani * -
+1_01_2_83 2 15 ya PRP (NP*)))))) ya - - Joey_Tribbiani * -
+1_01_2_84 2 16 . . *)) . - - Joey_Tribbiani * -
+
+1_01_2_85 2 0 There EX (TOP(S(NP*) there - - Ross_Geller * -
+1_01_2_86 2 1 's VBZ (VP* be - - Ross_Geller * -
+1_01_2_87 2 2 an DT (NP* a - - Ross_Geller * -
+1_01_2_88 2 3 image NN *)) image - - Ross_Geller * -
+1_01_2_89 2 4 . . *)) . - - Ross_Geller * -
+
+1_01_2_90 2 0 Would MD (TOP(SQ* would - - Rachel_Green * -
+1_01_2_91 2 1 anybody NN (NP*) anybody - - Rachel_Green * -
+1_01_2_92 2 2 like VB (VP* like - - Rachel_Green * -
+1_01_2_93 2 3 more JJR (NP* more - - Rachel_Green * -
+1_01_2_94 2 4 coffee NN *)) coffee - - Rachel_Green * -
+1_01_2_95 2 5 ? . *)) ? - - Rachel_Green * -
+
+1_01_2_96 2 0 Did VBD (TOP(SQ(SQ* do - - Chandler_Bing * -
+1_01_2_97 2 1 you PRP (NP*) you - - Chandler_Bing * -
+1_01_2_98 2 2 make VB (VP* make - - Chandler_Bing * -
+1_01_2_99 2 3 it PRP (NP*))) it - - Chandler_Bing * -
+1_01_2_100 2 4 , , * , - - Chandler_Bing * -
+1_01_2_101 2 5 or CC * or - - Chandler_Bing * -
+1_01_2_102 2 6 are VBP (SQ* be - - Chandler_Bing * -
+1_01_2_103 2 7 you PRP (NP*) you - - Chandler_Bing * -
+1_01_2_104 2 8 just RB (VP(ADVP*) just - - Chandler_Bing * -
+1_01_2_105 2 9 serving VBG * serve - - Chandler_Bing * -
+1_01_2_106 2 10 it PRP (NP*))) it - - Chandler_Bing * -
+1_01_2_107 2 11 ? . *)) ? - - Chandler_Bing * -
+
+1_01_2_108 2 0 I PRP (TOP(S(NP*) I - - Rachel_Green * -
+1_01_2_109 2 1 'm VBP (VP* be - - Rachel_Green * -
+1_01_2_110 2 2 just RB (ADVP*) just - - Rachel_Green * -
+1_01_2_111 2 3 serving VBG (VP* serve - - Rachel_Green * -
+1_01_2_112 2 4 it PRP (NP*))) it - - Rachel_Green * -
+1_01_2_113 2 5 . . *)) . - - Rachel_Green * -
+
+1_01_2_114 2 0 Yeah UH (TOP(INTJ* yeah - - All * -
+1_01_2_115 2 1 . . *)) . - - All * -
+
+1_01_2_116 2 0 Yeah UH (TOP(S(INTJ*) yeah - - All * -
+1_01_2_117 2 1 , , * , - - All * -
+1_01_2_118 2 2 I PRP (NP*) I - - All * -
+1_01_2_119 2 3 'll MD (VP* will - - All * -
+1_01_2_120 2 4 have VB (VP* have - - All * -
+1_01_2_121 2 5 a DT (NP(NP* a - - All * -
+1_01_2_122 2 6 cup NN *) cup - - All * -
+1_01_2_123 2 7 of IN (PP* of - - All * -
+1_01_2_124 2 8 coffee NN (NP*))))) coffee - - All * -
+1_01_2_125 2 9 . . *)) . - - All * -
+
+1_01_2_126 2 0 Kids NNS (TOP(NP(NP*) kid - - Chandler_Bing * -
+1_01_2_127 2 1 , , * , - - Chandler_Bing * -
+1_01_2_128 2 2 new JJ (NP* new - - Chandler_Bing * -
+1_01_2_129 2 3 dream NN *) dream - - Chandler_Bing * -
+1_01_2_130 2 4 ... : *)) ... - - Chandler_Bing * -
+
+1_01_2_131 2 0 I PRP (TOP(S(NP*) I - - Chandler_Bing * -
+1_01_2_132 2 1 'm VBP (VP* be - - Chandler_Bing * -
+1_01_2_133 2 2 in IN (PP* in - - Chandler_Bing * -
+1_01_2_134 2 3 Las NNP (NP* Las - - Chandler_Bing (LOCATION* -
+1_01_2_135 2 4 Vegas NNP *))) Vegas - - Chandler_Bing *) -
+1_01_2_136 2 5 . . *)) . - - Chandler_Bing * -
+
+1_01_2_137 2 0 Ahh RB (TOP(S(ADVP*) ahh - - Customer * -
+1_01_2_138 2 1 , , * , - - Customer * -
+1_01_2_139 2 2 miss VB (VP*) miss - - Customer * -
+1_01_2_140 2 3 ? . *)) ? - - Customer * -
+
+1_01_2_141 2 0 More RBR (TOP(S(VP(ADVP* more - - Customer * -
+1_01_2_142 2 1 coffee NN (NP*))) coffee - - Customer * -
+1_01_2_143 2 2 ? . *)) ? - - Customer * -
+
+1_01_2_144 2 0 Ugh NNP (TOP(FRAG(NP*) Ugh - - Rachel_Green * -
+1_01_2_145 2 1 . . *)) . - - Rachel_Green * -
+
+1_01_2_146 2 0 Excuse VB (TOP(SQ(S(VP* excuse - - Rachel_Green * -
+1_01_2_147 2 1 me PRP (NP*))) I - - Rachel_Green * -
+1_01_2_148 2 2 , , * , - - Rachel_Green * -
+1_01_2_149 2 3 could MD * could - - Rachel_Green * -
+1_01_2_150 2 4 you PRP (NP*) you - - Rachel_Green * -
+1_01_2_151 2 5 give VB (VP* give - - Rachel_Green * -
+1_01_2_152 2 6 this DT (NP*) this - - Rachel_Green * -
+1_01_2_153 2 7 to TO (PP* to - - Rachel_Green * -
+1_01_2_154 2 8 that DT (NP(NP* that - - Rachel_Green * -
+1_01_2_155 2 9 guy NN *) guy - - Rachel_Green * (5)
+1_01_2_156 2 10 over IN (PP* over - - Rachel_Green * -
+1_01_2_157 2 11 there EX (NP*))))) there - - Rachel_Green * -
+1_01_2_158 2 12 ? . *)) ? - - Rachel_Green * -
+
+1_01_2_159 2 0 Go VB (TOP(S(VP* go - - Rachel_Green * -
+1_01_2_160 2 1 ahead RB (ADVP*)) ahead - - Rachel_Green * -
+1_01_2_161 2 2 . . *)) . - - Rachel_Green * -
+
+1_01_2_162 2 0 Thank VB (TOP(S(VP* thank - - Rachel_Green * -
+1_01_2_163 2 1 you PRP (NP*)) you - - Rachel_Green * -
+1_01_2_164 2 2 . . *)) . - - Rachel_Green * -
+
+1_01_2_165 2 0 Sorry JJ (TOP(FRAG(ADJP*) sorry - - Rachel_Green * -
+1_01_2_166 2 1 . . *)) . - - Rachel_Green * -
+
+1_01_2_167 2 0 Okay UH (TOP(FRAG(INTJ*) okay - - Rachel_Green * -
+1_01_2_168 2 1 , , * , - - Rachel_Green * -
+1_01_2_169 2 2 Las NNP (NP* Las - - Rachel_Green (LOCATION* -
+1_01_2_170 2 3 Vegas NNP *) Vegas - - Rachel_Green *) -
+1_01_2_171 2 4 . . *)) . - - Rachel_Green * -
+
+1_01_2_172 2 0 Okay UH (TOP(S(INTJ*) okay - - Chandler_Bing * -
+1_01_2_173 2 1 , , * , - - Chandler_Bing * -
+1_01_2_174 2 2 so RB (ADVP*) so - - Chandler_Bing * -
+1_01_2_175 2 3 , , * , - - Chandler_Bing * -
+1_01_2_176 2 4 I PRP (NP*) I - - Chandler_Bing * -
+1_01_2_177 2 5 'm VBP (VP* be - - Chandler_Bing * -
+1_01_2_178 2 6 in IN (PP* in - - Chandler_Bing * -
+1_01_2_179 2 7 Las NNP (NP* Las - - Chandler_Bing (LOCATION* -
+1_01_2_180 2 8 Vegas NNP *))) Vegas - - Chandler_Bing *) -
+1_01_2_181 2 9 ... : *)) ... - - Chandler_Bing * -
+
+1_01_2_182 2 0 I PRP (TOP(S(NP*) I - - Chandler_Bing * -
+1_01_2_183 2 1 'm VBP (VP* be - - Chandler_Bing * -
+1_01_2_184 2 2 Liza NNP (NP* Liza - - Chandler_Bing (PERSON* -
+1_01_2_185 2 3 Minelli NNP *)) Minelli - - Chandler_Bing *) -
+1_01_2_186 2 4 - : *)) - - - Chandler_Bing * -
+
+#end document
+#begin document (/friends-s01e02); part 000
+1_02_0_1 0 0 Oh UH (TOP(S(INTJ*) oh - - Susan_Bunch * -
+1_02_0_2 0 1 , , * , - - Susan_Bunch * -
+1_02_0_3 0 2 please VB (VP*) please - - Susan_Bunch * -
+1_02_0_4 0 3 ! . *)) ! - - Susan_Bunch * -
+
+1_02_0_5 0 0 What WP (TOP(SBARQ(WHNP*) what - - Susan_Bunch * -
+1_02_0_6 0 1 's VBZ (SQ(VP* be - - Susan_Bunch * -
+1_02_0_7 0 2 wrong JJ (ADJP* wrong - - Susan_Bunch * -
+1_02_0_8 0 3 with IN (PP* with - - Susan_Bunch * -
+1_02_0_9 0 4 Helen NNP (NP*))))) Helen - - Susan_Bunch (PERSON) -
+1_02_0_10 0 5 ? . *)) ? - - Susan_Bunch * -
+
+1_02_0_11 0 0 Helen NNP (TOP(NP* Helen - - Ross_Geller (PERSON* -
+1_02_0_12 0 1 Geller NNP * Geller - - Ross_Geller *) -
+1_02_0_13 0 2 ? . *)) ? - - Ross_Geller * -
+
+1_02_0_14 0 0 I PRP (TOP(S(NP*) I - - Ross_Geller * -
+1_02_0_15 0 1 do VBP (VP* do - - Ross_Geller * -
+1_02_0_16 0 2 n't RB * not - - Ross_Geller * -
+1_02_0_17 0 3 think VB (VP* think - - Ross_Geller * -
+1_02_0_18 0 4 so RB (ADVP*))) so - - Ross_Geller * -
+1_02_0_19 0 5 . . *)) . - - Ross_Geller * -
+
+1_02_0_20 0 0 Hello UH (TOP(INTJ* hello - - Carol_Willick * -
+1_02_0_21 0 1 ? . *)) ? - - Carol_Willick * -
+
+1_02_0_22 0 0 It PRP (TOP(S(NP*) it - - Carol_Willick * -
+1_02_0_23 0 1 's VBZ (VP* be - - Carol_Willick * -
+1_02_0_24 0 2 not RB * not - - Carol_Willick * -
+1_02_0_25 0 3 gon VBG (VP* gon - - Carol_Willick * -
+1_02_0_26 0 4 na TO (S(VP* na - - Carol_Willick * -
+1_02_0_27 0 5 be VB (VP* be - - Carol_Willick * -
+1_02_0_28 0 6 Helen NNP (NP* Helen - - Carol_Willick (PERSON* -
+1_02_0_29 0 7 Geller NNP *)))))) Geller - - Carol_Willick *) -
+1_02_0_30 0 8 . . *)) . - - Carol_Willick * -
+
+1_02_0_31 0 0 Thank VB (TOP(S(VP* thank - - Ross_Geller * -
+1_02_0_32 0 1 you PRP (NP*)) you - - Ross_Geller * -
+1_02_0_33 0 2 ! . *)) ! - - Ross_Geller * -
+
+1_02_0_34 0 0 No DT (TOP(S(NP-TMP*) no - - Carol_Willick * -
+1_02_0_35 0 1 , , * , - - Carol_Willick * -
+1_02_0_36 0 2 I PRP (NP*) I - - Carol_Willick * -
+1_02_0_37 0 3 mean VBP (VP* mean - - Carol_Willick * -
+1_02_0_38 0 4 it PRP (SBAR(S(NP*) it - - Carol_Willick * -
+1_02_0_39 0 5 's VBZ (VP* be - - Carol_Willick * -
+1_02_0_40 0 6 not RB * not - - Carol_Willick * -
+1_02_0_41 0 7 Geller NNP (NP*))))) Geller - - Carol_Willick (PERSON) -
+1_02_0_42 0 8 . . *)) . - - Carol_Willick * -
+
+1_02_0_43 0 0 What WDT (TOP(S(FRAG(WHNP*)) what - - Ross_Geller * -
+1_02_0_44 0 1 , , * , - - Ross_Geller * -
+1_02_0_45 0 2 it PRP (NP*) it - - Ross_Geller * -
+1_02_0_46 0 3 's VBZ (VP* be - - Ross_Geller * -
+1_02_0_47 0 4 gon VBG (VP* gon - - Ross_Geller * -
+1_02_0_48 0 5 na TO (S(VP* na - - Ross_Geller * -
+1_02_0_49 0 6 be VB (VP* be - - Ross_Geller * -
+1_02_0_50 0 7 Helen NNP (NP* Helen - - Ross_Geller (PERSON* -
+1_02_0_51 0 8 Willick NNP *)))))) Willick - - Ross_Geller *) -
+1_02_0_52 0 9 ? . *)) ? - - Ross_Geller * -
+
+1_02_0_53 0 0 No DT (TOP(S(S(NP* no - - Carol_Willick * -
+1_02_0_54 0 1 , , (PRN* , - - Carol_Willick * -
+1_02_0_55 0 2 actually RB (ADVP*) actually - - Carol_Willick * -
+1_02_0_56 0 3 , , *) , - - Carol_Willick * -
+1_02_0_57 0 4 um NN *)) um - - Carol_Willick * -
+1_02_0_58 0 5 , , * , - - Carol_Willick * -
+1_02_0_59 0 6 we PRP (NP*) we - - Carol_Willick * -
+1_02_0_60 0 7 talked VBD (VP* talk - - Carol_Willick * -
+1_02_0_61 0 8 about IN (PP* about - - Carol_Willick * -
+1_02_0_62 0 9 Helen NNP (NP(NP* Helen - - Carol_Willick (PERSON* -
+1_02_0_63 0 10 Willick NNP *) Willick - - Carol_Willick *) -
+1_02_0_64 0 11 - : * - - - Carol_Willick * -
+1_02_0_65 0 12 Bunch NN (NP*)))) bunch - - Carol_Willick * -
+1_02_0_66 0 13 . . *)) . - - Carol_Willick * -
+
+1_02_0_67 0 0 Well RB (TOP(S(INTJ*) well - - Ross_Geller * -
+1_02_0_68 0 1 , , * , - - Ross_Geller * -
+1_02_0_69 0 2 wait VB (VP* wait - - Ross_Geller * -
+1_02_0_70 0 3 a DT (NP(NP(NP*) a - - Ross_Geller (DURATION* -
+1_02_0_71 0 4 minute NN (SBAR(S(NP(NP*) minute - - Ross_Geller *) -
+1_02_0_72 0 5 , , * , - - Ross_Geller * -
+1_02_0_73 0 6 wha SYM (X*))))) wha - - Ross_Geller * -
+1_02_0_74 0 7 - : * - - - Ross_Geller * -
+1_02_0_75 0 8 why WRB (SBAR(WHADVP*) why - - Ross_Geller * -
+1_02_0_76 0 9 is VBZ (S(VP* be - - Ross_Geller * -
+1_02_0_77 0 10 she PRP (NP*) she - - Ross_Geller * (6)
+1_02_0_78 0 11 in IN (PP* in - - Ross_Geller * -
+1_02_0_79 0 12 the DT (NP* the - - Ross_Geller * -
+1_02_0_80 0 13 title NN *))))))) title - - Ross_Geller * -
+1_02_0_81 0 14 ? . *)) ? - - Ross_Geller * -
+
+1_02_0_82 0 0 It PRP (TOP(S(NP*) it - - Susan_Bunch * -
+1_02_0_83 0 1 's VBZ (VP* be - - Susan_Bunch * -
+1_02_0_84 0 2 my PRP$ (NP* my - - Susan_Bunch * -
+1_02_0_85 0 3 baby NN *) baby - - Susan_Bunch * (6)
+1_02_0_86 0 4 too RB (ADVP*)) too - - Susan_Bunch * -
+1_02_0_87 0 5 . . *)) . - - Susan_Bunch * -
+
+1_02_0_88 0 0 Oh UH (TOP(S(INTJ*) oh - - Ross_Geller * -
+1_02_0_89 0 1 , , * , - - Ross_Geller * -
+1_02_0_90 0 2 ' '' (VP* ' - - Ross_Geller * -
+1_02_0_91 0 3 s'funny JJ (NP*) s'funny - - Ross_Geller * -
+1_02_0_92 0 4 , , * , - - Ross_Geller * -
+1_02_0_93 0 5 really RB (ADVP*)) really - - Ross_Geller * -
+1_02_0_94 0 6 ? . *)) ? - - Ross_Geller * -
+
+1_02_0_95 0 0 Um RB (TOP(S(ADVP*) um - - Ross_Geller * -
+1_02_0_96 0 1 , , * , - - Ross_Geller * -
+1_02_0_97 0 2 I PRP (NP*) I - - Ross_Geller * -
+1_02_0_98 0 3 do VBP (VP* do - - Ross_Geller * -
+1_02_0_99 0 4 n't RB * not - - Ross_Geller * -
+1_02_0_100 0 5 remember VB (VP* remember - - Ross_Geller * -
+1_02_0_101 0 6 you PRP (S(NP*) you - - Ross_Geller * -
+1_02_0_102 0 7 making VBG (VP* make - - Ross_Geller * -
+1_02_0_103 0 8 any DT (NP* any - - Ross_Geller * -
+1_02_0_104 0 9 sperm NN *))))) sperm - - Ross_Geller * -
+1_02_0_105 0 10 . . *)) . - - Ross_Geller * -
+
+1_02_0_106 0 0 Yeah UH (TOP(S(INTJ*) yeah - - Susan_Bunch * -
+1_02_0_107 0 1 , , * , - - Susan_Bunch * -
+1_02_0_108 0 2 and CC (NP* and - - Susan_Bunch * -
+1_02_0_109 0 3 we PRP (NP(NP*) we - - Susan_Bunch * -
+1_02_0_110 0 4 all DT (NP*))) all - - Susan_Bunch * -
+1_02_0_111 0 5 know VBP (VP* know - - Susan_Bunch * -
+1_02_0_112 0 6 what WP (S(NP*) what - - Susan_Bunch * -
+1_02_0_113 0 7 a DT (NP(NP* a - - Susan_Bunch * -
+1_02_0_114 0 8 challenge NN *) challenge - - Susan_Bunch * -
+1_02_0_115 0 9 that WDT (SBAR(WHNP*) that - - Susan_Bunch * -
+1_02_0_116 0 10 is VBZ (S(VP*)))))) be - - Susan_Bunch * -
+1_02_0_117 0 11 ! . *)) ! - - Susan_Bunch * -
+
+1_02_0_118 0 0 All DT (TOP(S(NP(NP* all - - Carol_Willick * -
+1_02_0_119 0 1 right NN *) right - - Carol_Willick * -
+1_02_0_120 0 2 , , * , - - Carol_Willick * -
+1_02_0_121 0 3 you PRP (NP(NP*) you - - Carol_Willick * -
+1_02_0_122 0 4 two CD (NP*)) two - - Carol_Willick (NUMBER) -
+1_02_0_123 0 5 , , *) , - - Carol_Willick * -
+1_02_0_124 0 6 stop VB (VP* stop - - Carol_Willick * -
+1_02_0_125 0 7 it PRP (NP*)) it - - Carol_Willick * -
+1_02_0_126 0 8 ! . *)) ! - - Carol_Willick * -
+
+1_02_0_127 0 0 No DT (TOP(S(NP* no - - Ross_Geller * -
+1_02_0_128 0 1 no DT (S(NP* no - - Ross_Geller * -
+1_02_0_129 0 2 no DT *) no - - Ross_Geller * -
+1_02_0_130 0 3 , , * , - - Ross_Geller * -
+1_02_0_131 0 4 she PRP (NP*) she - - Ross_Geller * (6)
+1_02_0_132 0 5 gets VBZ (VP* get - - Ross_Geller * -
+1_02_0_133 0 6 a DT (S(NP(NP* a - - Ross_Geller * -
+1_02_0_134 0 7 credit NN *) credit - - Ross_Geller * -
+1_02_0_135 0 8 , , * , - - Ross_Geller * -
+1_02_0_136 0 9 hey NN (NP*) hey - - Ross_Geller * -
+1_02_0_137 0 10 , , *) , - - Ross_Geller * -
+1_02_0_138 0 11 I PRP (NP*))))) I - - Ross_Geller * -
+1_02_0_139 0 12 'm VBP (VP* be - - Ross_Geller * -
+1_02_0_140 0 13 in IN (PP* in - - Ross_Geller * -
+1_02_0_141 0 14 there EX (NP*)) there - - Ross_Geller * -
+1_02_0_142 0 15 too RB (ADVP*)) too - - Ross_Geller * -
+1_02_0_143 0 16 . . *)) . - - Ross_Geller * -
+
+1_02_0_144 0 0 Ross NNP (TOP(FRAG(NP*) Ross - - Carol_Willick (PERSON) (7)
+1_02_0_145 0 1 . . *)) . - - Carol_Willick * -
+
+1_02_0_146 0 0 You PRP (TOP(S(NP*) you - - Carol_Willick * -
+1_02_0_147 0 1 're VBP (VP* be - - Carol_Willick * -
+1_02_0_148 0 2 not RB * not - - Carol_Willick * -
+1_02_0_149 0 3 actually RB (ADVP*) actually - - Carol_Willick * -
+1_02_0_150 0 4 suggesting VBG (VP* suggest - - Carol_Willick * -
+1_02_0_151 0 5 Helen NNP (NP(NP* Helen - - Carol_Willick (PERSON* -
+1_02_0_152 0 6 Willick NNP *) Willick - - Carol_Willick *) -
+1_02_0_153 0 7 - : * - - - Carol_Willick * -
+1_02_0_154 0 8 Bunch NN (NP(NP*) bunch - - Carol_Willick * -
+1_02_0_155 0 9 - : * - - - Carol_Willick * -
+1_02_0_156 0 10 Geller NNP (NP*))))) Geller - - Carol_Willick (PERSON) -
+1_02_0_157 0 11 ? . *)) ? - - Carol_Willick * -
+
+1_02_0_158 0 0 ' POS (TOP(S(S(NP*)) ' - - Carol_Willick * -
+1_02_0_159 0 1 Cause NN (NP*) cause - - Carol_Willick * -
+1_02_0_160 0 2 I PRP (VP(ADVP*) I - - Carol_Willick * -
+1_02_0_161 0 3 think VBP * think - - Carol_Willick * -
+1_02_0_162 0 4 that IN (PP* that - - Carol_Willick * -
+1_02_0_163 0 5 borders NNS (NP(NP*) border - - Carol_Willick * -
+1_02_0_164 0 6 on IN (PP* on - - Carol_Willick * -
+1_02_0_165 0 7 child NN (NP* child - - Carol_Willick * -
+1_02_0_166 0 8 abuse NN *))))) abuse - - Carol_Willick * -
+1_02_0_167 0 9 . . *)) . - - Carol_Willick * -
+
+1_02_0_168 0 0 Of IN (TOP(S(PP* of - - Ross_Geller * -
+1_02_0_169 0 1 course NN (NP* course - - Ross_Geller * -
+1_02_0_170 0 2 not RB *)) not - - Ross_Geller * -
+1_02_0_171 0 3 , , * , - - Ross_Geller * -
+1_02_0_172 0 4 I PRP (NP*) I - - Ross_Geller * -
+1_02_0_173 0 5 'm VBP (VP*) be - - Ross_Geller * -
+1_02_0_174 0 6 ... : *)) ... - - Ross_Geller * -
+
+1_02_0_175 0 0 suggesting VBG (TOP(S(VP* suggest - - Ross_Geller * -
+1_02_0_176 0 1 Geller NNP (NP(NP*) Geller - - Ross_Geller (PERSON) -
+1_02_0_177 0 2 - : * - - - Ross_Geller * -
+1_02_0_178 0 3 Willick NN (NP(NP*) willick - - Ross_Geller * -
+1_02_0_179 0 4 - : * - - - Ross_Geller * -
+1_02_0_180 0 5 Bunch NN (NP*)))) bunch - - Ross_Geller * -
+1_02_0_181 0 6 . . *)) . - - Ross_Geller * -
+
+1_02_0_182 0 0 Oh UH (TOP(S(INTJ*) oh - - Susan_Bunch * -
+1_02_0_183 0 1 , , * , - - Susan_Bunch * -
+1_02_0_184 0 2 no DT (NP(NP*) no - - Susan_Bunch * -
+1_02_0_185 0 3 , , * , - - Susan_Bunch * -
+1_02_0_186 0 4 nonononono NN (NP(NP*) nonononono - - Susan_Bunch * -
+1_02_0_187 0 5 , , * , - - Susan_Bunch * -
+1_02_0_188 0 6 you PRP (NP*))) you - - Susan_Bunch * -
+1_02_0_189 0 7 see VBP (VP* see - - Susan_Bunch * -
+1_02_0_190 0 8 what WP (SBAR(WHNP*) what - - Susan_Bunch * -
+1_02_0_191 0 9 he PRP (S(NP*) he - - Susan_Bunch * (7)
+1_02_0_192 0 10 's VBZ (VP* be - - Susan_Bunch * -
+1_02_0_193 0 11 doing VBG (VP*))))) do - - Susan_Bunch * -
+1_02_0_194 0 12 ? . *)) ? - - Susan_Bunch * -
+
+1_02_0_195 0 0 He PRP (TOP(S(S(NP*) he - - Susan_Bunch * (7)
+1_02_0_196 0 1 knows VBZ (VP* know - - Susan_Bunch * -
+1_02_0_197 0 2 no DT (NP(NP*) no - - Susan_Bunch * -
+1_02_0_198 0 3 - : * - - - Susan_Bunch * -
+1_02_0_199 0 4 one CD (NP(NP*) one - - Susan_Bunch (NUMBER) -
+1_02_0_200 0 5 's POS (SBAR(S(S(NP*) 's - - Susan_Bunch * -
+1_02_0_201 0 6 gon VBG (VP* gon - - Susan_Bunch * -
+1_02_0_202 0 7 na TO (S(VP* na - - Susan_Bunch * -
+1_02_0_203 0 8 say VB (VP* say - - Susan_Bunch * -
+1_02_0_204 0 9 all PDT (NP* all - - Susan_Bunch * -
+1_02_0_205 0 10 those DT * those - - Susan_Bunch * -
+1_02_0_206 0 11 names NNS *)))))) name - - Susan_Bunch * -
+1_02_0_207 0 12 , , * , - - Susan_Bunch * -
+1_02_0_208 0 13 so IN * so - - Susan_Bunch * -
+1_02_0_209 0 14 they PRP (S(NP*) they - - Susan_Bunch * -
+1_02_0_210 0 15 'll MD (VP* will - - Susan_Bunch * -
+1_02_0_211 0 16 wind VB (VP* wind - - Susan_Bunch * -
+1_02_0_212 0 17 up RP (PRT*) up - - Susan_Bunch * -
+1_02_0_213 0 18 calling VBG (S(VP* call - - Susan_Bunch * -
+1_02_0_214 0 19 her PRP$ (NP* she - - Susan_Bunch * (7)
+1_02_0_215 0 20 Geller NNP *)))))))))))) Geller - - Susan_Bunch (PERSON) -
+1_02_0_216 0 21 , , * , - - Susan_Bunch * -
+1_02_0_217 0 22 then RB * then - - Susan_Bunch * -
+1_02_0_218 0 23 he PRP (S(NP*) he - - Susan_Bunch * (7)
+1_02_0_219 0 24 gets VBZ (VP* get - - Susan_Bunch * -
+1_02_0_220 0 25 his PRP$ (NP* he - - Susan_Bunch * (7)
+1_02_0_221 0 26 way NN *))) way - - Susan_Bunch * -
+1_02_0_222 0 27 ! . *)) ! - - Susan_Bunch * -
+
+1_02_0_223 0 0 My PRP$ (TOP(FRAG(NP* my - - Ross_Geller * -
+1_02_0_224 0 1 way NN *) way - - Ross_Geller * -
+1_02_0_225 0 2 ?! IN (PP*))) ?! - - Ross_Geller * -
+
+1_02_0_226 0 0 You PRP (TOP(FRAG(NP*) you - - Ross_Geller * -
+1_02_0_227 0 1 - : * - - - Ross_Geller * -
+1_02_0_228 0 2 you PRP (S(NP*) you - - Ross_Geller * -
+1_02_0_229 0 3 think VBP (VP* think - - Ross_Geller * -
+1_02_0_230 0 4 this DT (SBAR(S(NP*) this - - Ross_Geller * -
+1_02_0_231 0 5 is VBZ (VP* be - - Ross_Geller * -
+1_02_0_232 0 6 my PRP$ (NP* my - - Ross_Geller * -
+1_02_0_233 0 7 way NN *)))))) way - - Ross_Geller * -
+1_02_0_234 0 8 ? . *)) ? - - Ross_Geller * -
+
+1_02_0_235 0 0 Believe VB (TOP(S(S(VP* believe - - Ross_Geller * -
+1_02_0_236 0 1 me PRP (SBAR(S(NP*) I - - Ross_Geller * -
+1_02_0_237 0 2 , , * , - - Ross_Geller * -
+1_02_0_238 0 3 of IN (PP* of - - Ross_Geller * -
+1_02_0_239 0 4 all PDT (NP* all - - Ross_Geller * -
+1_02_0_240 0 5 the DT * the - - Ross_Geller * -
+1_02_0_241 0 6 ways NNS *)) way - - Ross_Geller * -
+1_02_0_242 0 7 I PRP (NP*) I - - Ross_Geller * -
+1_02_0_243 0 8 ever RB (ADVP*) ever - - Ross_Geller * -
+1_02_0_244 0 9 imagined VBD (VP* imagine - - Ross_Geller * -
+1_02_0_245 0 10 this DT (NP* this - - Ross_Geller * -
+1_02_0_246 0 11 moment NN *) moment - - Ross_Geller * -
+1_02_0_247 0 12 in IN (PP* in - - Ross_Geller * -
+1_02_0_248 0 13 my PRP$ (NP(NP* my - - Ross_Geller * -
+1_02_0_249 0 14 life NN *) life - - Ross_Geller * -
+1_02_0_250 0 15 being VBG (VP*)))))))) be - - Ross_Geller * -
+1_02_0_251 0 16 , , * , - - Ross_Geller * -
+1_02_0_252 0 17 this DT (NP*) this - - Ross_Geller * -
+1_02_0_253 0 18 is VBZ (VP* be - - Ross_Geller * -
+1_02_0_254 0 19 not RB * not - - Ross_Geller * -
+1_02_0_255 0 20 my PRP$ (NP(NP* my - - Ross_Geller * -
+1_02_0_256 0 21 way NN *) way - - Ross_Geller * -
+1_02_0_257 0 22 - : * - - - Ross_Geller * -
+1_02_0_258 0 23 y'know VB (VP* y'know - - Ross_Geller * -
+1_02_0_259 0 24 what WP (NP*)))) what - - Ross_Geller * -
+1_02_0_260 0 25 ? . *)) ? - - Ross_Geller * -
+
+1_02_0_261 0 0 Uh RB (TOP(S(ADVP*) uh - - Ross_Geller * -
+1_02_0_262 0 1 , , * , - - Ross_Geller * -
+1_02_0_263 0 2 um NN (NP(NP*) um - - Ross_Geller * -
+1_02_0_264 0 3 , , * , - - Ross_Geller * -
+1_02_0_265 0 4 this DT (NP*)) this - - Ross_Geller * -
+1_02_0_266 0 5 is VBZ (VP* be - - Ross_Geller * -
+1_02_0_267 0 6 too RB (ADJP* too - - Ross_Geller * -
+1_02_0_268 0 7 hard JJ *)) hard - - Ross_Geller * -
+1_02_0_269 0 8 . . *)) . - - Ross_Geller * -
+
+1_02_0_270 0 0 I PRP (TOP(S(S(NP*) I - - Ross_Geller * -
+1_02_0_271 0 1 'm VBP (VP* be - - Ross_Geller * -
+1_02_0_272 0 2 not RB *)) not - - Ross_Geller * -
+1_02_0_273 0 3 , , * , - - Ross_Geller * -
+1_02_0_274 0 4 I PRP (NP*) I - - Ross_Geller * -
+1_02_0_275 0 5 ca MD (VP* can - - Ross_Geller * -
+1_02_0_276 0 6 n't RB * not - - Ross_Geller * -
+1_02_0_277 0 7 do VB (VP*)) do - - Ross_Geller * -
+1_02_0_278 0 8 - : *)) - - - Ross_Geller * -
+
+1_02_0_279 0 0 Knock VB (TOP(S(VP* knock - - Dr._Oberman * -
+1_02_0_280 0 1 knock VB (VP*)) knock - - Dr._Oberman * -
+1_02_0_281 0 2 ! . *)) ! - - Dr._Oberman * -
+
+1_02_0_282 0 0 How WRB (TOP(SBARQ(WHADVP*) how - - Dr._Oberman * -
+1_02_0_283 0 1 are VBP (SQ* be - - Dr._Oberman * -
+1_02_0_284 0 2 we PRP (NP*) we - - Dr._Oberman * -
+1_02_0_285 0 3 today NN (NP*)) today - - Dr._Oberman (DATE) -
+1_02_0_286 0 4 ? . *)) ? - - Dr._Oberman * -
+
+1_02_0_287 0 0 Any DT (TOP(NP* any - - Dr._Oberman * -
+1_02_0_288 0 1 nausea NN * nausea - - Dr._Oberman * -
+1_02_0_289 0 2 ? . *)) ? - - Dr._Oberman * -
+
+1_02_0_290 0 0 Yeah UH (TOP(INTJ* yeah - - All * -
+1_02_0_291 0 1 . . *)) . - - All * -
+
+1_02_0_292 0 0 Yeah UH (TOP(INTJ* yeah - - All * -
+1_02_0_293 0 1 . . *)) . - - All * -
+
+1_02_0_294 0 0 A DT (TOP(S(VP(NP* a - - All * -
+1_02_0_295 0 1 little JJ (ADJP*))) little - - All * -
+1_02_0_296 0 2 . . *)) . - - All * -
+
+1_02_0_297 0 0 Well RB (TOP(S(ADVP*) well - - Dr._Oberman * -
+1_02_0_298 0 1 , , * , - - Dr._Oberman * -
+1_02_0_299 0 2 I PRP (NP*) I - - Dr._Oberman * -
+1_02_0_300 0 3 was VBD (VP* be - - Dr._Oberman * -
+1_02_0_301 0 4 just RB (UCP(VP(ADVP*) just - - Dr._Oberman * -
+1_02_0_302 0 5 wondering VBG * wonder - - Dr._Oberman * -
+1_02_0_303 0 6 about IN (ADVP* about - - Dr._Oberman * -
+1_02_0_304 0 7 the DT (NP* the - - Dr._Oberman * -
+1_02_0_305 0 8 mother NN *)) mother - - Dr._Oberman * (7)
+1_02_0_306 0 9 - : * - - - Dr._Oberman * -
+1_02_0_307 0 10 to TO (PP*) to - - Dr._Oberman * -
+1_02_0_308 0 11 - : * - - - Dr._Oberman * -
+1_02_0_309 0 12 be VB (S(VP*))) be - - Dr._Oberman * -
+1_02_0_310 0 13 , , * , - - Dr._Oberman * -
+1_02_0_311 0 14 but CC * but - - Dr._Oberman * -
+1_02_0_312 0 15 .. FW (ADJP*))))) .. - - Dr._Oberman * -
+
+1_02_0_313 0 0 thanks NNS (TOP(NP(NP*) thanks - - Dr._Oberman * -
+1_02_0_314 0 1 for IN (PP* for - - Dr._Oberman * -
+1_02_0_315 0 2 sharing VBG (S(VP*))) share - - Dr._Oberman * -
+1_02_0_316 0 3 . . *)) . - - Dr._Oberman * -
+
+1_02_0_317 0 0 Uh RB (TOP(FRAG(S(ADVP*) uh - - Dr._Oberman * -
+1_02_0_318 0 1 , , (VP(VP* , - - Dr._Oberman * -
+1_02_0_319 0 2 lie VBP (S(VP*))) lie - - Dr._Oberman * -
+1_02_0_320 0 3 back RB (PRN(ADVP*) back - - Dr._Oberman * -
+1_02_0_321 0 4 .. RB (ADVP*)))))) .. - - Dr._Oberman * -
+
+1_02_0_322 0 0 You PRP (TOP(S(NP*) you - - Ross_Geller * -
+1_02_0_323 0 1 - : * - - - Ross_Geller * -
+1_02_0_324 0 2 uh UH (VP* uh - - Ross_Geller * -
+1_02_0_325 0 3 - : * - - - Ross_Geller * -
+1_02_0_326 0 4 y'know VB (VP* y'know - - Ross_Geller * -
+1_02_0_327 0 5 what WP (SBAR(WHNP*) what - - Ross_Geller * -
+1_02_0_328 0 6 , , * , - - Ross_Geller * -
+1_02_0_329 0 7 I PRP (S(NP*) I - - Ross_Geller * -
+1_02_0_330 0 8 'm VBP (VP* be - - Ross_Geller * -
+1_02_0_331 0 9 gon VBG (VP* gon - - Ross_Geller * -
+1_02_0_332 0 10 na TO (S(VP* na - - Ross_Geller * -
+1_02_0_333 0 11 go VB (VP*))))))))) go - - Ross_Geller * -
+1_02_0_334 0 12 . . *)) . - - Ross_Geller * -
+
+1_02_0_335 0 0 I PRP (TOP(S(S(NP*) I - - Ross_Geller * -
+1_02_0_336 0 1 do VBP (VP* do - - Ross_Geller * -
+1_02_0_337 0 2 n't RB *)) not - - Ross_Geller * -
+1_02_0_338 0 3 - : * - - - Ross_Geller * -
+1_02_0_339 0 4 I PRP (S(NP*) I - - Ross_Geller * -
+1_02_0_340 0 5 do VBP (VP* do - - Ross_Geller * -
+1_02_0_341 0 6 n't RB * not - - Ross_Geller * -
+1_02_0_342 0 7 think VB (VP* think - - Ross_Geller * -
+1_02_0_343 0 8 I PRP (SBAR(S(NP*) I - - Ross_Geller * -
+1_02_0_344 0 9 can MD (VP* can - - Ross_Geller * -
+1_02_0_345 0 10 be VB (VP* be - - Ross_Geller * -
+1_02_0_346 0 11 involved VBN (VP* involve - - Ross_Geller * -
+1_02_0_347 0 12 in IN (PP* in - - Ross_Geller * -
+1_02_0_348 0 13 this DT (NP* this - - Ross_Geller * -
+1_02_0_349 0 14 particular JJ * particular - - Ross_Geller * -
+1_02_0_350 0 15 thing NN *)) thing - - Ross_Geller * -
+1_02_0_351 0 16 right RB (ADVP* right - - Ross_Geller (DATE* -
+1_02_0_352 0 17 now RB *))))))))) now - - Ross_Geller *) -
+1_02_0_353 0 18 . . *)) . - - Ross_Geller * -
+
+1_02_0_354 0 0 Oh UH (TOP(S(VP(NP(INTJ*) oh - - Ross_Geller * -
+1_02_0_355 0 1 my PRP$ (NP* my - - Ross_Geller * -
+1_02_0_356 0 2 God NNP *))) God - - Ross_Geller * -
+1_02_0_357 0 3 . . *)) . - - Ross_Geller * -
+
+1_02_0_358 0 0 Look VB (TOP(S(VP* look - - Susan_Bunch * -
+1_02_0_359 0 1 at IN (PP* at - - Susan_Bunch * -
+1_02_0_360 0 2 that DT (NP*))) that - - Susan_Bunch * -
+1_02_0_361 0 3 . . *)) . - - Susan_Bunch * -
+
+1_02_0_362 0 0 I PRP (TOP(S(NP*) I - - Carol_Willick * -
+1_02_0_363 0 1 know VBP (VP*) know - - Carol_Willick * -
+1_02_0_364 0 2 . . *)) . - - Carol_Willick * -
+
+#end document
+#begin document (/friends-s01e02); part 001
+1_02_1_1 1 0 Well UH (TOP(INTJ* well - - Ross_Geller * -
+1_02_1_2 1 1 ? . *)) ? - - Ross_Geller * -
+
+1_02_1_3 1 0 Is VBZ (TOP(S(VP* be - - Ross_Geller * -
+1_02_1_4 1 1 n't RB * not - - Ross_Geller * -
+1_02_1_5 1 2 that IN (ADJP* that - - Ross_Geller * -
+1_02_1_6 1 3 amazing JJ *)) amazing - - Ross_Geller * -
+1_02_1_7 1 4 ? . *)) ? - - Ross_Geller * -
+
+1_02_1_8 1 0 What WP (TOP(SBARQ(WHNP*) what - - Joey_Tribbiani * -
+1_02_1_9 1 1 are VBP (SQ* be - - Joey_Tribbiani * -
+1_02_1_10 1 2 we PRP (NP*) we - - Joey_Tribbiani * -
+1_02_1_11 1 3 supposed VBN (VP* suppose - - Joey_Tribbiani * -
+1_02_1_12 1 4 to TO (S(VP* to - - Joey_Tribbiani * -
+1_02_1_13 1 5 be VB (VP* be - - Joey_Tribbiani * -
+1_02_1_14 1 6 seeing VBG (VP* see - - Joey_Tribbiani * -
+1_02_1_15 1 7 here RB (ADVP*))))))) here - - Joey_Tribbiani * -
+1_02_1_16 1 8 ? . *)) ? - - Joey_Tribbiani * -
+
+1_02_1_17 1 0 I PRP (TOP(UCP(NP(NP*) I - - Chandler_Bing * -
+1_02_1_18 1 1 du NNP (NP(NP*) du - - Chandler_Bing * -
+1_02_1_19 1 2 n NN (NP* n - - Chandler_Bing * -
+1_02_1_20 1 3 no RB *))) no - - Chandler_Bing * -
+1_02_1_21 1 4 , , * , - - Chandler_Bing * -
+1_02_1_22 1 5 but CC * but - - Chandler_Bing * -
+1_02_1_23 1 6 .. FW (ADJP*))) .. - - Chandler_Bing * -
+
+1_02_1_24 1 0 I PRP (TOP(S(NP*) I - - Chandler_Bing * -
+1_02_1_25 1 1 think VBP (VP* think - - Chandler_Bing * -
+1_02_1_26 1 2 it PRP (SBAR(S(NP*) it - - Chandler_Bing * -
+1_02_1_27 1 3 's VBZ (VP* be - - Chandler_Bing * -
+1_02_1_28 1 4 about RB (NP* about - - Chandler_Bing * -
+1_02_1_29 1 5 to TO (S(VP* to - - Chandler_Bing * -
+1_02_1_30 1 6 attack VB (VP* attack - - Chandler_Bing * -
+1_02_1_31 1 7 the DT (NP* the - - Chandler_Bing * -
+1_02_1_32 1 8 Enterprise NN *))))))))) enterprise - - Chandler_Bing * -
+1_02_1_33 1 9 . . *)) . - - Chandler_Bing * -
+
+1_02_1_34 1 0 You PRP (TOP(S(S(NP*) you - - Phoebe_Buffay * -
+1_02_1_35 1 1 know VBP (VP* know - - Phoebe_Buffay * -
+1_02_1_36 1 2 , , (PRN* , - - Phoebe_Buffay * -
+1_02_1_37 1 3 if IN (SBAR* if - - Phoebe_Buffay * -
+1_02_1_38 1 4 you PRP (S(NP*) you - - Phoebe_Buffay * -
+1_02_1_39 1 5 tilt VBP (VP(VP* tilt - - Phoebe_Buffay * -
+1_02_1_40 1 6 your PRP$ (NP* you - - Phoebe_Buffay * -
+1_02_1_41 1 7 head NN *) head - - Phoebe_Buffay * -
+1_02_1_42 1 8 to TO (PP* to - - Phoebe_Buffay * -
+1_02_1_43 1 9 the DT (NP* the - - Phoebe_Buffay * -
+1_02_1_44 1 10 left NN *))) left - - Phoebe_Buffay * -
+1_02_1_45 1 11 , , * , - - Phoebe_Buffay * -
+1_02_1_46 1 12 and CC * and - - Phoebe_Buffay * -
+1_02_1_47 1 13 relax VB (VP* relax - - Phoebe_Buffay * -
+1_02_1_48 1 14 your PRP$ (NP* you - - Phoebe_Buffay * -
+1_02_1_49 1 15 eyes NNS *))))) eye - - Phoebe_Buffay * -
+1_02_1_50 1 16 , , *) , - - Phoebe_Buffay * -
+1_02_1_51 1 17 it PRP (NP*))) it - - Phoebe_Buffay * -
+1_02_1_52 1 18 kinda NN (NP*) kinda - - Phoebe_Buffay * -
+1_02_1_53 1 19 looks VBZ (VP* look - - Phoebe_Buffay * -
+1_02_1_54 1 20 like IN (PP* like - - Phoebe_Buffay * -
+1_02_1_55 1 21 an DT (NP* a - - Phoebe_Buffay * -
+1_02_1_56 1 22 old JJ * old - - Phoebe_Buffay * -
+1_02_1_57 1 23 potato NN *))) potato - - Phoebe_Buffay * -
+1_02_1_58 1 24 . . *)) . - - Phoebe_Buffay * -
+
+1_02_1_59 1 0 Then RB (TOP(SINV(ADVP*) then - - Ross_Geller * -
+1_02_1_60 1 1 do VBP (VP* do - - Ross_Geller * -
+1_02_1_61 1 2 n't RB * not - - Ross_Geller * -
+1_02_1_62 1 3 do VB (VP*)) do - - Ross_Geller * -
+1_02_1_63 1 4 that DT (NP*) that - - Ross_Geller * -
+1_02_1_64 1 5 , , * , - - Ross_Geller * -
+1_02_1_65 1 6 alright VB (S(VP*)) alright - - Ross_Geller * -
+1_02_1_66 1 7 ? . *)) ? - - Ross_Geller * -
+
+1_02_1_67 1 0 Okay UH (TOP(INTJ* okay - - Phoebe_Buffay * -
+1_02_1_68 1 1 ! . *)) ! - - Phoebe_Buffay * -
+
+1_02_1_69 1 0 Monica NNP (TOP(FRAG(NP*) Monica - - Ross_Geller (PERSON) (4)
+1_02_1_70 1 1 . . *)) . - - Ross_Geller * -
+
+1_02_1_71 1 0 Whaddya NNP (TOP(S(NP*) Whaddya - - Ross_Geller * -
+1_02_1_72 1 1 think VB (VP*) think - - Ross_Geller * -
+1_02_1_73 1 2 ? . *)) ? - - Ross_Geller * -
+
+1_02_1_74 1 0 Mm-hmm NN (TOP(NP* mm-hmm - - Monica_Geller * -
+1_02_1_75 1 1 . . *)) . - - Monica_Geller * -
+
+1_02_1_76 1 0 Wh SYM (TOP(FRAG(X*) wh - - Ross_Geller * -
+1_02_1_77 1 1 - : * - - - Ross_Geller * -
+1_02_1_78 1 2 are VBP (VP* be - - Ross_Geller * -
+1_02_1_79 1 3 you PRP (NP*) you - - Ross_Geller * -
+1_02_1_80 1 4 welling VBG (S(VP* well - - Ross_Geller * -
+1_02_1_81 1 5 up RP (PRT*)))) up - - Ross_Geller * -
+1_02_1_82 1 6 ? . *)) ? - - Ross_Geller * -
+
+1_02_1_83 1 0 No DT (TOP(FRAG(NP*) no - - Monica_Geller * -
+1_02_1_84 1 1 . . *)) . - - Monica_Geller * -
+
+1_02_1_85 1 0 You PRP (TOP(S(S(NP*) you - - Ross_Geller * -
+1_02_1_86 1 1 are VBP (VP*)) be - - Ross_Geller * -
+1_02_1_87 1 2 , , * , - - Ross_Geller * -
+1_02_1_88 1 3 you PRP (NP*) you - - Ross_Geller * -
+1_02_1_89 1 4 're VBP (VP* be - - Ross_Geller * -
+1_02_1_90 1 5 welling VBG (VP* well - - Ross_Geller * -
+1_02_1_91 1 6 up RP (PRT*))) up - - Ross_Geller * -
+1_02_1_92 1 7 . . *)) . - - Ross_Geller * -
+
+1_02_1_93 1 0 Am VBP (TOP(S(VP* be - - Monica_Geller * -
+1_02_1_94 1 1 not RB *) not - - Monica_Geller * -
+1_02_1_95 1 2 ! . *)) ! - - Monica_Geller * -
+
+1_02_1_96 1 0 You PRP (TOP(S(NP*) you - - Ross_Geller * -
+1_02_1_97 1 1 're VBP (VP* be - - Ross_Geller * -
+1_02_1_98 1 2 gon VBG (VP* gon - - Ross_Geller * -
+1_02_1_99 1 3 na TO (S(VP* na - - Ross_Geller * -
+1_02_1_100 1 4 be VB (VP* be - - Ross_Geller * -
+1_02_1_101 1 5 an DT (NP* a - - Ross_Geller * -
+1_02_1_102 1 6 aunt NN *)))))) aunt - - Ross_Geller * (4)
+1_02_1_103 1 7 . . *)) . - - Ross_Geller * -
+
+1_02_1_104 1 0 Oh UH (TOP(FRAG(INTJ*) oh - - Monica_Geller * -
+1_02_1_105 1 1 shut VBN * shut - - Monica_Geller * -
+1_02_1_106 1 2 up RP (ADVP*) up - - Monica_Geller * -
+1_02_1_107 1 3 ! . *)) ! - - Monica_Geller * -
+
+1_02_1_108 1 0 Hi NN (TOP(NP(NP*) hi - - Rachel_Green * -
+1_02_1_109 1 1 , , * , - - Rachel_Green * -
+1_02_1_110 1 2 Mindy NNP (NP*) Mindy - - Rachel_Green (PERSON) (8)
+1_02_1_111 1 3 . . *)) . - - Rachel_Green * -
+
+1_02_1_112 1 0 Hi NN (TOP(NP(NP(NP*) hi - - Rachel_Green * -
+1_02_1_113 1 1 , , * , - - Rachel_Green * -
+1_02_1_114 1 2 it PRP (NP*)) it - - Rachel_Green * -
+1_02_1_115 1 3 - : * - - - Rachel_Green * -
+1_02_1_116 1 4 it PRP (S(NP*) it - - Rachel_Green * -
+1_02_1_117 1 5 's VBZ (VP* be - - Rachel_Green * -
+1_02_1_118 1 6 Rachel NNP (NP*))) Rachel - - Rachel_Green (PERSON) -
+1_02_1_119 1 7 . . *)) . - - Rachel_Green * -
+
+1_02_1_120 1 0 Yeah UH (TOP(S(INTJ*) yeah - - Rachel_Green * -
+1_02_1_121 1 1 , , * , - - Rachel_Green * -
+1_02_1_122 1 2 I PRP (NP*) I - - Rachel_Green * -
+1_02_1_123 1 3 'm VBP (VP* be - - Rachel_Green * -
+1_02_1_124 1 4 fine JJ (ADJP*)) fine - - Rachel_Green * -
+1_02_1_125 1 5 . . *)) . - - Rachel_Green * -
+
+1_02_1_126 1 0 I PRP (TOP(FRAG(NP*) I - - Rachel_Green * -
+1_02_1_127 1 1 - : * - - - Rachel_Green * -
+1_02_1_128 1 2 I PRP (S(NP*) I - - Rachel_Green * -
+1_02_1_129 1 3 saw VBD (VP* see - - Rachel_Green * -
+1_02_1_130 1 4 Barry NNP (NP-TMP* Barry - - Rachel_Green (PERSON) (9)
+1_02_1_131 1 5 today NN *))) today - - Rachel_Green (DATE) -
+1_02_1_132 1 6 . . *)) . - - Rachel_Green * -
+
+1_02_1_133 1 0 Oh UH (TOP(S(INTJ*) oh - - Rachel_Green * -
+1_02_1_134 1 1 , , * , - - Rachel_Green * -
+1_02_1_135 1 2 yeah JJ (NP(NP*) yeah - - Rachel_Green * -
+1_02_1_136 1 3 , , * , - - Rachel_Green * -
+1_02_1_137 1 4 yeah JJ (NP* yeah - - Rachel_Green * -
+1_02_1_138 1 5 he PRP (NP(NP*) he - - Rachel_Green * (9)
+1_02_1_139 1 6 - : * - - - Rachel_Green * -
+1_02_1_140 1 7 he PRP (NP*)))) he - - Rachel_Green * (9)
+1_02_1_141 1 8 told VBD (VP* tell - - Rachel_Green * -
+1_02_1_142 1 9 me PRP (NP*)) I - - Rachel_Green * -
+1_02_1_143 1 10 . . *)) . - - Rachel_Green * -
+
+1_02_1_144 1 0 No DT (TOP(S(NP*) no - - Rachel_Green * -
+1_02_1_145 1 1 , , * , - - Rachel_Green * -
+1_02_1_146 1 2 no DT (ADVP*) no - - Rachel_Green * -
+1_02_1_147 1 3 , , * , - - Rachel_Green * -
+1_02_1_148 1 4 it PRP (NP*) it - - Rachel_Green * -
+1_02_1_149 1 5 's VBZ (VP* be - - Rachel_Green * -
+1_02_1_150 1 6 okay JJ (ADJP*)) okay - - Rachel_Green * -
+1_02_1_151 1 7 . . *)) . - - Rachel_Green * -
+
+1_02_1_152 1 0 I PRP (TOP(S(S(NP*) I - - Rachel_Green * -
+1_02_1_153 1 1 hope VBP (VP* hope - - Rachel_Green * -
+1_02_1_154 1 2 you PRP (NP*) you - - Rachel_Green * -
+1_02_1_155 1 3 two CD (SBAR(S(NP*) two - - Rachel_Green (NUMBER) -
+1_02_1_156 1 4 are VBP (VP* be - - Rachel_Green * -
+1_02_1_157 1 5 very RB (ADJP* very - - Rachel_Green * -
+1_02_1_158 1 6 happy JJ *)))))) happy - - Rachel_Green * -
+1_02_1_159 1 7 , , * , - - Rachel_Green * -
+1_02_1_160 1 8 I PRP (NP*) I - - Rachel_Green * -
+1_02_1_161 1 9 really RB (ADVP*) really - - Rachel_Green * -
+1_02_1_162 1 10 do VBP (VP*) do - - Rachel_Green * -
+1_02_1_163 1 11 . . *)) . - - Rachel_Green * -
+
+1_02_1_164 1 0 Oh UH (TOP(S(S(INTJ* oh - - Rachel_Green * -
+1_02_1_165 1 1 , , * , - - Rachel_Green * -
+1_02_1_166 1 2 oh UH *) oh - - Rachel_Green * -
+1_02_1_167 1 3 , , * , - - Rachel_Green * -
+1_02_1_168 1 4 and CC (S* and - - Rachel_Green * -
+1_02_1_169 1 5 Mind NNP (NP(NP*) Mind - - Rachel_Green * -
+1_02_1_170 1 6 , , * , - - Rachel_Green * -
+1_02_1_171 1 7 y'know NN (FRAG(FRAG(NP*) y'know - - Rachel_Green * -
+1_02_1_172 1 8 , , * , - - Rachel_Green * -
+1_02_1_173 1 9 if IN (ADVP*)) if - - Rachel_Green * -
+1_02_1_174 1 10 - : * - - - Rachel_Green * -
+1_02_1_175 1 11 if IN (FRAG* if - - Rachel_Green * -
+1_02_1_176 1 12 everything NN (NP*)))) everything - - Rachel_Green * -
+1_02_1_177 1 13 works VBZ (VP* work - - Rachel_Green * -
+1_02_1_178 1 14 out RP (PRT*))) out - - Rachel_Green * -
+1_02_1_179 1 15 , , * , - - Rachel_Green * -
+1_02_1_180 1 16 and CC * and - - Rachel_Green * -
+1_02_1_181 1 17 you PRP (S(NP* you - - Rachel_Green * -
+1_02_1_182 1 18 guys NNS *) guy - - Rachel_Green * -
+1_02_1_183 1 19 end VB (VP* end - - Rachel_Green * -
+1_02_1_184 1 20 up RP (PRT*) up - - Rachel_Green * -
+1_02_1_185 1 21 getting VBG (S(VP(VP* get - - Rachel_Green * -
+1_02_1_186 1 22 married JJ (ADJP*)) married - - Rachel_Green * -
+1_02_1_187 1 23 and CC * and - - Rachel_Green * -
+1_02_1_188 1 24 having VBG (VP* have - - Rachel_Green * -
+1_02_1_189 1 25 kids NNS (NP(NP*) kid - - Rachel_Green * -
+1_02_1_190 1 26 - : * - - - Rachel_Green * -
+1_02_1_191 1 27 and CC * and - - Rachel_Green * -
+1_02_1_192 1 28 everything NN (NP*)))))))) everything - - Rachel_Green * -
+1_02_1_193 1 29 - : * - - - Rachel_Green * -
+1_02_1_194 1 30 I PRP (S(NP*) I - - Rachel_Green * -
+1_02_1_195 1 31 just RB (ADVP*) just - - Rachel_Green * -
+1_02_1_196 1 32 hope VBP (VP* hope - - Rachel_Green * -
+1_02_1_197 1 33 they PRP (S(NP*) they - - Rachel_Green * -
+1_02_1_198 1 34 have VB (VP* have - - Rachel_Green * -
+1_02_1_199 1 35 his PRP$ (NP* he - - Rachel_Green * (9)
+1_02_1_200 1 36 old JJ * old - - Rachel_Green * -
+1_02_1_201 1 37 hairline NN * hairline - - Rachel_Green * -
+1_02_1_202 1 38 and CC * and - - Rachel_Green * -
+1_02_1_203 1 39 your PRP$ * you - - Rachel_Green * -
+1_02_1_204 1 40 old JJ * old - - Rachel_Green * -
+1_02_1_205 1 41 nose NN *))))) nose - - Rachel_Green * -
+1_02_1_206 1 42 . . *)) . - - Rachel_Green * -
+
+1_02_1_207 1 0 Okay UH (TOP(S(S(INTJ*) okay - - Rachel_Green * -
+1_02_1_208 1 1 , , * , - - Rachel_Green * -
+1_02_1_209 1 2 I PRP (NP*) I - - Rachel_Green * -
+1_02_1_210 1 3 know VBP (VP* know - - Rachel_Green * -
+1_02_1_211 1 4 it PRP (SBAR(S(NP*) it - - Rachel_Green * -
+1_02_1_212 1 5 was VBD (VP* be - - Rachel_Green * -
+1_02_1_213 1 6 a DT (NP* a - - Rachel_Green * -
+1_02_1_214 1 7 cheap JJ * cheap - - Rachel_Green * -
+1_02_1_215 1 8 shot NN *)))))) shot - - Rachel_Green * -
+1_02_1_216 1 9 , , * , - - Rachel_Green * -
+1_02_1_217 1 10 but CC * but - - Rachel_Green * -
+1_02_1_218 1 11 I PRP (S(NP*) I - - Rachel_Green * -
+1_02_1_219 1 12 feel VBP (VP* feel - - Rachel_Green * -
+1_02_1_220 1 13 so RB (NP* so - - Rachel_Green * -
+1_02_1_221 1 14 much RB * much - - Rachel_Green * -
+1_02_1_222 1 15 better JJR *) better - - Rachel_Green * -
+1_02_1_223 1 16 now RB (ADVP*))) now - - Rachel_Green (DATE) -
+1_02_1_224 1 17 . . *)) . - - Rachel_Green * -
+
+#end document
+#begin document (/friends-s01e03); part 000
+1_03_0_1 0 0 Ooh NNP (TOP(NP(NP*) Ooh - - Chandler_Bing * -
+1_03_0_2 0 1 , , * , - - Chandler_Bing * -
+1_03_0_3 0 2 Lambchop NNP (NP*) Lambchop - - Chandler_Bing (PERSON) -
+1_03_0_4 0 3 . . *)) . - - Chandler_Bing * -
+
+1_03_0_5 0 0 How WRB (TOP(SBARQ(WHADJP* how - - Chandler_Bing * -
+1_03_0_6 0 1 old JJ *) old - - Chandler_Bing * -
+1_03_0_7 0 2 is VBZ (SQ* be - - Chandler_Bing * -
+1_03_0_8 0 3 that IN (PP* that - - Chandler_Bing * -
+1_03_0_9 0 4 sock NN (NP*))) sock - - Chandler_Bing * -
+1_03_0_10 0 5 ? . *)) ? - - Chandler_Bing * -
+
+1_03_0_11 0 0 If IN (TOP(S(SBAR* if - - Chandler_Bing * -
+1_03_0_12 0 1 I PRP (S(NP*) I - - Chandler_Bing * -
+1_03_0_13 0 2 had VBD (VP* have - - Chandler_Bing * -
+1_03_0_14 0 3 a DT (NP(NP* a - - Chandler_Bing * -
+1_03_0_15 0 4 sock NN *) sock - - Chandler_Bing * -
+1_03_0_16 0 5 on IN (PP* on - - Chandler_Bing * -
+1_03_0_17 0 6 my PRP$ (NP* my - - Chandler_Bing * -
+1_03_0_18 0 7 hand NN *))) hand - - Chandler_Bing * -
+1_03_0_19 0 8 for IN (PP* for - - Chandler_Bing * -
+1_03_0_20 0 9 thirty CD (NP* thirty - - Chandler_Bing (DURATION* -
+1_03_0_21 0 10 years NNS *))))) year - - Chandler_Bing *) -
+1_03_0_22 0 11 it PRP (NP*) it - - Chandler_Bing * -
+1_03_0_23 0 12 'd MD (VP* would - - Chandler_Bing * -
+1_03_0_24 0 13 be VB (VP* be - - Chandler_Bing * -
+1_03_0_25 0 14 talking VBG (VP* talk - - Chandler_Bing * -
+1_03_0_26 0 15 too RB (ADVP*)))) too - - Chandler_Bing * -
+1_03_0_27 0 16 . . *)) . - - Chandler_Bing * -
+
+1_03_0_28 0 0 Okay UH (TOP(INTJ* okay - - Ross_Geller * -
+1_03_0_29 0 1 . . *)) . - - Ross_Geller * -
+
+1_03_0_30 0 0 I PRP (TOP(S(NP*) I - - Ross_Geller * -
+1_03_0_31 0 1 think VBP (VP* think - - Ross_Geller * -
+1_03_0_32 0 2 it PRP (SBAR(S(NP*) it - - Ross_Geller * -
+1_03_0_33 0 3 's VBZ (VP* be - - Ross_Geller * -
+1_03_0_34 0 4 time NN (NP* time - - Ross_Geller * -
+1_03_0_35 0 5 to TO (S(VP* to - - Ross_Geller * -
+1_03_0_36 0 6 change VB (VP* change - - Ross_Geller * -
+1_03_0_37 0 7 somebody NN (NP(NP* somebody - - Ross_Geller * -
+1_03_0_38 0 8 's POS *) 's - - Ross_Geller * -
+1_03_0_39 0 9 nicotine NN * nicotine - - Ross_Geller * -
+1_03_0_40 0 10 patch NN *))))))))) patch - - Ross_Geller * -
+1_03_0_41 0 11 . . *)) . - - Ross_Geller * -
+
+1_03_0_42 0 0 Hey UH (TOP(INTJ* hey - - Monica_Geller * -
+1_03_0_43 0 1 . . *)) . - - Monica_Geller * -
+
+1_03_0_44 0 0 Where WRB (TOP(SBARQ(WHADVP*) where - - Monica_Geller * -
+1_03_0_45 0 1 's POS (SQ* 's - - Monica_Geller * -
+1_03_0_46 0 2 Joey NNP (NP*)) Joey - - Monica_Geller (PERSON) (10)
+1_03_0_47 0 3 ? . *)) ? - - Monica_Geller * -
+
+1_03_0_48 0 0 Joey NNP (TOP(S(S(NP*) Joey - - Chandler_Bing (PERSON) (10)
+1_03_0_49 0 1 ate VBD (VP* eat - - Chandler_Bing * -
+1_03_0_50 0 2 my PRP$ (NP(NP* my - - Chandler_Bing * -
+1_03_0_51 0 3 last JJ * last - - Chandler_Bing * -
+1_03_0_52 0 4 stick NN *) stick - - Chandler_Bing * -
+1_03_0_53 0 5 of IN (PP* of - - Chandler_Bing * -
+1_03_0_54 0 6 gum NN (NP*))))) gum - - Chandler_Bing * -
+1_03_0_55 0 7 , , * , - - Chandler_Bing * -
+1_03_0_56 0 8 so IN * so - - Chandler_Bing * -
+1_03_0_57 0 9 I PRP (S(NP*) I - - Chandler_Bing * -
+1_03_0_58 0 10 killed VBD (VP* kill - - Chandler_Bing * -
+1_03_0_59 0 11 him PRP (NP*))) he - - Chandler_Bing * (10)
+1_03_0_60 0 12 . . *)) . - - Chandler_Bing * -
+
+1_03_0_61 0 0 Do VBP (TOP(SQ* do - - Chandler_Bing * -
+1_03_0_62 0 1 you PRP (NP*) you - - Chandler_Bing * -
+1_03_0_63 0 2 think VB (VP* think - - Chandler_Bing * -
+1_03_0_64 0 3 that DT (SBAR(S(NP*) that - - Chandler_Bing * -
+1_03_0_65 0 4 was VBD (VP* be - - Chandler_Bing * -
+1_03_0_66 0 5 wrong JJ (ADJP*))))) wrong - - Chandler_Bing * -
+1_03_0_67 0 6 ? . *)) ? - - Chandler_Bing * -
+
+1_03_0_68 0 0 I PRP (TOP(S(NP*) I - - Rachel_Green * -
+1_03_0_69 0 1 think VBP (VP* think - - Rachel_Green * -
+1_03_0_70 0 2 he PRP (SBAR(S(NP*) he - - Rachel_Green * (10)
+1_03_0_71 0 3 's VBZ (VP* be - - Rachel_Green * -
+1_03_0_72 0 4 across IN (PP* across - - Rachel_Green * -
+1_03_0_73 0 5 the DT (NP* the - - Rachel_Green * -
+1_03_0_74 0 6 hall NN *)))))) hall - - Rachel_Green * -
+1_03_0_75 0 7 . . *)) . - - Rachel_Green * -
+
+1_03_0_76 0 0 Thanks NNS (TOP(NP* thanks - - Monica_Geller * -
+1_03_0_77 0 1 . . *)) . - - Monica_Geller * -
+
+1_03_0_78 0 0 There EX (TOP(NP(NP*) there - - Ross_Geller * -
+1_03_0_79 0 1 y'go FW (NP*) y'go - - Ross_Geller * -
+1_03_0_80 0 2 . . *)) . - - Ross_Geller * -
+
+1_03_0_81 0 0 Ooh NNP (TOP(S(NP*) Ooh - - Chandler_Bing * -
+1_03_0_82 0 1 , , * , - - Chandler_Bing * -
+1_03_0_83 0 2 I PRP (NP*) I - - Chandler_Bing * -
+1_03_0_84 0 3 'm VBP (VP* be - - Chandler_Bing * -
+1_03_0_85 0 4 alive JJ (ADJP* alive - - Chandler_Bing * -
+1_03_0_86 0 5 with IN (PP* with - - Chandler_Bing * -
+1_03_0_87 0 6 pleasure NN (NP*))) pleasure - - Chandler_Bing * -
+1_03_0_88 0 7 now RB (ADVP*)) now - - Chandler_Bing (DATE) -
+1_03_0_89 0 8 . . *)) . - - Chandler_Bing * -
+
+1_03_0_90 0 0 Hey UH (TOP(S(PP* hey - - Ross_Geller * -
+1_03_0_91 0 1 Pheebs NNPS (NP*)) Pheebs - - Ross_Geller * (11)
+1_03_0_92 0 2 , , * , - - Ross_Geller * -
+1_03_0_93 0 3 you PRP (NP*) you - - Ross_Geller * -
+1_03_0_94 0 4 gon VBP (VP* gon - - Ross_Geller * -
+1_03_0_95 0 5 na TO (S(VP* na - - Ross_Geller * -
+1_03_0_96 0 6 have VB (VP* have - - Ross_Geller * -
+1_03_0_97 0 7 the DT (NP(NP(NP* the - - Ross_Geller * -
+1_03_0_98 0 8 rest NN *) rest - - Ross_Geller * -
+1_03_0_99 0 9 of IN (PP* of - - Ross_Geller * -
+1_03_0_100 0 10 that DT (NP* that - - Ross_Geller * -
+1_03_0_101 0 11 Pop NN *))) pop - - Ross_Geller * -
+1_03_0_102 0 12 - : * - - - Ross_Geller * -
+1_03_0_103 0 13 Tart NNP (NP* Tart - - Ross_Geller * -
+1_03_0_104 0 14 ?.. CD *)))))))) ?.. - - Ross_Geller (NUMBER) -
+
+1_03_0_105 0 0 Pheebs NNP (TOP(FRAG(NP*) Pheebs - - Ross_Geller * -
+1_03_0_106 0 1 ? . *)) ? - - Ross_Geller * -
+
+1_03_0_107 0 0 Does VBZ (TOP(SQ* do - - Phoebe_Buffay * -
+1_03_0_108 0 1 anyone NN (NP*) anyone - - Phoebe_Buffay * -
+1_03_0_109 0 2 want VB (VP* want - - Phoebe_Buffay * -
+1_03_0_110 0 3 the DT (NP(NP(NP* the - - Phoebe_Buffay * -
+1_03_0_111 0 4 rest NN *) rest - - Phoebe_Buffay * -
+1_03_0_112 0 5 of IN (PP* of - - Phoebe_Buffay * -
+1_03_0_113 0 6 this DT (NP* this - - Phoebe_Buffay * -
+1_03_0_114 0 7 Pop NN *))) pop - - Phoebe_Buffay * -
+1_03_0_115 0 8 - : * - - - Phoebe_Buffay * -
+1_03_0_116 0 9 Tart NNP (NP*))) Tart - - Phoebe_Buffay * -
+1_03_0_117 0 10 ? . *)) ? - - Phoebe_Buffay * -
+
+1_03_0_118 0 0 Hey UH (TOP(S(INTJ*) hey - - Ross_Geller * -
+1_03_0_119 0 1 , , * , - - Ross_Geller * -
+1_03_0_120 0 2 I PRP (NP*) I - - Ross_Geller * -
+1_03_0_121 0 3 might MD (VP*) might - - Ross_Geller * -
+1_03_0_122 0 4 ! . *)) ! - - Ross_Geller * -
+
+1_03_0_123 0 0 Sorry JJ (TOP(FRAG(ADJP*) sorry - - Phoebe_Buffay * -
+1_03_0_124 0 1 . . *)) . - - Phoebe_Buffay * -
+
+1_03_0_125 0 0 .. NN (TOP(NP*)) .. - - Phoebe_Buffay * -
+
+1_03_0_126 0 0 Y'know NNP (TOP(S(NP(NP*) Y'know - - Phoebe_Buffay * -
+1_03_0_127 0 1 , , * , - - Phoebe_Buffay * -
+1_03_0_128 0 2 those DT (NP* those - - Phoebe_Buffay * -
+1_03_0_129 0 3 stupid JJ (ADJP*) stupid - - Phoebe_Buffay * -
+1_03_0_130 0 4 soda NN * soda - - Phoebe_Buffay * -
+1_03_0_131 0 5 people NNS *)) people - - Phoebe_Buffay * -
+1_03_0_132 0 6 gave VBD (VP* give - - Phoebe_Buffay * -
+1_03_0_133 0 7 me PRP (NP*) I - - Phoebe_Buffay * -
+1_03_0_134 0 8 seven CD (NP(NP(QP* seven - - Phoebe_Buffay (MONEY* -
+1_03_0_135 0 9 thousand CD *) thousand - - Phoebe_Buffay * -
+1_03_0_136 0 10 dollars NNS *) dollar - - Phoebe_Buffay *) -
+1_03_0_137 0 11 for IN (PP* for - - Phoebe_Buffay * -
+1_03_0_138 0 12 the DT (NP* the - - Phoebe_Buffay * -
+1_03_0_139 0 13 thumb NN *)))) thumb - - Phoebe_Buffay * -
+1_03_0_140 0 14 . . *)) . - - Phoebe_Buffay * -
+
+1_03_0_141 0 0 You PRP (TOP(S(NP*) you - - All * -
+1_03_0_142 0 1 're VBP (VP* be - - All * -
+1_03_0_143 0 2 kidding VBG (VP*)) kid - - All * -
+1_03_0_144 0 3 . . *)) . - - All * -
+
+1_03_0_145 0 0 Oh UH (TOP(S(VP(NP(INTJ*) oh - - All * -
+1_03_0_146 0 1 my PRP$ (NP* my - - All * -
+1_03_0_147 0 2 God NNP *))) God - - All * -
+1_03_0_148 0 3 . . *)) . - - All * -
+
+1_03_0_149 0 0 And CC (TOP(S* and - - Phoebe_Buffay * -
+1_03_0_150 0 1 on IN (PP* on - - Phoebe_Buffay * -
+1_03_0_151 0 2 my PRP$ (NP(NP* my - - Phoebe_Buffay * -
+1_03_0_152 0 3 way NN *) way - - Phoebe_Buffay * -
+1_03_0_153 0 4 over IN (PP* over - - Phoebe_Buffay * -
+1_03_0_154 0 5 here RB (NP*)))) here - - Phoebe_Buffay * -
+1_03_0_155 0 6 , , * , - - Phoebe_Buffay * -
+1_03_0_156 0 7 I PRP (NP*) I - - Phoebe_Buffay * -
+1_03_0_157 0 8 stepped VBD (VP* step - - Phoebe_Buffay * -
+1_03_0_158 0 9 in IN (PP* in - - Phoebe_Buffay * -
+1_03_0_159 0 10 gum NN (NP*))) gum - - Phoebe_Buffay * -
+1_03_0_160 0 11 . . *)) . - - Phoebe_Buffay * -
+
+1_03_0_161 0 0 ... : (TOP(NP*)) ... - - Phoebe_Buffay * -
+
+1_03_0_162 0 0 What WP (TOP(SBARQ(WHNP*) what - - Phoebe_Buffay * -
+1_03_0_163 0 1 is VBZ (SQ(VP* be - - Phoebe_Buffay * -
+1_03_0_164 0 2 up RP (ADVP* up - - Phoebe_Buffay * -
+1_03_0_165 0 3 with IN (PP* with - - Phoebe_Buffay * -
+1_03_0_166 0 4 the DT (NP* the - - Phoebe_Buffay * -
+1_03_0_167 0 5 universe NN *))) universe - - Phoebe_Buffay * -
+1_03_0_168 0 6 ?! IN (PP*))))) ?! - - Phoebe_Buffay * -
+
+1_03_0_169 0 0 What WP (TOP(SBARQ(WHNP*) what - - Joey_Tribbiani * -
+1_03_0_170 0 1 's VBZ (SQ(VP* be - - Joey_Tribbiani * -
+1_03_0_171 0 2 going VBG (VP* go - - Joey_Tribbiani * -
+1_03_0_172 0 3 on IN (PP*)))) on - - Joey_Tribbiani * -
+1_03_0_173 0 4 ? . *)) ? - - Joey_Tribbiani * -
+
+1_03_0_174 0 0 Nothing NN (TOP(NP* nothing - - Monica_Geller * -
+1_03_0_175 0 1 . . *)) . - - Monica_Geller * -
+
+1_03_0_176 0 0 I PRP (TOP(S(NP*) I - - Monica_Geller * -
+1_03_0_177 0 1 just RB (ADVP*) just - - Monica_Geller * -
+1_03_0_178 0 2 think VBP (VP* think - - Monica_Geller * -
+1_03_0_179 0 3 it PRP (SBAR(S(NP*) it - - Monica_Geller * -
+1_03_0_180 0 4 's VBZ (VP* be - - Monica_Geller * -
+1_03_0_181 0 5 nice JJ (ADJP*) nice - - Monica_Geller * -
+1_03_0_182 0 6 when WRB (SBAR(WHADVP*) when - - Monica_Geller * -
+1_03_0_183 0 7 we PRP (S(NP*) we - - Monica_Geller * -
+1_03_0_184 0 8 're VBP (VP* be - - Monica_Geller * -
+1_03_0_185 0 9 all DT (ADVP* all - - Monica_Geller * -
+1_03_0_186 0 10 here RB *) here - - Monica_Geller * -
+1_03_0_187 0 11 together RB (ADVP*)))))))) together - - Monica_Geller * -
+1_03_0_188 0 12 . . *)) . - - Monica_Geller * -
+
+1_03_0_189 0 0 Even RB (TOP(ADJP(ADJP* even - - Joey_Tribbiani * -
+1_03_0_190 0 1 nicer JJR *) nicer - - Joey_Tribbiani * -
+1_03_0_191 0 2 when WRB (SBAR(WHADVP*) when - - Joey_Tribbiani * -
+1_03_0_192 0 3 everyone NN (S(NP*) everyone - - Joey_Tribbiani * -
+1_03_0_193 0 4 gets VBZ (VP* get - - Joey_Tribbiani * -
+1_03_0_194 0 5 to TO (S(VP* to - - Joey_Tribbiani * -
+1_03_0_195 0 6 wear VB (VP* wear - - Joey_Tribbiani * -
+1_03_0_196 0 7 their PRP$ (NP* they - - Joey_Tribbiani * -
+1_03_0_197 0 8 underwear NN *) underwear - - Joey_Tribbiani * -
+1_03_0_198 0 9 .. IN (PP*))))))))) .. - - Joey_Tribbiani * -
+
+1_03_0_199 0 0 Uh RB (TOP(FRAG(ADVP*) uh - - Rachel_Green * -
+1_03_0_200 0 1 , , * , - - Rachel_Green * -
+1_03_0_201 0 2 Joey NNP (ADVP*) Joey - - Rachel_Green (PERSON) (10)
+1_03_0_202 0 3 .. NNP (NP*))) .. - - Rachel_Green * -
+
+1_03_0_203 0 0 Oh UH (TOP(FRAG(INTJ*) oh - - Joey_Tribbiani * -
+1_03_0_204 0 1 , , * , - - Joey_Tribbiani * -
+1_03_0_205 0 2 God NNP (NP*) God - - Joey_Tribbiani * -
+1_03_0_206 0 3 ! . *)) ! - - Joey_Tribbiani * -
+
+1_03_0_207 0 0 Okay UH (TOP(INTJ* okay - - Monica_Geller * -
+1_03_0_208 0 1 .. SYM *)) .. - - Monica_Geller * -
+
+1_03_0_209 0 0 Oh UH (TOP(INTJ* oh - - All * -
+1_03_0_210 0 1 ! . *)) ! - - All * -
+
+1_03_0_211 0 0 That DT (TOP(S(NP*) that - - All * -
+1_03_0_212 0 1 was VBD (VP* be - - All * -
+1_03_0_213 0 2 Lambchop NNP (NP*)) Lambchop - - All (PERSON) -
+1_03_0_214 0 3 ! . *)) ! - - All * -
+
+1_03_0_215 0 0 Please UH (TOP(S(FRAG(INTJ*) please - - Monica_Geller * -
+1_03_0_216 0 1 , , * , - - Monica_Geller * -
+1_03_0_217 0 2 guys NNS (NP*)) guy - - Monica_Geller * -
+1_03_0_218 0 3 , , * , - - Monica_Geller * -
+1_03_0_219 0 4 we PRP (NP*) we - - Monica_Geller * -
+1_03_0_220 0 5 have VBP (VP* have - - Monica_Geller * -
+1_03_0_221 0 6 to TO (S(VP* to - - Monica_Geller * -
+1_03_0_222 0 7 talk VB (VP*)))) talk - - Monica_Geller * -
+1_03_0_223 0 8 . . *)) . - - Monica_Geller * -
+
+1_03_0_224 0 0 Wait VB (TOP(S(S(VP(VP*) wait - - Phoebe_Buffay * -
+1_03_0_225 0 1 , , * , - - Phoebe_Buffay * -
+1_03_0_226 0 2 wait VB (VP*))) wait - - Phoebe_Buffay * -
+1_03_0_227 0 3 , , * , - - Phoebe_Buffay * -
+1_03_0_228 0 4 I PRP (NP*) I - - Phoebe_Buffay * -
+1_03_0_229 0 5 'm VBP (VP* be - - Phoebe_Buffay * -
+1_03_0_230 0 6 getting VBG (VP* get - - Phoebe_Buffay * -
+1_03_0_231 0 7 a DT (NP* a - - Phoebe_Buffay * -
+1_03_0_232 0 8 deja NN * deja - - Phoebe_Buffay * -
+1_03_0_233 0 9 vu NN *))) vu - - Phoebe_Buffay * -
+1_03_0_234 0 10 ... : *)) ... - - Phoebe_Buffay * -
+
+1_03_0_235 0 0 no DT (TOP(S(NP*) no - - Phoebe_Buffay * -
+1_03_0_236 0 1 , , * , - - Phoebe_Buffay * -
+1_03_0_237 0 2 I PRP (NP*) I - - Phoebe_Buffay * -
+1_03_0_238 0 3 'm VBP (VP* be - - Phoebe_Buffay * -
+1_03_0_239 0 4 not RB *) not - - Phoebe_Buffay * -
+1_03_0_240 0 5 . . *)) . - - Phoebe_Buffay * -
+
+1_03_0_241 0 0 Alright NNP (TOP(S(NP*) Alright - - Monica_Geller * -
+1_03_0_242 0 1 , , * , - - Monica_Geller * -
+1_03_0_243 0 2 we PRP (NP*) we - - Monica_Geller * -
+1_03_0_244 0 3 have VBP (VP* have - - Monica_Geller * -
+1_03_0_245 0 4 to TO (S(VP* to - - Monica_Geller * -
+1_03_0_246 0 5 talk VB (VP*)))) talk - - Monica_Geller * -
+1_03_0_247 0 6 . . *)) . - - Monica_Geller * -
+
+1_03_0_248 0 0 There EX (TOP(S(NP*) there - - Phoebe_Buffay * -
+1_03_0_249 0 1 it PRP (NP*) it - - Phoebe_Buffay * -
+1_03_0_250 0 2 is VBZ (VP*) be - - Phoebe_Buffay * -
+1_03_0_251 0 3 ! . *)) ! - - Phoebe_Buffay * -
+
+1_03_0_252 0 0 Okay UH (TOP(INTJ* okay - - Monica_Geller * -
+1_03_0_253 0 1 . . *)) . - - Monica_Geller * -
+
+1_03_0_254 0 0 It PRP (TOP(S(S(NP*) it - - Monica_Geller * -
+1_03_0_255 0 1 's VBZ (VP*)) be - - Monica_Geller * -
+1_03_0_256 0 2 - : * - - - Monica_Geller * -
+1_03_0_257 0 3 it PRP (S(NP*) it - - Monica_Geller * -
+1_03_0_258 0 4 's VBZ (VP* be - - Monica_Geller * -
+1_03_0_259 0 5 about IN (PP* about - - Monica_Geller * -
+1_03_0_260 0 6 Alan NNP (NP*)))) Alan - - Monica_Geller (PERSON) (12)
+1_03_0_261 0 7 . . *)) . - - Monica_Geller * -
+
+1_03_0_262 0 0 There EX (TOP(S(NP*) there - - Monica_Geller * -
+1_03_0_263 0 1 's VBZ (VP* be - - Monica_Geller * -
+1_03_0_264 0 2 something NN (NP*) something - - Monica_Geller * -
+1_03_0_265 0 3 that IN (SBAR* that - - Monica_Geller * -
+1_03_0_266 0 4 you PRP (S(NP*) you - - Monica_Geller * -
+1_03_0_267 0 5 should MD (VP* should - - Monica_Geller * -
+1_03_0_268 0 6 know VB (VP*))))) know - - Monica_Geller * -
+1_03_0_269 0 7 . . *)) . - - Monica_Geller * -
+
+1_03_0_270 0 0 I PRP (TOP(S(NP*) I - - Monica_Geller * -
+1_03_0_271 0 1 mean VBP (VP* mean - - Monica_Geller * -
+1_03_0_272 0 2 , , * , - - Monica_Geller * -
+1_03_0_273 0 3 there EX (SBAR(S(NP*) there - - Monica_Geller * -
+1_03_0_274 0 4 's VBZ (VP* be - - Monica_Geller * -
+1_03_0_275 0 5 really RB (ADVP*) really - - Monica_Geller * -
+1_03_0_276 0 6 no DT (NP* no - - Monica_Geller * -
+1_03_0_277 0 7 easy JJ * easy - - Monica_Geller * -
+1_03_0_278 0 8 way NN * way - - Monica_Geller * -
+1_03_0_279 0 9 to TO (S(VP* to - - Monica_Geller * -
+1_03_0_280 0 10 say VB (VP* say - - Monica_Geller * -
+1_03_0_281 0 11 this DT (NP* this - - Monica_Geller * -
+1_03_0_282 0 12 .. NN *))))))))))) .. - - Monica_Geller * -
+
+1_03_0_283 0 0 uh UH (TOP(INTJ* uh - - Monica_Geller * -
+1_03_0_284 0 1 .. FW *)) .. - - Monica_Geller * -
+
+1_03_0_285 0 0 I PRP (TOP(S(NP*) I - - Monica_Geller * -
+1_03_0_286 0 1 've VBP (VP* have - - Monica_Geller * -
+1_03_0_287 0 2 decided VBN (VP* decide - - Monica_Geller * -
+1_03_0_288 0 3 to TO (S(VP* to - - Monica_Geller * -
+1_03_0_289 0 4 break VB (VP* break - - Monica_Geller * -
+1_03_0_290 0 5 up RP (PRT*) up - - Monica_Geller * -
+1_03_0_291 0 6 with IN (PP* with - - Monica_Geller * -
+1_03_0_292 0 7 Alan NNP (NP*))))))) Alan - - Monica_Geller (PERSON) (12)
+1_03_0_293 0 8 . . *)) . - - Monica_Geller * -
+
+1_03_0_294 0 0 Is VBZ (TOP(SQ* be - - Ross_Geller * -
+1_03_0_295 0 1 there EX (NP*) there - - Ross_Geller * -
+1_03_0_296 0 2 somebody NN (NP(NP*) somebody - - Ross_Geller * -
+1_03_0_297 0 3 else RB (ADJP*)) else - - Ross_Geller * -
+1_03_0_298 0 4 ? . *)) ? - - Ross_Geller * -
+
+1_03_0_299 0 0 No DT (TOP(NP(NP*) no - - Monica_Geller * -
+1_03_0_300 0 1 , , * , - - Monica_Geller * -
+1_03_0_301 0 2 nononono JJ (NP* nononono - - Monica_Geller * -
+1_03_0_302 0 3 .. NN *))) .. - - Monica_Geller * -
+
+1_03_0_303 0 0 it PRP (TOP(S(NP*) it - - Monica_Geller * -
+1_03_0_304 0 1 's VBZ (VP* be - - Monica_Geller * -
+1_03_0_305 0 2 just RB (ADVP*) just - - Monica_Geller * -
+1_03_0_306 0 3 .. RB (ADVP*)))) .. - - Monica_Geller * -
+
+1_03_0_307 0 0 things NNS (TOP(S(NP*) thing - - Monica_Geller * -
+1_03_0_308 0 1 change VBP (VP*) change - - Monica_Geller * -
+1_03_0_309 0 2 . . *)) . - - Monica_Geller * -
+
+1_03_0_310 0 0 People NNS (TOP(S(NP*) people - - Monica_Geller * -
+1_03_0_311 0 1 change VBP (VP*) change - - Monica_Geller * -
+1_03_0_312 0 2 . . *)) . - - Monica_Geller * -
+
+1_03_0_313 0 0 We PRP (TOP(S(NP*) we - - Rachel_Green * -
+1_03_0_314 0 1 did VBD (VP* do - - Rachel_Green * -
+1_03_0_315 0 2 n't RB * not - - Rachel_Green * -
+1_03_0_316 0 3 change VB (VP* change - - Rachel_Green * -
+1_03_0_317 0 4 .. NN (NP*))))) .. - - Rachel_Green * -
+
+1_03_0_318 0 0 So IN (TOP(S* so - - Joey_Tribbiani * -
+1_03_0_319 0 1 that DT (NP*) that - - Joey_Tribbiani * -
+1_03_0_320 0 2 's VBZ (VP* be - - Joey_Tribbiani * -
+1_03_0_321 0 3 it PRP (NP*)) it - - Joey_Tribbiani * -
+1_03_0_322 0 4 ? . *)) ? - - Joey_Tribbiani * -
+
+1_03_0_323 0 0 It PRP (TOP(S(NP*) it - - Joey_Tribbiani * -
+1_03_0_324 0 1 's VBZ (VP* be - - Joey_Tribbiani * -
+1_03_0_325 0 2 over IN (ADJP*)) over - - Joey_Tribbiani * -
+1_03_0_326 0 3 ? . *)) ? - - Joey_Tribbiani * -
+
+1_03_0_327 0 0 Just RB (TOP(FRAG(PP* just - - Joey_Tribbiani * -
+1_03_0_328 0 1 like IN * like - - Joey_Tribbiani * -
+1_03_0_329 0 2 that DT (NP*)) that - - Joey_Tribbiani * -
+1_03_0_330 0 3 ? . *)) ? - - Joey_Tribbiani * -
+
+1_03_0_331 0 0 You PRP (TOP(S(NP*) you - - Phoebe_Buffay * -
+1_03_0_332 0 1 know VBP (VP* know - - Phoebe_Buffay * -
+1_03_0_333 0 2 .. RB (ADVP*)))) .. - - Phoebe_Buffay * -
+
+1_03_0_334 0 0 you PRP (TOP(S(S(NP*) you - - Phoebe_Buffay * -
+1_03_0_335 0 1 let VB (VP* let - - Phoebe_Buffay * -
+1_03_0_336 0 2 your PRP$ (NP* you - - Phoebe_Buffay * -
+1_03_0_337 0 3 guard NN *) guard - - Phoebe_Buffay * -
+1_03_0_338 0 4 down RB (ADVP*))) down - - Phoebe_Buffay * -
+1_03_0_339 0 5 , , * , - - Phoebe_Buffay * -
+1_03_0_340 0 6 you PRP (NP*) you - - Phoebe_Buffay * -
+1_03_0_341 0 7 start VBP (VP* start - - Phoebe_Buffay * -
+1_03_0_342 0 8 to TO (S(VP* to - - Phoebe_Buffay * -
+1_03_0_343 0 9 really RB (ADVP*) really - - Phoebe_Buffay * -
+1_03_0_344 0 10 care VB (VP* care - - Phoebe_Buffay * -
+1_03_0_345 0 11 about IN (PP* about - - Phoebe_Buffay * -
+1_03_0_346 0 12 someone NN (NP(NP*) someone - - Phoebe_Buffay * -
+1_03_0_347 0 13 , , * , - - Phoebe_Buffay * -
+1_03_0_348 0 14 and CC * and - - Phoebe_Buffay * -
+1_03_0_349 0 15 I PRP (NP*))) I - - Phoebe_Buffay * -
+1_03_0_350 0 16 just RB (ADVP*)))) just - - Phoebe_Buffay * -
+1_03_0_351 0 17 - : * - - - Phoebe_Buffay * -
+1_03_0_352 0 18 I PRP (NP*)) I - - Phoebe_Buffay * -
+1_03_0_353 0 19 - : *)) - - - Phoebe_Buffay * -
+
+1_03_0_354 0 0 Look VB (TOP(VP* look - - Monica_Geller * -
+1_03_0_355 0 1 , , * , - - Monica_Geller * -
+1_03_0_356 0 2 I PRP (S(NP(NP*) I - - Monica_Geller * -
+1_03_0_357 0 3 - : (PRN* - - - Monica_Geller * -
+1_03_0_358 0 4 I PRP (S(NP*) I - - Monica_Geller * -
+1_03_0_359 0 5 could MD (VP* could - - Monica_Geller * -
+1_03_0_360 0 6 go VB (VP* go - - Monica_Geller * -
+1_03_0_361 0 7 on IN (PP* on - - Monica_Geller * -
+1_03_0_362 0 8 pretending VBG (S(VP*)))))) pretend - - Monica_Geller * -
+1_03_0_363 0 9 - : *))))) - - - Monica_Geller * -
+
+1_03_0_364 0 0 Okay UH (TOP(INTJ* okay - - Joey_Tribbiani * -
+1_03_0_365 0 1 ! . *)) ! - - Joey_Tribbiani * -
+
+1_03_0_366 0 0 - : (TOP(S* - - - Monica_Geller * -
+1_03_0_367 0 1 but CC (S* but - - Monica_Geller * -
+1_03_0_368 0 2 that WDT (SBAR(WHNP*) that - - Monica_Geller * -
+1_03_0_369 0 3 would MD (S(VP* would - - Monica_Geller * -
+1_03_0_370 0 4 n't RB * not - - Monica_Geller * -
+1_03_0_371 0 5 be VB (VP* be - - Monica_Geller * -
+1_03_0_372 0 6 fair JJ (ADJP* fair - - Monica_Geller * -
+1_03_0_373 0 7 to TO (PP* to - - Monica_Geller * -
+1_03_0_374 0 8 me PRP (NP*))))))) I - - Monica_Geller * -
+1_03_0_375 0 9 , , * , - - Monica_Geller * -
+1_03_0_376 0 10 it PRP (NP*) it - - Monica_Geller * -
+1_03_0_377 0 11 would MD (VP* would - - Monica_Geller * -
+1_03_0_378 0 12 n't RB * not - - Monica_Geller * -
+1_03_0_379 0 13 be VB (VP* be - - Monica_Geller * -
+1_03_0_380 0 14 fair JJ (ADJP* fair - - Monica_Geller * -
+1_03_0_381 0 15 to TO (PP* to - - Monica_Geller * -
+1_03_0_382 0 16 Alan NNP (NP*)))))) Alan - - Monica_Geller (PERSON) (12)
+1_03_0_383 0 17 - : * - - - Monica_Geller * -
+1_03_0_384 0 18 It PRP (S(NP*) it - - Monica_Geller * -
+1_03_0_385 0 19 would MD (VP* would - - Monica_Geller * -
+1_03_0_386 0 20 n't RB * not - - Monica_Geller * -
+1_03_0_387 0 21 be VB (VP* be - - Monica_Geller * -
+1_03_0_388 0 22 fair JJ (ADJP* fair - - Monica_Geller * -
+1_03_0_389 0 23 to TO (PP* to - - Monica_Geller * -
+1_03_0_390 0 24 you PRP (NP*)))))) you - - Monica_Geller * -
+1_03_0_391 0 25 ! . *)) ! - - Monica_Geller * -
+
+1_03_0_392 0 0 Who WP (TOP(S(FRAG(WHNP*)) who - - Ross_Geller * -
+1_03_0_393 0 1 - : * - - - Ross_Geller * -
+1_03_0_394 0 2 who WP (S(NP*) who - - Ross_Geller * -
+1_03_0_395 0 3 wants VBZ (VP* want - - Ross_Geller * -
+1_03_0_396 0 4 fair NN (NP*))) fair - - Ross_Geller * -
+1_03_0_397 0 5 ? . *)) ? - - Ross_Geller * -
+
+1_03_0_398 0 0 Y'know NNP (TOP(S(NP*) Y'know - - Ross_Geller * -
+1_03_0_399 0 1 , , * , - - Ross_Geller * -
+1_03_0_400 0 2 I PRP (NP*) I - - Ross_Geller * -
+1_03_0_401 0 3 just RB (ADVP*) just - - Ross_Geller * -
+1_03_0_402 0 4 want VBP (VP* want - - Ross_Geller * -
+1_03_0_403 0 5 things NNS (NP*) thing - - Ross_Geller * -
+1_03_0_404 0 6 back RB (ADVP*)) back - - Ross_Geller * -
+1_03_0_405 0 7 . . *)) . - - Ross_Geller * -
+
+1_03_0_406 0 0 Y'know NNP (TOP(NP(NP*) Y'know - - Ross_Geller * -
+1_03_0_407 0 1 , , * , - - Ross_Geller * -
+1_03_0_408 0 2 the DT (NP(NP* the - - Ross_Geller * -
+1_03_0_409 0 3 way NN *) way - - Ross_Geller * -
+1_03_0_410 0 4 they PRP (SBAR(S(NP*) they - - Ross_Geller * -
+1_03_0_411 0 5 were VBD (VP*)))) be - - Ross_Geller * -
+1_03_0_412 0 6 . . *)) . - - Ross_Geller * -
+
+1_03_0_413 0 0 I PRP (TOP(S(NP*) I - - Monica_Geller * -
+1_03_0_414 0 1 'm VBP (VP* be - - Monica_Geller * -
+1_03_0_415 0 2 sorry JJ (NP(ADJP*) sorry - - Monica_Geller * -
+1_03_0_416 0 3 .. NN *)))) .. - - Monica_Geller * -
+
+1_03_0_417 0 0 Oh UH (TOP(S(INTJ*) oh - - Chandler_Bing * -
+1_03_0_418 0 1 , , * , - - Chandler_Bing * -
+1_03_0_419 0 2 she PRP (NP*) she - - Chandler_Bing * (12)
+1_03_0_420 0 3 's VBZ (VP* be - - Chandler_Bing * -
+1_03_0_421 0 4 sorry JJ (ADJP*)) sorry - - Chandler_Bing * -
+1_03_0_422 0 5 ! . *)) ! - - Chandler_Bing * -
+
+1_03_0_423 0 0 I PRP (TOP(S(NP*) I - - Chandler_Bing * -
+1_03_0_424 0 1 feel VBP (VP* feel - - Chandler_Bing * -
+1_03_0_425 0 2 better RB (ADVP*)) better - - Chandler_Bing * -
+1_03_0_426 0 3 ! . *)) ! - - Chandler_Bing * -
+
+1_03_0_427 0 0 I PRP (TOP(S(NP*) I - - Rachel_Green * -
+1_03_0_428 0 1 just RB (ADVP*) just - - Rachel_Green * -
+1_03_0_429 0 2 ca MD (VP* can - - Rachel_Green * -
+1_03_0_430 0 3 n't RB * not - - Rachel_Green * -
+1_03_0_431 0 4 believe VB (VP* believe - - Rachel_Green * -
+1_03_0_432 0 5 this DT (NP*))) this - - Rachel_Green * -
+1_03_0_433 0 6 ! . *)) ! - - Rachel_Green * -
+
+1_03_0_434 0 0 I PRP (TOP(S(NP*) I - - Rachel_Green * -
+1_03_0_435 0 1 mean VBP (VP* mean - - Rachel_Green * -
+1_03_0_436 0 2 , , * , - - Rachel_Green * -
+1_03_0_437 0 3 with IN (PP* with - - Rachel_Green * -
+1_03_0_438 0 4 the DT (NP(NP* the - - Rachel_Green * -
+1_03_0_439 0 5 holidays NNS *) holiday - - Rachel_Green * -
+1_03_0_440 0 6 coming VBG (VP* come - - Rachel_Green * -
+1_03_0_441 0 7 up RP (PRT*)) up - - Rachel_Green * -
+1_03_0_442 0 8 - : (PRN* - - - Rachel_Green * -
+1_03_0_443 0 9 I PRP (S(NP*) I - - Rachel_Green * -
+1_03_0_444 0 10 wanted VBD (VP* want - - Rachel_Green * -
+1_03_0_445 0 11 him PRP (S(NP*) he - - Rachel_Green * (12)
+1_03_0_446 0 12 to TO (VP* to - - Rachel_Green * -
+1_03_0_447 0 13 meet VB (VP* meet - - Rachel_Green * -
+1_03_0_448 0 14 my PRP$ (NP* my - - Rachel_Green * -
+1_03_0_449 0 15 family NN *)))))) family - - Rachel_Green * -
+1_03_0_450 0 16 - : *)))))) - - - Rachel_Green * -
+
+1_03_0_451 0 0 I PRP (TOP(S(NP*) I - - Monica_Geller * -
+1_03_0_452 0 1 'll MD (VP* will - - Monica_Geller * -
+1_03_0_453 0 2 meet VB (VP* meet - - Monica_Geller * -
+1_03_0_454 0 3 somone NN (S(NP*) somone - - Monica_Geller * -
+1_03_0_455 0 4 else RB (ADJP*)))) else - - Monica_Geller * -
+1_03_0_456 0 5 . . *)) . - - Monica_Geller * -
+
+1_03_0_457 0 0 There EX (TOP(S(NP*) there - - Monica_Geller * -
+1_03_0_458 0 1 'll MD (VP* will - - Monica_Geller * -
+1_03_0_459 0 2 be VB (VP* be - - Monica_Geller * -
+1_03_0_460 0 3 other JJ (NP* other - - Monica_Geller * -
+1_03_0_461 0 4 Alans NNPS *))) Alans - - Monica_Geller (MISC) -
+1_03_0_462 0 5 . . *)) . - - Monica_Geller * -
+
+1_03_0_463 0 0 Oh UH (TOP(FRAG(INTJ*) oh - - All * -
+1_03_0_464 0 1 , , * , - - All * -
+1_03_0_465 0 2 yeah JJ (ADVP*) yeah - - All * -
+1_03_0_466 0 3 ! . *)) ! - - All * -
+
+1_03_0_467 0 0 Right RB (TOP(ADVP* right - - All * -
+1_03_0_468 0 1 ! . *)) ! - - All * -
+
+1_03_0_469 0 0 Are VBP (TOP(SQ* be - - Monica_Geller * -
+1_03_0_470 0 1 you PRP (NP* you - - Monica_Geller * -
+1_03_0_471 0 2 guys NNS *) guy - - Monica_Geller * -
+1_03_0_472 0 3 gon VBG (VP* gon - - Monica_Geller * -
+1_03_0_473 0 4 na TO (S(VP* na - - Monica_Geller * -
+1_03_0_474 0 5 be VB (VP* be - - Monica_Geller * -
+1_03_0_475 0 6 okay JJ (ADJP*))))) okay - - Monica_Geller * -
+1_03_0_476 0 7 ? . *)) ? - - Monica_Geller * -
+
+1_03_0_477 0 0 Hey UH (TOP(S(INTJ*) hey - - Ross_Geller * -
+1_03_0_478 0 1 hey RB (INTJ*) hey - - Ross_Geller * -
+1_03_0_479 0 2 , , * , - - Ross_Geller * -
+1_03_0_480 0 3 we PRP (NP*) we - - Ross_Geller * -
+1_03_0_481 0 4 'll MD (VP* will - - Ross_Geller * -
+1_03_0_482 0 5 be VB (VP* be - - Ross_Geller * -
+1_03_0_483 0 6 fine JJ (ADJP*))) fine - - Ross_Geller * -
+1_03_0_484 0 7 . . *)) . - - Ross_Geller * -
+
+1_03_0_485 0 0 We PRP (TOP(S(NP*) we - - Ross_Geller * -
+1_03_0_486 0 1 're VBP (VP* be - - Ross_Geller * -
+1_03_0_487 0 2 just RB (ADVP*) just - - Ross_Geller * -
+1_03_0_488 0 3 gon VBG (VP* gon - - Ross_Geller * -
+1_03_0_489 0 4 na TO (S(VP* na - - Ross_Geller * -
+1_03_0_490 0 5 need VB (VP* need - - Ross_Geller * -
+1_03_0_491 0 6 a DT (NP* a - - Ross_Geller * -
+1_03_0_492 0 7 little JJ * little - - Ross_Geller * -
+1_03_0_493 0 8 time NN *)))))) time - - Ross_Geller * -
+1_03_0_494 0 9 . . *)) . - - Ross_Geller * -
+
+1_03_0_495 0 0 I PRP (TOP(S(NP*) I - - Monica_Geller * -
+1_03_0_496 0 1 understand VBP (VP*) understand - - Monica_Geller * -
+1_03_0_497 0 2 . . *)) . - - Monica_Geller * -
+
+#end document
+#begin document (/friends-s01e03); part 001
+1_03_1_1 1 0 Remember VB (TOP(S(VP* remember - - Rachel_Green * -
+1_03_1_2 1 1 when WRB (SBAR(WHADVP*) when - - Rachel_Green * -
+1_03_1_3 1 2 we PRP (S(NP*) we - - Rachel_Green * -
+1_03_1_4 1 3 went VBD (VP(VP* go - - Rachel_Green * -
+1_03_1_5 1 4 to TO (PP* to - - Rachel_Green * -
+1_03_1_6 1 5 Central NNP (NP* Central - - Rachel_Green (LOCATION* -
+1_03_1_7 1 6 Park NNP *))) Park - - Rachel_Green *) -
+1_03_1_8 1 7 and CC * and - - Rachel_Green * -
+1_03_1_9 1 8 rented VBD (VP* rent - - Rachel_Green * -
+1_03_1_10 1 9 boats NNS (NP*) boat - - Rachel_Green * -
+1_03_1_11 1 10 ?.. IN (PP*)))))))) ?.. - - Rachel_Green * -
+
+1_03_1_12 1 0 That DT (TOP(S(NP*) that - - Rachel_Green * -
+1_03_1_13 1 1 was VBD (VP* be - - Rachel_Green * -
+1_03_1_14 1 2 fun NN (NP*)) fun - - Rachel_Green * -
+1_03_1_15 1 3 . . *)) . - - Rachel_Green * -
+
+1_03_1_16 1 0 Yeah UH (TOP(INTJ* yeah - - Ross_Geller * -
+1_03_1_17 1 1 . . *)) . - - Ross_Geller * -
+
+1_03_1_18 1 0 He PRP (TOP(S(NP*) he - - Ross_Geller * (13)
+1_03_1_19 1 1 could MD (VP* could - - Ross_Geller * -
+1_03_1_20 1 2 row VB (VP* row - - Ross_Geller * -
+1_03_1_21 1 3 like IN (PP* like - - Ross_Geller * -
+1_03_1_22 1 4 a DT (NP* a - - Ross_Geller * -
+1_03_1_23 1 5 viking NN *)))) viking - - Ross_Geller * -
+1_03_1_24 1 6 . . *)) . - - Ross_Geller * -
+
+1_03_1_25 1 0 Hi NN (TOP(NP* hi - - Monica_Geller * -
+1_03_1_26 1 1 . . *)) . - - Monica_Geller * -
+
+1_03_1_27 1 0 Mmm NNP (TOP(FRAG(NP*) Mmm - - All * -
+1_03_1_28 1 1 . . *)) . - - All * -
+
+1_03_1_29 1 0 So RB (TOP(SBARQ* so - - Ross_Geller * -
+1_03_1_30 1 1 how WRB (WHADVP*) how - - Ross_Geller * -
+1_03_1_31 1 2 'd MD (SQ* would - - Ross_Geller * -
+1_03_1_32 1 3 it PRP (NP*) it - - Ross_Geller * -
+1_03_1_33 1 4 go VB (VP*)) go - - Ross_Geller * -
+1_03_1_34 1 5 ? . *)) ? - - Ross_Geller * -
+
+1_03_1_35 1 0 Oh UH (TOP(FRAG(INTJ*) oh - - Monica_Geller * -
+1_03_1_36 1 1 , , * , - - Monica_Geller * -
+1_03_1_37 1 2 y'know JJ (NP* y'know - - Monica_Geller * -
+1_03_1_38 1 3 .. NN *))) .. - - Monica_Geller * -
+
+1_03_1_39 1 0 Did VBD (TOP(SQ* do - - Phoebe_Buffay * -
+1_03_1_40 1 1 he PRP (NP*) he - - Phoebe_Buffay * (13)
+1_03_1_41 1 2 mention VB (VP* mention - - Phoebe_Buffay * -
+1_03_1_42 1 3 us PRP (NP*)) we - - Phoebe_Buffay * -
+1_03_1_43 1 4 ? . *)) ? - - Phoebe_Buffay * -
+
+1_03_1_44 1 0 He PRP (TOP(S(NP*) he - - Monica_Geller * (13)
+1_03_1_45 1 1 said VBD (VP* say - - Monica_Geller * -
+1_03_1_46 1 2 he PRP (SBAR(S(NP*) he - - Monica_Geller * (13)
+1_03_1_47 1 3 's VBZ (VP* be - - Monica_Geller * -
+1_03_1_48 1 4 really RB (ADVP*) really - - Monica_Geller * -
+1_03_1_49 1 5 gon VBG (VP* gon - - Monica_Geller * -
+1_03_1_50 1 6 na TO (S(VP* na - - Monica_Geller * -
+1_03_1_51 1 7 miss VB (VP* miss - - Monica_Geller * -
+1_03_1_52 1 8 you PRP (S(NP*) you - - Monica_Geller * -
+1_03_1_53 1 9 guys NNS (NP*)))))))))) guy - - Monica_Geller * -
+1_03_1_54 1 10 . . *)) . - - Monica_Geller * -
+
+1_03_1_55 1 0 You PRP (TOP(S(NP*) you - - Ross_Geller * -
+1_03_1_56 1 1 had VBD (VP(VP* have - - Ross_Geller * -
+1_03_1_57 1 2 a DT (NP* a - - Ross_Geller * -
+1_03_1_58 1 3 rough JJ * rough - - Ross_Geller * -
+1_03_1_59 1 4 day NN *)) day - - Ross_Geller (DURATION) -
+1_03_1_60 1 5 , , * , - - Ross_Geller * -
+1_03_1_61 1 6 huh VBP (VP* huh - - Ross_Geller * -
+1_03_1_62 1 7 .. NN (NP*))))) .. - - Ross_Geller * -
+
+1_03_1_63 1 0 c'mere RB (TOP(FRAG(ADVP*) c'mere - - Ross_Geller * -
+1_03_1_64 1 1 . . *)) . - - Ross_Geller * -
+
+1_03_1_65 1 0 ... : (TOP(NP*)) ... - - Chandler_Bing * -
+
+1_03_1_66 1 0 That DT (TOP(S(NP*) that - - Chandler_Bing * -
+1_03_1_67 1 1 's VBZ (VP* be - - Chandler_Bing * -
+1_03_1_68 1 2 it PRP (NP*)) it - - Chandler_Bing * -
+1_03_1_69 1 3 . . *)) . - - Chandler_Bing * -
+
+1_03_1_70 1 0 I PRP (TOP(S(NP*) I - - Chandler_Bing * -
+1_03_1_71 1 1 'm VBP (VP* be - - Chandler_Bing * -
+1_03_1_72 1 2 getting VBG (VP* get - - Chandler_Bing * -
+1_03_1_73 1 3 cigarettes NNS (NP*))) cigarette - - Chandler_Bing * -
+1_03_1_74 1 4 . . *)) . - - Chandler_Bing * -
+
+1_03_1_75 1 0 No DT (TOP(NP(NP* no - - All * -
+1_03_1_76 1 1 no DT *) no - - All * -
+1_03_1_77 1 2 no DT (NP*) no - - All * -
+1_03_1_78 1 3 ! . *)) ! - - All * -
+
+1_03_1_79 1 0 I PRP (TOP(S(S(NP*) I - - Chandler_Bing * -
+1_03_1_80 1 1 do VBP (VP* do - - Chandler_Bing * -
+1_03_1_81 1 2 n't RB * not - - Chandler_Bing * -
+1_03_1_82 1 3 care VB (VP*))) care - - Chandler_Bing * -
+1_03_1_83 1 4 , , * , - - Chandler_Bing * -
+1_03_1_84 1 5 I PRP (NP*) I - - Chandler_Bing * -
+1_03_1_85 1 6 do VBP (VP* do - - Chandler_Bing * -
+1_03_1_86 1 7 n't RB * not - - Chandler_Bing * -
+1_03_1_87 1 8 care VB (VP*)) care - - Chandler_Bing * -
+1_03_1_88 1 9 ! . *)) ! - - Chandler_Bing * -
+
+1_03_1_89 1 0 Game NNP (TOP(NP(NP(NP* Game - - Chandler_Bing * -
+1_03_1_90 1 1 's POS *) 's - - Chandler_Bing * -
+1_03_1_91 1 2 over IN (PP*)) over - - Chandler_Bing * -
+1_03_1_92 1 3 ! . *)) ! - - Chandler_Bing * -
+
+1_03_1_93 1 0 I PRP (TOP(S(NP*) I - - Chandler_Bing * -
+1_03_1_94 1 1 'm VBP (VP* be - - Chandler_Bing * -
+1_03_1_95 1 2 weak JJ (ADJP*)) weak - - Chandler_Bing * -
+1_03_1_96 1 3 ! . *)) ! - - Chandler_Bing * -
+
+1_03_1_97 1 0 I PRP (TOP(S(NP*) I - - Chandler_Bing * -
+1_03_1_98 1 1 've VBP (VP* have - - Chandler_Bing * -
+1_03_1_99 1 2 got VBN (VP* get - - Chandler_Bing * -
+1_03_1_100 1 3 ta NN (NP* ta - - Chandler_Bing * -
+1_03_1_101 1 4 smoke NN *))) smoke - - Chandler_Bing * -
+1_03_1_102 1 5 ! . *)) ! - - Chandler_Bing * -
+
+1_03_1_103 1 0 I PRP (TOP(S(NP*) I - - Chandler_Bing * -
+1_03_1_104 1 1 've VBP (VP* have - - Chandler_Bing * -
+1_03_1_105 1 2 got VBN (VP* get - - Chandler_Bing * -
+1_03_1_106 1 3 ta NN (SBAR(S(NP*) ta - - Chandler_Bing * -
+1_03_1_107 1 4 have VBP (VP* have - - Chandler_Bing * -
+1_03_1_108 1 5 the DT (NP* the - - Chandler_Bing * -
+1_03_1_109 1 6 smoke NN *)))))) smoke - - Chandler_Bing * -
+1_03_1_110 1 7 ! . *)) ! - - Chandler_Bing * -
+
+1_03_1_111 1 0 If IN (TOP(S(SBAR* if - - Phoebe_Buffay * -
+1_03_1_112 1 1 you PRP (S(NP*) you - - Phoebe_Buffay * -
+1_03_1_113 1 2 never RB (ADVP*) never - - Phoebe_Buffay * -
+1_03_1_114 1 3 smoke VBP (VP* smoke - - Phoebe_Buffay * -
+1_03_1_115 1 4 again RB (ADVP*)))) again - - Phoebe_Buffay * -
+1_03_1_116 1 5 I PRP (NP*) I - - Phoebe_Buffay * -
+1_03_1_117 1 6 'll MD (VP* will - - Phoebe_Buffay * -
+1_03_1_118 1 7 give VB (VP* give - - Phoebe_Buffay * -
+1_03_1_119 1 8 you PRP (NP*) you - - Phoebe_Buffay * -
+1_03_1_120 1 9 seven CD (NP(QP* seven - - Phoebe_Buffay (MONEY* -
+1_03_1_121 1 10 thousand CD *) thousand - - Phoebe_Buffay * -
+1_03_1_122 1 11 dollars NNS *))) dollar - - Phoebe_Buffay *) -
+1_03_1_123 1 12 ! . *)) ! - - Phoebe_Buffay * -
+
+1_03_1_124 1 0 Yeah UH (TOP(FRAG(INTJ*) yeah - - Chandler_Bing * -
+1_03_1_125 1 1 , , * , - - Chandler_Bing * -
+1_03_1_126 1 2 alright JJ (ADVP*) alright - - Chandler_Bing * -
+1_03_1_127 1 3 . . *)) . - - Chandler_Bing * -
+
+#end document
+#begin document (/friends-s01e04); part 000
+1_04_0_1 0 0 Okay UH (TOP(INTJ* okay - - Monica_Geller * -
+1_04_0_2 0 1 . . *)) . - - Monica_Geller * -
+
+1_04_0_3 0 0 Okay UH (TOP(S(INTJ*) okay - - Monica_Geller * -
+1_04_0_4 0 1 , , * , - - Monica_Geller * -
+1_04_0_5 0 2 I PRP (NP*) I - - Monica_Geller * -
+1_04_0_6 0 3 got VBD (VP* get - - Monica_Geller * -
+1_04_0_7 0 4 one CD (NP*)) one - - Monica_Geller (NUMBER) -
+1_04_0_8 0 5 . . *)) . - - Monica_Geller * -
+
+1_04_0_9 0 0 Do VB (TOP(SQ(VP* do - - Monica_Geller * -
+1_04_0_10 0 1 you PRP (SBAR(S(NP*) you - - Monica_Geller * -
+1_04_0_11 0 2 remember VBP (VP* remember - - Monica_Geller * -
+1_04_0_12 0 3 that IN (SBAR* that - - Monica_Geller * -
+1_04_0_13 0 4 vegetarian JJ (X(NP* vegetarian - - Monica_Geller * -
+1_04_0_14 0 5 pate NN *) pate - - Monica_Geller * -
+1_04_0_15 0 6 that IN (SBAR* that - - Monica_Geller * -
+1_04_0_16 0 7 I PRP (S(NP*) I - - Monica_Geller * -
+1_04_0_17 0 8 made VBD (VP* make - - Monica_Geller * -
+1_04_0_18 0 9 that IN (SBAR* that - - Monica_Geller * -
+1_04_0_19 0 10 you PRP (S(NP*) you - - Monica_Geller * -
+1_04_0_20 0 11 loved VBD (VP* love - - Monica_Geller * -
+1_04_0_21 0 12 so RB (ADJP* so - - Monica_Geller * -
+1_04_0_22 0 13 much JJ *))))))))))))) much - - Monica_Geller * -
+1_04_0_23 0 14 ? . *)) ? - - Monica_Geller * -
+
+1_04_0_24 0 0 Uh-huh NN (TOP(NP* uh-huh - - Phoebe_Buffay * -
+1_04_0_25 0 1 . . *)) . - - Phoebe_Buffay * -
+
+1_04_0_26 0 0 Well RB (TOP(PRN(ADVP*) well - - Monica_Geller * -
+1_04_0_27 0 1 , , * , - - Monica_Geller * -
+1_04_0_28 0 2 unless IN (SBAR* unless - - Monica_Geller * -
+1_04_0_29 0 3 goose NN (S(NP*) goose - - Monica_Geller * -
+1_04_0_30 0 4 is VBZ (VP* be - - Monica_Geller * -
+1_04_0_31 0 5 a DT (NP* a - - Monica_Geller * -
+1_04_0_32 0 6 vegetable NN *))) vegetable - - Monica_Geller * -
+1_04_0_33 0 7 ... : *))) ... - - Monica_Geller * -
+
+1_04_0_34 0 0 ha NN (TOP(FRAG(NP* ha - - Monica_Geller * -
+1_04_0_35 0 1 haaaah NN *) haaaah - - Monica_Geller * -
+1_04_0_36 0 2 ! . *)) ! - - Monica_Geller * -
+
+1_04_0_37 0 0 Oh UH (TOP(INTJ* oh - - Phoebe_Buffay * -
+1_04_0_38 0 1 ! . *)) ! - - Phoebe_Buffay * -
+
+1_04_0_39 0 0 Oh UH (TOP(INTJ* oh - - Phoebe_Buffay * -
+1_04_0_40 0 1 ! . *)) ! - - Phoebe_Buffay * -
+
+1_04_0_41 0 0 Oh UH (TOP(INTJ* oh - - Phoebe_Buffay * -
+1_04_0_42 0 1 ! . *)) ! - - Phoebe_Buffay * -
+
+1_04_0_43 0 0 Okay UH (TOP(FRAG(INTJ*) okay - - Phoebe_Buffay * -
+1_04_0_44 0 1 , , * , - - Phoebe_Buffay * -
+1_04_0_45 0 2 fine JJ (NP(NP*) fine - - Phoebe_Buffay * -
+1_04_0_46 0 3 , , * , - - Phoebe_Buffay * -
+1_04_0_47 0 4 fine JJ (ADJP*)) fine - - Phoebe_Buffay * -
+1_04_0_48 0 5 . . *)) . - - Phoebe_Buffay * -
+
+1_04_0_49 0 0 Now RB (TOP(S(ADVP*) now - - Phoebe_Buffay (DATE) -
+1_04_0_50 0 1 I PRP (NP*) I - - Phoebe_Buffay * -
+1_04_0_51 0 2 do VBP (VP* do - - Phoebe_Buffay * -
+1_04_0_52 0 3 n't RB * not - - Phoebe_Buffay * -
+1_04_0_53 0 4 feel VB (VP* feel - - Phoebe_Buffay * -
+1_04_0_54 0 5 so RB (ADJP* so - - Phoebe_Buffay * -
+1_04_0_55 0 6 bad JJ *) bad - - Phoebe_Buffay * -
+1_04_0_56 0 7 about IN (PP* about - - Phoebe_Buffay * -
+1_04_0_57 0 8 sleeping VBG (S(VP* sleep - - Phoebe_Buffay * -
+1_04_0_58 0 9 with IN (PP* with - - Phoebe_Buffay * -
+1_04_0_59 0 10 Jason NNP (NP* Jason - - Phoebe_Buffay (PERSON* (14
+1_04_0_60 0 11 Hurley NNP *))))))) Hurley - - Phoebe_Buffay *) 14)
+1_04_0_61 0 12 . . *)) . - - Phoebe_Buffay * -
+
+1_04_0_62 0 0 What WDT (TOP(FRAG(SBAR(WHNP*) what - - Monica_Geller * -
+1_04_0_63 0 1 ?! NN (FRAG(NP*))))) ?! - - Monica_Geller * -
+
+1_04_0_64 0 0 You PRP (TOP(S(NP*) you - - Monica_Geller * -
+1_04_0_65 0 1 slept VBD (VP* sleep - - Monica_Geller * -
+1_04_0_66 0 2 with IN (PP* with - - Monica_Geller * -
+1_04_0_67 0 3 Jason NNP (NP*))) Jason - - Monica_Geller (PERSON) (15)
+1_04_0_68 0 4 ? . *)) ? - - Monica_Geller * -
+
+1_04_0_69 0 0 You PRP (TOP(S(NP*) you - - Phoebe_Buffay * -
+1_04_0_70 0 1 'd MD (VP* would - - Phoebe_Buffay * -
+1_04_0_71 0 2 already RB (VP(ADVP*) already - - Phoebe_Buffay * -
+1_04_0_72 0 3 broken VBN * break - - Phoebe_Buffay * -
+1_04_0_73 0 4 up RP (PRT*))) up - - Phoebe_Buffay * -
+1_04_0_74 0 5 . . *)) . - - Phoebe_Buffay * -
+
+1_04_0_75 0 0 How WRB (TOP(FRAG(WHNP* how - - Rachel_Green * -
+1_04_0_76 0 1 long RB *) long - - Rachel_Green * -
+1_04_0_77 0 2 ? . *)) ? - - Rachel_Green * -
+
+1_04_0_78 0 0 A DT (TOP(NP(NP* a - - Phoebe_Buffay (DURATION* -
+1_04_0_79 0 1 couple NN *) couple - - Phoebe_Buffay * -
+1_04_0_80 0 2 hours NNS (NP*) hour - - Phoebe_Buffay *) -
+1_04_0_81 0 3 . . *)) . - - Phoebe_Buffay * -
+
+1_04_0_82 0 0 Oh UH (TOP(S(INTJ*) oh - - Monica_Geller * -
+1_04_0_83 0 1 , , * , - - Monica_Geller * -
+1_04_0_84 0 2 that DT (NP*) that - - Monica_Geller * -
+1_04_0_85 0 3 's VBZ (VP* be - - Monica_Geller * -
+1_04_0_86 0 4 nice JJ (ADJP*)) nice - - Monica_Geller * -
+1_04_0_87 0 5 ! . *)) ! - - Monica_Geller * -
+
+1_04_0_88 0 0 Okay UH (TOP(S(INTJ*) okay - - Rachel_Green * -
+1_04_0_89 0 1 , , * , - - Rachel_Green * -
+1_04_0_90 0 2 okay JJ (ADVP*) okay - - Rachel_Green * -
+1_04_0_91 0 3 , , * , - - Rachel_Green * -
+1_04_0_92 0 4 okay JJ (ADJP*) okay - - Rachel_Green * -
+1_04_0_93 0 5 , , * , - - Rachel_Green * -
+1_04_0_94 0 6 I PRP (NP*) I - - Rachel_Green * -
+1_04_0_95 0 7 got VBD (VP* get - - Rachel_Green * -
+1_04_0_96 0 8 one CD (NP*)) one - - Rachel_Green (NUMBER) -
+1_04_0_97 0 9 ! . *)) ! - - Rachel_Green * -
+
+1_04_0_98 0 0 Anyway RB (TOP(S(ADVP*) anyway - - Rachel_Green * -
+1_04_0_99 0 1 - : * - - - Rachel_Green * -
+1_04_0_100 0 2 The DT (NP* the - - Rachel_Green * -
+1_04_0_101 0 3 valentine NN * valentine - - Rachel_Green * -
+1_04_0_102 0 4 Tommy NNP * Tommy - - Rachel_Green (PERSON* (16
+1_04_0_103 0 5 Rollerson NNP *) Rollerson - - Rachel_Green *) 16)
+1_04_0_104 0 6 left VBD (VP* leave - - Rachel_Green * -
+1_04_0_105 0 7 in IN (SBAR* in - - Rachel_Green * -
+1_04_0_106 0 8 your PRP$ (S(NP* you - - Rachel_Green * -
+1_04_0_107 0 9 locker NN *) locker - - Rachel_Green * -
+1_04_0_108 0 10 was VBD (VP* be - - Rachel_Green * -
+1_04_0_109 0 11 really RB (ADVP*) really - - Rachel_Green * -
+1_04_0_110 0 12 from IN (PP* from - - Rachel_Green * -
+1_04_0_111 0 13 me PRP (NP*)))))) I - - Rachel_Green * -
+1_04_0_112 0 14 . . *)) . - - Rachel_Green * -
+
+1_04_0_113 0 0 Excuse VB (TOP(S(VP* excuse - - Monica_Geller * -
+1_04_0_114 0 1 me PRP (NP*) I - - Monica_Geller * -
+1_04_0_115 0 2 ?! IN (PP*)))) ?! - - Monica_Geller * -
+
+1_04_0_116 0 0 Hello UH (TOP(INTJ* hello - - Rachel_Green * -
+1_04_0_117 0 1 ? . *)) ? - - Rachel_Green * -
+
+1_04_0_118 0 0 Like IN (TOP(S(PP*) like - - Rachel_Green * -
+1_04_0_119 0 1 he PRP (NP*) he - - Rachel_Green * (16)
+1_04_0_120 0 2 was VBD (VP* be - - Rachel_Green * -
+1_04_0_121 0 3 really RB (ADVP*) really - - Rachel_Green * -
+1_04_0_122 0 4 gon VBG (VP* gon - - Rachel_Green * -
+1_04_0_123 0 5 na TO (S(VP* na - - Rachel_Green * -
+1_04_0_124 0 6 send VB (VP* send - - Rachel_Green * -
+1_04_0_125 0 7 you PRP (NP*) you - - Rachel_Green * -
+1_04_0_126 0 8 one CD (NP*)))))) one - - Rachel_Green (NUMBER) -
+1_04_0_127 0 9 ? . *)) ? - - Rachel_Green * -
+
+1_04_0_128 0 0 She PRP (TOP(S(NP*) she - - Rachel_Green * (16)
+1_04_0_129 0 1 was VBD (VP* be - - Rachel_Green * -
+1_04_0_130 0 2 a DT (NP* a - - Rachel_Green * -
+1_04_0_131 0 3 big JJ * big - - Rachel_Green * -
+1_04_0_132 0 4 girl NN *)) girl - - Rachel_Green * (16)
+1_04_0_133 0 5 . . *)) . - - Rachel_Green * -
+
+1_04_0_134 0 0 Really RB (TOP(FRAG(ADVP*) really - - Monica_Geller * -
+1_04_0_135 0 1 . . *)) . - - Monica_Geller * -
+
+1_04_0_136 0 0 Well RB (TOP(FRAG(ADVP*) well - - Monica_Geller * -
+1_04_0_137 0 1 , , * , - - Monica_Geller * -
+1_04_0_138 0 2 at IN (PP* at - - Monica_Geller * -
+1_04_0_139 0 3 least JJS (NP(NP*) least - - Monica_Geller * -
+1_04_0_140 0 4 ' '' * ' - - Monica_Geller * -
+1_04_0_141 0 5 big JJ (VP(ADJP* big - - Monica_Geller * -
+1_04_0_142 0 6 girls NNS (SBAR(S(NP* girl - - Monica_Geller * -
+1_04_0_143 0 7 ' POS *) ' - - Monica_Geller * -
+1_04_0_144 0 8 do VBP (VP* do - - Monica_Geller * -
+1_04_0_145 0 9 n't RB * not - - Monica_Geller * -
+1_04_0_146 0 10 pee VB (VP* pee - - Monica_Geller * -
+1_04_0_147 0 11 in IN (PP* in - - Monica_Geller * -
+1_04_0_148 0 12 their PRP$ (NP* they - - Monica_Geller * -
+1_04_0_149 0 13 pants NNS *))))))) pants - - Monica_Geller * -
+1_04_0_150 0 14 in IN (PP* in - - Monica_Geller * -
+1_04_0_151 0 15 seventh JJ (NP* seventh - - Monica_Geller (ORDINAL) -
+1_04_0_152 0 16 grade NN *))))) grade - - Monica_Geller * -
+1_04_0_153 0 17 ! . *)) ! - - Monica_Geller * -
+
+1_04_0_154 0 0 I PRP (TOP(S(NP*) I - - Rachel_Green * -
+1_04_0_155 0 1 was VBD (VP* be - - Rachel_Green * -
+1_04_0_156 0 2 laughing VBG (VP*)) laugh - - Rachel_Green * -
+1_04_0_157 0 3 ! . *)) ! - - Rachel_Green * -
+
+1_04_0_158 0 0 You PRP (TOP(S(NP*) you - - Rachel_Green * -
+1_04_0_159 0 1 made VBD (VP* make - - Rachel_Green * -
+1_04_0_160 0 2 me PRP (S(NP*) I - - Rachel_Green * -
+1_04_0_161 0 3 laugh NN (VP*))) laugh - - Rachel_Green * -
+1_04_0_162 0 4 ! . *)) ! - - Rachel_Green * -
+
+1_04_0_163 0 0 There EX (TOP(S(NP*) there - - Phoebe_Buffay * -
+1_04_0_164 0 1 he PRP (NP*) he - - Phoebe_Buffay * (16)
+1_04_0_165 0 2 is VBZ (VP*) be - - Phoebe_Buffay * -
+1_04_0_166 0 3 ! . *)) ! - - Phoebe_Buffay * -
+
+1_04_0_167 0 0 There EX (TOP(S(NP*) there - - Phoebe_Buffay * -
+1_04_0_168 0 1 he PRP (NP*) he - - Phoebe_Buffay * (16)
+1_04_0_169 0 2 is VBZ (VP*) be - - Phoebe_Buffay * -
+1_04_0_170 0 3 ! . *)) ! - - Phoebe_Buffay * -
+
+1_04_0_171 0 0 Where WRB (TOP(FRAG(WHADVP* where - - Monica_Geller * -
+1_04_0_172 0 1 ? . *))) ? - - Monica_Geller * -
+
+1_04_0_173 0 0 Right RB (TOP(FRAG(ADVP* right - - Phoebe_Buffay * -
+1_04_0_174 0 1 - : *) - - - Phoebe_Buffay * -
+1_04_0_175 0 2 where WRB (SBAR(WHADVP*) where - - Phoebe_Buffay * -
+1_04_0_176 0 3 we PRP (S(NP*) we - - Phoebe_Buffay * -
+1_04_0_177 0 4 've VBP (VP* have - - Phoebe_Buffay * -
+1_04_0_178 0 5 been VBN (VP* be - - Phoebe_Buffay * -
+1_04_0_179 0 6 looking VBG (VP* look - - Phoebe_Buffay * -
+1_04_0_180 0 7 all DT (NP-TMP* all - - Phoebe_Buffay * -
+1_04_0_181 0 8 night NN *)))))) night - - Phoebe_Buffay (TIME) -
+1_04_0_182 0 9 ! . *)) ! - - Phoebe_Buffay * -
+
+1_04_0_183 0 0 He PRP (TOP(S(NP*) he - - Rachel_Green * (16)
+1_04_0_184 0 1 is VBZ (VP* be - - Rachel_Green * -
+1_04_0_185 0 2 so RB (ADJP* so - - Rachel_Green * -
+1_04_0_186 0 3 cute JJ *)) cute - - Rachel_Green * -
+1_04_0_187 0 4 ! . *)) ! - - Rachel_Green * -
+
+1_04_0_188 0 0 Oh UH (TOP(FRAG(INTJ*) oh - - Monica_Geller * -
+1_04_0_189 0 1 , , * , - - Monica_Geller * -
+1_04_0_190 0 2 George NNP (NP(NP*) George - - Monica_Geller (PERSON) (17)
+1_04_0_191 0 3 , , * , - - Monica_Geller * -
+1_04_0_192 0 4 baby NN (NP*) baby - - Monica_Geller * (17)
+1_04_0_193 0 5 , , * , - - Monica_Geller * -
+1_04_0_194 0 6 drop VB * drop - - Monica_Geller * -
+1_04_0_195 0 7 the DT (NP* the - - Monica_Geller * -
+1_04_0_196 0 8 towel NN *)) towel - - Monica_Geller * -
+1_04_0_197 0 9 ! . *)) ! - - Monica_Geller * -
+
+1_04_0_198 0 0 Yeah UH (TOP(S(INTJ*) yeah - - All * -
+1_04_0_199 0 1 , , * , - - All * -
+1_04_0_200 0 2 drop VB (VP* drop - - All * -
+1_04_0_201 0 3 it PRP (NP*)) it - - All * -
+1_04_0_202 0 4 ! . *)) ! - - All * -
+
+1_04_0_203 0 0 Drop VB (TOP(S(VP* drop - - All * -
+1_04_0_204 0 1 the DT (NP* the - - All * -
+1_04_0_205 0 2 towel NN *)) towel - - All * -
+1_04_0_206 0 3 ! . *)) ! - - All * -
+
+1_04_0_207 0 0 Please VB (TOP(S(VP* please - - All * -
+1_04_0_208 0 1 drop VB (VP* drop - - All * -
+1_04_0_209 0 2 the DT (NP* the - - All * -
+1_04_0_210 0 3 wowww NN *))) wowww - - All * -
+1_04_0_211 0 4 . . *)) . - - All * -

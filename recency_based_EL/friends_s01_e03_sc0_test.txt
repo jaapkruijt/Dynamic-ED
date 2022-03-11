@@ -1,3 +1,4 @@
+#begin document (/friends-s01e03); part 000
 /friends-s01e03   0   0             Ooh   NNP              (TOP(NP(NP*)             Ooh     -     -   Chandler_Bing          *          -
 /friends-s01e03   0   1               ,     ,                         *               ,     -     -   Chandler_Bing          *          -
 /friends-s01e03   0   2        Lambchop   NNP                     (NP*)        Lambchop     -     -   Chandler_Bing   (PERSON)          -
@@ -569,3 +570,4 @@
 /friends-s01e03   0   0               I   PRP               (TOP(S(NP*)               I     -     -   Monica_Geller          *      (-1)
 /friends-s01e03   0   1      understand   VBP                     (VP*)      understand     -     -   Monica_Geller          *          -
 /friends-s01e03   0   2               .     .                       *))               .     -     -   Monica_Geller          *          -
+#end document

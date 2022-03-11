@@ -43,27 +43,32 @@ def prepare_timestamps_alt(cleanlines):
     running_order = 0
 
     for index in range(0, len(cleanlines)):
-        season = cleanlines[index][0][11]
-        episode = cleanlines[index][0][-2:]
-        scene = cleanlines[index][1]
-        if cleanlines[index-1][1] != scene:
+        if not cleanlines[index]:
+            continue
+        elif cleanlines[index][0] == '#end':
+            continue
+        elif cleanlines[index][0] == '#begin':
             running_order = 0
+            continue
         else:
+            season = cleanlines[index][0][11]
+            episode = cleanlines[index][0][-2:]
+            scene = cleanlines[index][1]
             running_order += 1
-        cleanlines[index][0] = season+"_"+episode+"_"+scene+"_"+str(running_order)
+            cleanlines[index][0] = season+"_"+episode+"_"+scene+"_"+str(running_order)
 
     return cleanlines
 
 
 def prepare_data(filename, alt=True):
     raw_data = read_input(filename)
-    clean_data = clean_lines(raw_data)
     if alt:
-        clean_data = prepare_timestamps_alt(clean_data)
+        data = prepare_timestamps_alt(raw_data)
     else:
-        clean_data = prepare_timestamps(clean_data)
+        clean_data = clean_lines(raw_data)
+        data = prepare_timestamps(clean_data)
 
-    return clean_data
+    return data
 
 
 def find_test_scenes(data):
@@ -97,17 +102,21 @@ def find_test_scenes(data):
 
 
 if __name__ == "__main__":
-    file = "friends.test.episode_delim.conll.nokey.txt"
+    file = "friends.test.scene_delim.conll.nokey.txt"
 
-    working_data = prepare_data(file, alt=False)
-
+    # working_data = read_input(file)
     # for token in working_data:
     #     print(token)
 
-    useful, unique, useless = find_test_scenes(working_data)
-    print(useful)
-    print(unique)
-    print(useless)
+    working_data = prepare_data(file)
+
+    for token in working_data:
+        print(token)
+
+    # useful, unique, useless = find_test_scenes(working_data)
+    # print(useful)
+    # print(unique)
+    # print(useless)
 
     # Potentiele test scenes: 1_04_0, 1_12_1, 1_23_3, 2_01_0, 2_10_0, 2_20_0
     # totale aantal relevante mentions (dus geen 1st of 2nd person pronoun) = 13+30+15+28+16+19 = 111 (grofweg)

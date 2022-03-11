@@ -6,11 +6,13 @@ import operator
 
 def create_utterance_history(data, index):
     history_from_start = data[:index]
-    current = data[index]
+    # current = data[index]
     scene_history = []
     scene_timestamps = []
     for token in history_from_start[::-1]:
-        if token[1] != current[1]:
+        if not token:
+            continue
+        elif token[0] == '#begin':
             break
         else:
             scene_history.append(token)

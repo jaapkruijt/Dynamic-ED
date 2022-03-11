@@ -13712,8 +13712,8 @@
 /friends-s02e08   0   4               ?     .                       *))               ?     -     -    Rachel_Green          *          -
 
 /friends-s02e08   0   0            Tell    VB            (TOP(S(S(S(VP*            tell     -     -    Rachel_Green          *          -
-/friends-s02e08   0   1             him   PRP                   (NP*)))              he     -     -    Rachel_Green          *       (-1
-/friends-s02e08   0   2               I   PRP                     (NP*)               I     -     -    Rachel_Green          *       -1)
+/friends-s02e08   0   1             him   PRP                   (NP*)))              he     -     -    Rachel_Green          *       (-1)
+/friends-s02e08   0   2               I   PRP                     (NP*)               I     -     -    Rachel_Green          *       (-1)
 /friends-s02e08   0   3              'd    MD                      (VP*           would     -     -    Rachel_Green          *          -
 /friends-s02e08   0   4            come    VB                      (VP*            come     -     -    Rachel_Green          *          -
 /friends-s02e08   0   5              to    TO                      (PP*              to     -     -    Rachel_Green          *          -
