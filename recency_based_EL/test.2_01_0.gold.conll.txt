@@ -1,0 +1,505 @@
+#begin document (/friends-s02e01); part 000
+2_01_0_1 0 0 How WRB (TOP(SBARQ(WHADVP*) how - - Rachel_Green * -
+2_01_0_2 0 1 is VBZ (SQ* be - - Rachel_Green * -
+2_01_0_3 0 2 she PRP (NP*)) she - - Rachel_Green * (248)
+2_01_0_4 0 3 ? . *)) ? - - Rachel_Green * -
+
+2_01_0_5 0 0 It PRP (TOP(S(NP*) it - - Phoebe_Buffay * -
+2_01_0_6 0 1 's VBZ (VP* be - - Phoebe_Buffay * -
+2_01_0_7 0 2 too RB (ADVP* too - - Phoebe_Buffay * -
+2_01_0_8 0 3 soon RB * soon - - Phoebe_Buffay * -
+2_01_0_9 0 4 to TO (S(VP* to - - Phoebe_Buffay * -
+2_01_0_10 0 5 tell VB (VP*))))) tell - - Phoebe_Buffay * -
+2_01_0_11 0 6 . . *)) . - - Phoebe_Buffay * -
+
+2_01_0_12 0 0 She PRP (TOP(S(NP*) she - - Phoebe_Buffay * (248)
+2_01_0_13 0 1 's VBZ (VP* be - - Phoebe_Buffay * -
+2_01_0_14 0 2 resting VBG (VP* rest - - Phoebe_Buffay * -
+2_01_0_15 0 3 , , * , - - Phoebe_Buffay * -
+2_01_0_16 0 4 which WDT (SBAR(WHNP*) which - - Phoebe_Buffay * -
+2_01_0_17 0 5 is VBZ (S(VP* be - - Phoebe_Buffay * -
+2_01_0_18 0 6 a DT (NP* a - - Phoebe_Buffay * -
+2_01_0_19 0 7 good JJ * good - - Phoebe_Buffay * -
+2_01_0_20 0 8 sign NN *)))))) sign - - Phoebe_Buffay * -
+2_01_0_21 0 9 . . *)) . - - Phoebe_Buffay * -
+
+2_01_0_22 0 0 How WRB (TOP(SBARQ(WHADVP*) how - - Ross_Geller * -
+2_01_0_23 0 1 's POS (SQ* 's - - Ross_Geller * -
+2_01_0_24 0 2 the DT (NP* the - - Ross_Geller * -
+2_01_0_25 0 3 hair NN *)) hair - - Ross_Geller * -
+2_01_0_26 0 4 ? . *)) ? - - Ross_Geller * -
+
+2_01_0_27 0 0 I PRP (TOP(S(S(NP*) I - - Phoebe_Buffay * -
+2_01_0_28 0 1 'm VBP (VP* be - - Phoebe_Buffay * -
+2_01_0_29 0 2 not RB * not - - Phoebe_Buffay * -
+2_01_0_30 0 3 gon VBG (VP* gon - - Phoebe_Buffay * -
+2_01_0_31 0 4 na TO (S(VP* na - - Phoebe_Buffay * -
+2_01_0_32 0 5 lie VB (VP* lie - - Phoebe_Buffay * -
+2_01_0_33 0 6 to TO (PP* to - - Phoebe_Buffay * -
+2_01_0_34 0 7 you PRP (NP(NP*) you - - Phoebe_Buffay * -
+2_01_0_35 0 8 , , * , - - Phoebe_Buffay * -
+2_01_0_36 0 9 Ross NNP (NP*))))))))) Ross - - Phoebe_Buffay (PERSON) (335)
+2_01_0_37 0 10 , , * , - - Phoebe_Buffay * -
+2_01_0_38 0 11 it PRP (NP*) it - - Phoebe_Buffay * -
+2_01_0_39 0 12 does VBZ (VP* do - - Phoebe_Buffay * -
+2_01_0_40 0 13 n't RB * not - - Phoebe_Buffay * -
+2_01_0_41 0 14 look VB (VP* look - - Phoebe_Buffay * -
+2_01_0_42 0 15 good JJ (ADJP*))) good - - Phoebe_Buffay * -
+2_01_0_43 0 16 . . *)) . - - Phoebe_Buffay * -
+
+2_01_0_44 0 0 I PRP (TOP(S(NP*) I - - Phoebe_Buffay * -
+2_01_0_45 0 1 put VBD (VP* put - - Phoebe_Buffay * -
+2_01_0_46 0 2 a DT (NP* a - - Phoebe_Buffay * -
+2_01_0_47 0 3 clip NN *) clip - - Phoebe_Buffay * -
+2_01_0_48 0 4 on IN (PP* on - - Phoebe_Buffay * -
+2_01_0_49 0 5 one CD (NP(NP* one - - Phoebe_Buffay (NUMBER) -
+2_01_0_50 0 6 side NN *) side - - Phoebe_Buffay * -
+2_01_0_51 0 7 , , * , - - Phoebe_Buffay * -
+2_01_0_52 0 8 which WDT (SBAR(WHNP*) which - - Phoebe_Buffay * -
+2_01_0_53 0 9 seems VBZ (S(VP* seem - - Phoebe_Buffay * -
+2_01_0_54 0 10 to TO (S(VP* to - - Phoebe_Buffay * -
+2_01_0_55 0 11 have VB (VP* have - - Phoebe_Buffay * -
+2_01_0_56 0 12 stopped VBN (VP* stop - - Phoebe_Buffay * -
+2_01_0_57 0 13 the DT (NP* the - - Phoebe_Buffay * -
+2_01_0_58 0 14 curling NN *))))))))))) curling - - Phoebe_Buffay * -
+2_01_0_59 0 15 . . *)) . - - Phoebe_Buffay * -
+
+2_01_0_60 0 0 Can MD (TOP(SQ* can - - Joey_Tribbiani * -
+2_01_0_61 0 1 we PRP (NP*) we - - Joey_Tribbiani * -
+2_01_0_62 0 2 see VB (VP* see - - Joey_Tribbiani * -
+2_01_0_63 0 3 her PRP (NP*)) she - - Joey_Tribbiani * (248)
+2_01_0_64 0 4 ? . *)) ? - - Joey_Tribbiani * -
+
+2_01_0_65 0 0 Your PRP$ (TOP(S(S(NP* you - - Phoebe_Buffay * -
+2_01_0_66 0 1 hair NN *) hair - - Phoebe_Buffay * -
+2_01_0_67 0 2 looks VBZ (VP* look - - Phoebe_Buffay * -
+2_01_0_68 0 3 too RB (ADJP* too - - Phoebe_Buffay * -
+2_01_0_69 0 4 good JJ *))) good - - Phoebe_Buffay * -
+2_01_0_70 0 5 , , * , - - Phoebe_Buffay * -
+2_01_0_71 0 6 I PRP (NP*) I - - Phoebe_Buffay * -
+2_01_0_72 0 7 think VBP (VP* think - - Phoebe_Buffay * -
+2_01_0_73 0 8 it PRP (SBAR(S(NP*) it - - Phoebe_Buffay * -
+2_01_0_74 0 9 would MD (VP* would - - Phoebe_Buffay * -
+2_01_0_75 0 10 upset VB (VP* upset - - Phoebe_Buffay * -
+2_01_0_76 0 11 her PRP (NP*)))))) she - - Phoebe_Buffay * (248)
+2_01_0_77 0 12 . . *)) . - - Phoebe_Buffay * -
+
+2_01_0_78 0 0 Ross NNP (TOP(S(NP(NP*) Ross - - Phoebe_Buffay (PERSON) (335)
+2_01_0_79 0 1 , , * , - - Phoebe_Buffay * -
+2_01_0_80 0 2 why WRB (SBAR(WHADVP*) why - - Phoebe_Buffay * -
+2_01_0_81 0 3 do VBP (S(VP* do - - Phoebe_Buffay * -
+2_01_0_82 0 4 n't RB *) not - - Phoebe_Buffay * -
+2_01_0_83 0 5 you PRP (NP*)))) you - - Phoebe_Buffay * -
+2_01_0_84 0 6 come VBP (VP* come - - Phoebe_Buffay * -
+2_01_0_85 0 7 on IN (PP* on - - Phoebe_Buffay * -
+2_01_0_86 0 8 in. NN (NP*))))) in. - - Phoebe_Buffay * -
+
+2_01_0_87 0 0 Yeah UH (TOP(INTJ* yeah - - Ross_Geller * -
+2_01_0_88 0 1 . . *)) . - - Ross_Geller * -
+
+2_01_0_89 0 0 How WRB (TOP(SBARQ(WHADVP*) how - - Joey_Tribbiani * -
+2_01_0_90 0 1 're VBP (SINV(VP*) be - - Joey_Tribbiani * -
+2_01_0_91 0 2 you PRP (NP(NP*) you - - Joey_Tribbiani * -
+2_01_0_92 0 3 doing VBG (VP*))) do - - Joey_Tribbiani * -
+2_01_0_93 0 4 ? . *)) ? - - Joey_Tribbiani * -
+
+2_01_0_94 0 0 I PRP (TOP(S(NP*) I - - Rachel_Green * -
+2_01_0_95 0 1 'm VBP (VP* be - - Rachel_Green * -
+2_01_0_96 0 2 okay JJ (ADJP*)) okay - - Rachel_Green * -
+2_01_0_97 0 3 . . *)) . - - Rachel_Green * -
+
+2_01_0_98 0 0 Ooh NNP (TOP(NP(NP(NP(NP*) Ooh - - Joey_Tribbiani * -
+2_01_0_99 0 1 , , (PRN* , - - Joey_Tribbiani * -
+2_01_0_100 0 2 that IN (SBAR* that - - Joey_Tribbiani * -
+2_01_0_101 0 3 bad JJ (FRAG(ADJP*))) bad - - Joey_Tribbiani * -
+2_01_0_102 0 4 , , *)) , - - Joey_Tribbiani * -
+2_01_0_103 0 5 huh RB (ADVP*)) huh - - Joey_Tribbiani * -
+2_01_0_104 0 6 ? . *)) ? - - Joey_Tribbiani * -
+
+2_01_0_105 0 0 What WDT (TOP(FRAG(WHNP*) what - - Rachel_Green * -
+2_01_0_106 0 1 ? . *)) ? - - Rachel_Green * -
+
+2_01_0_107 0 0 Look VB (TOP(S(S(VP*)) look - - Joey_Tribbiani * -
+2_01_0_108 0 1 , , * , - - Joey_Tribbiani * -
+2_01_0_109 0 2 I PRP (NP*) I - - Joey_Tribbiani * -
+2_01_0_110 0 3 can MD (VP* can - - Joey_Tribbiani * -
+2_01_0_111 0 4 sense VB (VP* sense - - Joey_Tribbiani * -
+2_01_0_112 0 5 when WRB (SBAR(WHADVP*) when - - Joey_Tribbiani * -
+2_01_0_113 0 6 women NNS (S(NP*) woman - - Joey_Tribbiani * -
+2_01_0_114 0 7 are VBP (VP* be - - Joey_Tribbiani * -
+2_01_0_115 0 8 depressed JJ (ADJP* depressed - - Joey_Tribbiani * -
+2_01_0_116 0 9 and CC * and - - Joey_Tribbiani * -
+2_01_0_117 0 10 vulnerable JJ *)))))) vulnerable - - Joey_Tribbiani * -
+2_01_0_118 0 11 . . *)) . - - Joey_Tribbiani * -
+
+2_01_0_119 0 0 It PRP (TOP(S(NP*) it - - Joey_Tribbiani * -
+2_01_0_120 0 1 's VBZ (VP* be - - Joey_Tribbiani * -
+2_01_0_121 0 2 one CD (NP(NP*) one - - Joey_Tribbiani (NUMBER) -
+2_01_0_122 0 3 of IN (PP* of - - Joey_Tribbiani * -
+2_01_0_123 0 4 my PRP$ (NP* my - - Joey_Tribbiani * -
+2_01_0_124 0 5 gifts NNS *)))) gift - - Joey_Tribbiani * -
+2_01_0_125 0 6 . . *)) . - - Joey_Tribbiani * -
+
+2_01_0_126 0 0 When WRB (TOP(S(SBAR(WHADVP*) when - - Rachel_Green * -
+2_01_0_127 0 1 I PRP (S(NP*) I - - Rachel_Green * -
+2_01_0_128 0 2 saw VBD (VP* see - - Rachel_Green * -
+2_01_0_129 0 3 him PRP (S(NP*) he - - Rachel_Green * (335)
+2_01_0_130 0 4 get VB (VP* get - - Rachel_Green * -
+2_01_0_131 0 5 off RP (PRT*) off - - Rachel_Green * -
+2_01_0_132 0 6 that DT (NP(NP* that - - Rachel_Green * -
+2_01_0_133 0 7 plane NN *) plane - - Rachel_Green * -
+2_01_0_134 0 8 with IN (PP* with - - Rachel_Green * -
+2_01_0_135 0 9 her PRP (NP*)))))))) she - - Rachel_Green * (197)
+2_01_0_136 0 10 , , * , - - Rachel_Green * -
+2_01_0_137 0 11 I PRP (NP*) I - - Rachel_Green * -
+2_01_0_138 0 12 really RB (ADVP*) really - - Rachel_Green * -
+2_01_0_139 0 13 thought VBD (VP* think - - Rachel_Green * -
+2_01_0_140 0 14 I PRP (SBAR(S(NP*) I - - Rachel_Green * -
+2_01_0_141 0 15 hit VBD (VP* hit - - Rachel_Green * -
+2_01_0_142 0 16 rock NN (NP* rock - - Rachel_Green * -
+2_01_0_143 0 17 bottom NN *))))) bottom - - Rachel_Green * -
+2_01_0_144 0 18 . . *)) . - - Rachel_Green * -
+
+2_01_0_145 0 0 But CC (TOP(S* but - - Rachel_Green * -
+2_01_0_146 0 1 today NN (NP-TMP*) today - - Rachel_Green (DATE) -
+2_01_0_147 0 2 , , * , - - Rachel_Green * -
+2_01_0_148 0 3 it PRP (NP*) it - - Rachel_Green * -
+2_01_0_149 0 4 's VBZ (VP* be - - Rachel_Green * -
+2_01_0_150 0 5 like IN (SBAR* like - - Rachel_Green * -
+2_01_0_151 0 6 there EX (S(NP*) there - - Rachel_Green * -
+2_01_0_152 0 7 's VBZ (VP* be - - Rachel_Green * -
+2_01_0_153 0 8 rock NN (NP(NP* rock - - Rachel_Green * -
+2_01_0_154 0 9 bottom NN *) bottom - - Rachel_Green * -
+2_01_0_155 0 10 , , * , - - Rachel_Green * -
+2_01_0_156 0 11 50 CD (NP(NP* 50 - - Rachel_Green (NUMBER) -
+2_01_0_157 0 12 feet NNS *) foot - - Rachel_Green * -
+2_01_0_158 0 13 of IN (PP* of - - Rachel_Green * -
+2_01_0_159 0 14 crap NN (NP(NP*) crap - - Rachel_Green * -
+2_01_0_160 0 15 , , * , - - Rachel_Green * -
+2_01_0_161 0 16 then RB * then - - Rachel_Green * -
+2_01_0_162 0 17 me PRP (NP*))))))))) I - - Rachel_Green * -
+2_01_0_163 0 18 . . *)) . - - Rachel_Green * -
+
+2_01_0_164 0 0 You PRP (TOP(S(NP*) you - - Joey_Tribbiani * -
+2_01_0_165 0 1 got VBD (VP* get - - Joey_Tribbiani * -
+2_01_0_166 0 2 ta NN (SBAR(S(NP*) ta - - Joey_Tribbiani * -
+2_01_0_167 0 3 tell VBP (VP* tell - - Joey_Tribbiani * -
+2_01_0_168 0 4 Ross NNP (NP(NP*) Ross - - Joey_Tribbiani (PERSON) (335)
+2_01_0_169 0 5 how WRB (SBAR(WHADVP*) how - - Joey_Tribbiani * -
+2_01_0_170 0 6 you PRP (S(NP*) you - - Joey_Tribbiani * -
+2_01_0_171 0 7 feel VBP (VP*)))))))) feel - - Joey_Tribbiani * -
+2_01_0_172 0 8 . . *)) . - - Joey_Tribbiani * -
+
+2_01_0_173 0 0 Come VB (TOP(S(VP* come - - Rachel_Green * -
+2_01_0_174 0 1 on IN (PP*)) on - - Rachel_Green * -
+2_01_0_175 0 2 . . *)) . - - Rachel_Green * -
+
+2_01_0_176 0 0 How WRB (TOP(SBARQ(WHADVP*) how - - Rachel_Green * -
+2_01_0_177 0 1 can MD (SQ* can - - Rachel_Green * -
+2_01_0_178 0 2 I PRP (NP*) I - - Rachel_Green * -
+2_01_0_179 0 3 just RB (VP(ADVP*) just - - Rachel_Green * -
+2_01_0_180 0 4 tell VBP * tell - - Rachel_Green * -
+2_01_0_181 0 5 him PRP (NP*))) he - - Rachel_Green * (335)
+2_01_0_182 0 6 ? . *)) ? - - Rachel_Green * -
+
+2_01_0_183 0 0 What WP (TOP(FRAG(WHNP*) what - - Rachel_Green * -
+2_01_0_184 0 1 about IN (PP* about - - Rachel_Green * -
+2_01_0_185 0 2 Julie NNP (NP*)) Julie - - Rachel_Green (PERSON) (197)
+2_01_0_186 0 3 ? . *)) ? - - Rachel_Green * -
+
+2_01_0_187 0 0 What WP (TOP(FRAG(WHNP*) what - - Joey_Tribbiani * -
+2_01_0_188 0 1 about IN (PP* about - - Joey_Tribbiani * -
+2_01_0_189 0 2 her PRP$ (NP*)) she - - Joey_Tribbiani * (197)
+2_01_0_190 0 3 ? . *)) ? - - Joey_Tribbiani * -
+
+2_01_0_191 0 0 They PRP (TOP(S(NP*) they - - Joey_Tribbiani * -
+2_01_0_192 0 1 've VBP (VP* have - - Joey_Tribbiani * -
+2_01_0_193 0 2 only RB (ADVP*) only - - Joey_Tribbiani * -
+2_01_0_194 0 3 been VBN (VP* be - - Joey_Tribbiani * -
+2_01_0_195 0 4 going VBG (VP* go - - Joey_Tribbiani * -
+2_01_0_196 0 5 out RP (PRT*) out - - Joey_Tribbiani * -
+2_01_0_197 0 6 for IN (PP* for - - Joey_Tribbiani * -
+2_01_0_198 0 7 two CD (NP* two - - Joey_Tribbiani (DURATION* -
+2_01_0_199 0 8 weeks NNS *))))) week - - Joey_Tribbiani *) -
+2_01_0_200 0 9 . . *)) . - - Joey_Tribbiani * -
+
+2_01_0_201 0 0 Ross NNP (TOP(S(NP*) Ross - - Joey_Tribbiani (PERSON) (335)
+2_01_0_202 0 1 has VBZ (VP* have - - Joey_Tribbiani * -
+2_01_0_203 0 2 been VBN (VP* be - - Joey_Tribbiani * -
+2_01_0_204 0 3 in IN (PP* in - - Joey_Tribbiani * -
+2_01_0_205 0 4 love NN (NP(NP*) love - - Joey_Tribbiani * -
+2_01_0_206 0 5 with IN (PP* with - - Joey_Tribbiani * -
+2_01_0_207 0 6 you PRP (NP*)))) you - - Joey_Tribbiani * -
+2_01_0_208 0 7 for IN (PP* for - - Joey_Tribbiani * -
+2_01_0_209 0 8 like IN (PP* like - - Joey_Tribbiani * -
+2_01_0_210 0 9 10 CD (NP* 10 - - Joey_Tribbiani (DURATION* -
+2_01_0_211 0 10 years NNS *))))) year - - Joey_Tribbiani *) -
+2_01_0_212 0 11 . . *)) . - - Joey_Tribbiani * -
+
+2_01_0_213 0 0 I PRP (TOP(S(S(NP*) I - - Rachel_Green * -
+2_01_0_214 0 1 do VBP (VP* do - - Rachel_Green * -
+2_01_0_215 0 2 n't RB * not - - Rachel_Green * -
+2_01_0_216 0 3 know VB (VP*))) know - - Rachel_Green * -
+2_01_0_217 0 4 , , * , - - Rachel_Green * -
+2_01_0_218 0 5 I PRP (NP*) I - - Rachel_Green * -
+2_01_0_219 0 6 do VBP (VP* do - - Rachel_Green * -
+2_01_0_220 0 7 n't RB * not - - Rachel_Green * -
+2_01_0_221 0 8 know VB (VP*)) know - - Rachel_Green * -
+2_01_0_222 0 9 . . *)) . - - Rachel_Green * -
+
+2_01_0_223 0 0 Look VB (TOP(S(VP*) look - - Joey_Tribbiani * -
+2_01_0_224 0 1 , , * , - - Joey_Tribbiani * -
+2_01_0_225 0 2 Rach NNP (NP* Rach - - Joey_Tribbiani (PERSON) (306)
+2_01_0_226 0 3 , , * , - - Joey_Tribbiani * -
+2_01_0_227 0 4 Rach NNP *) Rach - - Joey_Tribbiani * (306)
+2_01_0_228 0 5 ! . *)) ! - - Joey_Tribbiani * -
+
+2_01_0_229 0 0 I PRP (TOP(S(NP*) I - - Joey_Tribbiani * -
+2_01_0_230 0 1 've VBP (VP* have - - Joey_Tribbiani * -
+2_01_0_231 0 2 been VBN (VP* be - - Joey_Tribbiani * -
+2_01_0_232 0 3 with IN (PP* with - - Joey_Tribbiani * -
+2_01_0_233 0 4 my PRP$ (NP(NP* my - - Joey_Tribbiani * -
+2_01_0_234 0 5 share NN *) share - - Joey_Tribbiani * -
+2_01_0_235 0 6 of IN (PP* of - - Joey_Tribbiani * -
+2_01_0_236 0 7 women NNS (NP*)))))) woman - - Joey_Tribbiani * -
+2_01_0_237 0 8 . . *)) . - - Joey_Tribbiani * -
+
+2_01_0_238 0 0 In IN (TOP(S(PP* in - - Joey_Tribbiani * -
+2_01_0_239 0 1 fact NN (NP*)) fact - - Joey_Tribbiani * -
+2_01_0_240 0 2 , , * , - - Joey_Tribbiani * -
+2_01_0_241 0 3 I PRP (NP*) I - - Joey_Tribbiani * -
+2_01_0_242 0 4 've VBP (VP* have - - Joey_Tribbiani * -
+2_01_0_243 0 5 been VBN (VP* be - - Joey_Tribbiani * -
+2_01_0_244 0 6 with IN (PP* with - - Joey_Tribbiani * -
+2_01_0_245 0 7 like IN * like - - Joey_Tribbiani * -
+2_01_0_246 0 8 a DT (NP(NP* a - - Joey_Tribbiani * -
+2_01_0_247 0 9 lot NN *) lot - - Joey_Tribbiani * -
+2_01_0_248 0 10 of IN (PP* of - - Joey_Tribbiani * -
+2_01_0_249 0 11 people NNS (NP(NP(NP* people - - Joey_Tribbiani * -
+2_01_0_250 0 12 's POS *) 's - - Joey_Tribbiani * -
+2_01_0_251 0 13 share NN *) share - - Joey_Tribbiani * -
+2_01_0_252 0 14 of IN (PP* of - - Joey_Tribbiani * -
+2_01_0_253 0 15 women NNS (NP*)))))))) woman - - Joey_Tribbiani * -
+2_01_0_254 0 16 . . *)) . - - Joey_Tribbiani * -
+
+2_01_0_255 0 0 The DT (TOP(S(S(NP* the - - Joey_Tribbiani * -
+2_01_0_256 0 1 point NN *) point - - Joey_Tribbiani * -
+2_01_0_257 0 2 is VBZ (VP* be - - Joey_Tribbiani * -
+2_01_0_258 0 3 , , * , - - Joey_Tribbiani * -
+2_01_0_259 0 4 I PRP (SBAR(S(NP*) I - - Joey_Tribbiani * -
+2_01_0_260 0 5 've VBP (VP* have - - Joey_Tribbiani * -
+2_01_0_261 0 6 never RB (ADVP*) never - - Joey_Tribbiani * -
+2_01_0_262 0 7 felt VBN (VP* feel - - Joey_Tribbiani * -
+2_01_0_263 0 8 about IN (PP* about - - Joey_Tribbiani * -
+2_01_0_264 0 9 anyone NN (NP(NP*) anyone - - Joey_Tribbiani * -
+2_01_0_265 0 10 the DT (NP* the - - Joey_Tribbiani * -
+2_01_0_266 0 11 way NN *))))))))) way - - Joey_Tribbiani * -
+2_01_0_267 0 12 Ross NNP (NP*) Ross - - Joey_Tribbiani (PERSON) (335)
+2_01_0_268 0 13 felt VBD (VP* feel - - Joey_Tribbiani * -
+2_01_0_269 0 14 about IN (PP* about - - Joey_Tribbiani * -
+2_01_0_270 0 15 you PRP (NP*))) you - - Joey_Tribbiani * -
+2_01_0_271 0 16 . . *)) . - - Joey_Tribbiani * -
+
+2_01_0_272 0 0 Yo NNP (TOP(NP(NP*) Yo - - Chandler_Bing * -
+2_01_0_273 0 1 , , * , - - Chandler_Bing * -
+2_01_0_274 0 2 paisan NN (NP*) paisan - - Chandler_Bing * -
+2_01_0_275 0 3 ! . *)) ! - - Chandler_Bing * -
+
+2_01_0_276 0 0 Can MD (TOP(SQ* can - - Chandler_Bing * -
+2_01_0_277 0 1 I PRP (NP*) I - - Chandler_Bing * -
+2_01_0_278 0 2 talk VB (VP* talk - - Chandler_Bing * -
+2_01_0_279 0 3 to TO (PP* to - - Chandler_Bing * -
+2_01_0_280 0 4 you PRP (NP*)) you - - Chandler_Bing * -
+2_01_0_281 0 5 for IN (PP* for - - Chandler_Bing * -
+2_01_0_282 0 6 a DT (NP* a - - Chandler_Bing (DURATION* -
+2_01_0_283 0 7 sec NN *))) sec - - Chandler_Bing *) -
+2_01_0_284 0 8 ? . *)) ? - - Chandler_Bing * -
+
+2_01_0_285 0 0 Your PRP$ (TOP(S(NP* you - - Chandler_Bing * -
+2_01_0_286 0 1 tailor NN *) tailor - - Chandler_Bing * -
+2_01_0_287 0 2 is VBZ (VP* be - - Chandler_Bing * -
+2_01_0_288 0 3 a DT (NP* a - - Chandler_Bing * -
+2_01_0_289 0 4 very RB (ADJP* very - - Chandler_Bing * -
+2_01_0_290 0 5 bad JJ *) bad - - Chandler_Bing * -
+2_01_0_291 0 6 man NN *)) man - - Chandler_Bing * (189)
+2_01_0_292 0 7 ! . *)) ! - - Chandler_Bing * -
+
+2_01_0_293 0 0 Frankie NNP (TOP(FRAG(NP*) Frankie - - Joey_Tribbiani (PERSON) (133)
+2_01_0_294 0 1 ? . *)) ? - - Joey_Tribbiani * -
+
+2_01_0_295 0 0 What WDT (TOP(FRAG(SBAR(WHNP*) what - - Joey_Tribbiani * -
+2_01_0_296 0 1 're VBP (S(VP* be - - Joey_Tribbiani * -
+2_01_0_297 0 2 you PRP (NP(NP*) you - - Joey_Tribbiani * -
+2_01_0_298 0 3 talking VBG (VP* talk - - Joey_Tribbiani * -
+2_01_0_299 0 4 about IN *))))) about - - Joey_Tribbiani * -
+2_01_0_300 0 5 ? . *)) ? - - Joey_Tribbiani * -
+
+2_01_0_301 0 0 Hey UH (TOP(S(INTJ*) hey - - Ross_Geller * -
+2_01_0_302 0 1 , , * , - - Ross_Geller * -
+2_01_0_303 0 2 what WP (NP*) what - - Ross_Geller * -
+2_01_0_304 0 3 's VBZ (VP* be - - Ross_Geller * -
+2_01_0_305 0 4 goin NN (NP*) goin - - Ross_Geller * -
+2_01_0_306 0 5 ' '' * ' - - Ross_Geller * -
+2_01_0_307 0 6 on IN (PP*)) on - - Ross_Geller * -
+2_01_0_308 0 7 ? . *)) ? - - Ross_Geller * -
+
+2_01_0_309 0 0 Joey NNP (TOP(NP(NP(NP* Joey - - Chandler_Bing (PERSON) (183)
+2_01_0_310 0 1 's POS *) 's - - Chandler_Bing * -
+2_01_0_311 0 2 tailor NN *) tailor - - Chandler_Bing * (189)
+2_01_0_312 0 3 ... : *)) ... - - Chandler_Bing * -
+
+2_01_0_313 0 0 took VBD (TOP(S(VP* take - - Chandler_Bing * -
+2_01_0_314 0 1 advantage NN (NP(NP*) advantage - - Chandler_Bing * -
+2_01_0_315 0 2 of IN (PP* of - - Chandler_Bing * -
+2_01_0_316 0 3 me PRP (NP*)))) I - - Chandler_Bing * -
+2_01_0_317 0 4 . . *)) . - - Chandler_Bing * -
+
+2_01_0_318 0 0 What WDT (TOP(FRAG(WHNP*) what - - Ross_Geller * -
+2_01_0_319 0 1 ? . *)) ? - - Ross_Geller * -
+
+2_01_0_320 0 0 No DT (TOP(NP* no - - Joey_Tribbiani * -
+2_01_0_321 0 1 way NN * way - - Joey_Tribbiani * -
+2_01_0_322 0 2 . . *)) . - - Joey_Tribbiani * -
+
+2_01_0_323 0 0 I PRP (TOP(S(NP*) I - - Joey_Tribbiani * -
+2_01_0_324 0 1 've VBP (VP* have - - Joey_Tribbiani * -
+2_01_0_325 0 2 been VBN (VP* be - - Joey_Tribbiani * -
+2_01_0_326 0 3 going VBG (VP* go - - Joey_Tribbiani * -
+2_01_0_327 0 4 to TO (PP* to - - Joey_Tribbiani * -
+2_01_0_328 0 5 the DT (NP(NP* the - - Joey_Tribbiani * -
+2_01_0_329 0 6 guy NN *) guy - - Joey_Tribbiani * (189)
+2_01_0_330 0 7 for IN (PP* for - - Joey_Tribbiani * -
+2_01_0_331 0 8 12 CD (NP* 12 - - Joey_Tribbiani (DURATION* -
+2_01_0_332 0 9 years NNS *))))))) year - - Joey_Tribbiani *) -
+2_01_0_333 0 10 . . *)) . - - Joey_Tribbiani * -
+
+2_01_0_334 0 0 Oh UH (TOP(INTJ* oh - - Chandler_Bing * -
+2_01_0_335 0 1 come VBN (PP* come - - Chandler_Bing * -
+2_01_0_336 0 2 on IN (PP*)) on - - Chandler_Bing * -
+2_01_0_337 0 3 ! . *)) ! - - Chandler_Bing * -
+
+2_01_0_338 0 0 He PRP (TOP(S(S(NP*) he - - Chandler_Bing * (189)
+2_01_0_339 0 1 said VBD (VP* say - - Chandler_Bing * -
+2_01_0_340 0 2 he PRP (SBAR(S(NP*) he - - Chandler_Bing * (189)
+2_01_0_341 0 3 was VBD (VP* be - - Chandler_Bing * -
+2_01_0_342 0 4 going VBG (VP* go - - Chandler_Bing * -
+2_01_0_343 0 5 to TO (S(VP* to - - Chandler_Bing * -
+2_01_0_344 0 6 do VB (VP* do - - Chandler_Bing * -
+2_01_0_345 0 7 my PRP$ (NP* my - - Chandler_Bing * -
+2_01_0_346 0 8 inseam NN *)))))))))) inseam - - Chandler_Bing * -
+2_01_0_347 0 9 , , * , - - Chandler_Bing * -
+2_01_0_348 0 10 and CC * and - - Chandler_Bing * -
+2_01_0_349 0 11 he PRP (S(S(NP*) he - - Chandler_Bing * (189)
+2_01_0_350 0 12 ran VBD (VP* run - - Chandler_Bing * -
+2_01_0_351 0 13 his PRP$ (NP* he - - Chandler_Bing * (189)
+2_01_0_352 0 14 hand NN *) hand - - Chandler_Bing * -
+2_01_0_353 0 15 up RP (PP* up - - Chandler_Bing * -
+2_01_0_354 0 16 my PRP$ (NP* my - - Chandler_Bing * -
+2_01_0_355 0 17 leg NN *)))) leg - - Chandler_Bing * -
+2_01_0_356 0 18 , , * , - - Chandler_Bing * -
+2_01_0_357 0 19 and CC * and - - Chandler_Bing * -
+2_01_0_358 0 20 then RB (S(ADVP*) then - - Chandler_Bing * -
+2_01_0_359 0 21 , , * , - - Chandler_Bing * -
+2_01_0_360 0 22 there EX (NP*) there - - Chandler_Bing * -
+2_01_0_361 0 23 was VBD (VP* be - - Chandler_Bing * -
+2_01_0_362 0 24 definite JJ (ADJP*)))) definite - - Chandler_Bing * -
+2_01_0_363 0 25 ... : *)) ... - - Chandler_Bing * -
+
+2_01_0_364 0 0 What WDT (TOP(FRAG(WHNP*) what - - Ross_Geller * -
+2_01_0_365 0 1 ? . *)) ? - - Ross_Geller * -
+
+2_01_0_366 0 0 Cupping NN (TOP(NP* cupping - - Chandler_Bing * -
+2_01_0_367 0 1 . . *)) . - - Chandler_Bing * -
+
+2_01_0_368 0 0 That DT (TOP(S(NP*) that - - Joey_Tribbiani * -
+2_01_0_369 0 1 's VBZ (VP* be - - Joey_Tribbiani * -
+2_01_0_370 0 2 how WRB (SBAR(WHADVP*) how - - Joey_Tribbiani * -
+2_01_0_371 0 3 they PRP (S(NP*) they - - Joey_Tribbiani * -
+2_01_0_372 0 4 do VBP (VP* do - - Joey_Tribbiani * -
+2_01_0_373 0 5 pants NNS (NP*))))) pants - - Joey_Tribbiani * -
+2_01_0_374 0 6 ! . *)) ! - - Joey_Tribbiani * -
+
+2_01_0_375 0 0 First RB (TOP(S(S(ADVP*) first - - Joey_Tribbiani (ORDINAL) -
+2_01_0_376 0 1 they PRP (NP*) they - - Joey_Tribbiani * -
+2_01_0_377 0 2 go VBP (VP* go - - Joey_Tribbiani * -
+2_01_0_378 0 3 up RP (PRT*) up - - Joey_Tribbiani * -
+2_01_0_379 0 4 one CD (NP* one - - Joey_Tribbiani (NUMBER) -
+2_01_0_380 0 5 side NN *))) side - - Joey_Tribbiani * -
+2_01_0_381 0 6 , , * , - - Joey_Tribbiani * -
+2_01_0_382 0 7 they PRP (S(NP*) they - - Joey_Tribbiani * -
+2_01_0_383 0 8 move VBP (VP* move - - Joey_Tribbiani * -
+2_01_0_384 0 9 it PRP (NP*) it - - Joey_Tribbiani * -
+2_01_0_385 0 10 over IN (PP*))) over - - Joey_Tribbiani * -
+2_01_0_386 0 11 , , * , - - Joey_Tribbiani * -
+2_01_0_387 0 12 then RB (S(ADVP*) then - - Joey_Tribbiani * -
+2_01_0_388 0 13 they PRP (NP*) they - - Joey_Tribbiani * -
+2_01_0_389 0 14 go VBP (VP* go - - Joey_Tribbiani * -
+2_01_0_390 0 15 up RP (PRT*) up - - Joey_Tribbiani * -
+2_01_0_391 0 16 the DT (NP* the - - Joey_Tribbiani * -
+2_01_0_392 0 17 other JJ * other - - Joey_Tribbiani * -
+2_01_0_393 0 18 side NN *))) side - - Joey_Tribbiani * -
+2_01_0_394 0 19 , , * , - - Joey_Tribbiani * -
+2_01_0_395 0 20 they PRP (S(NP*) they - - Joey_Tribbiani * -
+2_01_0_396 0 21 move VBP (VP* move - - Joey_Tribbiani * -
+2_01_0_397 0 22 it PRP (NP*) it - - Joey_Tribbiani * -
+2_01_0_398 0 23 back RB (ADVP*))) back - - Joey_Tribbiani * -
+2_01_0_399 0 24 , , * , - - Joey_Tribbiani * -
+2_01_0_400 0 25 and CC * and - - Joey_Tribbiani * -
+2_01_0_401 0 26 then RB (S(ADVP*) then - - Joey_Tribbiani * -
+2_01_0_402 0 27 they PRP (NP*) they - - Joey_Tribbiani * -
+2_01_0_403 0 28 do VBP (VP* do - - Joey_Tribbiani * -
+2_01_0_404 0 29 the DT (NP* the - - Joey_Tribbiani * -
+2_01_0_405 0 30 rear NN *))) rear - - Joey_Tribbiani * -
+2_01_0_406 0 31 . . *)) . - - Joey_Tribbiani * -
+
+2_01_0_407 0 0 What WDT (TOP(FRAG(WHNP*) what - - Joey_Tribbiani * -
+2_01_0_408 0 1 ? . *)) ? - - Joey_Tribbiani * -
+
+2_01_0_409 0 0 Ross NNP (TOP(S(NP(NP*) Ross - - Joey_Tribbiani (PERSON) (335)
+2_01_0_410 0 1 , , * , - - Joey_Tribbiani * -
+2_01_0_411 0 2 Ross NNP (NP*) Ross - - Joey_Tribbiani (PERSON) (335)
+2_01_0_412 0 3 , , *) , - - Joey_Tribbiani * -
+2_01_0_413 0 4 would MD (VP* would - - Joey_Tribbiani * -
+2_01_0_414 0 5 you PRP (NP*) you - - Joey_Tribbiani * -
+2_01_0_415 0 6 tell VB (S(VP* tell - - Joey_Tribbiani * -
+2_01_0_416 0 7 him PRP (NP*)))) he - - Joey_Tribbiani * (59)
+2_01_0_417 0 8 ? . *)) ? - - Joey_Tribbiani * -
+
+2_01_0_418 0 0 Is VBZ (TOP(S(VP* be - - Joey_Tribbiani * -
+2_01_0_419 0 1 n't RB * not - - Joey_Tribbiani * -
+2_01_0_420 0 2 that IN (SBAR* that - - Joey_Tribbiani * -
+2_01_0_421 0 3 how WRB (WHADVP*) how - - Joey_Tribbiani * -
+2_01_0_422 0 4 they PRP (S(NP*) they - - Joey_Tribbiani * -
+2_01_0_423 0 5 measure VBP (VP* measure - - Joey_Tribbiani * -
+2_01_0_424 0 6 pants NNS (NP*))))) pants - - Joey_Tribbiani * -
+2_01_0_425 0 7 ? . *)) ? - - Joey_Tribbiani * -
+
+2_01_0_426 0 0 Yes UH (TOP(S(S(INTJ* yes - - Ross_Geller * -
+2_01_0_427 0 1 , , * , - - Ross_Geller * -
+2_01_0_428 0 2 yes UH *) yes - - Ross_Geller * -
+2_01_0_429 0 3 it PRP (NP*) it - - Ross_Geller * -
+2_01_0_430 0 4 is VBZ (VP*)) be - - Ross_Geller * -
+2_01_0_431 0 5 . . *)) . - - Ross_Geller * -
+
+2_01_0_432 0 0 In IN (TOP(FRAG(PP* in - - Ross_Geller * -
+2_01_0_433 0 1 prison NN (NP*)) prison - - Ross_Geller * -
+2_01_0_434 0 2 ! . *)) ! - - Ross_Geller * -
+
+2_01_0_435 0 0 Whatsa NNP (TOP(S(NP*) Whatsa - - Ross_Geller * -
+2_01_0_436 0 1 matter NN (VP* matter - - Ross_Geller * -
+2_01_0_437 0 2 with IN (PP* with - - Ross_Geller * -
+2_01_0_438 0 3 you PRP (NP*))) you - - Ross_Geller * -
+2_01_0_439 0 4 ? . *)) ? - - Ross_Geller * -
+
+2_01_0_440 0 0 What WDT (TOP(FRAG(WHNP*) what - - Joey_Tribbiani * -
+2_01_0_441 0 1 ? . *)) ? - - Joey_Tribbiani * -
+
+2_01_0_442 0 0 That DT (TOP(S(NP*) that - - Joey_Tribbiani * -
+2_01_0_443 0 1 's VBZ (VP* be - - Joey_Tribbiani * -
+2_01_0_444 0 2 not RB *) not - - Joey_Tribbiani * -
+2_01_0_445 0 3 ? . *)) ? - - Joey_Tribbiani * -
+
+2_01_0_446 0 0 Oh UH (TOP(S(VP(NP(INTJ*) oh - - Joey_Tribbiani * -
+2_01_0_447 0 1 my PRP$ (NP* my - - Joey_Tribbiani * -
+2_01_0_448 0 2 God NNP *))) God - - Joey_Tribbiani * -
+2_01_0_449 0 3 . . *)) . - - Joey_Tribbiani * -

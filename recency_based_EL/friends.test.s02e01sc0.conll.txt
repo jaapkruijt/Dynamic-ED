@@ -1,0 +1,505 @@
+#begin document (/friends-s02e01); part 000
+/friends-s02e01   0   0             How   WRB       (TOP(SBARQ(WHADVP*)             how     -     -    Rachel_Green          *          -
+/friends-s02e01   0   1              is   VBZ                      (SQ*              be     -     -    Rachel_Green          *          -
+/friends-s02e01   0   2             she   PRP                    (NP*))             she     -     -    Rachel_Green          *      (248)
+/friends-s02e01   0   3               ?     .                       *))               ?     -     -    Rachel_Green          *          -
+
+/friends-s02e01   0   0              It   PRP               (TOP(S(NP*)              it     -     -   Phoebe_Buffay          *          -
+/friends-s02e01   0   1              's   VBZ                      (VP*              be     -     -   Phoebe_Buffay          *          -
+/friends-s02e01   0   2             too    RB                    (ADVP*             too     -     -   Phoebe_Buffay          *          -
+/friends-s02e01   0   3            soon    RB                         *            soon     -     -   Phoebe_Buffay          *          -
+/friends-s02e01   0   4              to    TO                    (S(VP*              to     -     -   Phoebe_Buffay          *          -
+/friends-s02e01   0   5            tell    VB                 (VP*)))))            tell     -     -   Phoebe_Buffay          *          -
+/friends-s02e01   0   6               .     .                       *))               .     -     -   Phoebe_Buffay          *          -
+
+/friends-s02e01   0   0             She   PRP               (TOP(S(NP*)             she     -     -   Phoebe_Buffay          *      (248)
+/friends-s02e01   0   1              's   VBZ                      (VP*              be     -     -   Phoebe_Buffay          *          -
+/friends-s02e01   0   2         resting   VBG                      (VP*            rest     -     -   Phoebe_Buffay          *          -
+/friends-s02e01   0   3               ,     ,                         *               ,     -     -   Phoebe_Buffay          *          -
+/friends-s02e01   0   4           which   WDT              (SBAR(WHNP*)           which     -     -   Phoebe_Buffay          *          -
+/friends-s02e01   0   5              is   VBZ                    (S(VP*              be     -     -   Phoebe_Buffay          *          -
+/friends-s02e01   0   6               a    DT                      (NP*               a     -     -   Phoebe_Buffay          *          -
+/friends-s02e01   0   7            good    JJ                         *            good     -     -   Phoebe_Buffay          *          -
+/friends-s02e01   0   8            sign    NN                   *))))))            sign     -     -   Phoebe_Buffay          *          -
+/friends-s02e01   0   9               .     .                       *))               .     -     -   Phoebe_Buffay          *          -
+
+/friends-s02e01   0   0             How   WRB       (TOP(SBARQ(WHADVP*)             how     -     -     Ross_Geller          *          -
+/friends-s02e01   0   1              's   POS                      (SQ*              's     -     -     Ross_Geller          *          -
+/friends-s02e01   0   2             the    DT                      (NP*             the     -     -     Ross_Geller          *          -
+/friends-s02e01   0   3            hair    NN                       *))            hair     -     -     Ross_Geller          *          -
+/friends-s02e01   0   4               ?     .                       *))               ?     -     -     Ross_Geller          *          -
+
+/friends-s02e01   0   0               I   PRP             (TOP(S(S(NP*)               I     -     -   Phoebe_Buffay          *      (292)
+/friends-s02e01   0   1              'm   VBP                      (VP*              be     -     -   Phoebe_Buffay          *          -
+/friends-s02e01   0   2             not    RB                         *             not     -     -   Phoebe_Buffay          *          -
+/friends-s02e01   0   3             gon   VBG                      (VP*             gon     -     -   Phoebe_Buffay          *          -
+/friends-s02e01   0   4              na    TO                    (S(VP*              na     -     -   Phoebe_Buffay          *          -
+/friends-s02e01   0   5             lie    VB                      (VP*             lie     -     -   Phoebe_Buffay          *          -
+/friends-s02e01   0   6              to    TO                      (PP*              to     -     -   Phoebe_Buffay          *          -
+/friends-s02e01   0   7             you   PRP                  (NP(NP*)             you     -     -   Phoebe_Buffay          *      (335)
+/friends-s02e01   0   8               ,     ,                         *               ,     -     -   Phoebe_Buffay          *          -
+/friends-s02e01   0   9            Ross   NNP             (NP*)))))))))            Ross     -     -   Phoebe_Buffay   (PERSON)      (335)
+/friends-s02e01   0  10               ,     ,                         *               ,     -     -   Phoebe_Buffay          *          -
+/friends-s02e01   0  11              it   PRP                     (NP*)              it     -     -   Phoebe_Buffay          *          -
+/friends-s02e01   0  12            does   VBZ                      (VP*              do     -     -   Phoebe_Buffay          *          -
+/friends-s02e01   0  13             n't    RB                         *             not     -     -   Phoebe_Buffay          *          -
+/friends-s02e01   0  14            look    VB                      (VP*            look     -     -   Phoebe_Buffay          *          -
+/friends-s02e01   0  15            good    JJ                 (ADJP*)))            good     -     -   Phoebe_Buffay          *          -
+/friends-s02e01   0  16               .     .                       *))               .     -     -   Phoebe_Buffay          *          -
+
+/friends-s02e01   0   0               I   PRP               (TOP(S(NP*)               I     -     -   Phoebe_Buffay          *      (292)
+/friends-s02e01   0   1             put   VBD                      (VP*             put     -     -   Phoebe_Buffay          *          -
+/friends-s02e01   0   2               a    DT                      (NP*               a     -     -   Phoebe_Buffay          *          -
+/friends-s02e01   0   3            clip    NN                        *)            clip     -     -   Phoebe_Buffay          *          -
+/friends-s02e01   0   4              on    IN                      (PP*              on     -     -   Phoebe_Buffay          *          -
+/friends-s02e01   0   5             one    CD                   (NP(NP*             one     -     -   Phoebe_Buffay   (NUMBER)          -
+/friends-s02e01   0   6            side    NN                        *)            side     -     -   Phoebe_Buffay          *          -
+/friends-s02e01   0   7               ,     ,                         *               ,     -     -   Phoebe_Buffay          *          -
+/friends-s02e01   0   8           which   WDT              (SBAR(WHNP*)           which     -     -   Phoebe_Buffay          *          -
+/friends-s02e01   0   9           seems   VBZ                    (S(VP*            seem     -     -   Phoebe_Buffay          *          -
+/friends-s02e01   0  10              to    TO                    (S(VP*              to     -     -   Phoebe_Buffay          *          -
+/friends-s02e01   0  11            have    VB                      (VP*            have     -     -   Phoebe_Buffay          *          -
+/friends-s02e01   0  12         stopped   VBN                      (VP*            stop     -     -   Phoebe_Buffay          *          -
+/friends-s02e01   0  13             the    DT                      (NP*             the     -     -   Phoebe_Buffay          *          -
+/friends-s02e01   0  14         curling    NN              *)))))))))))         curling     -     -   Phoebe_Buffay          *          -
+/friends-s02e01   0  15               .     .                       *))               .     -     -   Phoebe_Buffay          *          -
+
+/friends-s02e01   0   0             Can    MD                  (TOP(SQ*             can     -     -  Joey_Tribbiani          *          -
+/friends-s02e01   0   1              we   PRP                     (NP*)              we     -     -  Joey_Tribbiani          *          -
+/friends-s02e01   0   2             see    VB                      (VP*             see     -     -  Joey_Tribbiani          *          -
+/friends-s02e01   0   3             her   PRP                    (NP*))             she     -     -  Joey_Tribbiani          *      (248)
+/friends-s02e01   0   4               ?     .                       *))               ?     -     -  Joey_Tribbiani          *          -
+
+/friends-s02e01   0   0            Your  PRP$              (TOP(S(S(NP*             you     -     -   Phoebe_Buffay          *      (183)
+/friends-s02e01   0   1            hair    NN                        *)            hair     -     -   Phoebe_Buffay          *          -
+/friends-s02e01   0   2           looks   VBZ                      (VP*            look     -     -   Phoebe_Buffay          *          -
+/friends-s02e01   0   3             too    RB                    (ADJP*             too     -     -   Phoebe_Buffay          *          -
+/friends-s02e01   0   4            good    JJ                      *)))            good     -     -   Phoebe_Buffay          *          -
+/friends-s02e01   0   5               ,     ,                         *               ,     -     -   Phoebe_Buffay          *          -
+/friends-s02e01   0   6               I   PRP                     (NP*)               I     -     -   Phoebe_Buffay          *      (292)
+/friends-s02e01   0   7           think   VBP                      (VP*           think     -     -   Phoebe_Buffay          *          -
+/friends-s02e01   0   8              it   PRP              (SBAR(S(NP*)              it     -     -   Phoebe_Buffay          *          -
+/friends-s02e01   0   9           would    MD                      (VP*           would     -     -   Phoebe_Buffay          *          -
+/friends-s02e01   0  10           upset    VB                      (VP*           upset     -     -   Phoebe_Buffay          *          -
+/friends-s02e01   0  11             her   PRP                (NP*))))))             she     -     -   Phoebe_Buffay          *      (248)
+/friends-s02e01   0  12               .     .                       *))               .     -     -   Phoebe_Buffay          *          -
+
+/friends-s02e01   0   0            Ross   NNP            (TOP(S(NP(NP*)            Ross     -     -   Phoebe_Buffay   (PERSON)      (335)
+/friends-s02e01   0   1               ,     ,                         *               ,     -     -   Phoebe_Buffay          *          -
+/friends-s02e01   0   2             why   WRB            (SBAR(WHADVP*)             why     -     -   Phoebe_Buffay          *          -
+/friends-s02e01   0   3              do   VBP                    (S(VP*              do     -     -   Phoebe_Buffay          *          -
+/friends-s02e01   0   4             n't    RB                        *)             not     -     -   Phoebe_Buffay          *          -
+/friends-s02e01   0   5             you   PRP                  (NP*))))             you     -     -   Phoebe_Buffay          *      (335)
+/friends-s02e01   0   6            come   VBP                      (VP*            come     -     -   Phoebe_Buffay          *          -
+/friends-s02e01   0   7              on    IN                      (PP*              on     -     -   Phoebe_Buffay          *          -
+/friends-s02e01   0   8             in.    NN                 (NP*)))))             in.     -     -   Phoebe_Buffay          *          -
+
+/friends-s02e01   0   0            Yeah    UH                (TOP(INTJ*            yeah     -     -     Ross_Geller          *          -
+/friends-s02e01   0   1               .     .                       *))               .     -     -     Ross_Geller          *          -
+
+/friends-s02e01   0   0             How   WRB       (TOP(SBARQ(WHADVP*)             how     -     -  Joey_Tribbiani          *          -
+/friends-s02e01   0   1             're   VBP                (SINV(VP*)              be     -     -  Joey_Tribbiani          *          -
+/friends-s02e01   0   2             you   PRP                  (NP(NP*)             you     -     -  Joey_Tribbiani          *      (306)
+/friends-s02e01   0   3           doing   VBG                   (VP*)))              do     -     -  Joey_Tribbiani          *          -
+/friends-s02e01   0   4               ?     .                       *))               ?     -     -  Joey_Tribbiani          *          -
+
+/friends-s02e01   0   0               I   PRP               (TOP(S(NP*)               I     -     -    Rachel_Green          *      (306)
+/friends-s02e01   0   1              'm   VBP                      (VP*              be     -     -    Rachel_Green          *          -
+/friends-s02e01   0   2            okay    JJ                  (ADJP*))            okay     -     -    Rachel_Green          *          -
+/friends-s02e01   0   3               .     .                       *))               .     -     -    Rachel_Green          *          -
+
+/friends-s02e01   0   0             Ooh   NNP        (TOP(NP(NP(NP(NP*)             Ooh     -     -  Joey_Tribbiani          *          -
+/friends-s02e01   0   1               ,     ,                     (PRN*               ,     -     -  Joey_Tribbiani          *          -
+/friends-s02e01   0   2            that    IN                    (SBAR*            that     -     -  Joey_Tribbiani          *          -
+/friends-s02e01   0   3             bad    JJ            (FRAG(ADJP*)))             bad     -     -  Joey_Tribbiani          *          -
+/friends-s02e01   0   4               ,     ,                       *))               ,     -     -  Joey_Tribbiani          *          -
+/friends-s02e01   0   5             huh    RB                  (ADVP*))             huh     -     -  Joey_Tribbiani          *          -
+/friends-s02e01   0   6               ?     .                       *))               ?     -     -  Joey_Tribbiani          *          -
+
+/friends-s02e01   0   0            What   WDT          (TOP(FRAG(WHNP*)            what     -     -    Rachel_Green          *          -
+/friends-s02e01   0   1               ?     .                       *))               ?     -     -    Rachel_Green          *          -
+
+/friends-s02e01   0   0            Look    VB            (TOP(S(S(VP*))            look     -     -  Joey_Tribbiani          *          -
+/friends-s02e01   0   1               ,     ,                         *               ,     -     -  Joey_Tribbiani          *          -
+/friends-s02e01   0   2               I   PRP                     (NP*)               I     -     -  Joey_Tribbiani          *      (183)
+/friends-s02e01   0   3             can    MD                      (VP*             can     -     -  Joey_Tribbiani          *          -
+/friends-s02e01   0   4           sense    VB                      (VP*           sense     -     -  Joey_Tribbiani          *          -
+/friends-s02e01   0   5            when   WRB            (SBAR(WHADVP*)            when     -     -  Joey_Tribbiani          *          -
+/friends-s02e01   0   6           women   NNS                   (S(NP*)           woman     -     -  Joey_Tribbiani          *          -
+/friends-s02e01   0   7             are   VBP                      (VP*              be     -     -  Joey_Tribbiani          *          -
+/friends-s02e01   0   8       depressed    JJ                    (ADJP*       depressed     -     -  Joey_Tribbiani          *          -
+/friends-s02e01   0   9             and    CC                         *             and     -     -  Joey_Tribbiani          *          -
+/friends-s02e01   0  10      vulnerable    JJ                   *))))))      vulnerable     -     -  Joey_Tribbiani          *          -
+/friends-s02e01   0  11               .     .                       *))               .     -     -  Joey_Tribbiani          *          -
+
+/friends-s02e01   0   0              It   PRP               (TOP(S(NP*)              it     -     -  Joey_Tribbiani          *          -
+/friends-s02e01   0   1              's   VBZ                      (VP*              be     -     -  Joey_Tribbiani          *          -
+/friends-s02e01   0   2             one    CD                  (NP(NP*)             one     -     -  Joey_Tribbiani   (NUMBER)          -
+/friends-s02e01   0   3              of    IN                      (PP*              of     -     -  Joey_Tribbiani          *          -
+/friends-s02e01   0   4              my  PRP$                      (NP*              my     -     -  Joey_Tribbiani          *      (183)
+/friends-s02e01   0   5           gifts   NNS                     *))))            gift     -     -  Joey_Tribbiani          *          -
+/friends-s02e01   0   6               .     .                       *))               .     -     -  Joey_Tribbiani          *          -
+
+/friends-s02e01   0   0            When   WRB      (TOP(S(SBAR(WHADVP*)            when     -     -    Rachel_Green          *          -
+/friends-s02e01   0   1               I   PRP                   (S(NP*)               I     -     -    Rachel_Green          *      (306)
+/friends-s02e01   0   2             saw   VBD                      (VP*             see     -     -    Rachel_Green          *          -
+/friends-s02e01   0   3             him   PRP                   (S(NP*)              he     -     -    Rachel_Green          *      (335)
+/friends-s02e01   0   4             get    VB                      (VP*             get     -     -    Rachel_Green          *          -
+/friends-s02e01   0   5             off    RP                    (PRT*)             off     -     -    Rachel_Green          *          -
+/friends-s02e01   0   6            that    DT                   (NP(NP*            that     -     -    Rachel_Green          *          -
+/friends-s02e01   0   7           plane    NN                        *)           plane     -     -    Rachel_Green          *          -
+/friends-s02e01   0   8            with    IN                      (PP*            with     -     -    Rachel_Green          *          -
+/friends-s02e01   0   9             her   PRP              (NP*))))))))             she     -     -    Rachel_Green          *      (197)
+/friends-s02e01   0  10               ,     ,                         *               ,     -     -    Rachel_Green          *          -
+/friends-s02e01   0  11               I   PRP                     (NP*)               I     -     -    Rachel_Green          *      (306)
+/friends-s02e01   0  12          really    RB                   (ADVP*)          really     -     -    Rachel_Green          *          -
+/friends-s02e01   0  13         thought   VBD                      (VP*           think     -     -    Rachel_Green          *          -
+/friends-s02e01   0  14               I   PRP              (SBAR(S(NP*)               I     -     -    Rachel_Green          *      (306)
+/friends-s02e01   0  15             hit   VBD                      (VP*             hit     -     -    Rachel_Green          *          -
+/friends-s02e01   0  16            rock    NN                      (NP*            rock     -     -    Rachel_Green          *          -
+/friends-s02e01   0  17          bottom    NN                    *)))))          bottom     -     -    Rachel_Green          *          -
+/friends-s02e01   0  18               .     .                       *))               .     -     -    Rachel_Green          *          -
+
+/friends-s02e01   0   0             But    CC                   (TOP(S*             but     -     -    Rachel_Green          *          -
+/friends-s02e01   0   1           today    NN                 (NP-TMP*)           today     -     -    Rachel_Green     (DATE)          -
+/friends-s02e01   0   2               ,     ,                         *               ,     -     -    Rachel_Green          *          -
+/friends-s02e01   0   3              it   PRP                     (NP*)              it     -     -    Rachel_Green          *          -
+/friends-s02e01   0   4              's   VBZ                      (VP*              be     -     -    Rachel_Green          *          -
+/friends-s02e01   0   5            like    IN                    (SBAR*            like     -     -    Rachel_Green          *          -
+/friends-s02e01   0   6           there    EX                   (S(NP*)           there     -     -    Rachel_Green          *          -
+/friends-s02e01   0   7              's   VBZ                      (VP*              be     -     -    Rachel_Green          *          -
+/friends-s02e01   0   8            rock    NN                   (NP(NP*            rock     -     -    Rachel_Green          *          -
+/friends-s02e01   0   9          bottom    NN                        *)          bottom     -     -    Rachel_Green          *          -
+/friends-s02e01   0  10               ,     ,                         *               ,     -     -    Rachel_Green          *          -
+/friends-s02e01   0  11              50    CD                   (NP(NP*              50     -     -    Rachel_Green   (NUMBER)          -
+/friends-s02e01   0  12            feet   NNS                        *)            foot     -     -    Rachel_Green          *          -
+/friends-s02e01   0  13              of    IN                      (PP*              of     -     -    Rachel_Green          *          -
+/friends-s02e01   0  14            crap    NN                  (NP(NP*)            crap     -     -    Rachel_Green          *          -
+/friends-s02e01   0  15               ,     ,                         *               ,     -     -    Rachel_Green          *          -
+/friends-s02e01   0  16            then    RB                         *            then     -     -    Rachel_Green          *          -
+/friends-s02e01   0  17              me   PRP             (NP*)))))))))               I     -     -    Rachel_Green          *      (306)
+/friends-s02e01   0  18               .     .                       *))               .     -     -    Rachel_Green          *          -
+
+/friends-s02e01   0   0             You   PRP               (TOP(S(NP*)             you     -     -  Joey_Tribbiani          *      (306)
+/friends-s02e01   0   1             got   VBD                      (VP*             get     -     -  Joey_Tribbiani          *          -
+/friends-s02e01   0   2              ta    NN              (SBAR(S(NP*)              ta     -     -  Joey_Tribbiani          *          -
+/friends-s02e01   0   3            tell   VBP                      (VP*            tell     -     -  Joey_Tribbiani          *          -
+/friends-s02e01   0   4            Ross   NNP                  (NP(NP*)            Ross     -     -  Joey_Tribbiani   (PERSON)      (335)
+/friends-s02e01   0   5             how   WRB            (SBAR(WHADVP*)             how     -     -  Joey_Tribbiani          *          -
+/friends-s02e01   0   6             you   PRP                   (S(NP*)             you     -     -  Joey_Tribbiani          *      (306)
+/friends-s02e01   0   7            feel   VBP              (VP*))))))))            feel     -     -  Joey_Tribbiani          *          -
+/friends-s02e01   0   8               .     .                       *))               .     -     -  Joey_Tribbiani          *          -
+
+/friends-s02e01   0   0            Come    VB                (TOP(S(VP*            come     -     -    Rachel_Green          *          -
+/friends-s02e01   0   1              on    IN                    (PP*))              on     -     -    Rachel_Green          *          -
+/friends-s02e01   0   2               .     .                       *))               .     -     -    Rachel_Green          *          -
+
+/friends-s02e01   0   0             How   WRB       (TOP(SBARQ(WHADVP*)             how     -     -    Rachel_Green          *          -
+/friends-s02e01   0   1             can    MD                      (SQ*             can     -     -    Rachel_Green          *          -
+/friends-s02e01   0   2               I   PRP                     (NP*)               I     -     -    Rachel_Green          *      (306)
+/friends-s02e01   0   3            just    RB                (VP(ADVP*)            just     -     -    Rachel_Green          *          -
+/friends-s02e01   0   4            tell   VBP                         *            tell     -     -    Rachel_Green          *          -
+/friends-s02e01   0   5             him   PRP                   (NP*)))              he     -     -    Rachel_Green          *      (335)
+/friends-s02e01   0   6               ?     .                       *))               ?     -     -    Rachel_Green          *          -
+
+/friends-s02e01   0   0            What    WP          (TOP(FRAG(WHNP*)            what     -     -    Rachel_Green          *          -
+/friends-s02e01   0   1           about    IN                      (PP*           about     -     -    Rachel_Green          *          -
+/friends-s02e01   0   2           Julie   NNP                    (NP*))           Julie     -     -    Rachel_Green   (PERSON)      (197)
+/friends-s02e01   0   3               ?     .                       *))               ?     -     -    Rachel_Green          *          -
+
+/friends-s02e01   0   0            What    WP          (TOP(FRAG(WHNP*)            what     -     -  Joey_Tribbiani          *          -
+/friends-s02e01   0   1           about    IN                      (PP*           about     -     -  Joey_Tribbiani          *          -
+/friends-s02e01   0   2             her  PRP$                    (NP*))             she     -     -  Joey_Tribbiani          *      (197)
+/friends-s02e01   0   3               ?     .                       *))               ?     -     -  Joey_Tribbiani          *          -
+
+/friends-s02e01   0   0            They   PRP               (TOP(S(NP*)            they     -     -  Joey_Tribbiani          *          -
+/friends-s02e01   0   1             've   VBP                      (VP*            have     -     -  Joey_Tribbiani          *          -
+/friends-s02e01   0   2            only    RB                   (ADVP*)            only     -     -  Joey_Tribbiani          *          -
+/friends-s02e01   0   3            been   VBN                      (VP*              be     -     -  Joey_Tribbiani          *          -
+/friends-s02e01   0   4           going   VBG                      (VP*              go     -     -  Joey_Tribbiani          *          -
+/friends-s02e01   0   5             out    RP                    (PRT*)             out     -     -  Joey_Tribbiani          *          -
+/friends-s02e01   0   6             for    IN                      (PP*             for     -     -  Joey_Tribbiani          *          -
+/friends-s02e01   0   7             two    CD                      (NP*             two     -     -  Joey_Tribbiani (DURATION*          -
+/friends-s02e01   0   8           weeks   NNS                    *)))))            week     -     -  Joey_Tribbiani         *)          -
+/friends-s02e01   0   9               .     .                       *))               .     -     -  Joey_Tribbiani          *          -
+
+/friends-s02e01   0   0            Ross   NNP               (TOP(S(NP*)            Ross     -     -  Joey_Tribbiani   (PERSON)      (335)
+/friends-s02e01   0   1             has   VBZ                      (VP*            have     -     -  Joey_Tribbiani          *          -
+/friends-s02e01   0   2            been   VBN                      (VP*              be     -     -  Joey_Tribbiani          *          -
+/friends-s02e01   0   3              in    IN                      (PP*              in     -     -  Joey_Tribbiani          *          -
+/friends-s02e01   0   4            love    NN                  (NP(NP*)            love     -     -  Joey_Tribbiani          *          -
+/friends-s02e01   0   5            with    IN                      (PP*            with     -     -  Joey_Tribbiani          *          -
+/friends-s02e01   0   6             you   PRP                  (NP*))))             you     -     -  Joey_Tribbiani          *      (306)
+/friends-s02e01   0   7             for    IN                      (PP*             for     -     -  Joey_Tribbiani          *          -
+/friends-s02e01   0   8            like    IN                      (PP*            like     -     -  Joey_Tribbiani          *          -
+/friends-s02e01   0   9              10    CD                      (NP*              10     -     -  Joey_Tribbiani (DURATION*          -
+/friends-s02e01   0  10           years   NNS                    *)))))            year     -     -  Joey_Tribbiani         *)          -
+/friends-s02e01   0  11               .     .                       *))               .     -     -  Joey_Tribbiani          *          -
+
+/friends-s02e01   0   0               I   PRP             (TOP(S(S(NP*)               I     -     -    Rachel_Green          *      (306)
+/friends-s02e01   0   1              do   VBP                      (VP*              do     -     -    Rachel_Green          *          -
+/friends-s02e01   0   2             n't    RB                         *             not     -     -    Rachel_Green          *          -
+/friends-s02e01   0   3            know    VB                   (VP*)))            know     -     -    Rachel_Green          *          -
+/friends-s02e01   0   4               ,     ,                         *               ,     -     -    Rachel_Green          *          -
+/friends-s02e01   0   5               I   PRP                     (NP*)               I     -     -    Rachel_Green          *      (306)
+/friends-s02e01   0   6              do   VBP                      (VP*              do     -     -    Rachel_Green          *          -
+/friends-s02e01   0   7             n't    RB                         *             not     -     -    Rachel_Green          *          -
+/friends-s02e01   0   8            know    VB                    (VP*))            know     -     -    Rachel_Green          *          -
+/friends-s02e01   0   9               .     .                       *))               .     -     -    Rachel_Green          *          -
+
+/friends-s02e01   0   0            Look    VB               (TOP(S(VP*)            look     -     -  Joey_Tribbiani          *          -
+/friends-s02e01   0   1               ,     ,                         *               ,     -     -  Joey_Tribbiani          *          -
+/friends-s02e01   0   2            Rach   NNP                      (NP*            Rach     -     -  Joey_Tribbiani   (PERSON)      (306)
+/friends-s02e01   0   3               ,     ,                         *               ,     -     -  Joey_Tribbiani          *          -
+/friends-s02e01   0   4            Rach   NNP                        *)            Rach     -     -  Joey_Tribbiani          *      (306)
+/friends-s02e01   0   5               !     .                       *))               !     -     -  Joey_Tribbiani          *          -
+
+/friends-s02e01   0   0               I   PRP               (TOP(S(NP*)               I     -     -  Joey_Tribbiani          *      (183)
+/friends-s02e01   0   1             've   VBP                      (VP*            have     -     -  Joey_Tribbiani          *          -
+/friends-s02e01   0   2            been   VBN                      (VP*              be     -     -  Joey_Tribbiani          *          -
+/friends-s02e01   0   3            with    IN                      (PP*            with     -     -  Joey_Tribbiani          *          -
+/friends-s02e01   0   4              my  PRP$                   (NP(NP*              my     -     -  Joey_Tribbiani          *      (183)
+/friends-s02e01   0   5           share    NN                        *)           share     -     -  Joey_Tribbiani          *          -
+/friends-s02e01   0   6              of    IN                      (PP*              of     -     -  Joey_Tribbiani          *          -
+/friends-s02e01   0   7           women   NNS                (NP*))))))           woman     -     -  Joey_Tribbiani          *          -
+/friends-s02e01   0   8               .     .                       *))               .     -     -  Joey_Tribbiani          *          -
+
+/friends-s02e01   0   0              In    IN                (TOP(S(PP*              in     -     -  Joey_Tribbiani          *          -
+/friends-s02e01   0   1            fact    NN                    (NP*))            fact     -     -  Joey_Tribbiani          *          -
+/friends-s02e01   0   2               ,     ,                         *               ,     -     -  Joey_Tribbiani          *          -
+/friends-s02e01   0   3               I   PRP                     (NP*)               I     -     -  Joey_Tribbiani          *      (183)
+/friends-s02e01   0   4             've   VBP                      (VP*            have     -     -  Joey_Tribbiani          *          -
+/friends-s02e01   0   5            been   VBN                      (VP*              be     -     -  Joey_Tribbiani          *          -
+/friends-s02e01   0   6            with    IN                      (PP*            with     -     -  Joey_Tribbiani          *          -
+/friends-s02e01   0   7            like    IN                         *            like     -     -  Joey_Tribbiani          *          -
+/friends-s02e01   0   8               a    DT                   (NP(NP*               a     -     -  Joey_Tribbiani          *          -
+/friends-s02e01   0   9             lot    NN                        *)             lot     -     -  Joey_Tribbiani          *          -
+/friends-s02e01   0  10              of    IN                      (PP*              of     -     -  Joey_Tribbiani          *          -
+/friends-s02e01   0  11          people   NNS                (NP(NP(NP*          people     -     -  Joey_Tribbiani          *          -
+/friends-s02e01   0  12              's   POS                        *)              's     -     -  Joey_Tribbiani          *          -
+/friends-s02e01   0  13           share    NN                        *)           share     -     -  Joey_Tribbiani          *          -
+/friends-s02e01   0  14              of    IN                      (PP*              of     -     -  Joey_Tribbiani          *          -
+/friends-s02e01   0  15           women   NNS              (NP*))))))))           woman     -     -  Joey_Tribbiani          *          -
+/friends-s02e01   0  16               .     .                       *))               .     -     -  Joey_Tribbiani          *          -
+
+/friends-s02e01   0   0             The    DT              (TOP(S(S(NP*             the     -     -  Joey_Tribbiani          *          -
+/friends-s02e01   0   1           point    NN                        *)           point     -     -  Joey_Tribbiani          *          -
+/friends-s02e01   0   2              is   VBZ                      (VP*              be     -     -  Joey_Tribbiani          *          -
+/friends-s02e01   0   3               ,     ,                         *               ,     -     -  Joey_Tribbiani          *          -
+/friends-s02e01   0   4               I   PRP              (SBAR(S(NP*)               I     -     -  Joey_Tribbiani          *      (183)
+/friends-s02e01   0   5             've   VBP                      (VP*            have     -     -  Joey_Tribbiani          *          -
+/friends-s02e01   0   6           never    RB                   (ADVP*)           never     -     -  Joey_Tribbiani          *          -
+/friends-s02e01   0   7            felt   VBN                      (VP*            feel     -     -  Joey_Tribbiani          *          -
+/friends-s02e01   0   8           about    IN                      (PP*           about     -     -  Joey_Tribbiani          *          -
+/friends-s02e01   0   9          anyone    NN                  (NP(NP*)          anyone     -     -  Joey_Tribbiani          *          -
+/friends-s02e01   0  10             the    DT                      (NP*             the     -     -  Joey_Tribbiani          *          -
+/friends-s02e01   0  11             way    NN                *)))))))))             way     -     -  Joey_Tribbiani          *          -
+/friends-s02e01   0  12            Ross   NNP                     (NP*)            Ross     -     -  Joey_Tribbiani   (PERSON)      (335)
+/friends-s02e01   0  13            felt   VBD                      (VP*            feel     -     -  Joey_Tribbiani          *          -
+/friends-s02e01   0  14           about    IN                      (PP*           about     -     -  Joey_Tribbiani          *          -
+/friends-s02e01   0  15             you   PRP                   (NP*)))             you     -     -  Joey_Tribbiani          *      (306)
+/friends-s02e01   0  16               .     .                       *))               .     -     -  Joey_Tribbiani          *          -
+
+/friends-s02e01   0   0              Yo   NNP              (TOP(NP(NP*)              Yo     -     -   Chandler_Bing          *          -
+/friends-s02e01   0   1               ,     ,                         *               ,     -     -   Chandler_Bing          *          -
+/friends-s02e01   0   2          paisan    NN                     (NP*)          paisan     -     -   Chandler_Bing          *          -
+/friends-s02e01   0   3               !     .                       *))               !     -     -   Chandler_Bing          *          -
+
+/friends-s02e01   0   0             Can    MD                  (TOP(SQ*             can     -     -   Chandler_Bing          *          -
+/friends-s02e01   0   1               I   PRP                     (NP*)               I     -     -   Chandler_Bing          *       (59)
+/friends-s02e01   0   2            talk    VB                      (VP*            talk     -     -   Chandler_Bing          *          -
+/friends-s02e01   0   3              to    TO                      (PP*              to     -     -   Chandler_Bing          *          -
+/friends-s02e01   0   4             you   PRP                    (NP*))             you     -     -   Chandler_Bing          *      (183)
+/friends-s02e01   0   5             for    IN                      (PP*             for     -     -   Chandler_Bing          *          -
+/friends-s02e01   0   6               a    DT                      (NP*               a     -     -   Chandler_Bing (DURATION*          -
+/friends-s02e01   0   7             sec    NN                      *)))             sec     -     -   Chandler_Bing         *)          -
+/friends-s02e01   0   8               ?     .                       *))               ?     -     -   Chandler_Bing          *          -
+
+/friends-s02e01   0   0            Your  PRP$                (TOP(S(NP*             you     -     -   Chandler_Bing          *      (183)
+/friends-s02e01   0   1          tailor    NN                        *)          tailor     -     -   Chandler_Bing          *          -
+/friends-s02e01   0   2              is   VBZ                      (VP*              be     -     -   Chandler_Bing          *          -
+/friends-s02e01   0   3               a    DT                      (NP*               a     -     -   Chandler_Bing          *          -
+/friends-s02e01   0   4            very    RB                    (ADJP*            very     -     -   Chandler_Bing          *          -
+/friends-s02e01   0   5             bad    JJ                        *)             bad     -     -   Chandler_Bing          *          -
+/friends-s02e01   0   6             man    NN                       *))             man     -     -   Chandler_Bing          *      (189)
+/friends-s02e01   0   7               !     .                       *))               !     -     -   Chandler_Bing          *          -
+
+/friends-s02e01   0   0         Frankie   NNP            (TOP(FRAG(NP*)         Frankie     -     -  Joey_Tribbiani   (PERSON)      (133)
+/friends-s02e01   0   1               ?     .                       *))               ?     -     -  Joey_Tribbiani          *          -
+
+/friends-s02e01   0   0            What   WDT     (TOP(FRAG(SBAR(WHNP*)            what     -     -  Joey_Tribbiani          *          -
+/friends-s02e01   0   1             're   VBP                    (S(VP*              be     -     -  Joey_Tribbiani          *          -
+/friends-s02e01   0   2             you   PRP                  (NP(NP*)             you     -     -  Joey_Tribbiani          *       (59)
+/friends-s02e01   0   3         talking   VBG                      (VP*            talk     -     -  Joey_Tribbiani          *          -
+/friends-s02e01   0   4           about    IN                    *)))))           about     -     -  Joey_Tribbiani          *          -
+/friends-s02e01   0   5               ?     .                       *))               ?     -     -  Joey_Tribbiani          *          -
+
+/friends-s02e01   0   0             Hey    UH             (TOP(S(INTJ*)             hey     -     -     Ross_Geller          *          -
+/friends-s02e01   0   1               ,     ,                         *               ,     -     -     Ross_Geller          *          -
+/friends-s02e01   0   2            what    WP                     (NP*)            what     -     -     Ross_Geller          *          -
+/friends-s02e01   0   3              's   VBZ                      (VP*              be     -     -     Ross_Geller          *          -
+/friends-s02e01   0   4            goin    NN                     (NP*)            goin     -     -     Ross_Geller          *          -
+/friends-s02e01   0   5               '    ''                         *               '     -     -     Ross_Geller          *          -
+/friends-s02e01   0   6              on    IN                    (PP*))              on     -     -     Ross_Geller          *          -
+/friends-s02e01   0   7               ?     .                       *))               ?     -     -     Ross_Geller          *          -
+
+/friends-s02e01   0   0            Joey   NNP            (TOP(NP(NP(NP*            Joey     -     -   Chandler_Bing   (PERSON)      (183)
+/friends-s02e01   0   1              's   POS                        *)              's     -     -   Chandler_Bing          *          -
+/friends-s02e01   0   2          tailor    NN                        *)          tailor     -     -   Chandler_Bing          *      (189)
+/friends-s02e01   0   3             ...     :                       *))             ...     -     -   Chandler_Bing          *          -
+
+/friends-s02e01   0   0            took   VBD                (TOP(S(VP*            take     -     -   Chandler_Bing          *          -
+/friends-s02e01   0   1       advantage    NN                  (NP(NP*)       advantage     -     -   Chandler_Bing          *          -
+/friends-s02e01   0   2              of    IN                      (PP*              of     -     -   Chandler_Bing          *          -
+/friends-s02e01   0   3              me   PRP                  (NP*))))               I     -     -   Chandler_Bing          *       (59)
+/friends-s02e01   0   4               .     .                       *))               .     -     -   Chandler_Bing          *          -
+
+/friends-s02e01   0   0            What   WDT          (TOP(FRAG(WHNP*)            what     -     -     Ross_Geller          *          -
+/friends-s02e01   0   1               ?     .                       *))               ?     -     -     Ross_Geller          *          -
+
+/friends-s02e01   0   0              No    DT                  (TOP(NP*              no     -     -  Joey_Tribbiani          *          -
+/friends-s02e01   0   1             way    NN                         *             way     -     -  Joey_Tribbiani          *          -
+/friends-s02e01   0   2               .     .                       *))               .     -     -  Joey_Tribbiani          *          -
+
+/friends-s02e01   0   0               I   PRP               (TOP(S(NP*)               I     -     -  Joey_Tribbiani          *      (183)
+/friends-s02e01   0   1             've   VBP                      (VP*            have     -     -  Joey_Tribbiani          *          -
+/friends-s02e01   0   2            been   VBN                      (VP*              be     -     -  Joey_Tribbiani          *          -
+/friends-s02e01   0   3           going   VBG                      (VP*              go     -     -  Joey_Tribbiani          *          -
+/friends-s02e01   0   4              to    TO                      (PP*              to     -     -  Joey_Tribbiani          *          -
+/friends-s02e01   0   5             the    DT                   (NP(NP*             the     -     -  Joey_Tribbiani          *          -
+/friends-s02e01   0   6             guy    NN                        *)             guy     -     -  Joey_Tribbiani          *      (189)
+/friends-s02e01   0   7             for    IN                      (PP*             for     -     -  Joey_Tribbiani          *          -
+/friends-s02e01   0   8              12    CD                      (NP*              12     -     -  Joey_Tribbiani (DURATION*          -
+/friends-s02e01   0   9           years   NNS                  *)))))))            year     -     -  Joey_Tribbiani         *)          -
+/friends-s02e01   0  10               .     .                       *))               .     -     -  Joey_Tribbiani          *          -
+
+/friends-s02e01   0   0              Oh    UH                (TOP(INTJ*              oh     -     -   Chandler_Bing          *          -
+/friends-s02e01   0   1            come   VBN                      (PP*            come     -     -   Chandler_Bing          *          -
+/friends-s02e01   0   2              on    IN                    (PP*))              on     -     -   Chandler_Bing          *          -
+/friends-s02e01   0   3               !     .                       *))               !     -     -   Chandler_Bing          *          -
+
+/friends-s02e01   0   0              He   PRP             (TOP(S(S(NP*)              he     -     -   Chandler_Bing          *      (189)
+/friends-s02e01   0   1            said   VBD                      (VP*             say     -     -   Chandler_Bing          *          -
+/friends-s02e01   0   2              he   PRP              (SBAR(S(NP*)              he     -     -   Chandler_Bing          *      (189)
+/friends-s02e01   0   3             was   VBD                      (VP*              be     -     -   Chandler_Bing          *          -
+/friends-s02e01   0   4           going   VBG                      (VP*              go     -     -   Chandler_Bing          *          -
+/friends-s02e01   0   5              to    TO                    (S(VP*              to     -     -   Chandler_Bing          *          -
+/friends-s02e01   0   6              do    VB                      (VP*              do     -     -   Chandler_Bing          *          -
+/friends-s02e01   0   7              my  PRP$                      (NP*              my     -     -   Chandler_Bing          *       (59)
+/friends-s02e01   0   8          inseam    NN               *))))))))))          inseam     -     -   Chandler_Bing          *          -
+/friends-s02e01   0   9               ,     ,                         *               ,     -     -   Chandler_Bing          *          -
+/friends-s02e01   0  10             and    CC                         *             and     -     -   Chandler_Bing          *          -
+/friends-s02e01   0  11              he   PRP                 (S(S(NP*)              he     -     -   Chandler_Bing          *      (189)
+/friends-s02e01   0  12             ran   VBD                      (VP*             run     -     -   Chandler_Bing          *          -
+/friends-s02e01   0  13             his  PRP$                      (NP*              he     -     -   Chandler_Bing          *      (189)
+/friends-s02e01   0  14            hand    NN                        *)            hand     -     -   Chandler_Bing          *          -
+/friends-s02e01   0  15              up    RP                      (PP*              up     -     -   Chandler_Bing          *          -
+/friends-s02e01   0  16              my  PRP$                      (NP*              my     -     -   Chandler_Bing          *       (59)
+/friends-s02e01   0  17             leg    NN                     *))))             leg     -     -   Chandler_Bing          *          -
+/friends-s02e01   0  18               ,     ,                         *               ,     -     -   Chandler_Bing          *          -
+/friends-s02e01   0  19             and    CC                         *             and     -     -   Chandler_Bing          *          -
+/friends-s02e01   0  20            then    RB                 (S(ADVP*)            then     -     -   Chandler_Bing          *          -
+/friends-s02e01   0  21               ,     ,                         *               ,     -     -   Chandler_Bing          *          -
+/friends-s02e01   0  22           there    EX                     (NP*)           there     -     -   Chandler_Bing          *          -
+/friends-s02e01   0  23             was   VBD                      (VP*              be     -     -   Chandler_Bing          *          -
+/friends-s02e01   0  24        definite    JJ                (ADJP*))))        definite     -     -   Chandler_Bing          *          -
+/friends-s02e01   0  25             ...     :                       *))             ...     -     -   Chandler_Bing          *          -
+
+/friends-s02e01   0   0            What   WDT          (TOP(FRAG(WHNP*)            what     -     -     Ross_Geller          *          -
+/friends-s02e01   0   1               ?     .                       *))               ?     -     -     Ross_Geller          *          -
+
+/friends-s02e01   0   0         Cupping    NN                  (TOP(NP*         cupping     -     -   Chandler_Bing          *          -
+/friends-s02e01   0   1               .     .                       *))               .     -     -   Chandler_Bing          *          -
+
+/friends-s02e01   0   0            That    DT               (TOP(S(NP*)            that     -     -  Joey_Tribbiani          *          -
+/friends-s02e01   0   1              's   VBZ                      (VP*              be     -     -  Joey_Tribbiani          *          -
+/friends-s02e01   0   2             how   WRB            (SBAR(WHADVP*)             how     -     -  Joey_Tribbiani          *          -
+/friends-s02e01   0   3            they   PRP                   (S(NP*)            they     -     -  Joey_Tribbiani          *          -
+/friends-s02e01   0   4              do   VBP                      (VP*              do     -     -  Joey_Tribbiani          *          -
+/friends-s02e01   0   5           pants   NNS                 (NP*)))))           pants     -     -  Joey_Tribbiani          *          -
+/friends-s02e01   0   6               !     .                       *))               !     -     -  Joey_Tribbiani          *          -
+
+/friends-s02e01   0   0           First    RB           (TOP(S(S(ADVP*)           first     -     -  Joey_Tribbiani  (ORDINAL)          -
+/friends-s02e01   0   1            they   PRP                     (NP*)            they     -     -  Joey_Tribbiani          *          -
+/friends-s02e01   0   2              go   VBP                      (VP*              go     -     -  Joey_Tribbiani          *          -
+/friends-s02e01   0   3              up    RP                    (PRT*)              up     -     -  Joey_Tribbiani          *          -
+/friends-s02e01   0   4             one    CD                      (NP*             one     -     -  Joey_Tribbiani   (NUMBER)          -
+/friends-s02e01   0   5            side    NN                      *)))            side     -     -  Joey_Tribbiani          *          -
+/friends-s02e01   0   6               ,     ,                         *               ,     -     -  Joey_Tribbiani          *          -
+/friends-s02e01   0   7            they   PRP                   (S(NP*)            they     -     -  Joey_Tribbiani          *          -
+/friends-s02e01   0   8            move   VBP                      (VP*            move     -     -  Joey_Tribbiani          *          -
+/friends-s02e01   0   9              it   PRP                     (NP*)              it     -     -  Joey_Tribbiani          *          -
+/friends-s02e01   0  10            over    IN                   (PP*)))            over     -     -  Joey_Tribbiani          *          -
+/friends-s02e01   0  11               ,     ,                         *               ,     -     -  Joey_Tribbiani          *          -
+/friends-s02e01   0  12            then    RB                 (S(ADVP*)            then     -     -  Joey_Tribbiani          *          -
+/friends-s02e01   0  13            they   PRP                     (NP*)            they     -     -  Joey_Tribbiani          *          -
+/friends-s02e01   0  14              go   VBP                      (VP*              go     -     -  Joey_Tribbiani          *          -
+/friends-s02e01   0  15              up    RP                    (PRT*)              up     -     -  Joey_Tribbiani          *          -
+/friends-s02e01   0  16             the    DT                      (NP*             the     -     -  Joey_Tribbiani          *          -
+/friends-s02e01   0  17           other    JJ                         *           other     -     -  Joey_Tribbiani          *          -
+/friends-s02e01   0  18            side    NN                      *)))            side     -     -  Joey_Tribbiani          *          -
+/friends-s02e01   0  19               ,     ,                         *               ,     -     -  Joey_Tribbiani          *          -
+/friends-s02e01   0  20            they   PRP                   (S(NP*)            they     -     -  Joey_Tribbiani          *          -
+/friends-s02e01   0  21            move   VBP                      (VP*            move     -     -  Joey_Tribbiani          *          -
+/friends-s02e01   0  22              it   PRP                     (NP*)              it     -     -  Joey_Tribbiani          *          -
+/friends-s02e01   0  23            back    RB                 (ADVP*)))            back     -     -  Joey_Tribbiani          *          -
+/friends-s02e01   0  24               ,     ,                         *               ,     -     -  Joey_Tribbiani          *          -
+/friends-s02e01   0  25             and    CC                         *             and     -     -  Joey_Tribbiani          *          -
+/friends-s02e01   0  26            then    RB                 (S(ADVP*)            then     -     -  Joey_Tribbiani          *          -
+/friends-s02e01   0  27            they   PRP                     (NP*)            they     -     -  Joey_Tribbiani          *          -
+/friends-s02e01   0  28              do   VBP                      (VP*              do     -     -  Joey_Tribbiani          *          -
+/friends-s02e01   0  29             the    DT                      (NP*             the     -     -  Joey_Tribbiani          *          -
+/friends-s02e01   0  30            rear    NN                      *)))            rear     -     -  Joey_Tribbiani          *          -
+/friends-s02e01   0  31               .     .                       *))               .     -     -  Joey_Tribbiani          *          -
+
+/friends-s02e01   0   0            What   WDT          (TOP(FRAG(WHNP*)            what     -     -  Joey_Tribbiani          *          -
+/friends-s02e01   0   1               ?     .                       *))               ?     -     -  Joey_Tribbiani          *          -
+
+/friends-s02e01   0   0            Ross   NNP            (TOP(S(NP(NP*)            Ross     -     -  Joey_Tribbiani   (PERSON)      (335)
+/friends-s02e01   0   1               ,     ,                         *               ,     -     -  Joey_Tribbiani          *          -
+/friends-s02e01   0   2            Ross   NNP                     (NP*)            Ross     -     -  Joey_Tribbiani   (PERSON)      (335)
+/friends-s02e01   0   3               ,     ,                        *)               ,     -     -  Joey_Tribbiani          *          -
+/friends-s02e01   0   4           would    MD                      (VP*           would     -     -  Joey_Tribbiani          *          -
+/friends-s02e01   0   5             you   PRP                     (NP*)             you     -     -  Joey_Tribbiani          *      (335)
+/friends-s02e01   0   6            tell    VB                    (S(VP*            tell     -     -  Joey_Tribbiani          *          -
+/friends-s02e01   0   7             him   PRP                  (NP*))))              he     -     -  Joey_Tribbiani          *       (59)
+/friends-s02e01   0   8               ?     .                       *))               ?     -     -  Joey_Tribbiani          *          -
+
+/friends-s02e01   0   0              Is   VBZ                (TOP(S(VP*              be     -     -  Joey_Tribbiani          *          -
+/friends-s02e01   0   1             n't    RB                         *             not     -     -  Joey_Tribbiani          *          -
+/friends-s02e01   0   2            that    IN                    (SBAR*            that     -     -  Joey_Tribbiani          *          -
+/friends-s02e01   0   3             how   WRB                 (WHADVP*)             how     -     -  Joey_Tribbiani          *          -
+/friends-s02e01   0   4            they   PRP                   (S(NP*)            they     -     -  Joey_Tribbiani          *          -
+/friends-s02e01   0   5         measure   VBP                      (VP*         measure     -     -  Joey_Tribbiani          *          -
+/friends-s02e01   0   6           pants   NNS                 (NP*)))))           pants     -     -  Joey_Tribbiani          *          -
+/friends-s02e01   0   7               ?     .                       *))               ?     -     -  Joey_Tribbiani          *          -
+
+/friends-s02e01   0   0             Yes    UH            (TOP(S(S(INTJ*             yes     -     -     Ross_Geller          *          -
+/friends-s02e01   0   1               ,     ,                         *               ,     -     -     Ross_Geller          *          -
+/friends-s02e01   0   2             yes    UH                        *)             yes     -     -     Ross_Geller          *          -
+/friends-s02e01   0   3              it   PRP                     (NP*)              it     -     -     Ross_Geller          *          -
+/friends-s02e01   0   4              is   VBZ                    (VP*))              be     -     -     Ross_Geller          *          -
+/friends-s02e01   0   5               .     .                       *))               .     -     -     Ross_Geller          *          -
+
+/friends-s02e01   0   0              In    IN             (TOP(FRAG(PP*              in     -     -     Ross_Geller          *          -
+/friends-s02e01   0   1          prison    NN                    (NP*))          prison     -     -     Ross_Geller          *          -
+/friends-s02e01   0   2               !     .                       *))               !     -     -     Ross_Geller          *          -
+
+/friends-s02e01   0   0          Whatsa   NNP               (TOP(S(NP*)          Whatsa     -     -     Ross_Geller          *          -
+/friends-s02e01   0   1          matter    NN                      (VP*          matter     -     -     Ross_Geller          *          -
+/friends-s02e01   0   2            with    IN                      (PP*            with     -     -     Ross_Geller          *          -
+/friends-s02e01   0   3             you   PRP                   (NP*)))             you     -     -     Ross_Geller          *      (183)
+/friends-s02e01   0   4               ?     .                       *))               ?     -     -     Ross_Geller          *          -
+
+/friends-s02e01   0   0            What   WDT          (TOP(FRAG(WHNP*)            what     -     -  Joey_Tribbiani          *          -
+/friends-s02e01   0   1               ?     .                       *))               ?     -     -  Joey_Tribbiani          *          -
+
+/friends-s02e01   0   0            That    DT               (TOP(S(NP*)            that     -     -  Joey_Tribbiani          *          -
+/friends-s02e01   0   1              's   VBZ                      (VP*              be     -     -  Joey_Tribbiani          *          -
+/friends-s02e01   0   2             not    RB                        *)             not     -     -  Joey_Tribbiani          *          -
+/friends-s02e01   0   3               ?     .                       *))               ?     -     -  Joey_Tribbiani          *          -
+
+/friends-s02e01   0   0              Oh    UH       (TOP(S(VP(NP(INTJ*)              oh     -     -  Joey_Tribbiani          *          -
+/friends-s02e01   0   1              my  PRP$                      (NP*              my     -     -  Joey_Tribbiani          *          -
+/friends-s02e01   0   2             God   NNP                      *)))             God     -     -  Joey_Tribbiani          *          -
+/friends-s02e01   0   3               .     .                       *))               .     -     -  Joey_Tribbiani          *          -

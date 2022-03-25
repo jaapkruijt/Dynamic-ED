@@ -128,6 +128,21 @@ def format_output(data, system_output, ignored_labels=fst_snd_prons):
     return data
 
 
+def format_gold(gold_data, ignored_labels=fst_snd_prons):
+    for line in gold_data:
+        if not line:
+            continue
+        elif line[0] == '#begin' or line[0] == '#end':
+            continue
+        elif line[3] in ignored_labels:
+            line[-1] = '-'
+        else:
+            continue
+
+    return gold_data
+
+
+
 def write_to_conll(data, test_name):
     with open(f'{test_name}.conll.txt', 'x') as conll:
         for line in data:
@@ -143,11 +158,24 @@ if __name__ == "__main__":
         {'filename': 'friends.test.s02e10sc0.nokey.conll.txt', 'outname': 'test.2_10.sys.out'},
         {'filename': 'friends.test.s02e20sc0.nokey.conll.txt', 'outname': 'test.2_20.sys.out'}
     ]
-    for test in tests:
+    golds = [
+        {'filename': 'friends.test.s01e04sc0.connl.txt', 'outname': 'test.1_04_0.gold'},
+        {'filename': 'friends.test.s01e12sc01.conll.txt', 'outname': 'test.1_12_1.gold'},
+        {'filename': 'friends.test.s01e23sc03.conll.txt', 'outname': 'test.1_23_3.gold'},
+        {'filename': 'friends.test.s02e01sc0.conll.txt', 'outname': 'test.2_01_0.gold'},
+        {'filename': 'friends.test.s02e10sc0.conll.txt', 'outname': 'test.2_10_0.gold'},
+        {'filename': 'friends.test.s02e20sc0.conll.txt', 'outname': 'test.2_20_0.gold'}
+    ]
+    for test in tests[5:]:
         working_data = prepare_data(test['filename'])
         out, mem, labels = predict_clusters(working_data, names)
         output_data = format_output(working_data, out)
         write_to_conll(output_data, test['outname'])
+
+    for gold in golds[5:]:
+        data = prepare_data(gold['filename'])
+        g_data = format_gold(data)
+        write_to_conll(g_data, gold['outname'])
 
 
 

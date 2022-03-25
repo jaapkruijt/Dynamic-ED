@@ -60,6 +60,23 @@ def prepare_timestamps_alt(cleanlines):
     return cleanlines
 
 
+def change_scene_numbers(data):
+    scene_number = '0'
+
+    for line in data:
+        if not line:
+            continue
+        elif line[0] == '#end':
+            continue
+        elif line[0] == '#begin':
+            scene_number = line[-1][-2:]
+            continue
+        else:
+            line[1] = scene_number
+
+    return data
+
+
 def prepare_data(filename, alt=True):
     raw_data = read_input(filename)
     if alt:
@@ -102,16 +119,20 @@ def find_test_scenes(data):
 
 
 if __name__ == "__main__":
-    file = "friends.test.scene_delim.conll.nokey.txt"
+    file = "recency_based_EL/friends.all.scene_delim.conll.txt"
 
-    # working_data = read_input(file)
+    working_data = read_input(file)
+    changed_data = change_scene_numbers(working_data)
+    with open('friends.ordered.scene_delim.conll.txt', 'x') as newfile:
+        for line in changed_data:
+            newfile.write(' '.join(line)+"\n")
     # for token in working_data:
     #     print(token)
 
-    working_data = prepare_data(file)
-
-    for token in working_data:
-        print(token)
+    # working_data = prepare_data(file)
+    #
+    # for token in working_data:
+    #     print(token)
 
     # useful, unique, useless = find_test_scenes(working_data)
     # print(useful)
