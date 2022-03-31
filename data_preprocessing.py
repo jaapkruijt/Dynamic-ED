@@ -25,7 +25,7 @@ def clean_lines(raw_lines):
     return lines_clean
 
 
-# IMPORTANT remember to also make a function that works with the old baseline or change the baseline!
+# TODO IMPORTANT remember to also make a function that works with the old baseline or change the baseline!
 # See notebook for old function which changes index[2] to the running order
 def prepare_timestamps(cleanlines):
     running_order = 0
@@ -77,9 +77,36 @@ def change_scene_numbers(data):
     return data
 
 
-def prepare_data(filename, alt=True):
+def format_gold(gold_data, ignored_labels=fst_snd_prons):
+    for line in gold_data:
+        if not line:
+            continue
+        elif line[0] == '#begin' or line[0] == '#end':
+            continue
+        elif line[3] in ignored_labels:
+            line[-1] = '-'
+        else:
+            continue
+
+    return gold_data
+
+
+def write_to_conll(data, test_name):
+    with open(f'{test_name}.conll.txt', 'x') as conll:
+        for line in data:
+            conll.write(' '.join(line)+"\n")
+
+
+def create_dataset(file, test_name, ignored_labels=fst_snd_prons):
+    dataset = read_input(file)
+    dataset = change_scene_numbers(dataset)
+    dataset = format_gold(dataset, ignored_labels)
+    write_to_conll(dataset, test_name)
+
+
+def prepare_data(filename, raw_lines=True):
     raw_data = read_input(filename)
-    if alt:
+    if raw_lines:
         data = prepare_timestamps_alt(raw_data)
     else:
         clean_data = clean_lines(raw_data)
@@ -119,13 +146,10 @@ def find_test_scenes(data):
 
 
 if __name__ == "__main__":
-    file = "recency_based_EL/friends.all.scene_delim.conll.txt"
+    file_in_name, file_out_name = ("recency_based_EL/friends.all.scene_delim.conll.txt", 'friends.ordered.scene_delim')
 
-    working_data = read_input(file)
-    changed_data = change_scene_numbers(working_data)
-    with open('friends.ordered.scene_delim.conll.txt', 'x') as newfile:
-        for line in changed_data:
-            newfile.write(' '.join(line)+"\n")
+    create_dataset(file_in_name, file_out_name)
+
     # for token in working_data:
     #     print(token)
 

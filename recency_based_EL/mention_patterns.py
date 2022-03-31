@@ -1,5 +1,5 @@
-from data_preprocessing import prepare_data
-from test_recency import format_gold
+from data_preprocessing import prepare_data, read_input
+from data_preprocessing import format_gold
 
 import re
 
@@ -8,17 +8,67 @@ NAMES_PRONS = ['NNP', 'PRP', 'PRP$']
 # based on family relation, and Wikidata query and selection using minimally 2 in-show triples, people that appear in
 # the first two seasons
 INNER_NAMES = ['Charles Bing', 'Amy Green', 'Jill Green', 'Nora Tyler Bing', 'Elizabeth Stevens', 'Estelle Leonard',
-               'Judy Geller', 'Jack Geller', 'Susan Bunch' 'Paul Stevens', 'Carol Willick', 'Ben Geller',
-               'Ursula Buffay', 'Richard Burke', 'Frank Buffay', 'Janice', 'Gunther', 'Gloria Tribbiani',
+               'Judy Geller', 'Jack Geller', 'Susan Bunch', 'Paul Stevens', 'Carol Willick', 'Ben',
+               'Ursula Buffay', 'Richard Burke', 'Richard', 'Frank Buffay', 'Janice', 'Gunther', 'Gloria Tribbiani',
                'Joey Tribbiani Sr.', "Joey's cousin", 'Leonard Green', 'Lily Buffay', 'Mr. Greene', 'Mrs. Green',
+               'Mrs. Greene', 'Mrs. Tribbiani',
                'Mrs. Bing', 'Mrs. Buffay', 'Mrs. Geller', 'Mr. Tribbiani', "Phoebe's grandmother",
-               "Phoebe's stepfather", "Rachel's sister", "Ross' grandmother", 'Sandra Green', ]
+               "Phoebe's stepfather", "Rachel's sister", "Ross' grandmother", 'Sandra Green']
 
 FRIENDS_NAMES = ['Ross Geller', 'Joey Tribbiani', 'Chandler Bing', 'Monica Geller', 'Phoebe Buffay', 'Rachel Green']
 
-FAMOUS = ['David Hasselhoff', 'Al Pacino', 'Albert Einstein', 'Bishop Tutu', 'Demi Moore', 'Drew Barrymore',
+FAMOUS = ['Al Pacino', 'Albert Einstein', 'Bishop Tutu', 'Demi Moore', 'Drew Barrymore',
           'Hannibal Lecter', 'James Bond', 'Jay Leno', 'Jill Goodacre', 'Jim Crochee', 'Joseph Stalin', 'Judy Jetson',
           'Liam Neeson', 'Mother Theresa', 'Spike Lee', 'Uma Thurman', 'Van Damme', 'Warren Beatty']
+
+episodes = {'/friends-s01e01': {'inner': {'amount': 0, 'participants': set()}, 'outer': {'amount': 0, 'participants': set()}},
+            '/friends-s01e02': {'inner': {'amount': 0, 'participants': set()}, 'outer': {'amount': 0, 'participants': set()}},
+            '/friends-s01e03': {'inner': {'amount': 0, 'participants': set()}, 'outer': {'amount': 0, 'participants': set()}},
+            '/friends-s01e04': {'inner': {'amount': 0, 'participants': set()}, 'outer': {'amount': 0, 'participants': set()}},
+            '/friends-s01e05': {'inner': {'amount': 0, 'participants': set()}, 'outer': {'amount': 0, 'participants': set()}},
+            '/friends-s01e06': {'inner': {'amount': 0, 'participants': set()}, 'outer': {'amount': 0, 'participants': set()}},
+            '/friends-s01e07': {'inner': {'amount': 0, 'participants': set()}, 'outer': {'amount': 0, 'participants': set()}},
+            '/friends-s01e08': {'inner': {'amount': 0, 'participants': set()}, 'outer': {'amount': 0, 'participants': set()}},
+            '/friends-s01e09': {'inner': {'amount': 0, 'participants': set()}, 'outer': {'amount': 0, 'participants': set()}},
+            '/friends-s01e10': {'inner': {'amount': 0, 'participants': set()}, 'outer': {'amount': 0, 'participants': set()}},
+            '/friends-s01e11': {'inner': {'amount': 0, 'participants': set()}, 'outer': {'amount': 0, 'participants': set()}},
+            '/friends-s01e12': {'inner': {'amount': 0, 'participants': set()}, 'outer': {'amount': 0, 'participants': set()}},
+            '/friends-s01e13': {'inner': {'amount': 0, 'participants': set()}, 'outer': {'amount': 0, 'participants': set()}},
+            '/friends-s01e14': {'inner': {'amount': 0, 'participants': set()}, 'outer': {'amount': 0, 'participants': set()}},
+            '/friends-s01e15': {'inner': {'amount': 0, 'participants': set()}, 'outer': {'amount': 0, 'participants': set()}},
+            '/friends-s01e16': {'inner': {'amount': 0, 'participants': set()}, 'outer': {'amount': 0, 'participants': set()}},
+            '/friends-s01e17': {'inner': {'amount': 0, 'participants': set()}, 'outer': {'amount': 0, 'participants': set()}},
+            '/friends-s01e18': {'inner': {'amount': 0, 'participants': set()}, 'outer': {'amount': 0, 'participants': set()}},
+            '/friends-s01e19': {'inner': {'amount': 0, 'participants': set()}, 'outer': {'amount': 0, 'participants': set()}},
+            '/friends-s01e20': {'inner': {'amount': 0, 'participants': set()}, 'outer': {'amount': 0, 'participants': set()}},
+            '/friends-s01e21': {'inner': {'amount': 0, 'participants': set()}, 'outer': {'amount': 0, 'participants': set()}},
+            '/friends-s01e22': {'inner': {'amount': 0, 'participants': set()}, 'outer': {'amount': 0, 'participants': set()}},
+            '/friends-s01e23': {'inner': {'amount': 0, 'participants': set()}, 'outer': {'amount': 0, 'participants': set()}},
+            '/friends-s01e24': {'inner': {'amount': 0, 'participants': set()}, 'outer': {'amount': 0, 'participants': set()}},
+            '/friends-s02e01': {'inner': {'amount': 0, 'participants': set()}, 'outer': {'amount': 0, 'participants': set()}},
+            '/friends-s02e02': {'inner': {'amount': 0, 'participants': set()}, 'outer': {'amount': 0, 'participants': set()}},
+            '/friends-s02e03': {'inner': {'amount': 0, 'participants': set()}, 'outer': {'amount': 0, 'participants': set()}},
+            '/friends-s02e04': {'inner': {'amount': 0, 'participants': set()}, 'outer': {'amount': 0, 'participants': set()}},
+            '/friends-s02e05': {'inner': {'amount': 0, 'participants': set()}, 'outer': {'amount': 0, 'participants': set()}},
+            '/friends-s02e06': {'inner': {'amount': 0, 'participants': set()}, 'outer': {'amount': 0, 'participants': set()}},
+            '/friends-s02e07': {'inner': {'amount': 0, 'participants': set()}, 'outer': {'amount': 0, 'participants': set()}},
+            '/friends-s02e08': {'inner': {'amount': 0, 'participants': set()}, 'outer': {'amount': 0, 'participants': set()}},
+            '/friends-s02e09': {'inner': {'amount': 0, 'participants': set()}, 'outer': {'amount': 0, 'participants': set()}},
+            '/friends-s02e10': {'inner': {'amount': 0, 'participants': set()}, 'outer': {'amount': 0, 'participants': set()}},
+            '/friends-s02e11': {'inner': {'amount': 0, 'participants': set()}, 'outer': {'amount': 0, 'participants': set()}},
+            '/friends-s02e12': {'inner': {'amount': 0, 'participants': set()}, 'outer': {'amount': 0, 'participants': set()}},
+            '/friends-s02e13': {'inner': {'amount': 0, 'participants': set()}, 'outer': {'amount': 0, 'participants': set()}},
+            '/friends-s02e14': {'inner': {'amount': 0, 'participants': set()}, 'outer': {'amount': 0, 'participants': set()}},
+            '/friends-s02e15': {'inner': {'amount': 0, 'participants': set()}, 'outer': {'amount': 0, 'participants': set()}},
+            '/friends-s02e16': {'inner': {'amount': 0, 'participants': set()}, 'outer': {'amount': 0, 'participants': set()}},
+            '/friends-s02e17': {'inner': {'amount': 0, 'participants': set()}, 'outer': {'amount': 0, 'participants': set()}},
+            '/friends-s02e18': {'inner': {'amount': 0, 'participants': set()}, 'outer': {'amount': 0, 'participants': set()}},
+            '/friends-s02e19': {'inner': {'amount': 0, 'participants': set()}, 'outer': {'amount': 0, 'participants': set()}},
+            '/friends-s02e20': {'inner': {'amount': 0, 'participants': set()}, 'outer': {'amount': 0, 'participants': set()}},
+            '/friends-s02e21': {'inner': {'amount': 0, 'participants': set()}, 'outer': {'amount': 0, 'participants': set()}},
+            '/friends-s02e22': {'inner': {'amount': 0, 'participants': set()}, 'outer': {'amount': 0, 'participants': set()}},
+            '/friends-s02e23': {'inner': {'amount': 0, 'participants': set()}, 'outer': {'amount': 0, 'participants': set()}},
+            '/friends-s02e24': {'inner': {'amount': 0, 'participants': set()}, 'outer': {'amount': 0, 'participants': set()}}}
 
 
 def map_entities(entity_map_file):
@@ -115,6 +165,41 @@ def categorize_acquaintances(entity_map, pattern_map):
     return friends, inner, outer
 
 
+def ratio_inner_outer_per_episode(inner, friends, dataset, entity_map):
+    eps = episodes
+    inner_friends = inner+friends
+
+    for line in dataset:
+        if not line:
+            continue
+        elif line[0] == '#begin' or line[0] == '#end':
+            continue
+        elif line[-1].endswith(')'):
+            mention = line[-1]
+            ent = re.sub(r'[^0-9]', '', mention)
+            name = entity_map[ent]
+            episode = line[0]
+            if ent in inner_friends:
+                eps[episode]['inner']['amount'] += 1
+                eps[episode]['inner']['participants'].add(name)
+            else:
+                eps[episode]['outer']['amount'] += 1
+                eps[episode]['outer']['participants'].add(name)
+        else:
+            continue
+
+    for ep_dict in eps.values():
+        inner_num = ep_dict['inner']['amount']
+        outer_num = ep_dict['outer']['amount']
+        try:
+            ratio = inner_num/outer_num
+        except ZeroDivisionError:
+            ratio = 0
+        ep_dict['inner']['ratio'] = ratio
+
+    return eps
+
+
 if __name__ == "__main__":
     gold_data = prepare_data('friends.train.scene_delim.conll.txt')
     gold_formatted = format_gold(gold_data)
@@ -125,6 +210,15 @@ if __name__ == "__main__":
     #         print(entity)
     #         print(mention_patterns[entity])
     six_friends, inner_circle, outer_circle = categorize_acquaintances(entmap, mention_patterns)
-    print(inner_circle)
-    print(outer_circle)
-    print(six_friends)
+    # print(inner_circle)
+    # print(outer_circle)
+    # print(six_friends)
+
+    raw_data = read_input('/Users/jaapkruijt/PycharmProjects/pythonProject/friends.ordered.scene_delim.conll.txt')
+    episode_info = ratio_inner_outer_per_episode(inner_circle, six_friends, raw_data, entmap)
+    for episode, ep_info in episode_info.items():
+        print(f'episode {episode}:')
+        print(ep_info)
+
+    # /friends-s01e19 and /friends-s02e24 could be good candidates (based on 1/1 ratio)
+    # also /friends-s01e09 and /friends-s02e14 with a 4/1 ratio

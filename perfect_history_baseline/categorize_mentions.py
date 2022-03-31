@@ -11,7 +11,7 @@ names = ['Bye Ryan', 'Ursula', 'Alan', 'Paul', 'Danielle', 'Horton', 'Randy Brow
          'Bookbinders', 'Paulo', 'Drake', 'Bing', 'Peanut', "Andie McDowell 's", 'Gobb', "Ugly Naked Guy 's",
          'Paolo', 'Franks', 'Mira', 'Phoebe', 'Cobb', 'Tso']
 fst_snd_prons = ['me I', 'MY', 'Me', 'You', 'My', 'my', 'ya', 'me', 'you', 'yourself', 'your', 'myself', 'ME', 'I',
-                 'Your', 'mine', 'Ya', "what'cha", 'Whaddya', 'howdya']
+                 'Your', 'mine', 'Ya', "what'cha", 'Whaddya', 'howdya', 'youve', 'youre', 'i']
 prons = ['Her', 'her', 'she', 'himself', 'he', 'She', 'He', 'him', 'his', 'herself']
 endearing = ['Nana', 'Mon', 'Dad', 'Mommy', 'Rach', 'Phoebs', 'mom', 'buddy', 'Hon', 'Pheebs', 'dad', 'Urse',
              'Daddy', 'birthday sweetie', 'honey', 'Rossy', 'pal']

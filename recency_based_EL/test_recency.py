@@ -1,6 +1,6 @@
 from recency_algorithm import create_utterance_history, create_candidate_list, \
     rank_by_recency, combine_rankings, normalise_scores
-from data_preprocessing import prepare_data
+from data_preprocessing import prepare_data, format_gold, write_to_conll
 from perfect_history_baseline.categorize_mentions import names, fst_snd_prons
 # Read in the data
 
@@ -126,27 +126,6 @@ def format_output(data, system_output, ignored_labels=fst_snd_prons):
             line[-1] = new_mention
 
     return data
-
-
-def format_gold(gold_data, ignored_labels=fst_snd_prons):
-    for line in gold_data:
-        if not line:
-            continue
-        elif line[0] == '#begin' or line[0] == '#end':
-            continue
-        elif line[3] in ignored_labels:
-            line[-1] = '-'
-        else:
-            continue
-
-    return gold_data
-
-
-
-def write_to_conll(data, test_name):
-    with open(f'{test_name}.conll.txt', 'x') as conll:
-        for line in data:
-            conll.write(' '.join(line)+"\n")
 
 
 if __name__ == "__main__":
