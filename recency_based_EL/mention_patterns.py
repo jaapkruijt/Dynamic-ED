@@ -1,5 +1,4 @@
-from data_preprocessing import prepare_data, read_input
-from data_preprocessing import format_gold
+from data_preprocessing import prepare_data, read_input, format_gold, write_to_conll
 
 import re
 
@@ -146,12 +145,15 @@ def find_patterns(formatted_data, entity_map):
 
 def categorize_acquaintances(entity_map, pattern_map):
     friends = []
+    famous = []
     inner = []
     outer = []
 
     for identifier, name in entity_map.items():
         if name in FRIENDS_NAMES:
             friends.append(identifier)
+        elif name in FAMOUS:
+            famous.append(identifier)
         elif name in INNER_NAMES:
             if len(pattern_map[name]) > 2:
                 inner.append(identifier)
@@ -162,12 +164,12 @@ def categorize_acquaintances(entity_map, pattern_map):
         else:
             outer.append(identifier)
 
-    return friends, inner, outer
+    return friends, famous, inner, outer
 
 
-def ratio_inner_outer_per_episode(inner, friends, dataset, entity_map):
+def ratio_inner_outer_per_episode(inner, friends, famous, dataset, entity_map):
     eps = episodes
-    inner_friends = inner+friends
+    inner_friends = inner+friends+famous
 
     for line in dataset:
         if not line:
@@ -200,6 +202,67 @@ def ratio_inner_outer_per_episode(inner, friends, dataset, entity_map):
     return eps
 
 
+def change_inner_data(filename, friends, inner):
+    inner = friends+inner
+    data = read_input(filename)
+    for line in data:
+        if not line:
+            continue
+        elif line[0] == '#begin' or line[0] == '#end':
+            continue
+        elif line[-1] == '-':
+            continue
+        else:
+            mention = line[-1]
+            ent = re.sub(r'[^0-9]', '', mention)
+            if ent in inner:
+                continue
+            else:
+                line[-1] = '-'
+
+    return data
+
+
+def change_famous_data(filename, famous):
+    data = read_input(filename)
+    for line in data:
+        if not line:
+            continue
+        elif line[0] == '#begin' or line[0] == '#end':
+            continue
+        elif line[-1] == '-':
+            continue
+        else:
+            mention = line[-1]
+            ent = re.sub(r'[^0-9]', '', mention)
+            if ent in famous:
+                continue
+            else:
+                line[-1] = '-'
+
+    return data
+
+
+def change_outer_data(filename, outer):
+    data = read_input(filename)
+    for line in data:
+        if not line:
+            continue
+        elif line[0] == '#begin' or line[0] == '#end':
+            continue
+        elif line[-1] == '-':
+            continue
+        else:
+            mention = line[-1]
+            ent = re.sub(r'[^0-9]', '', mention)
+            if ent in outer:
+                continue
+            else:
+                line[-1] = '-'
+
+    return data
+
+
 if __name__ == "__main__":
     gold_data = prepare_data('friends.train.scene_delim.conll.txt')
     gold_formatted = format_gold(gold_data)
@@ -209,16 +272,22 @@ if __name__ == "__main__":
     #     if mention_patterns[entity]:
     #         print(entity)
     #         print(mention_patterns[entity])
-    six_friends, inner_circle, outer_circle = categorize_acquaintances(entmap, mention_patterns)
-    # print(inner_circle)
-    # print(outer_circle)
-    # print(six_friends)
+    six_friends, famous_people, inner_circle, outer_circle = categorize_acquaintances(entmap, mention_patterns)
 
-    raw_data = read_input('/Users/jaapkruijt/PycharmProjects/pythonProject/friends.ordered.scene_delim.conll.txt')
-    episode_info = ratio_inner_outer_per_episode(inner_circle, six_friends, raw_data, entmap)
-    for episode, ep_info in episode_info.items():
-        print(f'episode {episode}:')
-        print(ep_info)
+    file = '/Users/jaapkruijt/PycharmProjects/pythonProject/friends.ordered.scene_delim.conll.txt'
+    inner_data = change_inner_data(file, six_friends, inner_circle)
+    famous_data = change_famous_data(file, famous_people)
+    outer_data = change_outer_data(file, outer_circle)
+
+    write_to_conll(inner_data, 'inner.all')
+    write_to_conll(famous_data, 'famous.all')
+    write_to_conll(outer_data, 'outer.all')
+
+    # raw_data = read_input('/Users/jaapkruijt/PycharmProjects/pythonProject/friends.ordered.scene_delim.conll.txt')
+    # episode_info = ratio_inner_outer_per_episode(inner_circle, six_friends, famous_people, raw_data, entmap)
+    # for episode, ep_info in episode_info.items():
+    #     print(f'episode {episode}:')
+    #     print(ep_info)
 
     # /friends-s01e19 and /friends-s02e24 could be good candidates (based on 1/1 ratio)
     # also /friends-s01e09 and /friends-s02e14 with a 4/1 ratio
