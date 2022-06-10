@@ -1,0 +1,2356 @@
+#begin document (/friends-s01e18); part 000
+/friends-s01e18 00 0 Hey UH (TOP(FRAG(INTJ*) hey - - Monica_Geller * -
+/friends-s01e18 00 1 , , * , - - Monica_Geller * -
+/friends-s01e18 00 2 guys NNS (NP*) guy - - Monica_Geller * -
+/friends-s01e18 00 3 . . *)) . - - Monica_Geller * -
+
+/friends-s01e18 00 0 Hey UH (TOP(INTJ* hey - - Chandler,_Ross * -
+/friends-s01e18 00 1 . . *)) . - - Chandler,_Ross * -
+
+/friends-s01e18 00 0 Hey UH (TOP(NP* hey - - Rachel_Green * -
+/friends-s01e18 00 1 ... : *)) ... - - Rachel_Green * -
+
+/friends-s01e18 00 0 hi UH (TOP(FRAG(INTJ*) hi - - Rachel_Green * -
+/friends-s01e18 00 1 , , * , - - Rachel_Green * -
+/friends-s01e18 00 2 ladies NNS (NP*) lady - - Rachel_Green * -
+/friends-s01e18 00 3 ... : *)) ... - - Rachel_Green * -
+
+/friends-s01e18 00 0 uh UH (TOP(SQ(INTJ*) uh - - Rachel_Green * -
+/friends-s01e18 00 1 , , * , - - Rachel_Green * -
+/friends-s01e18 00 2 can MD * can - - Rachel_Green * -
+/friends-s01e18 00 3 I PRP (NP*) I - - Rachel_Green * -
+/friends-s01e18 00 4 get VB (VP* get - - Rachel_Green * -
+/friends-s01e18 00 5 you PRP (S(NP*) you - - Rachel_Green * -
+/friends-s01e18 00 6 anything NN (ADJP*))) anything - - Rachel_Green * -
+/friends-s01e18 00 7 ? . *)) ? - - Rachel_Green * -
+
+/friends-s01e18 00 0 : : (TOP(FRAG* : - - Rachel_Green * -
+/friends-s01e18 00 1 Did VBD (VP* do - - Rachel_Green * -
+/friends-s01e18 00 2 you PRP (S(NP*) you - - Rachel_Green * -
+/friends-s01e18 00 3 bring VB (VP* bring - - Rachel_Green * -
+/friends-s01e18 00 4 the DT (NP* the - - Rachel_Green * -
+/friends-s01e18 00 5 mail NN *)))) mail - - Rachel_Green * -
+/friends-s01e18 00 6 ? . *)) ? - - Rachel_Green * -
+
+/friends-s01e18 00 0 Lots NNS (TOP(NP(NP*) lot - - Monica_Geller * -
+/friends-s01e18 00 1 of IN (PP* of - - Monica_Geller * -
+/friends-s01e18 00 2 responses NNS (NP*)) response - - Monica_Geller * -
+/friends-s01e18 00 3 . . *)) . - - Monica_Geller * -
+
+/friends-s01e18 00 0 : : (TOP(PRN* : - - Rachel_Green * -
+/friends-s01e18 00 1 Really RB (FRAG*) really - - Rachel_Green * -
+/friends-s01e18 00 2 ? . *)) ? - - Rachel_Green * -
+
+/friends-s01e18 00 0 : : (TOP(S* : - - Rachel_Green * -
+/friends-s01e18 00 1 Sure NNP (NP(NP*) Sure - - Rachel_Green * -
+/friends-s01e18 00 2 , , (PRN* , - - Rachel_Green * -
+/friends-s01e18 00 3 we PRP (S(NP*) we - - Rachel_Green * -
+/friends-s01e18 00 4 have VBP (VP* have - - Rachel_Green * -
+/friends-s01e18 00 5 scones NNS (NP*))))) scone - - Rachel_Green * -
+/friends-s01e18 00 6 left VBD (VP*) leave - - Rachel_Green * -
+/friends-s01e18 00 7 ! . *)) ! - - Rachel_Green * -
+
+/friends-s01e18 00 0 : : (TOP(S* : - - Rachel_Green * -
+/friends-s01e18 00 1 OK UH (ADJP*) ok - - Rachel_Green * -
+/friends-s01e18 00 2 , , * , - - Rachel_Green * -
+/friends-s01e18 00 3 read VBD (VP* read - - Rachel_Green * -
+/friends-s01e18 00 4 them PRP (NP*) they - - Rachel_Green * -
+/friends-s01e18 00 5 to TO (PP* to - - Rachel_Green * -
+/friends-s01e18 00 6 me PRP (NP*))) I - - Rachel_Green * -
+/friends-s01e18 00 7 . . *)) . - - Rachel_Green * -
+
+/friends-s01e18 00 0 : : (TOP(PRN* : - - Phoebe_Buffay * -
+/friends-s01e18 00 1 Dear NNP (NP(NP* Dear - - Phoebe_Buffay * -
+/friends-s01e18 00 2 Ms. NNP * Ms. - - Phoebe_Buffay * -
+/friends-s01e18 00 3 Green NNP * Green - - Phoebe_Buffay (PERSON) (306)
+/friends-s01e18 00 4 , , *) , - - Phoebe_Buffay * -
+/friends-s01e18 00 5 thank VB (S(VP* thank - - Phoebe_Buffay * -
+/friends-s01e18 00 6 you PRP (NP*) you - - Phoebe_Buffay * -
+/friends-s01e18 00 7 for IN (PP* for - - Phoebe_Buffay * -
+/friends-s01e18 00 8 your PRP$ (NP* you - - Phoebe_Buffay * -
+/friends-s01e18 00 9 inquiry NN *)) inquiry - - Phoebe_Buffay * -
+/friends-s01e18 00 10 , , * , - - Phoebe_Buffay * -
+/friends-s01e18 00 11 however RB (FRAG(ADVP*) however - - Phoebe_Buffay * -
+/friends-s01e18 00 12 ... : *)))))) ... - - Phoebe_Buffay * -
+
+/friends-s01e18 00 0 oh UH (TOP(NP* oh - - Phoebe_Buffay * -
+/friends-s01e18 00 1 ... : *)) ... - - Phoebe_Buffay * -
+
+/friends-s01e18 00 0 : : (TOP(PRN* : - - Rachel_Green * -
+/friends-s01e18 00 1 We PRP (NP(NP*) we - - Rachel_Green * -
+/friends-s01e18 00 2 have VBP (SBAR(S(VP* have - - Rachel_Green * -
+/friends-s01e18 00 3 apple NN (NP* apple - - Rachel_Green * -
+/friends-s01e18 00 4 cinnamon NNP *)) cinnamon - - Rachel_Green * -
+/friends-s01e18 00 5 ... : *))))) ... - - Rachel_Green * -
+
+/friends-s01e18 00 0 : : (TOP(S(VP* : - - Monica_Geller * -
+/friends-s01e18 00 1 OK UH (ADVP*)) ok - - Monica_Geller * -
+/friends-s01e18 00 2 ... : *)) ... - - Monica_Geller * -
+
+/friends-s01e18 00 0 Dear NNP (TOP(NP* Dear - - Monica_Geller * -
+/friends-s01e18 00 1 Ms. NNP * Ms. - - Monica_Geller * -
+/friends-s01e18 00 2 Green NNP * Green - - Monica_Geller (PERSON) (306)
+/friends-s01e18 00 3 ... : *)) ... - - Monica_Geller * -
+
+/friends-s01e18 00 0 yeah NN (TOP(NP* yeah - - Monica_Geller * -
+/friends-s01e18 00 1 ... : *)) ... - - Monica_Geller * -
+
+/friends-s01e18 00 0 yeah NN (TOP(NP* yeah - - Monica_Geller * -
+/friends-s01e18 00 1 ... : *)) ... - - Monica_Geller * -
+
+/friends-s01e18 00 0 yeah NN (TOP(NP* yeah - - Monica_Geller * -
+/friends-s01e18 00 1 ... : *)) ... - - Monica_Geller * -
+
+/friends-s01e18 00 0 No DT (TOP(FRAG(NP*) no - - Monica_Geller * -
+/friends-s01e18 00 1 . . *)) . - - Monica_Geller * -
+
+/friends-s01e18 00 0 Wow UH (TOP(INTJ* wow - - Phoebe_Buffay * -
+/friends-s01e18 00 1 ! . *)) ! - - Phoebe_Buffay * -
+
+/friends-s01e18 00 0 What WDT (TOP(FRAG(WHNP*) what - - Rachel_Green * -
+/friends-s01e18 00 1 ? . *)) ? - - Rachel_Green * -
+
+/friends-s01e18 00 0 : : (TOP(S* : - - Phoebe_Buffay * -
+/friends-s01e18 00 1 Your PRP$ (NP* you - - Phoebe_Buffay * -
+/friends-s01e18 00 2 Visa NNP * Visa - - Phoebe_Buffay * -
+/friends-s01e18 00 3 bill NN *) bill - - Phoebe_Buffay * -
+/friends-s01e18 00 4 is VBZ (VP* be - - Phoebe_Buffay * -
+/friends-s01e18 00 5 huge JJ (ADJP*)) huge - - Phoebe_Buffay * -
+/friends-s01e18 00 6 ! . *)) ! - - Phoebe_Buffay * -
+
+/friends-s01e18 00 0 Give VB (TOP(S(VP* give - - Rachel_Green * -
+/friends-s01e18 00 1 me PRP (S(NP*) I - - Rachel_Green * -
+/friends-s01e18 00 2 that IN (ADJP*))) that - - Rachel_Green * -
+/friends-s01e18 00 3 ! . *)) ! - - Rachel_Green * -
+
+/friends-s01e18 00 0 You PRP (TOP(S(S(NP*) you - - Chandler_Bing * -
+/friends-s01e18 00 1 know VBP (VP*)) know - - Chandler_Bing * -
+/friends-s01e18 00 2 , , * , - - Chandler_Bing * -
+/friends-s01e18 00 3 I PRP (NP*) I - - Chandler_Bing * -
+/friends-s01e18 00 4 ca MD (VP* can - - Chandler_Bing * -
+/friends-s01e18 00 5 n't RB * not - - Chandler_Bing * -
+/friends-s01e18 00 6 believe VB (VP* believe - - Chandler_Bing * -
+/friends-s01e18 00 7 you PRP (NP*))) you - - Chandler_Bing * -
+/friends-s01e18 00 8 . . *)) . - - Chandler_Bing * -
+
+/friends-s01e18 00 0 Linda NNP (TOP(S(NP*) Linda - - Chandler_Bing (PERSON) (211)
+/friends-s01e18 00 1 is VBZ (VP* be - - Chandler_Bing * -
+/friends-s01e18 00 2 so RB (ADJP* so - - Chandler_Bing * -
+/friends-s01e18 00 3 great JJ *)) great - - Chandler_Bing * -
+/friends-s01e18 00 4 ! . *)) ! - - Chandler_Bing * -
+
+/friends-s01e18 00 0 Why WRB (TOP(S(SBAR(WHADVP*) why - - Chandler_Bing * -
+/friends-s01e18 00 1 wo MD (S(VP* will - - Chandler_Bing * -
+/friends-s01e18 00 2 n't RB *))) not - - Chandler_Bing * -
+/friends-s01e18 00 3 you PRP (NP*) you - - Chandler_Bing * -
+/friends-s01e18 00 4 go VBP (VP* go - - Chandler_Bing * -
+/friends-s01e18 00 5 out RP (PRT*) out - - Chandler_Bing * -
+/friends-s01e18 00 6 with IN (PP* with - - Chandler_Bing * -
+/friends-s01e18 00 7 her PRP$ (NP* she - - Chandler_Bing * (211)
+/friends-s01e18 00 8 again RB *))) again - - Chandler_Bing * -
+/friends-s01e18 00 9 ? . *)) ? - - Chandler_Bing * -
+
+/friends-s01e18 00 0 I PRP (TOP(S(NP*) I - - Ross_Geller * -
+/friends-s01e18 00 1 do VBP (VP* do - - Ross_Geller * -
+/friends-s01e18 00 2 n't RB * not - - Ross_Geller * -
+/friends-s01e18 00 3 know VB (VP*)) know - - Ross_Geller * -
+/friends-s01e18 00 4 . . *)) . - - Ross_Geller * -
+
+/friends-s01e18 00 0 Is VBZ (TOP(S(SQ* be - - Chandler_Bing * -
+/friends-s01e18 00 1 this DT (NP*) this - - Chandler_Bing * -
+/friends-s01e18 00 2 still RB (PP(ADVP*) still - - Chandler_Bing * -
+/friends-s01e18 00 3 about IN * about - - Chandler_Bing * -
+/friends-s01e18 00 4 her PRP$ (NP* she - - Chandler_Bing * (211)
+/friends-s01e18 00 5 whole JJ *))) whole - - Chandler_Bing * -
+/friends-s01e18 00 6 ' '' * ' - - Chandler_Bing * -
+/friends-s01e18 00 7 The DT (NP* the - - Chandler_Bing * -
+/friends-s01e18 00 8 Flintstones NNPS *) Flintstones - - Chandler_Bing * -
+/friends-s01e18 00 9 could MD (VP* could - - Chandler_Bing * -
+/friends-s01e18 00 10 've VB (VP* have - - Chandler_Bing * -
+/friends-s01e18 00 11 really RB (VP(ADVP*) really - - Chandler_Bing * -
+/friends-s01e18 00 12 happened VBN * happen - - Chandler_Bing * -
+/friends-s01e18 00 13 ' '' * ' - - Chandler_Bing * -
+/friends-s01e18 00 14 thing NN (NP*)))) thing - - Chandler_Bing * -
+/friends-s01e18 00 15 ? . *)) ? - - Chandler_Bing * -
+
+/friends-s01e18 00 0 No DT (TOP(S(NP-TMP*) no - - Ross_Geller * -
+/friends-s01e18 00 1 , , * , - - Ross_Geller * -
+/friends-s01e18 00 2 it PRP (NP*) it - - Ross_Geller * -
+/friends-s01e18 00 3 's VBZ (VP* be - - Ross_Geller * -
+/friends-s01e18 00 4 not RB * not - - Ross_Geller * -
+/friends-s01e18 00 5 just RB (ADVP*) just - - Ross_Geller * -
+/friends-s01e18 00 6 that DT (NP*)) that - - Ross_Geller * -
+/friends-s01e18 00 7 . . *)) . - - Ross_Geller * -
+
+/friends-s01e18 00 0 It PRP (TOP(S(NP*) it - - Ross_Geller * -
+/friends-s01e18 00 1 's VBZ (VP* be - - Ross_Geller * -
+/friends-s01e18 00 2 justI NNP (S(NP*) justI - - Ross_Geller * -
+/friends-s01e18 00 3 want VB (VP* want - - Ross_Geller * -
+/friends-s01e18 00 4 someone NN (NP(NP*) someone - - Ross_Geller * -
+/friends-s01e18 00 5 who WP (SBAR(WHNP*)))))) who - - Ross_Geller * -
+/friends-s01e18 00 6 ... : *)) ... - - Ross_Geller * -
+
+/friends-s01e18 00 0 who WP (TOP(SBARQ(WHNP*) who - - Ross_Geller * -
+/friends-s01e18 00 1 does VBZ (SQ* do - - Ross_Geller * -
+/friends-s01e18 00 2 something NN (NP(NP*) something - - Ross_Geller * -
+/friends-s01e18 00 3 for IN (PP* for - - Ross_Geller * -
+/friends-s01e18 00 4 me PRP (NP*))) I - - Ross_Geller * -
+/friends-s01e18 00 5 , , * , - - Ross_Geller * -
+/friends-s01e18 00 6 y'know VB (VP*)) y'know - - Ross_Geller * -
+/friends-s01e18 00 7 ? . *)) ? - - Ross_Geller * -
+
+/friends-s01e18 00 0 Who WP (TOP(SBAR(WHNP*) who - - Ross_Geller * -
+/friends-s01e18 00 1 gets VBZ (S(VP* get - - Ross_Geller * -
+/friends-s01e18 00 2 my PRP$ (NP(NP* my - - Ross_Geller * -
+/friends-s01e18 00 3 heart NN * heart - - Ross_Geller * -
+/friends-s01e18 00 4 pounding VBG *) pound - - Ross_Geller * -
+/friends-s01e18 00 5 , , * , - - Ross_Geller * -
+/friends-s01e18 00 6 who WP (NP*)))) who - - Ross_Geller * -
+/friends-s01e18 00 7 ... : *)) ... - - Ross_Geller * -
+
+/friends-s01e18 00 0 who WP (TOP(S(SBAR(WHNP*) who - - Ross_Geller * -
+/friends-s01e18 00 1 makes VBZ (S(VP* make - - Ross_Geller * -
+/friends-s01e18 00 2 me PRP (NP*)))) I - - Ross_Geller * -
+/friends-s01e18 00 3 , , * , - - Ross_Geller * -
+/friends-s01e18 00 4 uh UH (VP*) uh - - Ross_Geller * -
+/friends-s01e18 00 5 ... : *)) ... - - Ross_Geller * -
+
+/friends-s01e18 00 0 ... : (TOP(NP*)) ... - - Chandler_Bing * -
+
+/friends-s01e18 00 0 little JJ (TOP(NP(NP* little - - Chandler_Bing * -
+/friends-s01e18 00 1 playthings NNS *) plaything - - Chandler_Bing * -
+/friends-s01e18 00 2 with IN (PP* with - - Chandler_Bing * -
+/friends-s01e18 00 3 yarn NN (NP*)) yarn - - Chandler_Bing * -
+/friends-s01e18 00 4 ? . *)) ? - - Chandler_Bing * -
+
+/friends-s01e18 00 0 What WDT (TOP(FRAG(WHNP*) what - - Ross_Geller * -
+/friends-s01e18 00 1 ? . *)) ? - - Ross_Geller * -
+
+/friends-s01e18 00 0 Could MD (TOP(SQ* could - - Chandler_Bing * -
+/friends-s01e18 00 1 you PRP (NP*) you - - Chandler_Bing * -
+/friends-s01e18 00 2 want VB (VP* want - - Chandler_Bing * -
+/friends-s01e18 00 3 her PRP$ (S(NP*) she - - Chandler_Bing * (306)
+/friends-s01e18 00 4 more JJR (ADJP*))) more - - Chandler_Bing * -
+/friends-s01e18 00 5 ? . *)) ? - - Chandler_Bing * -
+
+/friends-s01e18 00 0 Who WP (TOP(FRAG(WHNP*) who - - Ross_Geller * -
+/friends-s01e18 00 1 ? . *)) ? - - Ross_Geller * -
+
+/friends-s01e18 00 0 Dee NNP (TOP(NP(NP*) Dee - - Chandler_Bing (PERSON) (83)
+/friends-s01e18 00 1 , , * , - - Chandler_Bing * -
+/friends-s01e18 00 2 the DT (NP(NP* the - - Chandler_Bing * -
+/friends-s01e18 00 3 sarcastic JJ * sarcastic - - Chandler_Bing * -
+/friends-s01e18 00 4 sister NN *) sister - - Chandler_Bing * (83)
+/friends-s01e18 00 5 from IN (PP* from - - Chandler_Bing * -
+/friends-s01e18 00 6 What WP (SBAR(WHNP*) what - - Chandler_Bing * -
+/friends-s01e18 00 7 s VBZ (S(VP* be - - Chandler_Bing * -
+/friends-s01e18 00 8 Happening NNP (NP*)))))) Happening - - Chandler_Bing * -
+/friends-s01e18 00 9 . . *)) . - - Chandler_Bing * -
+
+/friends-s01e18 00 0 Look VB (TOP(S(S(VP*)) look - - Ross_Geller * -
+/friends-s01e18 00 1 , , * , - - Ross_Geller * -
+/friends-s01e18 00 2 I PRP (NP*) I - - Ross_Geller * -
+/friends-s01e18 00 3 am VBP (VP* be - - Ross_Geller * -
+/friends-s01e18 00 4 totally RB (ADVP*) totally - - Ross_Geller * -
+/friends-s01e18 00 5 , , * , - - Ross_Geller * -
+/friends-s01e18 00 6 totally RB (ADVP*) totally - - Ross_Geller * -
+/friends-s01e18 00 7 over IN (PP* over - - Ross_Geller * -
+/friends-s01e18 00 8 her PRP (NP*)) she - - Ross_Geller * (306)
+/friends-s01e18 00 9 , , * , - - Ross_Geller * -
+/friends-s01e18 00 10 OK UH (ADVP*) ok - - Ross_Geller * -
+/friends-s01e18 00 11 , , * , - - Ross_Geller * -
+/friends-s01e18 00 12 I PRP (NP(NP*) I - - Ross_Geller * -
+/friends-s01e18 00 13 just RB (ADVP*))) just - - Ross_Geller * -
+/friends-s01e18 00 14 ... : *)) ... - - Ross_Geller * -
+
+/friends-s01e18 00 0 : : (TOP(NP* : - - Ross_Geller * -
+/friends-s01e18 00 1 Hiiii NN * hiiii - - Ross_Geller * -
+/friends-s01e18 00 2 ! . *)) ! - - Ross_Geller * -
+
+/friends-s01e18 00 0 Hi NN (TOP(NP* hi - - Rachel_Green * -
+/friends-s01e18 00 1 ! . *)) ! - - Rachel_Green * -
+
+/friends-s01e18 00 0 How WRB (TOP(SBARQ(WHADVP*) how - - Rachel_Green * -
+/friends-s01e18 00 1 are VBP (SQ* be - - Rachel_Green * -
+/friends-s01e18 00 2 you PRP (NP*)) you - - Rachel_Green * -
+/friends-s01e18 00 3 ? . *)) ? - - Rachel_Green * -
+
+/friends-s01e18 00 0 We PRP (TOP(S(S(NP*) we - - Ross_Geller * -
+/friends-s01e18 00 1 're VBP (VP* be - - Ross_Geller * -
+/friends-s01e18 00 2 fine JJ (ADJP*))) fine - - Ross_Geller * -
+/friends-s01e18 00 3 , , * , - - Ross_Geller * -
+/friends-s01e18 00 4 we PRP (NP*) we - - Ross_Geller * -
+/friends-s01e18 00 5 're VBP (VP* be - - Ross_Geller * -
+/friends-s01e18 00 6 fine JJ (ADJP*)) fine - - Ross_Geller * -
+/friends-s01e18 00 7 . . *)) . - - Ross_Geller * -
+
+/friends-s01e18 00 0 OK UH (TOP(INTJ* ok - - Rachel_Green * -
+/friends-s01e18 00 1 . . *)) . - - Rachel_Green * -
+
+/friends-s01e18 00 0 Shut VB (TOP(S(VP* shut - - Joey_Tribbiani * -
+/friends-s01e18 00 1 up RP (PRT*)) up - - Joey_Tribbiani * -
+/friends-s01e18 00 2 ! . *)) ! - - Joey_Tribbiani * -
+
+/friends-s01e18 00 0 We PRP (TOP(S(NP*) we - - Chandler_Bing * -
+/friends-s01e18 00 1 're VBP (VP* be - - Chandler_Bing * -
+/friends-s01e18 00 2 notwe JJ (ADJP* notwe - - Chandler_Bing * -
+/friends-s01e18 00 3 're VBP (SBAR(S(VP* be - - Chandler_Bing * -
+/friends-s01e18 00 4 not RB * not - - Chandler_Bing * -
+/friends-s01e18 00 5 saying VBG (VP* say - - Chandler_Bing * -
+/friends-s01e18 00 6 anything NN (NP*))))))) anything - - Chandler_Bing * -
+/friends-s01e18 00 7 . . *)) . - - Chandler_Bing * -
+
+/friends-s01e18 00 0 What WDT (TOP(FRAG(WHNP*) what - - Phoebe_Buffay * -
+/friends-s01e18 00 1 ? . *)) ? - - Phoebe_Buffay * -
+
+/friends-s01e18 00 0 Uhhhh NNP (TOP(NP* Uhhhh - - Ross_Geller * -
+/friends-s01e18 00 1 ... : *)) ... - - Ross_Geller * -
+
+/friends-s01e18 00 0 Joey NNP (TOP(S(NP*) Joey - - Ross_Geller (PERSON) (183)
+/friends-s01e18 00 1 cried VBD (VP* cry - - Ross_Geller * -
+/friends-s01e18 00 2 last JJ (NP-TMP* last - - Ross_Geller (TIME* -
+/friends-s01e18 00 3 night NN *)) night - - Ross_Geller *) -
+/friends-s01e18 00 4 . . *)) . - - Ross_Geller * -
+
+/friends-s01e18 00 0 Thank VB (TOP(S(VP* thank - - Joey_Tribbiani * -
+/friends-s01e18 00 1 you PRP (NP*)) you - - Joey_Tribbiani * -
+/friends-s01e18 00 2 . . *)) . - - Joey_Tribbiani * -
+
+/friends-s01e18 00 0 We PRP (TOP(S(NP*) we - - Chandler_Bing * -
+/friends-s01e18 00 1 were VBD (VP* be - - Chandler_Bing * -
+/friends-s01e18 00 2 playing VBG (VP* play - - Chandler_Bing * -
+/friends-s01e18 00 3 poker NN (NP(NP*) poker - - Chandler_Bing * -
+/friends-s01e18 00 4 , , * , - - Chandler_Bing * -
+/friends-s01e18 00 5 alright NN (NP*)))) alright - - Chandler_Bing * -
+/friends-s01e18 00 6 ... : *)) ... - - Chandler_Bing * -
+
+/friends-s01e18 00 0 There EX (TOP(S(NP*) there - - Joey_Tribbiani * -
+/friends-s01e18 00 1 was VBD (VP* be - - Joey_Tribbiani * -
+/friends-s01e18 00 2 chocolate NN (NP(NP*) chocolate - - Joey_Tribbiani * -
+/friends-s01e18 00 3 on IN (PP* on - - Joey_Tribbiani * -
+/friends-s01e18 00 4 the DT (NP* the - - Joey_Tribbiani * -
+/friends-s01e18 00 5 three CD *)))) three - - Joey_Tribbiani (NUMBER) -
+/friends-s01e18 00 6 . . *)) . - - Joey_Tribbiani * -
+
+/friends-s01e18 00 0 It PRP (TOP(S(NP*) it - - Joey_Tribbiani * -
+/friends-s01e18 00 1 looked VBD (VP* look - - Joey_Tribbiani * -
+/friends-s01e18 00 2 like IN (PP* like - - Joey_Tribbiani * -
+/friends-s01e18 00 3 an DT (NP(NP* a - - Joey_Tribbiani * -
+/friends-s01e18 00 4 eight CD *) eight - - Joey_Tribbiani (NUMBER) -
+/friends-s01e18 00 5 , , * , - - Joey_Tribbiani * -
+/friends-s01e18 00 6 alright NN (NP*)))) alright - - Joey_Tribbiani * -
+/friends-s01e18 00 7 ? . *)) ? - - Joey_Tribbiani * -
+
+/friends-s01e18 00 0 Oh UH (TOP(S(FRAG(INTJ*) oh - - Ross_Geller * -
+/friends-s01e18 00 1 , , * , - - Ross_Geller * -
+/friends-s01e18 00 2 guys NNS (NP*)) guy - - Ross_Geller * -
+/friends-s01e18 00 3 , , * , - - Ross_Geller * -
+/friends-s01e18 00 4 you PRP (NP*) you - - Ross_Geller * -
+/friends-s01e18 00 5 should MD (VP* should - - Ross_Geller * -
+/friends-s01e18 00 6 've VB (VP* have - - Ross_Geller * -
+/friends-s01e18 00 7 seen VBN (VP* see - - Ross_Geller * -
+/friends-s01e18 00 8 him PRP (NP*)))) he - - Ross_Geller * (183)
+/friends-s01e18 00 9 . . *)) . - - Ross_Geller * -
+
+/friends-s01e18 00 0 ' POS (TOP(S(VP(VP* ' - - Ross_Geller * -
+/friends-s01e18 00 1 Read NNP (NP(NP* Read - - Ross_Geller * -
+/friends-s01e18 00 2 ' POS *) ' - - Ross_Geller * -
+/friends-s01e18 00 3 em NN *)) em - - Ross_Geller * -
+/friends-s01e18 00 4 and CC * and - - Ross_Geller * -
+/friends-s01e18 00 5 weep NN (VP*)) weep - - Ross_Geller * -
+/friends-s01e18 00 6 . . *)) . - - Ross_Geller * -
+
+/friends-s01e18 00 0 ' '' (TOP(NP*)) ' - - Ross_Geller * -
+
+/friends-s01e18 00 0 And CC (TOP(S* and - - Chandler_Bing * -
+/friends-s01e18 00 1 then RB (ADVP*) then - - Chandler_Bing * -
+/friends-s01e18 00 2 he PRP (NP*) he - - Chandler_Bing * (183)
+/friends-s01e18 00 3 did VBD (VP*) do - - Chandler_Bing * -
+/friends-s01e18 00 4 . . *)) . - - Chandler_Bing * -
+
+/friends-s01e18 00 0 Well RB (TOP(SBARQ(FRAG(INTJ*) well - - Rachel_Green * -
+/friends-s01e18 00 1 , , * , - - Rachel_Green * -
+/friends-s01e18 00 2 now RB (ADVP*)) now - - Rachel_Green (DATE) -
+/friends-s01e18 00 3 , , * , - - Rachel_Green * -
+/friends-s01e18 00 4 how WRB (SBARQ(WHADVP*) how - - Rachel_Green * -
+/friends-s01e18 00 5 come VBN (SQ(VP* come - - Rachel_Green * -
+/friends-s01e18 00 6 you PRP (NP*) you - - Rachel_Green * -
+/friends-s01e18 00 7 guys NNS (SBAR(S(NP*) guy - - Rachel_Green * -
+/friends-s01e18 00 8 have VBP (VP* have - - Rachel_Green * -
+/friends-s01e18 00 9 never RB (ADVP*) never - - Rachel_Green * -
+/friends-s01e18 00 10 played VBN (VP* play - - Rachel_Green * -
+/friends-s01e18 00 11 poker NN (NP*) poker - - Rachel_Green * -
+/friends-s01e18 00 12 with IN (PP* with - - Rachel_Green * -
+/friends-s01e18 00 13 us PRP (NP*))))))))) we - - Rachel_Green * -
+/friends-s01e18 00 14 ? . *)) ? - - Rachel_Green * -
+
+/friends-s01e18 00 0 Yeah UH (TOP(S(INTJ*) yeah - - Phoebe_Buffay * -
+/friends-s01e18 00 1 , , * , - - Phoebe_Buffay * -
+/friends-s01e18 00 2 what WP (NP*) what - - Phoebe_Buffay * -
+/friends-s01e18 00 3 is VBZ (VP* be - - Phoebe_Buffay * -
+/friends-s01e18 00 4 that IN (ADJP*)) that - - Phoebe_Buffay * -
+/friends-s01e18 00 5 ? . *)) ? - - Phoebe_Buffay * -
+
+/friends-s01e18 00 0 Like IN (TOP(FRAG(PP*) like - - Phoebe_Buffay * -
+/friends-s01e18 00 1 , , * , - - Phoebe_Buffay * -
+/friends-s01e18 00 2 some DT (NP(NP* some - - Phoebe_Buffay * -
+/friends-s01e18 00 3 kind NN *) kind - - Phoebe_Buffay * -
+/friends-s01e18 00 4 of IN (PP* of - - Phoebe_Buffay * -
+/friends-s01e18 00 5 guy NN (NP* guy - - Phoebe_Buffay * -
+/friends-s01e18 00 6 thing NN *))) thing - - Phoebe_Buffay * -
+/friends-s01e18 00 7 ? . *)) ? - - Phoebe_Buffay * -
+
+/friends-s01e18 00 0 Like IN (TOP(FRAG(PP*) like - - Phoebe_Buffay * -
+/friends-s01e18 00 1 , , * , - - Phoebe_Buffay * -
+/friends-s01e18 00 2 some DT (NP(NP* some - - Phoebe_Buffay * -
+/friends-s01e18 00 3 kind NN *) kind - - Phoebe_Buffay * -
+/friends-s01e18 00 4 of IN (PP* of - - Phoebe_Buffay * -
+/friends-s01e18 00 5 sexist JJ (NP* sexist - - Phoebe_Buffay * -
+/friends-s01e18 00 6 guy NN * guy - - Phoebe_Buffay * -
+/friends-s01e18 00 7 thing NN *))) thing - - Phoebe_Buffay * -
+/friends-s01e18 00 8 ? . *)) ? - - Phoebe_Buffay * -
+
+/friends-s01e18 00 0 Like IN (TOP(S(PP* like - - Phoebe_Buffay * -
+/friends-s01e18 00 1 it PRP (S(NP*) it - - Phoebe_Buffay * -
+/friends-s01e18 00 2 's VBZ (VP* be - - Phoebe_Buffay * -
+/friends-s01e18 00 3 poker NN (NP*)))) poker - - Phoebe_Buffay * -
+/friends-s01e18 00 4 , , * , - - Phoebe_Buffay * -
+/friends-s01e18 00 5 so RB (NP(QP* so - - Phoebe_Buffay * -
+/friends-s01e18 00 6 only RB *) only - - Phoebe_Buffay * -
+/friends-s01e18 00 7 guys NNS *) guy - - Phoebe_Buffay * -
+/friends-s01e18 00 8 can MD (VP* can - - Phoebe_Buffay * -
+/friends-s01e18 00 9 play VB (VP*)) play - - Phoebe_Buffay * -
+/friends-s01e18 00 10 ? . *)) ? - - Phoebe_Buffay * -
+
+/friends-s01e18 00 0 No DT (TOP(S(NP-TMP*) no - - Ross_Geller * -
+/friends-s01e18 00 1 , , * , - - Ross_Geller * -
+/friends-s01e18 00 2 women NNS (NP*) woman - - Ross_Geller * -
+/friends-s01e18 00 3 are VBP (VP* be - - Ross_Geller * -
+/friends-s01e18 00 4 welcome JJ (ADJP* welcome - - Ross_Geller * -
+/friends-s01e18 00 5 to TO (S(VP* to - - Ross_Geller * -
+/friends-s01e18 00 6 play VB (VP*))))) play - - Ross_Geller * -
+/friends-s01e18 00 7 . . *)) . - - Ross_Geller * -
+
+/friends-s01e18 00 0 Oh UH (TOP(S(INTJ* oh - - Phoebe_Buffay * -
+/friends-s01e18 00 1 , , * , - - Phoebe_Buffay * -
+/friends-s01e18 00 2 OK UH *) ok - - Phoebe_Buffay * -
+/friends-s01e18 00 3 , , * , - - Phoebe_Buffay * -
+/friends-s01e18 00 4 so RB (ADVP* so - - Phoebe_Buffay * -
+/friends-s01e18 00 5 then RB *) then - - Phoebe_Buffay * -
+/friends-s01e18 00 6 what WP (NP*) what - - Phoebe_Buffay * -
+/friends-s01e18 00 7 is VBZ (VP* be - - Phoebe_Buffay * -
+/friends-s01e18 00 8 it PRP (NP*)) it - - Phoebe_Buffay * -
+/friends-s01e18 00 9 ? . *)) ? - - Phoebe_Buffay * -
+
+/friends-s01e18 00 0 Some DT (TOP(NP(NP* some - - Phoebe_Buffay * -
+/friends-s01e18 00 1 kind NN *) kind - - Phoebe_Buffay * -
+/friends-s01e18 00 2 of IN (PP*) of - - Phoebe_Buffay * -
+/friends-s01e18 00 3 ... : *)) ... - - Phoebe_Buffay * -
+
+/friends-s01e18 00 0 you PRP (TOP(S(NP*) you - - Phoebe_Buffay * -
+/friends-s01e18 00 1 know VBP (VP* know - - Phoebe_Buffay * -
+/friends-s01e18 00 2 , , * , - - Phoebe_Buffay * -
+/friends-s01e18 00 3 like IN (PP*) like - - Phoebe_Buffay * -
+/friends-s01e18 00 4 , , * , - - Phoebe_Buffay * -
+/friends-s01e18 00 5 like IN (PP*)) like - - Phoebe_Buffay * -
+/friends-s01e18 00 6 ... : *)) ... - - Phoebe_Buffay * -
+
+/friends-s01e18 00 0 some DT (TOP(FRAG(NP(NP* some - - Phoebe_Buffay * -
+/friends-s01e18 00 1 kind NN *) kind - - Phoebe_Buffay * -
+/friends-s01e18 00 2 of IN (PP* of - - Phoebe_Buffay * -
+/friends-s01e18 00 3 , , (FRAG* , - - Phoebe_Buffay * -
+/friends-s01e18 00 4 y'know NN (NP*)))) y'know - - Phoebe_Buffay * -
+/friends-s01e18 00 5 , , * , - - Phoebe_Buffay * -
+/friends-s01e18 00 6 like IN (PP*) like - - Phoebe_Buffay * -
+/friends-s01e18 00 7 ... : *)) ... - - Phoebe_Buffay * -
+
+/friends-s01e18 00 0 alright NN (TOP(SBARQ(NP*) alright - - Phoebe_Buffay * -
+/friends-s01e18 00 1 , , * , - - Phoebe_Buffay * -
+/friends-s01e18 00 2 what WP (WHNP*) what - - Phoebe_Buffay * -
+/friends-s01e18 00 3 is VBZ (SQ* be - - Phoebe_Buffay * -
+/friends-s01e18 00 4 it PRP (NP*)) it - - Phoebe_Buffay * -
+/friends-s01e18 00 5 ? . *)) ? - - Phoebe_Buffay * -
+
+/friends-s01e18 00 0 There EX (TOP(S(NP*) there - - Chandler_Bing * -
+/friends-s01e18 00 1 just RB (ADVP*) just - - Chandler_Bing * -
+/friends-s01e18 00 2 do VBP (VP* do - - Chandler_Bing * -
+/friends-s01e18 00 3 n't RB * not - - Chandler_Bing * -
+/friends-s01e18 00 4 happen VB (VP* happen - - Chandler_Bing * -
+/friends-s01e18 00 5 to TO (S(VP* to - - Chandler_Bing * -
+/friends-s01e18 00 6 be VB (VP* be - - Chandler_Bing * -
+/friends-s01e18 00 7 any DT (NP(NP* any - - Chandler_Bing * -
+/friends-s01e18 00 8 women NNS *) woman - - Chandler_Bing * -
+/friends-s01e18 00 9 in IN (PP* in - - Chandler_Bing * -
+/friends-s01e18 00 10 our PRP$ (NP* we - - Chandler_Bing * -
+/friends-s01e18 00 11 games NNS *)))))))) game - - Chandler_Bing * -
+/friends-s01e18 00 12 . . *)) . - - Chandler_Bing * -
+
+/friends-s01e18 00 0 Yeah UH (TOP(S(INTJ*) yeah - - Joey_Tribbiani * -
+/friends-s01e18 00 1 , , * , - - Joey_Tribbiani * -
+/friends-s01e18 00 2 we PRP (NP*) we - - Joey_Tribbiani * -
+/friends-s01e18 00 3 just RB (ADVP*) just - - Joey_Tribbiani * -
+/friends-s01e18 00 4 do VBP (VP* do - - Joey_Tribbiani * -
+/friends-s01e18 00 5 n't RB * not - - Joey_Tribbiani * -
+/friends-s01e18 00 6 happen VB (VP* happen - - Joey_Tribbiani * -
+/friends-s01e18 00 7 to TO (S(VP* to - - Joey_Tribbiani * -
+/friends-s01e18 00 8 know VB (VP* know - - Joey_Tribbiani * -
+/friends-s01e18 00 9 any DT (NP(NP* any - - Joey_Tribbiani * -
+/friends-s01e18 00 10 women NNS *) woman - - Joey_Tribbiani * -
+/friends-s01e18 00 11 that WDT (SBAR(WHNP*) that - - Joey_Tribbiani * -
+/friends-s01e18 00 12 know VBP (S(VP* know - - Joey_Tribbiani * -
+/friends-s01e18 00 13 how WRB (SBAR(WHADVP*) how - - Joey_Tribbiani * -
+/friends-s01e18 00 14 to TO (S(VP* to - - Joey_Tribbiani * -
+/friends-s01e18 00 15 play VB (VP* play - - Joey_Tribbiani * -
+/friends-s01e18 00 16 poker NN (NP*)))))))))))))) poker - - Joey_Tribbiani * -
+/friends-s01e18 00 17 . . *)) . - - Joey_Tribbiani * -
+
+/friends-s01e18 00 0 Oh UH (TOP(FRAG(INTJ*) oh - - Girls * -
+/friends-s01e18 00 1 , , * , - - Girls * -
+/friends-s01e18 00 2 yeah JJ (NP(NP*) yeah - - Girls * -
+/friends-s01e18 00 3 , , * , - - Girls * -
+/friends-s01e18 00 4 right JJ (ADJP*)) right - - Girls * -
+/friends-s01e18 00 5 . . *)) . - - Girls * -
+
+/friends-s01e18 00 0 Oh UH (TOP(S(S(INTJ*) oh - - Monica_Geller * -
+/friends-s01e18 00 1 , , * , - - Monica_Geller * -
+/friends-s01e18 00 2 please VB (VP*)) please - - Monica_Geller * -
+/friends-s01e18 00 3 , , * , - - Monica_Geller * -
+/friends-s01e18 00 4 that DT (NP*) that - - Monica_Geller * -
+/friends-s01e18 00 5 is VBZ (VP* be - - Monica_Geller * -
+/friends-s01e18 00 6 such JJ (PP* such - - Monica_Geller * -
+/friends-s01e18 00 7 a DT (NP* a - - Monica_Geller * -
+/friends-s01e18 00 8 lame JJ * lame - - Monica_Geller * -
+/friends-s01e18 00 9 excuse NN *))) excuse - - Monica_Geller * -
+/friends-s01e18 00 10 ! . *)) ! - - Monica_Geller * -
+
+/friends-s01e18 00 0 Really RB (TOP(FRAG(ADVP*) really - - Rachel_Green * -
+/friends-s01e18 00 1 . . *)) . - - Rachel_Green * -
+
+/friends-s01e18 00 0 I PRP (TOP(S(S(NP*) I - - Monica_Geller * -
+/friends-s01e18 00 1 mean VBP (VP*)) mean - - Monica_Geller * -
+/friends-s01e18 00 2 , , * , - - Monica_Geller * -
+/friends-s01e18 00 3 that DT (NP*) that - - Monica_Geller * -
+/friends-s01e18 00 4 's VBZ (VP* be - - Monica_Geller * -
+/friends-s01e18 00 5 a DT (NP* a - - Monica_Geller * -
+/friends-s01e18 00 6 typical JJ * typical - - Monica_Geller * -
+/friends-s01e18 00 7 guy NN * guy - - Monica_Geller * -
+/friends-s01e18 00 8 response NN *)) response - - Monica_Geller * -
+/friends-s01e18 00 9 . . *)) . - - Monica_Geller * -
+
+/friends-s01e18 00 0 Excuse VB (TOP(S(S(VP* excuse - - Ross_Geller * -
+/friends-s01e18 00 1 me PRP (NP*))) I - - Ross_Geller * -
+/friends-s01e18 00 2 , , * , - - Ross_Geller * -
+/friends-s01e18 00 3 do VBP (VP* do - - Ross_Geller * -
+/friends-s01e18 00 4 any DT (SBAR(S(NP(NP*) any - - Ross_Geller * -
+/friends-s01e18 00 5 of IN (PP* of - - Ross_Geller * -
+/friends-s01e18 00 6 you PRP (NP*))) you - - Ross_Geller * -
+/friends-s01e18 00 7 know VBP (VP* know - - Ross_Geller * -
+/friends-s01e18 00 8 how WRB (SBAR(WHADVP*) how - - Ross_Geller * -
+/friends-s01e18 00 9 to TO (S(VP* to - - Ross_Geller * -
+/friends-s01e18 00 10 play VB (VP*)))))))) play - - Ross_Geller * -
+/friends-s01e18 00 11 ? . *)) ? - - Ross_Geller * -
+
+/friends-s01e18 00 0 No DT (TOP(FRAG(NP*) no - - Girls * -
+/friends-s01e18 00 1 . . *)) . - - Girls * -
+
+/friends-s01e18 00 0 But CC (TOP(S* but - - Rachel_Green * -
+/friends-s01e18 00 1 you PRP (NP*) you - - Rachel_Green * -
+/friends-s01e18 00 2 could MD (VP* could - - Rachel_Green * -
+/friends-s01e18 00 3 teach VB (VP* teach - - Rachel_Green * -
+/friends-s01e18 00 4 us PRP (NP*))) we - - Rachel_Green * -
+/friends-s01e18 00 5 . . *)) . - - Rachel_Green * -
+
+/friends-s01e18 00 0 No DT (TOP(FRAG(NP*) no - - Guys * -
+/friends-s01e18 00 1 . . *)) . - - Guys * -
+
+#end document
+#begin document (/friends-s01e18); part 001
+/friends-s01e18 01 0 OK UH (TOP(S(INTJ*) ok - - Chandler_Bing * -
+/friends-s01e18 01 1 , , * , - - Chandler_Bing * -
+/friends-s01e18 01 2 so RB (ADVP* so - - Chandler_Bing * -
+/friends-s01e18 01 3 now RB *) now - - Chandler_Bing (DATE) -
+/friends-s01e18 01 4 we PRP (NP*) we - - Chandler_Bing * -
+/friends-s01e18 01 5 draw VBP (VP* draw - - Chandler_Bing * -
+/friends-s01e18 01 6 cards NNS (NP*)) card - - Chandler_Bing * -
+/friends-s01e18 01 7 . . *)) . - - Chandler_Bing * -
+
+/friends-s01e18 01 0 So IN (TOP(S* so - - Monica_Geller * -
+/friends-s01e18 01 1 I PRP (NP*) I - - Monica_Geller * -
+/friends-s01e18 01 2 would MD (VP* would - - Monica_Geller * -
+/friends-s01e18 01 3 n't RB * not - - Monica_Geller * -
+/friends-s01e18 01 4 need VB (VP* need - - Monica_Geller * -
+/friends-s01e18 01 5 any DT (NP(NP*) any - - Monica_Geller * -
+/friends-s01e18 01 6 , , * , - - Monica_Geller * -
+/friends-s01e18 01 7 right NN (NP*)))) right - - Monica_Geller * -
+/friends-s01e18 01 8 ? . *)) ? - - Monica_Geller * -
+
+/friends-s01e18 01 0 Cause VB (TOP(S(VP* cause - - Monica_Geller * -
+/friends-s01e18 01 1 I PRP (SBAR(S(NP*) I - - Monica_Geller * -
+/friends-s01e18 01 2 have VBP (VP* have - - Monica_Geller * -
+/friends-s01e18 01 3 a DT (NP* a - - Monica_Geller * -
+/friends-s01e18 01 4 straight JJ *))))) straight - - Monica_Geller * -
+/friends-s01e18 01 5 . . *)) . - - Monica_Geller * -
+
+/friends-s01e18 01 0 Oh UH (TOP(FRAG(INTJ*) oh - - Rachel_Green * -
+/friends-s01e18 01 1 , , * , - - Rachel_Green * -
+/friends-s01e18 01 2 good JJ (NP(NP*) good - - Rachel_Green * -
+/friends-s01e18 01 3 for IN (PP* for - - Rachel_Green * -
+/friends-s01e18 01 4 you PRP (NP*))) you - - Rachel_Green * -
+/friends-s01e18 01 5 ! . *)) ! - - Rachel_Green * -
+
+/friends-s01e18 01 0 Congratulations NNS (TOP(NP* congratulation - - Phoebe_Buffay * -
+/friends-s01e18 01 1 ! . *)) ! - - Phoebe_Buffay * -
+
+/friends-s01e18 01 0 OK JJ (TOP(SBARQ(NP* ok - - Chandler_Bing * -
+/friends-s01e18 01 1 Phoebs NNP *) Phoebs - - Chandler_Bing * (292)
+/friends-s01e18 01 2 , , * , - - Chandler_Bing * -
+/friends-s01e18 01 3 how WRB (WHNP* how - - Chandler_Bing * -
+/friends-s01e18 01 4 many JJ *) many - - Chandler_Bing * -
+/friends-s01e18 01 5 do VBP (SQ* do - - Chandler_Bing * -
+/friends-s01e18 01 6 you PRP (NP*) you - - Chandler_Bing * -
+/friends-s01e18 01 7 want VB (VP*)) want - - Chandler_Bing * -
+/friends-s01e18 01 8 ? . *)) ? - - Chandler_Bing * -
+
+/friends-s01e18 01 0 OK UH (TOP(S(INTJ*) ok - - Phoebe_Buffay * -
+/friends-s01e18 01 1 , , * , - - Phoebe_Buffay * -
+/friends-s01e18 01 2 I PRP (NP*) I - - Phoebe_Buffay * -
+/friends-s01e18 01 3 just RB (ADVP*) just - - Phoebe_Buffay * -
+/friends-s01e18 01 4 need VBP (VP* need - - Phoebe_Buffay * -
+/friends-s01e18 01 5 two CD (NP*)) two - - Phoebe_Buffay (NUMBER) -
+/friends-s01e18 01 6 ... : *)) ... - - Phoebe_Buffay * -
+
+/friends-s01e18 01 0 the DT (TOP(NP(NP*) the - - Phoebe_Buffay * -
+/friends-s01e18 01 1 , , * , - - Phoebe_Buffay * -
+/friends-s01e18 01 2 um NN (NP*) um - - Phoebe_Buffay * -
+/friends-s01e18 01 3 , , * , - - Phoebe_Buffay * -
+/friends-s01e18 01 4 ten CD (NP(NP(NP*) ten - - Phoebe_Buffay (NUMBER) -
+/friends-s01e18 01 5 of IN (PP* of - - Phoebe_Buffay * -
+/friends-s01e18 01 6 spades NNS (NP*))) spade - - Phoebe_Buffay * -
+/friends-s01e18 01 7 and CC * and - - Phoebe_Buffay * -
+/friends-s01e18 01 8 the DT (NP(NP* the - - Phoebe_Buffay * -
+/friends-s01e18 01 9 six CD *) six - - Phoebe_Buffay (NUMBER) -
+/friends-s01e18 01 10 of IN (PP* of - - Phoebe_Buffay * -
+/friends-s01e18 01 11 clubs NNS (NP*)))) club - - Phoebe_Buffay * -
+/friends-s01e18 01 12 . . *)) . - - Phoebe_Buffay * -
+
+/friends-s01e18 01 0 No DT (TOP(FRAG(NP*) no - - Ross_Geller * -
+/friends-s01e18 01 1 . . *)) . - - Ross_Geller * -
+
+/friends-s01e18 01 0 No DT (TOP(NP(NP(NP(ADJP* no - - Ross_Geller * -
+/friends-s01e18 01 1 , , (PRN* , - - Ross_Geller * -
+/friends-s01e18 01 2 uh UH (INTJ*) uh - - Ross_Geller * -
+/friends-s01e18 01 3 , , *))) , - - Ross_Geller * -
+/friends-s01e18 01 4 Phoebs NNP (NP*)) Phoebs - - Ross_Geller (PERSON) (292)
+/friends-s01e18 01 5 ? . *)) ? - - Ross_Geller * -
+
+/friends-s01e18 01 0 You PRP (TOP(S(NP*) you - - Ross_Geller * -
+/friends-s01e18 01 1 can'tyou VBP (VP* can'tyou - - Ross_Geller * -
+/friends-s01e18 01 2 ca MD (SBAR(S(VP* can - - Ross_Geller * -
+/friends-s01e18 01 3 n't RB * not - - Ross_Geller * -
+/friends-s01e18 01 4 do VB (VP*))))) do - - Ross_Geller * -
+/friends-s01e18 01 5 ... : *)) ... - - Ross_Geller * -
+
+/friends-s01e18 01 0 Oh UH (TOP(S(INTJ*) oh - - Rachel_Green * -
+/friends-s01e18 01 1 wait VB (VP* wait - - Rachel_Green * -
+/friends-s01e18 01 2 , , * , - - Rachel_Green * -
+/friends-s01e18 01 3 I PRP (S(NP*) I - - Rachel_Green * -
+/friends-s01e18 01 4 have VBP (VP* have - - Rachel_Green * -
+/friends-s01e18 01 5 the DT (NP(NP* the - - Rachel_Green * -
+/friends-s01e18 01 6 ten CD *) ten - - Rachel_Green (NUMBER) -
+/friends-s01e18 01 7 of IN (PP* of - - Rachel_Green * -
+/friends-s01e18 01 8 spades NNS (NP*)))))) spade - - Rachel_Green * -
+/friends-s01e18 01 9 ! . *)) ! - - Rachel_Green * -
+
+/friends-s01e18 01 0 Here RB (TOP(FRAG(ADVP*) here - - Rachel_Green * -
+/friends-s01e18 01 1 ! . *)) ! - - Rachel_Green * -
+
+/friends-s01e18 01 0 No DT (TOP(NP(NP*) no - - Ross_Geller * -
+/friends-s01e18 01 1 , , * , - - Ross_Geller * -
+/friends-s01e18 01 2 no DT (NP*) no - - Ross_Geller * -
+/friends-s01e18 01 3 . . *)) . - - Ross_Geller * -
+
+/friends-s01e18 01 0 Uh RB (TOP(FRAG(ADVP*) uh - - Ross_Geller * -
+/friends-s01e18 01 1 ... : *)) ... - - Ross_Geller * -
+
+/friends-s01e18 01 0 no DT (TOP(S(NP*) no - - Ross_Geller * -
+/friends-s01e18 01 1 , , (PRN* , - - Ross_Geller * -
+/friends-s01e18 01 2 see VB (SINV(VP* see - - Ross_Geller * -
+/friends-s01e18 01 3 , , * , - - Ross_Geller * -
+/friends-s01e18 01 4 uh UH (FRAG(INTJ*) uh - - Ross_Geller * -
+/friends-s01e18 01 5 , , * , - - Ross_Geller * -
+/friends-s01e18 01 6 you PRP (NP*) you - - Ross_Geller * -
+/friends-s01e18 01 7 - : *)) - - - Ross_Geller * -
+/friends-s01e18 01 8 you PRP (NP*))) you - - Ross_Geller * -
+/friends-s01e18 01 9 ca MD (VP* can - - Ross_Geller * -
+/friends-s01e18 01 10 n't RB * not - - Ross_Geller * -
+/friends-s01e18 01 11 do VB (VP* do - - Ross_Geller * -
+/friends-s01e18 01 12 that DT (NP*))) that - - Ross_Geller * -
+/friends-s01e18 01 13 . . *)) . - - Ross_Geller * -
+
+/friends-s01e18 01 0 Oh UH (TOP(S(FRAG(FRAG(INTJ*) oh - - Rachel_Green * -
+/friends-s01e18 01 1 , , * , - - Rachel_Green * -
+/friends-s01e18 01 2 no DT (NP*)) no - - Rachel_Green * -
+/friends-s01e18 01 3 - : * - - - Rachel_Green * -
+/friends-s01e18 01 4 no DT (FRAG(FRAG(X*) no - - Rachel_Green * -
+/friends-s01e18 01 5 - : * - - - Rachel_Green * -
+/friends-s01e18 01 6 no DT (NP*)) no - - Rachel_Green * -
+/friends-s01e18 01 7 - : * - - - Rachel_Green * -
+/friends-s01e18 01 8 no DT (FRAG(X*) no - - Rachel_Green * -
+/friends-s01e18 01 9 - : * - - - Rachel_Green * -
+/friends-s01e18 01 10 no DT (NP*)))) no - - Rachel_Green * -
+/friends-s01e18 01 11 - : * - - - Rachel_Green * -
+/friends-s01e18 01 12 no RB (S(INTJ*) no - - Rachel_Green * -
+/friends-s01e18 01 13 , , * , - - Rachel_Green * -
+/friends-s01e18 01 14 that DT (S(NP*) that - - Rachel_Green * -
+/friends-s01e18 01 15 's VBZ (VP* be - - Rachel_Green * -
+/friends-s01e18 01 16 OK JJ (ADJP*))) ok - - Rachel_Green * -
+/friends-s01e18 01 17 , , * , - - Rachel_Green * -
+/friends-s01e18 01 18 I PRP (S(NP*) I - - Rachel_Green * -
+/friends-s01e18 01 19 do VBP (VP* do - - Rachel_Green * -
+/friends-s01e18 01 20 n't RB * not - - Rachel_Green * -
+/friends-s01e18 01 21 need VB (VP* need - - Rachel_Green * -
+/friends-s01e18 01 22 them PRP (NP*))))) they - - Rachel_Green * -
+/friends-s01e18 01 23 . . *)) . - - Rachel_Green * -
+
+/friends-s01e18 01 0 I PRP (TOP(S(NP*) I - - Rachel_Green * -
+/friends-s01e18 01 1 'm VBP (VP* be - - Rachel_Green * -
+/friends-s01e18 01 2 going VBG (VP* go - - Rachel_Green * -
+/friends-s01e18 01 3 for IN (PP* for - - Rachel_Green * -
+/friends-s01e18 01 4 fours NNS (NP*)))) fours - - Rachel_Green * -
+/friends-s01e18 01 5 . . *)) . - - Rachel_Green * -
+
+/friends-s01e18 01 0 Oh UH (TOP(S(INTJ*) oh - - Ross_Geller * -
+/friends-s01e18 01 1 , , * , - - Ross_Geller * -
+/friends-s01e18 01 2 you PRP (NP*) you - - Ross_Geller * -
+/friends-s01e18 01 3 're VBP (VP*) be - - Ross_Geller * -
+/friends-s01e18 01 4 ... : *)) ... - - Ross_Geller * -
+
+/friends-s01e18 01 0 Alright NNP (TOP(S(NP*) Alright - - Monica_Geller * -
+/friends-s01e18 01 1 , , * , - - Monica_Geller * -
+/friends-s01e18 01 2 here RB (ADVP*) here - - Monica_Geller * -
+/friends-s01e18 01 3 we PRP (NP*) we - - Monica_Geller * -
+/friends-s01e18 01 4 go VBP (VP*) go - - Monica_Geller * -
+/friends-s01e18 01 5 . . *)) . - - Monica_Geller * -
+
+/friends-s01e18 01 0 We PRP (TOP(S(NP*) we - - Monica_Geller * -
+/friends-s01e18 01 1 've VBP (VP* have - - Monica_Geller * -
+/friends-s01e18 01 2 got VBN (VP* get - - Monica_Geller * -
+/friends-s01e18 01 3 salmon NN (NP(NP* salmon - - Monica_Geller * -
+/friends-s01e18 01 4 roulettes NNS *) roulette - - Monica_Geller * -
+/friends-s01e18 01 5 and CC * and - - Monica_Geller * -
+/friends-s01e18 01 6 assorted JJ (NP* assorted - - Monica_Geller * -
+/friends-s01e18 01 7 crudites NNS *)))) crudite - - Monica_Geller * -
+/friends-s01e18 01 8 . . *)) . - - Monica_Geller * -
+
+/friends-s01e18 01 0 OOooooo NN (TOP(NP* ooooooo - - Phoebe,_Rachel * -
+/friends-s01e18 01 1 ! . *)) ! - - Phoebe,_Rachel * -
+
+/friends-s01e18 01 0 Whoa NNP (TOP(NP(NP*) Whoa - - Joey_Tribbiani * -
+/friends-s01e18 01 1 , , * , - - Joey_Tribbiani * -
+/friends-s01e18 01 2 whoa NN (NP*) whoa - - Joey_Tribbiani * -
+/friends-s01e18 01 3 , , * , - - Joey_Tribbiani * -
+/friends-s01e18 01 4 whoa NN (NP*) whoa - - Joey_Tribbiani * -
+/friends-s01e18 01 5 , , * , - - Joey_Tribbiani * -
+/friends-s01e18 01 6 Monica NNP (S(NP*) Monica - - Joey_Tribbiani (PERSON) (248)
+/friends-s01e18 01 7 , , * , - - Joey_Tribbiani * -
+/friends-s01e18 01 8 what WDT (NP*) what - - Joey_Tribbiani * -
+/friends-s01e18 01 9 're VBP (VP* be - - Joey_Tribbiani * -
+/friends-s01e18 01 10 you PRP (NP* you - - Joey_Tribbiani * -
+/friends-s01e18 01 11 doin NN *)) doin - - Joey_Tribbiani * -
+/friends-s01e18 01 12 ' '' *) ' - - Joey_Tribbiani * -
+/friends-s01e18 01 13 ? . *)) ? - - Joey_Tribbiani * -
+
+/friends-s01e18 01 0 This DT (TOP(S(NP*) this - - Joey_Tribbiani * -
+/friends-s01e18 01 1 is VBZ (VP* be - - Joey_Tribbiani * -
+/friends-s01e18 01 2 a DT (NP* a - - Joey_Tribbiani * -
+/friends-s01e18 01 3 poker NN * poker - - Joey_Tribbiani * -
+/friends-s01e18 01 4 game NN *)) game - - Joey_Tribbiani * -
+/friends-s01e18 01 5 . . *)) . - - Joey_Tribbiani * -
+
+/friends-s01e18 01 0 You PRP (TOP(S(NP*) you - - Joey_Tribbiani * -
+/friends-s01e18 01 1 ca MD (VP* can - - Joey_Tribbiani * -
+/friends-s01e18 01 2 n't RB * not - - Joey_Tribbiani * -
+/friends-s01e18 01 3 serve VB (VP* serve - - Joey_Tribbiani * -
+/friends-s01e18 01 4 food NN (S(NP(NP*) food - - Joey_Tribbiani * -
+/friends-s01e18 01 5 with IN (PP* with - - Joey_Tribbiani * -
+/friends-s01e18 01 6 more JJR (NP(QP* more - - Joey_Tribbiani * -
+/friends-s01e18 01 7 than IN * than - - Joey_Tribbiani * -
+/friends-s01e18 01 8 one CD *)))) one - - Joey_Tribbiani (NUMBER) -
+/friends-s01e18 01 9 syllable NN (ADJP*)))) syllable - - Joey_Tribbiani * -
+/friends-s01e18 01 10 . . *)) . - - Joey_Tribbiani * -
+
+/friends-s01e18 01 0 It PRP (TOP(S(NP*) it - - Joey_Tribbiani * -
+/friends-s01e18 01 1 's VBZ (VP* be - - Joey_Tribbiani * -
+/friends-s01e18 01 2 got VBN (VP* get - - Joey_Tribbiani * -
+/friends-s01e18 01 3 ta NN (NP*) ta - - Joey_Tribbiani * -
+/friends-s01e18 01 4 be VB (VP* be - - Joey_Tribbiani * -
+/friends-s01e18 01 5 like IN (PP* like - - Joey_Tribbiani * -
+/friends-s01e18 01 6 chips NNS (NP(NP*) chip - - Joey_Tribbiani * -
+/friends-s01e18 01 7 , , * , - - Joey_Tribbiani * -
+/friends-s01e18 01 8 or CC * or - - Joey_Tribbiani * -
+/friends-s01e18 01 9 dip NN (NP*) dip - - Joey_Tribbiani * -
+/friends-s01e18 01 10 , , * , - - Joey_Tribbiani * -
+/friends-s01e18 01 11 or CC * or - - Joey_Tribbiani * -
+/friends-s01e18 01 12 pretz NN (NP*)))))) pretz - - Joey_Tribbiani * -
+/friends-s01e18 01 13 ... : *)) ... - - Joey_Tribbiani * -
+
+/friends-s01e18 01 0 OK UH (TOP(FRAG(INTJ*) ok - - Chandler_Bing * -
+/friends-s01e18 01 1 , , * , - - Chandler_Bing * -
+/friends-s01e18 01 2 so RB (ADVP* so - - Chandler_Bing * -
+/friends-s01e18 01 3 at IN (PP* at - - Chandler_Bing * -
+/friends-s01e18 01 4 this DT (NP* this - - Chandler_Bing * -
+/friends-s01e18 01 5 point NN *))) point - - Chandler_Bing * -
+/friends-s01e18 01 6 , , * , - - Chandler_Bing * -
+/friends-s01e18 01 7 the DT (NP* the - - Chandler_Bing * -
+/friends-s01e18 01 8 dealer NN *) dealer - - Chandler_Bing * -
+/friends-s01e18 01 9 ... : *)) ... - - Chandler_Bing * -
+
+/friends-s01e18 01 0 Alright NNP (TOP(S(S(NP*) Alright - - Monica_Geller * -
+/friends-s01e18 01 1 , , (PRN* , - - Monica_Geller * -
+/friends-s01e18 01 2 you PRP (S(NP*) you - - Monica_Geller * -
+/friends-s01e18 01 3 know VBP (VP*)) know - - Monica_Geller * -
+/friends-s01e18 01 4 , , *) , - - Monica_Geller * -
+/friends-s01e18 01 5 we PRP (NP*) we - - Monica_Geller * -
+/friends-s01e18 01 6 got VBD (VP* get - - Monica_Geller * -
+/friends-s01e18 01 7 it PRP (NP*))) it - - Monica_Geller * -
+/friends-s01e18 01 8 , , * , - - Monica_Geller * -
+/friends-s01e18 01 9 we PRP (NP*) we - - Monica_Geller * -
+/friends-s01e18 01 10 got VBD (VP* get - - Monica_Geller * -
+/friends-s01e18 01 11 it PRP (NP*)) it - - Monica_Geller * -
+/friends-s01e18 01 12 . . *)) . - - Monica_Geller * -
+
+/friends-s01e18 01 0 Let VB (TOP(S(VP* let - - Monica_Geller * -
+/friends-s01e18 01 1 's PRP (S(NP*) 's - - Monica_Geller * -
+/friends-s01e18 01 2 play VB (VP* play - - Monica_Geller * -
+/friends-s01e18 01 3 for IN (PP* for - - Monica_Geller * -
+/friends-s01e18 01 4 real JJ (NP*))))) real - - Monica_Geller * -
+/friends-s01e18 01 5 . . *)) . - - Monica_Geller * -
+
+/friends-s01e18 01 0 High JJ (TOP(NP* high - - Monica_Geller * -
+/friends-s01e18 01 1 stakes NNS * stake - - Monica_Geller * -
+/friends-s01e18 01 2 ... : *)) ... - - Monica_Geller * -
+
+/friends-s01e18 01 0 big JJ (TOP(NP* big - - Monica_Geller * -
+/friends-s01e18 01 1 bucks NNS * buck - - Monica_Geller * -
+/friends-s01e18 01 2 ... : *)) ... - - Monica_Geller * -
+
+/friends-s01e18 01 0 Alright NNP (TOP(NP(NP*) Alright - - Ross_Geller * -
+/friends-s01e18 01 1 , , * , - - Ross_Geller * -
+/friends-s01e18 01 2 now RB (NP*) now - - Ross_Geller (DATE) -
+/friends-s01e18 01 3 , , * , - - Ross_Geller * -
+/friends-s01e18 01 4 you PRP (NP(NP*) you - - Ross_Geller * -
+/friends-s01e18 01 5 sure RB (ADVP*)) sure - - Ross_Geller * -
+/friends-s01e18 01 6 ? . *)) ? - - Ross_Geller * -
+
+/friends-s01e18 01 0 Phoebe NNP (TOP(S(NP*) Phoebe - - Ross_Geller (PERSON) (292)
+/friends-s01e18 01 1 just RB (ADVP*) just - - Ross_Geller * -
+/friends-s01e18 01 2 threw VBD (VP* throw - - Ross_Geller * -
+/friends-s01e18 01 3 away RP (PRT*) away - - Ross_Geller * -
+/friends-s01e18 01 4 two CD (NP* two - - Ross_Geller (NUMBER) -
+/friends-s01e18 01 5 jacks NNS *) jack - - Ross_Geller * -
+/friends-s01e18 01 6 because IN (SBAR* because - - Ross_Geller * -
+/friends-s01e18 01 7 they PRP (S(NP*) they - - Ross_Geller * -
+/friends-s01e18 01 8 did VBD (VP* do - - Ross_Geller * -
+/friends-s01e18 01 9 n't RB * not - - Ross_Geller * -
+/friends-s01e18 01 10 look VB (VP* look - - Ross_Geller * -
+/friends-s01e18 01 11 happy JJ (ADJP*)))))) happy - - Ross_Geller * -
+/friends-s01e18 01 12 ... : *)) ... - - Ross_Geller * -
+
+/friends-s01e18 01 0 But CC (TOP(NP* but - - Phoebe_Buffay * -
+/friends-s01e18 01 1 ... : *)) ... - - Phoebe_Buffay * -
+
+/friends-s01e18 01 0 I PRP (TOP(S(NP*) I - - Phoebe_Buffay * -
+/friends-s01e18 01 1 'm VBP (VP* be - - Phoebe_Buffay * -
+/friends-s01e18 01 2 ready JJ (ADJP*) ready - - Phoebe_Buffay * -
+/friends-s01e18 01 3 , , * , - - Phoebe_Buffay * -
+/friends-s01e18 01 4 so RB (ADVP*) so - - Phoebe_Buffay * -
+/friends-s01e18 01 5 , , * , - - Phoebe_Buffay * -
+/friends-s01e18 01 6 just RB (PP* just - - Phoebe_Buffay * -
+/friends-s01e18 01 7 deal NN (NP*))) deal - - Phoebe_Buffay * -
+/friends-s01e18 01 8 . . *)) . - - Phoebe_Buffay * -
+
+/friends-s01e18 01 0 OK UH (TOP(FRAG(INTJ*) ok - - Chandler_Bing * -
+/friends-s01e18 01 1 , , * , - - Chandler_Bing * -
+/friends-s01e18 01 2 alright JJ (NP-TMP(NP*) alright - - Chandler_Bing * -
+/friends-s01e18 01 3 , , * , - - Chandler_Bing * -
+/friends-s01e18 01 4 last JJ (NP* last - - Chandler_Bing (DATE* -
+/friends-s01e18 01 5 minute JJ * minute - - Chandler_Bing *) -
+/friends-s01e18 01 6 lesson NN *)) lesson - - Chandler_Bing * -
+/friends-s01e18 01 7 , , * , - - Chandler_Bing * -
+/friends-s01e18 01 8 last JJ (NP* last - - Chandler_Bing (DATE* -
+/friends-s01e18 01 9 minute JJ * minute - - Chandler_Bing *) -
+/friends-s01e18 01 10 lesson NN *) lesson - - Chandler_Bing * -
+/friends-s01e18 01 11 . . *)) . - - Chandler_Bing * -
+
+/friends-s01e18 01 0 Joey NNP (TOP(NP* Joey - - Chandler_Bing (PERSON) (183)
+/friends-s01e18 01 1 ... : *)) ... - - Chandler_Bing * -
+
+/friends-s01e18 01 0 three CD (TOP(NP* three - - Chandler_Bing (NUMBER) -
+/friends-s01e18 01 1 ... : *)) ... - - Chandler_Bing * -
+
+/friends-s01e18 01 0 eight CD (TOP(FRAG(NP*) eight - - Chandler_Bing (NUMBER) -
+/friends-s01e18 01 1 . . *)) . - - Chandler_Bing * -
+
+/friends-s01e18 01 0 Eight CD (TOP(NP* eight - - Chandler_Bing (NUMBER) -
+/friends-s01e18 01 1 ... : *)) ... - - Chandler_Bing * -
+
+/friends-s01e18 01 0 three CD (TOP(FRAG(NP*) three - - Chandler_Bing (NUMBER) -
+/friends-s01e18 01 1 . . *)) . - - Chandler_Bing * -
+
+/friends-s01e18 01 0 Alright JJ (TOP(S(NP* alright - - Chandler_Bing * -
+/friends-s01e18 01 1 babe NN *) babe - - Chandler_Bing * -
+/friends-s01e18 01 2 , , * , - - Chandler_Bing * -
+/friends-s01e18 01 3 deal VB (VP* deal - - Chandler_Bing * -
+/friends-s01e18 01 4 the DT (NP* the - - Chandler_Bing * -
+/friends-s01e18 01 5 cards NNS *)) card - - Chandler_Bing * -
+/friends-s01e18 01 6 . . *)) . - - Chandler_Bing * -
+
+/friends-s01e18 01 0 Dammit RB (TOP(FRAG(ADVP*) dammit - - Monica_Geller * -
+/friends-s01e18 01 1 , , * , - - Monica_Geller * -
+/friends-s01e18 01 2 dammit RB (ADVP*) dammit - - Monica_Geller * -
+/friends-s01e18 01 3 , , * , - - Monica_Geller * -
+/friends-s01e18 01 4 dammit RB (NP*) dammit - - Monica_Geller * -
+/friends-s01e18 01 5 ! . *)) ! - - Monica_Geller * -
+
+/friends-s01e18 01 0 : : (TOP(S* : - - Phoebe_Buffay * -
+/friends-s01e18 01 1 Oh UH (S(INTJ*) oh - - Phoebe_Buffay * -
+/friends-s01e18 01 2 I PRP (NP*) I - - Phoebe_Buffay * -
+/friends-s01e18 01 3 see VBP (VP*)) see - - Phoebe_Buffay * -
+/friends-s01e18 01 4 , , * , - - Phoebe_Buffay * -
+/friends-s01e18 01 5 so RB * so - - Phoebe_Buffay * -
+/friends-s01e18 01 6 then RB (S(ADVP*) then - - Phoebe_Buffay * -
+/friends-s01e18 01 7 , , * , - - Phoebe_Buffay * -
+/friends-s01e18 01 8 you PRP (NP*) you - - Phoebe_Buffay * -
+/friends-s01e18 01 9 were VBD (VP* be - - Phoebe_Buffay * -
+/friends-s01e18 01 10 lying VBG (VP*))) lie - - Phoebe_Buffay * -
+/friends-s01e18 01 11 . . *)) . - - Phoebe_Buffay * -
+
+/friends-s01e18 01 0 About IN (TOP(FRAG(PP* about - - Joey_Tribbiani * -
+/friends-s01e18 01 1 what WP (WHNP*)) what - - Joey_Tribbiani * -
+/friends-s01e18 01 2 ? . *)) ? - - Joey_Tribbiani * -
+
+/friends-s01e18 01 0 About IN (TOP(S(PP* about - - Phoebe_Buffay * -
+/friends-s01e18 01 1 how WRB (NP* how - - Phoebe_Buffay * -
+/friends-s01e18 01 2 good JJ *)) good - - Phoebe_Buffay * -
+/friends-s01e18 01 3 your PRP$ (NP* you - - Phoebe_Buffay * -
+/friends-s01e18 01 4 cards NNS *) card - - Phoebe_Buffay * -
+/friends-s01e18 01 5 were VBD (VP*) be - - Phoebe_Buffay * -
+/friends-s01e18 01 6 . . *)) . - - Phoebe_Buffay * -
+
+/friends-s01e18 01 0 Heh NNP (TOP(NP* Heh - - Joey_Tribbiani * -
+/friends-s01e18 01 1 ... : *)) ... - - Joey_Tribbiani * -
+
+/friends-s01e18 01 0 I PRP (TOP(S(NP*) I - - Joey_Tribbiani * -
+/friends-s01e18 01 1 was VBD (VP* be - - Joey_Tribbiani * -
+/friends-s01e18 01 2 bluffing VBG (VP*)) bluff - - Joey_Tribbiani * -
+/friends-s01e18 01 3 . . *)) . - - Joey_Tribbiani * -
+
+/friends-s01e18 01 0 A-ha NN (TOP(NP* a-ha - - Phoebe_Buffay * -
+/friends-s01e18 01 1 ! . *)) ! - - Phoebe_Buffay * -
+
+/friends-s01e18 01 0 And CC (TOP(NP* and - - Phoebe_Buffay * -
+/friends-s01e18 01 1 ... : *)) ... - - Phoebe_Buffay * -
+
+/friends-s01e18 01 0 what WP (TOP(SBARQ(WHNP*) what - - Phoebe_Buffay * -
+/friends-s01e18 01 1 is VBZ (SQ(VP* be - - Phoebe_Buffay * -
+/friends-s01e18 01 2 bluffing VBG (VP*))) bluff - - Phoebe_Buffay * -
+/friends-s01e18 01 3 ? . *)) ? - - Phoebe_Buffay * -
+
+/friends-s01e18 01 0 Is VBZ (TOP(FRAG(S(VP* be - - Phoebe_Buffay * -
+/friends-s01e18 01 1 it PRP (NP*) it - - Phoebe_Buffay * -
+/friends-s01e18 01 2 not RB (ADVP* not - - Phoebe_Buffay * -
+/friends-s01e18 01 3 another DT (NP* another - - Phoebe_Buffay * -
+/friends-s01e18 01 4 word NN *)) word - - Phoebe_Buffay * -
+/friends-s01e18 01 5 for IN (PP*) for - - Phoebe_Buffay * -
+/friends-s01e18 01 6 ... : *)))) ... - - Phoebe_Buffay * -
+
+/friends-s01e18 01 0 lying VBG (TOP(S(VP*) lie - - Phoebe_Buffay * -
+/friends-s01e18 01 1 ? . *)) ? - - Phoebe_Buffay * -
+
+/friends-s01e18 01 0 OK UH (TOP(S(ADVP*) ok - - Rachel_Green * -
+/friends-s01e18 01 1 , , * , - - Rachel_Green * -
+/friends-s01e18 01 2 sorry JJ (S(ADJP* sorry - - Rachel_Green * -
+/friends-s01e18 01 3 to TO (S(VP* to - - Rachel_Green * -
+/friends-s01e18 01 4 break VB (VP* break - - Rachel_Green * -
+/friends-s01e18 01 5 up RP (PRT*) up - - Rachel_Green * -
+/friends-s01e18 01 6 this DT (NP* this - - Rachel_Green * -
+/friends-s01e18 01 7 party NN *)))))) party - - Rachel_Green * -
+/friends-s01e18 01 8 , , * , - - Rachel_Green * -
+/friends-s01e18 01 9 but CC (ADVP*) but - - Rachel_Green * -
+/friends-s01e18 01 10 I PRP (NP*) I - - Rachel_Green * -
+/friends-s01e18 01 11 've VBP (VP* have - - Rachel_Green * -
+/friends-s01e18 01 12 got VBN (VP* get - - Rachel_Green * -
+/friends-s01e18 01 13 resumes NNS (NP*) resume - - Rachel_Green * -
+/friends-s01e18 01 14 to TO (PP* to - - Rachel_Green * -
+/friends-s01e18 01 15 fax NN (NP*)) fax - - Rachel_Green * -
+/friends-s01e18 01 16 before IN (PP* before - - Rachel_Green * -
+/friends-s01e18 01 17 work NN (NP* work - - Rachel_Green * -
+/friends-s01e18 01 18 tomorrow NN *)))) tomorrow - - Rachel_Green (DATE) -
+/friends-s01e18 01 19 ... : *)) ... - - Rachel_Green * -
+
+/friends-s01e18 01 0 Whoa NNP (TOP(NP(NP*) Whoa - - Guys * -
+/friends-s01e18 01 1 , , * , - - Guys * -
+/friends-s01e18 01 2 whoa NN (NP(NP*) whoa - - Guys * -
+/friends-s01e18 01 3 , , * , - - Guys * -
+/friends-s01e18 01 4 whoa NN (NP*)) whoa - - Guys * -
+/friends-s01e18 01 5 ! . *)) ! - - Guys * -
+
+/friends-s01e18 01 0 Rach NNP (TOP(S(NP* Rach - - Chandler_Bing * (306)
+/friends-s01e18 01 1 , , * , - - Chandler_Bing * -
+/friends-s01e18 01 2 Rach NNP *) Rach - - Chandler_Bing * (306)
+/friends-s01e18 01 3 , , * , - - Chandler_Bing * -
+/friends-s01e18 01 4 we PRP (NP*) we - - Chandler_Bing * -
+/friends-s01e18 01 5 got VBD (VP* get - - Chandler_Bing * -
+/friends-s01e18 01 6 ta NN (S(NP*) ta - - Chandler_Bing * -
+/friends-s01e18 01 7 settle VB (VP*))) settle - - Chandler_Bing * -
+/friends-s01e18 01 8 . . *)) . - - Chandler_Bing * -
+
+/friends-s01e18 01 0 Settle VB (TOP(S(VP* settle - - Rachel_Green * -
+/friends-s01e18 01 1 what WP (FRAG(SBARQ(WHNP*) what - - Rachel_Green * -
+/friends-s01e18 01 2 ? . *))))) ? - - Rachel_Green * -
+
+/friends-s01e18 01 0 The DT (TOP(NP(NP*) the - - Chandler_Bing * -
+/friends-s01e18 01 1 ... : *)) ... - - Chandler_Bing * -
+
+/friends-s01e18 01 0 Jamestown NNP (TOP(NP(NP* Jamestown - - Chandler_Bing (LOCATION) -
+/friends-s01e18 01 1 colony NN *) colony - - Chandler_Bing * -
+/friends-s01e18 01 2 of IN (PP* of - - Chandler_Bing * -
+/friends-s01e18 01 3 Virginia NNP (NP*)) Virginia - - Chandler_Bing (LOCATION) -
+/friends-s01e18 01 4 . . *)) . - - Chandler_Bing * -
+
+/friends-s01e18 01 0 You PRP (TOP(S(S(NP*) you - - Chandler_Bing * -
+/friends-s01e18 01 1 see VBP (VP*)) see - - Chandler_Bing * -
+/friends-s01e18 01 2 , , * , - - Chandler_Bing * -
+/friends-s01e18 01 3 King NNP (NP* King - - Chandler_Bing (PERSON* -
+/friends-s01e18 01 4 George NNP *) George - - Chandler_Bing *) (138)
+/friends-s01e18 01 5 is VBZ (VP* be - - Chandler_Bing * -
+/friends-s01e18 01 6 giving VBG (VP* give - - Chandler_Bing * -
+/friends-s01e18 01 7 us PRP (NP*) we - - Chandler_Bing * -
+/friends-s01e18 01 8 the DT (NP* the - - Chandler_Bing * -
+/friends-s01e18 01 9 land NN *)) land - - Chandler_Bing * -
+/friends-s01e18 01 10 , , * , - - Chandler_Bing * -
+/friends-s01e18 01 11 so RB (ADVP*)) so - - Chandler_Bing * -
+/friends-s01e18 01 12 ... : *)) ... - - Chandler_Bing * -
+
+/friends-s01e18 01 0 The DT (TOP(NP(NP* the - - Ross_Geller * -
+/friends-s01e18 01 1 game NN *) game - - Ross_Geller * -
+/friends-s01e18 01 2 , , * , - - Ross_Geller * -
+/friends-s01e18 01 3 Rachel NNP (NP(NP*) Rachel - - Ross_Geller (PERSON) -
+/friends-s01e18 01 4 , , * , - - Ross_Geller * -
+/friends-s01e18 01 5 the DT (NP* the - - Ross_Geller * -
+/friends-s01e18 01 6 game NN *)) game - - Ross_Geller * -
+/friends-s01e18 01 7 . . *)) . - - Ross_Geller * -
+
+/friends-s01e18 01 0 You PRP (TOP(S(NP*) you - - Ross_Geller * -
+/friends-s01e18 01 1 owe VBP (VP* owe - - Ross_Geller * -
+/friends-s01e18 01 2 us PRP (NP*) we - - Ross_Geller * -
+/friends-s01e18 01 3 money NN (NP(NP*) money - - Ross_Geller * -
+/friends-s01e18 01 4 for IN (PP* for - - Ross_Geller * -
+/friends-s01e18 01 5 the DT (NP* the - - Ross_Geller * -
+/friends-s01e18 01 6 game NN *)))) game - - Ross_Geller * -
+/friends-s01e18 01 7 . . *)) . - - Ross_Geller * -
+
+/friends-s01e18 01 0 Oh UH (TOP(INTJ* oh - - Rachel_Green * -
+/friends-s01e18 01 1 . . *)) . - - Rachel_Green * -
+
+/friends-s01e18 01 0 Right RB (TOP(ADVP* right - - Rachel_Green * -
+/friends-s01e18 01 1 . . *)) . - - Rachel_Green * -
+
+/friends-s01e18 01 0 You PRP (TOP(S(S(NP*) you - - Joey_Tribbiani * -
+/friends-s01e18 01 1 know VBP (VP* know - - Joey_Tribbiani * -
+/friends-s01e18 01 2 what WP (NP*))) what - - Joey_Tribbiani * -
+/friends-s01e18 01 3 , , * , - - Joey_Tribbiani * -
+/friends-s01e18 01 4 you PRP (S(NP*) you - - Joey_Tribbiani * -
+/friends-s01e18 01 5 guys NNS (NP*)) guy - - Joey_Tribbiani * -
+/friends-s01e18 01 6 ? . *)) ? - - Joey_Tribbiani * -
+
+/friends-s01e18 01 0 It PRP (TOP(S(NP*) it - - Joey_Tribbiani * -
+/friends-s01e18 01 1 's VBZ (VP* be - - Joey_Tribbiani * -
+/friends-s01e18 01 2 their PRP$ (NP* they - - Joey_Tribbiani * -
+/friends-s01e18 01 3 first JJ (ADJP*) first - - Joey_Tribbiani (ORDINAL) -
+/friends-s01e18 01 4 time NN *) time - - Joey_Tribbiani * -
+/friends-s01e18 01 5 , , * , - - Joey_Tribbiani * -
+/friends-s01e18 01 6 why WRB (SBAR(SBARQ(WHADVP*) why - - Joey_Tribbiani * -
+/friends-s01e18 01 7 do VBP (SQ* do - - Joey_Tribbiani * -
+/friends-s01e18 01 8 n't RB * not - - Joey_Tribbiani * -
+/friends-s01e18 01 9 we PRP (NP*) we - - Joey_Tribbiani * -
+/friends-s01e18 01 10 just RB (VP(ADVP*) just - - Joey_Tribbiani * -
+/friends-s01e18 01 11 forget VB * forget - - Joey_Tribbiani * -
+/friends-s01e18 01 12 about IN (PP* about - - Joey_Tribbiani * -
+/friends-s01e18 01 13 the DT (NP(NP* the - - Joey_Tribbiani * -
+/friends-s01e18 01 14 money NN *) money - - Joey_Tribbiani * -
+/friends-s01e18 01 15 , , * , - - Joey_Tribbiani * -
+/friends-s01e18 01 16 alright NN (NP*))))) alright - - Joey_Tribbiani * -
+/friends-s01e18 01 17 ? . *))))) ? - - Joey_Tribbiani * -
+
+/friends-s01e18 01 0 Hell NNP (TOP(S(ADVP(NP*) Hell - - Monica_Geller * -
+/friends-s01e18 01 1 no RB *) no - - Monica_Geller * -
+/friends-s01e18 01 2 , , * , - - Monica_Geller * -
+/friends-s01e18 01 3 we PRP (NP*) we - - Monica_Geller * -
+/friends-s01e18 01 4 'll MD (VP* will - - Monica_Geller * -
+/friends-s01e18 01 5 pay VB (VP*)) pay - - Monica_Geller * -
+/friends-s01e18 01 6 ! . *)) ! - - Monica_Geller * -
+
+/friends-s01e18 01 0 OK UH (TOP(FRAG(INTJ*) ok - - Phoebe_Buffay * -
+/friends-s01e18 01 1 , , * , - - Phoebe_Buffay * -
+/friends-s01e18 01 2 Monica NNP (NP*) Monica - - Phoebe_Buffay (PERSON) (248)
+/friends-s01e18 01 3 ? . *)) ? - - Phoebe_Buffay * -
+
+/friends-s01e18 01 0 I PRP (TOP(S(NP*) I - - Phoebe_Buffay * -
+/friends-s01e18 01 1 had VBD (VP* have - - Phoebe_Buffay * -
+/friends-s01e18 01 2 another DT (NP(NP* another - - Phoebe_Buffay * -
+/friends-s01e18 01 3 answer NN *) answer - - Phoebe_Buffay * -
+/friends-s01e18 01 4 all DT (ADJP* all - - Phoebe_Buffay * -
+/friends-s01e18 01 5 ready JJ *))) ready - - Phoebe_Buffay * -
+/friends-s01e18 01 6 . . *)) . - - Phoebe_Buffay * -
+
+/friends-s01e18 01 0 And CC (TOP(S* and - - Monica_Geller * -
+/friends-s01e18 01 1 you PRP (NP*) you - - Monica_Geller * -
+/friends-s01e18 01 2 know VBP (VP* know - - Monica_Geller * -
+/friends-s01e18 01 3 what WP (NP*)) what - - Monica_Geller * -
+/friends-s01e18 01 4 ? . *)) ? - - Monica_Geller * -
+
+/friends-s01e18 01 0 We PRP (TOP(S(NP*) we - - Monica_Geller * -
+/friends-s01e18 01 1 want VBP (VP* want - - Monica_Geller * -
+/friends-s01e18 01 2 a DT (NP* a - - Monica_Geller * -
+/friends-s01e18 01 3 rematch NN *)) rematch - - Monica_Geller * -
+/friends-s01e18 01 4 . . *)) . - - Monica_Geller * -
+
+/friends-s01e18 01 0 Well RB (TOP(S(ADVP*) well - - Ross_Geller * -
+/friends-s01e18 01 1 that DT (NP*) that - - Ross_Geller * -
+/friends-s01e18 01 2 's VBZ (VP* be - - Ross_Geller * -
+/friends-s01e18 01 3 fine JJ (ADJP* fine - - Ross_Geller * -
+/friends-s01e18 01 4 with IN (PP* with - - Ross_Geller * -
+/friends-s01e18 01 5 me PRP (NP*)))) I - - Ross_Geller * -
+/friends-s01e18 01 6 . . *)) . - - Ross_Geller * -
+
+/friends-s01e18 01 0 Could MD (TOP(S(VP* could - - Ross_Geller * -
+/friends-s01e18 01 1 use VB (VP* use - - Ross_Geller * -
+/friends-s01e18 01 2 the DT (NP* the - - Ross_Geller * -
+/friends-s01e18 01 3 money NN *))) money - - Ross_Geller * -
+/friends-s01e18 01 4 . . *)) . - - Ross_Geller * -
+
+/friends-s01e18 01 0 : : (TOP(S* : - - Rachel_Green * -
+/friends-s01e18 01 1 So RB (ADJP* so - - Rachel_Green * -
+/friends-s01e18 01 2 basically RB *) basically - - Rachel_Green * -
+/friends-s01e18 01 3 , , * , - - Rachel_Green * -
+/friends-s01e18 01 4 you PRP (NP*) you - - Rachel_Green * -
+/friends-s01e18 01 5 get VBP (VP(VP* get - - Rachel_Green * -
+/friends-s01e18 01 6 your PRP$ (S(NP*) you - - Rachel_Green * -
+/friends-s01e18 01 7 ya PRP (NP*))) ya - - Rachel_Green * -
+/friends-s01e18 01 8 - : * - - - Rachel_Green * -
+/friends-s01e18 01 9 yas NN (NP(NP*) yas - - Rachel_Green * -
+/friends-s01e18 01 10 by IN (PP* by - - Rachel_Green * -
+/friends-s01e18 01 11 taking VBG (S(VP* take - - Rachel_Green * -
+/friends-s01e18 01 12 money NN (NP*) money - - Rachel_Green * -
+/friends-s01e18 01 13 from IN (PP* from - - Rachel_Green * -
+/friends-s01e18 01 14 all DT (NP(NP*) all - - Rachel_Green * -
+/friends-s01e18 01 15 of IN (PP* of - - Rachel_Green * -
+/friends-s01e18 01 16 your PRP$ (NP* you - - Rachel_Green * -
+/friends-s01e18 01 17 friends NNS *))))))))) friend - - Rachel_Green * -
+/friends-s01e18 01 18 . . *)) . - - Rachel_Green * -
+
+/friends-s01e18 01 0 ... : (TOP(NP*)) ... - - Ross_Geller * -
+
+/friends-s01e18 01 0 Yeah UH (TOP(INTJ* yeah - - Ross_Geller * -
+/friends-s01e18 01 1 . . *)) . - - Ross_Geller * -
+
+/friends-s01e18 01 0 Yes UH (TOP(S(S(INTJ*) yes - - Chandler_Bing * -
+/friends-s01e18 01 1 , , * , - - Chandler_Bing * -
+/friends-s01e18 01 2 and CC * and - - Chandler_Bing * -
+/friends-s01e18 01 3 I PRP (NP*) I - - Chandler_Bing * -
+/friends-s01e18 01 4 get VBP (VP* get - - Chandler_Bing * -
+/friends-s01e18 01 5 my PRP$ (S(NP*) my - - Chandler_Bing * -
+/friends-s01e18 01 6 ya PRP (NP*)))) ya - - Chandler_Bing * -
+/friends-s01e18 01 7 - : * - - - Chandler_Bing * -
+/friends-s01e18 01 8 yas NNS (S(NP*) ya - - Chandler_Bing * -
+/friends-s01e18 01 9 from IN (PP* from - - Chandler_Bing * -
+/friends-s01e18 01 10 Ikea NNP (NP*))) Ikea - - Chandler_Bing (ORGANIZATION) -
+/friends-s01e18 01 11 . . *)) . - - Chandler_Bing * -
+
+/friends-s01e18 01 0 You PRP (TOP(S(S(NP*) you - - Chandler_Bing * -
+/friends-s01e18 01 1 have VBP (VP* have - - Chandler_Bing * -
+/friends-s01e18 01 2 to TO (S(VP* to - - Chandler_Bing * -
+/friends-s01e18 01 3 put VB (VP* put - - Chandler_Bing * -
+/friends-s01e18 01 4 them PRP (S(NP*) they - - Chandler_Bing * -
+/friends-s01e18 01 5 together RB (ADVP*) together - - Chandler_Bing * -
+/friends-s01e18 01 6 yourself PRP (NP*))))))) yourself - - Chandler_Bing * -
+/friends-s01e18 01 7 , , * , - - Chandler_Bing * -
+/friends-s01e18 01 8 but CC * but - - Chandler_Bing * -
+/friends-s01e18 01 9 they PRP (S(NP*) they - - Chandler_Bing * -
+/friends-s01e18 01 10 cost VBD (VP* cost - - Chandler_Bing * -
+/friends-s01e18 01 11 a DT (ADJP(NP* a - - Chandler_Bing * -
+/friends-s01e18 01 12 little JJ *) little - - Chandler_Bing * -
+/friends-s01e18 01 13 less JJR *))) less - - Chandler_Bing * -
+/friends-s01e18 01 14 . . *)) . - - Chandler_Bing * -
+
+/friends-s01e18 01 0 Look VB (TOP(S(S(VP*)) look - - Ross_Geller * -
+/friends-s01e18 01 1 , , * , - - Ross_Geller * -
+/friends-s01e18 01 2 Rachel NNP (NP(NP*) Rachel - - Ross_Geller (PERSON) (306)
+/friends-s01e18 01 3 , , * , - - Ross_Geller * -
+/friends-s01e18 01 4 this DT (NP*)) this - - Ross_Geller * -
+/friends-s01e18 01 5 is VBZ (VP* be - - Ross_Geller * -
+/friends-s01e18 01 6 poker NN (NP*)) poker - - Ross_Geller * -
+/friends-s01e18 01 7 . . *)) . - - Ross_Geller * -
+
+/friends-s01e18 01 0 I PRP (TOP(S(NP*) I - - Ross_Geller * -
+/friends-s01e18 01 1 play VBP (VP* play - - Ross_Geller * -
+/friends-s01e18 01 2 to TO (S(VP* to - - Ross_Geller * -
+/friends-s01e18 01 3 win VB (VP(VP*) win - - Ross_Geller * -
+/friends-s01e18 01 4 , , * , - - Ross_Geller * -
+/friends-s01e18 01 5 alright VB (VP*))))) alright - - Ross_Geller * -
+/friends-s01e18 01 6 ? . *)) ? - - Ross_Geller * -
+
+/friends-s01e18 01 0 In IN (TOP(S(PP* in - - Ross_Geller * -
+/friends-s01e18 01 1 order NN (NP(NP*) order - - Ross_Geller * -
+/friends-s01e18 01 2 for IN (PP* for - - Ross_Geller * -
+/friends-s01e18 01 3 me PRP (NP*)) I - - Ross_Geller * -
+/friends-s01e18 01 4 to TO (S(VP* to - - Ross_Geller * -
+/friends-s01e18 01 5 win VB (VP*))))) win - - Ross_Geller * -
+/friends-s01e18 01 6 , , * , - - Ross_Geller * -
+/friends-s01e18 01 7 other JJ (NP* other - - Ross_Geller * -
+/friends-s01e18 01 8 people NNS *) people - - Ross_Geller * -
+/friends-s01e18 01 9 have VBP (VP* have - - Ross_Geller * -
+/friends-s01e18 01 10 to TO (S(VP* to - - Ross_Geller * -
+/friends-s01e18 01 11 lose VB (VP*)))) lose - - Ross_Geller * -
+/friends-s01e18 01 12 . . *)) . - - Ross_Geller * -
+
+/friends-s01e18 01 0 So RB (TOP(S* so - - Ross_Geller * -
+/friends-s01e18 01 1 if IN (SBAR* if - - Ross_Geller * -
+/friends-s01e18 01 2 you PRP (S(NP*) you - - Ross_Geller * -
+/friends-s01e18 01 3 're VBP (VP* be - - Ross_Geller * -
+/friends-s01e18 01 4 gon VBG (VP* gon - - Ross_Geller * -
+/friends-s01e18 01 5 na TO (S(VP* na - - Ross_Geller * -
+/friends-s01e18 01 6 play VB (VP* play - - Ross_Geller * -
+/friends-s01e18 01 7 poker NN (NP*) poker - - Ross_Geller * -
+/friends-s01e18 01 8 with IN (PP* with - - Ross_Geller * -
+/friends-s01e18 01 9 me PRP (NP*))))))))) I - - Ross_Geller * -
+/friends-s01e18 01 10 , , * , - - Ross_Geller * -
+/friends-s01e18 01 11 do VBP (VP* do - - Ross_Geller * -
+/friends-s01e18 01 12 n't RB * not - - Ross_Geller * -
+/friends-s01e18 01 13 expect VB (VP* expect - - Ross_Geller * -
+/friends-s01e18 01 14 me PRP (NP(NP*) I - - Ross_Geller * -
+/friends-s01e18 01 15 to TO (SBAR(S(VP* to - - Ross_Geller * -
+/friends-s01e18 01 16 be VB (VP* be - - Ross_Geller * -
+/friends-s01e18 01 17 a DT (NP*)))))) a - - Ross_Geller * -
+/friends-s01e18 01 18 ' '' * ' - - Ross_Geller * -
+/friends-s01e18 01 19 nice JJ (NP* nice - - Ross_Geller * -
+/friends-s01e18 01 20 guy NN *) guy - - Ross_Geller * (335)
+/friends-s01e18 01 21 , , * , - - Ross_Geller * -
+/friends-s01e18 01 22 ' '' * ' - - Ross_Geller * -
+/friends-s01e18 01 23 OK UH (ADVP*))) ok - - Ross_Geller * -
+/friends-s01e18 01 24 ? . *)) ? - - Ross_Geller * -
+
+/friends-s01e18 01 0 Cause NN (TOP(S(NP(NP*) cause - - Ross_Geller * -
+/friends-s01e18 01 1 once RB (ADVP* once - - Ross_Geller (DATE) -
+/friends-s01e18 01 2 those DT (NP* those - - Ross_Geller * -
+/friends-s01e18 01 3 cards NNS *))) card - - Ross_Geller * -
+/friends-s01e18 01 4 are VBP (VP* be - - Ross_Geller * -
+/friends-s01e18 01 5 dealt VBN (VP*)) deal - - Ross_Geller * -
+/friends-s01e18 01 6 ... : *)) ... - - Ross_Geller * -
+
+/friends-s01e18 01 0 ... : (TOP(NP*)) ... - - Joey_Tribbiani * -
+
+/friends-s01e18 01 0 Yeah UH (TOP(INTJ* yeah - - Joey_Tribbiani * -
+/friends-s01e18 01 1 ? . *)) ? - - Joey_Tribbiani * -
+
+/friends-s01e18 01 0 I PRP (TOP(S(NP*) I - - Ross_Geller * -
+/friends-s01e18 01 1 'm VBP (VP* be - - Ross_Geller * -
+/friends-s01e18 01 2 not RB * not - - Ross_Geller * -
+/friends-s01e18 01 3 a DT (NP* a - - Ross_Geller * -
+/friends-s01e18 01 4 nice JJ * nice - - Ross_Geller * -
+/friends-s01e18 01 5 guy NN *)) guy - - Ross_Geller * (335)
+/friends-s01e18 01 6 . . *)) . - - Ross_Geller * -
+
+#end document
+#begin document (/friends-s01e18); part 002
+/friends-s01e18 02 0 Alright JJ (TOP(S(NP* alright - - Ross_Geller * -
+/friends-s01e18 02 1 boys NNS *) boy - - Ross_Geller * -
+/friends-s01e18 02 2 , , * , - - Ross_Geller * -
+/friends-s01e18 02 3 let VB (VP* let - - Ross_Geller * -
+/friends-s01e18 02 4 's POS (S(NP*) 's - - Ross_Geller * -
+/friends-s01e18 02 5 eat VB (VP*))) eat - - Ross_Geller * -
+/friends-s01e18 02 6 . . *)) . - - Ross_Geller * -
+
+/friends-s01e18 02 0 Oh UH (TOP(SINV(FRAG(INTJ*)) oh - - Chandler_Bing * -
+/friends-s01e18 02 1 , , * , - - Chandler_Bing * -
+/friends-s01e18 02 2 did VBD (VP* do - - Chandler_Bing * -
+/friends-s01e18 02 3 you PRP (S(NP*) you - - Chandler_Bing * -
+/friends-s01e18 02 4 get VB (VP* get - - Chandler_Bing * -
+/friends-s01e18 02 5 that DT (S(NP(NP*) that - - Chandler_Bing * -
+/friends-s01e18 02 6 from IN (PP* from - - Chandler_Bing * -
+/friends-s01e18 02 7 the DT (NP*)) the - - Chandler_Bing * -
+/friends-s01e18 02 8 ' '' *) ' - - Chandler_Bing * -
+/friends-s01e18 02 9 I PRP (NP*))))) I - - Chandler_Bing * -
+/friends-s01e18 02 10 Love NNP (NP(NP* Love - - Chandler_Bing * -
+/friends-s01e18 02 11 Rachel NNP * Rachel - - Chandler_Bing (PERSON) -
+/friends-s01e18 02 12 ' POS *) ' - - Chandler_Bing * -
+/friends-s01e18 02 13 pizzeria NN *) pizzeria - - Chandler_Bing * -
+/friends-s01e18 02 14 ? . *)) ? - - Chandler_Bing * -
+
+/friends-s01e18 02 0 You PRP (TOP(FRAG(NP*) you - - Ross_Geller * -
+/friends-s01e18 02 1 still RB (ADVP(ADVP*) still - - Ross_Geller * -
+/friends-s01e18 02 2 on IN (PP* on - - Ross_Geller * -
+/friends-s01e18 02 3 that DT (NP*))) that - - Ross_Geller * -
+/friends-s01e18 02 4 ? . *)) ? - - Ross_Geller * -
+
+/friends-s01e18 02 0 Oh UH (TOP(S(INTJ*) oh - - Chandler_Bing * -
+/friends-s01e18 02 1 , , * , - - Chandler_Bing * -
+/friends-s01e18 02 2 come VBN (VP* come - - Chandler_Bing * -
+/friends-s01e18 02 3 on IN (PP*)) on - - Chandler_Bing * -
+/friends-s01e18 02 4 . . *)) . - - Chandler_Bing * -
+
+/friends-s01e18 02 0 What WP (TOP(SBARQ(WHNP*) what - - Chandler_Bing * -
+/friends-s01e18 02 1 was VBD (SQ* be - - Chandler_Bing * -
+/friends-s01e18 02 2 with IN (PP* with - - Chandler_Bing * -
+/friends-s01e18 02 3 that DT (NP* that - - Chandler_Bing * -
+/friends-s01e18 02 4 whole JJ * whole - - Chandler_Bing * -
+/friends-s01e18 02 5 Black JJ * black - - Chandler_Bing (PERSON* (41
+/friends-s01e18 02 6 Bart NNP * Bart - - Chandler_Bing *) 41)
+/friends-s01e18 02 7 speech NN *))) speech - - Chandler_Bing * -
+/friends-s01e18 02 8 ? . *)) ? - - Chandler_Bing * -
+
+/friends-s01e18 02 0 : : (TOP(S* : - - Chandler_Bing * -
+/friends-s01e18 02 1 " `` * " - - Chandler_Bing * -
+/friends-s01e18 02 2 When WRB (SBAR(WHADVP*) when - - Chandler_Bing * -
+/friends-s01e18 02 3 I PRP (S(NP*) I - - Chandler_Bing * -
+/friends-s01e18 02 4 play VBP (VP* play - - Chandler_Bing * -
+/friends-s01e18 02 5 poker NN (NP*)))) poker - - Chandler_Bing * -
+/friends-s01e18 02 6 , , * , - - Chandler_Bing * -
+/friends-s01e18 02 7 I PRP (NP*) I - - Chandler_Bing * -
+/friends-s01e18 02 8 'm VBP (VP* be - - Chandler_Bing * -
+/friends-s01e18 02 9 not RB * not - - Chandler_Bing * -
+/friends-s01e18 02 10 a DT (NP* a - - Chandler_Bing * -
+/friends-s01e18 02 11 nice JJ * nice - - Chandler_Bing * -
+/friends-s01e18 02 12 guy NN *)) guy - - Chandler_Bing * (335)
+/friends-s01e18 02 13 ! . * ! - - Chandler_Bing * -
+/friends-s01e18 02 14 " '' *)) " - - Chandler_Bing * -
+
+/friends-s01e18 02 0 You PRP (TOP(S(NP*) you - - Ross_Geller * -
+/friends-s01e18 02 1 are VBP (VP* be - - Ross_Geller * -
+/friends-s01e18 02 2 way NN (ADVP*) way - - Ross_Geller * -
+/friends-s01e18 02 3 off RB (ADJP*) off - - Ross_Geller * -
+/friends-s01e18 02 4 , , * , - - Ross_Geller * -
+/friends-s01e18 02 5 pal NN (NP*)) pal - - Ross_Geller * (59)
+/friends-s01e18 02 6 . . *)) . - - Ross_Geller * -
+
+/friends-s01e18 02 0 No DT (TOP(S(NP*) no - - Joey_Tribbiani * -
+/friends-s01e18 02 1 , , (PRN* , - - Joey_Tribbiani * -
+/friends-s01e18 02 2 I PRP (S(NP*) I - - Joey_Tribbiani * -
+/friends-s01e18 02 3 do VBP (VP* do - - Joey_Tribbiani * -
+/friends-s01e18 02 4 n't RB * not - - Joey_Tribbiani * -
+/friends-s01e18 02 5 think VB (VP* think - - Joey_Tribbiani * -
+/friends-s01e18 02 6 so RB (ADVP*)))) so - - Joey_Tribbiani * -
+/friends-s01e18 02 7 , , *) , - - Joey_Tribbiani * -
+/friends-s01e18 02 8 see VB (VP* see - - Joey_Tribbiani * -
+/friends-s01e18 02 9 Ross NNP (NP(NP*) Ross - - Joey_Tribbiani (PERSON) (335)
+/friends-s01e18 02 10 , , * , - - Joey_Tribbiani * -
+/friends-s01e18 02 11 because IN (SBAR* because - - Joey_Tribbiani * -
+/friends-s01e18 02 12 I PRP (S(NP*) I - - Joey_Tribbiani * -
+/friends-s01e18 02 13 think VBP (VP* think - - Joey_Tribbiani * -
+/friends-s01e18 02 14 you PRP (S(NP*) you - - Joey_Tribbiani * -
+/friends-s01e18 02 15 love VB (VP* love - - Joey_Tribbiani * -
+/friends-s01e18 02 16 her PRP (NP*)))))))) she - - Joey_Tribbiani * (306)
+/friends-s01e18 02 17 . . *)) . - - Joey_Tribbiani * -
+
+/friends-s01e18 02 0 Um NN (TOP(NP* um - - Ross_Geller * -
+/friends-s01e18 02 1 .... CD *)) .... - - Ross_Geller (NUMBER) -
+
+/friends-s01e18 02 0 no DT (TOP(FRAG(NP*) no - - Ross_Geller * -
+/friends-s01e18 02 1 . . *)) . - - Ross_Geller * -
+
+/friends-s01e18 02 0 See VB (TOP(S(S(VP*)) see - - Ross_Geller * -
+/friends-s01e18 02 1 , , * , - - Ross_Geller * -
+/friends-s01e18 02 2 I PRP (NP*) I - - Ross_Geller * -
+/friends-s01e18 02 3 might MD (VP* might - - Ross_Geller * -
+/friends-s01e18 02 4 've VB (VP* have - - Ross_Geller * -
+/friends-s01e18 02 5 had VBD (VP* have - - Ross_Geller * -
+/friends-s01e18 02 6 feelings NNS (NP(NP*) feeling - - Ross_Geller * -
+/friends-s01e18 02 7 for IN (PP* for - - Ross_Geller * -
+/friends-s01e18 02 8 her PRP$ (NP(NP* she - - Ross_Geller * (306)
+/friends-s01e18 02 9 at IN (ADJP(QP* at - - Ross_Geller * -
+/friends-s01e18 02 10 one CD *)) one - - Ross_Geller (NUMBER) -
+/friends-s01e18 02 11 timenot NN *) timenot - - Ross_Geller * -
+/friends-s01e18 02 12 any DT (ADJP* any - - Ross_Geller * -
+/friends-s01e18 02 13 more JJR *))))))) more - - Ross_Geller * -
+/friends-s01e18 02 14 . . *)) . - - Ross_Geller * -
+
+/friends-s01e18 02 0 I PRP (TOP(S(NP*) I - - Ross_Geller * -
+/friends-s01e18 02 1 justI VBP (VP*) justi - - Ross_Geller * -
+/friends-s01e18 02 2 ... : *)) ... - - Ross_Geller * -
+
+/friends-s01e18 02 0 Marcel NNP (TOP(FRAG(NP*) Marcel - - Ross_Geller (PERSON) -
+/friends-s01e18 02 1 ! . *)) ! - - Ross_Geller * -
+
+/friends-s01e18 02 0 Where WRB (TOP(SBARQ(WHADVP*) where - - Ross_Geller * -
+/friends-s01e18 02 1 are VBP (SQ* be - - Ross_Geller * -
+/friends-s01e18 02 2 you PRP (NP*) you - - Ross_Geller * -
+/friends-s01e18 02 3 going VBG (VP* go - - Ross_Geller * -
+/friends-s01e18 02 4 with IN (PP* with - - Ross_Geller * -
+/friends-s01e18 02 5 that DT (NP* that - - Ross_Geller * -
+/friends-s01e18 02 6 disc NN *)))) disc - - Ross_Geller * -
+/friends-s01e18 02 7 ? . *)) ? - - Ross_Geller * -
+
+/friends-s01e18 02 0 You PRP (TOP(S(NP*) you - - Ross_Geller * -
+/friends-s01e18 02 1 are VBP (VP* be - - Ross_Geller * -
+/friends-s01e18 02 2 not RB * not - - Ross_Geller * -
+/friends-s01e18 02 3 putting VBG (VP* put - - Ross_Geller * -
+/friends-s01e18 02 4 that DT (NP*) that - - Ross_Geller * -
+/friends-s01e18 02 5 on IN (PP* on - - Ross_Geller * -
+/friends-s01e18 02 6 again RB (ADVP*)))) again - - Ross_Geller * -
+/friends-s01e18 02 7 ! . *)) ! - - Ross_Geller * -
+
+/friends-s01e18 02 0 Marcel NNP (TOP(S(NP-TMP(NP* Marcel - - Ross_Geller (PERSON) -
+/friends-s01e18 02 1 , , * , - - Ross_Geller * -
+/friends-s01e18 02 2 OKif NNP *) OKif - - Ross_Geller * -
+/friends-s01e18 02 3 you PRP (SBAR(S(NP*) you - - Ross_Geller * -
+/friends-s01e18 02 4 press VBP (VP* press - - Ross_Geller * -
+/friends-s01e18 02 5 that IN (PP* that - - Ross_Geller * -
+/friends-s01e18 02 6 button NN (NP*)))))) button - - Ross_Geller * -
+/friends-s01e18 02 7 , , * , - - Ross_Geller * -
+/friends-s01e18 02 8 you PRP (NP*) you - - Ross_Geller * -
+/friends-s01e18 02 9 are VBP (VP* be - - Ross_Geller * -
+/friends-s01e18 02 10 in IN (PP* in - - Ross_Geller * -
+/friends-s01e18 02 11 very RB (NP(ADJP* very - - Ross_Geller * -
+/friends-s01e18 02 12 , , * , - - Ross_Geller * -
+/friends-s01e18 02 13 very RB * very - - Ross_Geller * -
+/friends-s01e18 02 14 big JJ *) big - - Ross_Geller * -
+/friends-s01e18 02 15 trouble NN *))) trouble - - Ross_Geller * -
+/friends-s01e18 02 16 . . *)) . - - Ross_Geller * -
+
+#end document
+#begin document (/friends-s01e18); part 003
+/friends-s01e18 03 0 Can MD (TOP(SQ* can - - Rachel_Green * -
+/friends-s01e18 03 1 you PRP (NP*) you - - Rachel_Green * -
+/friends-s01e18 03 2 believe VB (VP* believe - - Rachel_Green * -
+/friends-s01e18 03 3 what WP (SBAR(WHNP*) what - - Rachel_Green * -
+/friends-s01e18 03 4 a DT (S(NP* a - - Rachel_Green * -
+/friends-s01e18 03 5 jerk NN * jerk - - Rachel_Green * -
+/friends-s01e18 03 6 Ross NNP *) Ross - - Rachel_Green (PERSON) (335)
+/friends-s01e18 03 7 was VBD (VP* be - - Rachel_Green * -
+/friends-s01e18 03 8 being VBG (VP*))))) be - - Rachel_Green * -
+/friends-s01e18 03 9 ? . *)) ? - - Rachel_Green * -
+
+/friends-s01e18 03 0 Yeah UH (TOP(S(INTJ*) yeah - - Monica_Geller * -
+/friends-s01e18 03 1 , , * , - - Monica_Geller * -
+/friends-s01e18 03 2 I PRP (NP*) I - - Monica_Geller * -
+/friends-s01e18 03 3 know VBP (VP*) know - - Monica_Geller * -
+/friends-s01e18 03 4 . . *)) . - - Monica_Geller * -
+
+/friends-s01e18 03 0 He PRP (TOP(S(NP*) he - - Monica_Geller * (335)
+/friends-s01e18 03 1 can MD (VP* can - - Monica_Geller * -
+/friends-s01e18 03 2 get VB (VP* get - - Monica_Geller * -
+/friends-s01e18 03 3 really RB (ADJP* really - - Monica_Geller * -
+/friends-s01e18 03 4 competitive JJ *))) competitive - - Monica_Geller * -
+/friends-s01e18 03 5 . . *)) . - - Monica_Geller * -
+
+/friends-s01e18 03 0 Ha NNP (TOP(FRAG(NP*) Ha - - Phoebe_Buffay * -
+/friends-s01e18 03 1 . . *)) . - - Phoebe_Buffay * -
+
+/friends-s01e18 03 0 Ha NNP (TOP(NP(NP*) Ha - - Phoebe_Buffay * -
+/friends-s01e18 03 1 , , * , - - Phoebe_Buffay * -
+/friends-s01e18 03 2 ha NN (NP*) ha - - Phoebe_Buffay * -
+/friends-s01e18 03 3 . . *)) . - - Phoebe_Buffay * -
+
+/friends-s01e18 03 0 What WDT (TOP(FRAG(WHNP*) what - - Monica_Geller * -
+/friends-s01e18 03 1 ? . *)) ? - - Monica_Geller * -
+
+/friends-s01e18 03 0 Oh UH (TOP(FRAG(INTJ* oh - - Phoebe_Buffay * -
+/friends-s01e18 03 1 , , * , - - Phoebe_Buffay * -
+/friends-s01e18 03 2 hello UH *) hello - - Phoebe_Buffay * -
+/friends-s01e18 03 3 , , * , - - Phoebe_Buffay * -
+/friends-s01e18 03 4 kettle NN (NP*) kettle - - Phoebe_Buffay * -
+/friends-s01e18 03 5 ? . *)) ? - - Phoebe_Buffay * -
+
+/friends-s01e18 03 0 This DT (TOP(S(NP*) this - - Phoebe_Buffay * -
+/friends-s01e18 03 1 is VBZ (VP* be - - Phoebe_Buffay * -
+/friends-s01e18 03 2 Monica NNP (NP*)) Monica - - Phoebe_Buffay (PERSON) (248)
+/friends-s01e18 03 3 . . *)) . - - Phoebe_Buffay * -
+
+/friends-s01e18 03 0 You PRP (TOP(S(NP*) you - - Phoebe_Buffay * -
+/friends-s01e18 03 1 're VBP (VP* be - - Phoebe_Buffay * -
+/friends-s01e18 03 2 black JJ (ADJP*)) black - - Phoebe_Buffay * -
+/friends-s01e18 03 3 . . *)) . - - Phoebe_Buffay * -
+
+/friends-s01e18 03 0 Please VB (TOP(S(VP*) please - - Monica_Geller * -
+/friends-s01e18 03 1 ! . *)) ! - - Monica_Geller * -
+
+/friends-s01e18 03 0 I PRP (TOP(S(NP*) I - - Monica_Geller * -
+/friends-s01e18 03 1 am VBP (VP* be - - Monica_Geller * -
+/friends-s01e18 03 2 not RB * not - - Monica_Geller * -
+/friends-s01e18 03 3 as RB (ADJP* as - - Monica_Geller * -
+/friends-s01e18 03 4 bad JJ * bad - - Monica_Geller * -
+/friends-s01e18 03 5 as IN (PP* as - - Monica_Geller * -
+/friends-s01e18 03 6 Ross NNP (NP*)))) Ross - - Monica_Geller (PERSON) (335)
+/friends-s01e18 03 7 . . *)) . - - Monica_Geller * -
+
+/friends-s01e18 03 0 Oh UH (TOP(S(INTJ*) oh - - Rachel_Green * -
+/friends-s01e18 03 1 , , * , - - Rachel_Green * -
+/friends-s01e18 03 2 I PRP (NP*) I - - Rachel_Green * -
+/friends-s01e18 03 3 beg VBP (VP* beg - - Rachel_Green * -
+/friends-s01e18 03 4 to TO (S(VP* to - - Rachel_Green * -
+/friends-s01e18 03 5 differ VB (VP*)))) differ - - Rachel_Green * -
+/friends-s01e18 03 6 . . *)) . - - Rachel_Green * -
+
+/friends-s01e18 03 0 The DT (TOP(FRAG(NP* the - - Rachel_Green * -
+/friends-s01e18 03 1 Pictionary NNP * Pictionary - - Rachel_Green (MISC) -
+/friends-s01e18 03 2 incident NN *) incident - - Rachel_Green * -
+/friends-s01e18 03 3 ? . *)) ? - - Rachel_Green * -
+
+/friends-s01e18 03 0 That DT (TOP(S(NP*) that - - Monica_Geller * -
+/friends-s01e18 03 1 was VBD (VP* be - - Monica_Geller * -
+/friends-s01e18 03 2 not RB * not - - Monica_Geller * -
+/friends-s01e18 03 3 an DT (NP* a - - Monica_Geller * -
+/friends-s01e18 03 4 incident NN *)) incident - - Monica_Geller * -
+/friends-s01e18 03 5 ! . *)) ! - - Monica_Geller * -
+
+/friends-s01e18 03 0 I PRP (TOP(FRAG(NP*) I - - Monica_Geller * -
+/friends-s01e18 03 1 - : * - - - Monica_Geller * -
+/friends-s01e18 03 2 I PRP (S(NP*) I - - Monica_Geller * -
+/friends-s01e18 03 3 was VBD (VP* be - - Monica_Geller * -
+/friends-s01e18 03 4 gesturing VBG (VP* gesture - - Monica_Geller * -
+/friends-s01e18 03 5 , , * , - - Monica_Geller * -
+/friends-s01e18 03 6 a-and VB (S(VP* a-and - - Monica_Geller * -
+/friends-s01e18 03 7 the DT (SBAR(S(NP* the - - Monica_Geller * -
+/friends-s01e18 03 8 plate NN *) plate - - Monica_Geller * -
+/friends-s01e18 03 9 slipped VBD (VP* slip - - Monica_Geller * -
+/friends-s01e18 03 10 out IN (PRT*) out - - Monica_Geller * -
+/friends-s01e18 03 11 of IN (PP* of - - Monica_Geller * -
+/friends-s01e18 03 12 my PRP$ (NP* my - - Monica_Geller * -
+/friends-s01e18 03 13 hand NN *)))))))))) hand - - Monica_Geller * -
+/friends-s01e18 03 14 . . *)) . - - Monica_Geller * -
+
+/friends-s01e18 03 0 Oooooh NNP (TOP(FRAG(NP*) Oooooh - - Rachel_Green * -
+/friends-s01e18 03 1 . . *)) . - - Rachel_Green * -
+
+/friends-s01e18 03 0 : : (TOP(NP* : - - Rachel_Green * -
+/friends-s01e18 03 1 Oh UH * oh - - Rachel_Green * -
+/friends-s01e18 03 2 ! . *)) ! - - Rachel_Green * -
+
+/friends-s01e18 03 0 I PRP (TOP(S(NP*) I - - Rachel_Green * -
+/friends-s01e18 03 1 got VBD (VP* get - - Rachel_Green * -
+/friends-s01e18 03 2 an DT (NP* a - - Rachel_Green * -
+/friends-s01e18 03 3 interview NN *)) interview - - Rachel_Green * -
+/friends-s01e18 03 4 ! . *)) ! - - Rachel_Green * -
+
+/friends-s01e18 03 0 I PRP (TOP(S(NP*) I - - Rachel_Green * -
+/friends-s01e18 03 1 got VBD (VP* get - - Rachel_Green * -
+/friends-s01e18 03 2 an DT (NP* a - - Rachel_Green * -
+/friends-s01e18 03 3 interview NN *)) interview - - Rachel_Green * -
+/friends-s01e18 03 4 ! . *)) ! - - Rachel_Green * -
+
+/friends-s01e18 03 0 You PRP (TOP(S(NP*) you - - Monica_Geller * -
+/friends-s01e18 03 1 're VBP (VP* be - - Monica_Geller * -
+/friends-s01e18 03 2 kidding VBG (VP*)) kid - - Monica_Geller * -
+/friends-s01e18 03 3 ! . *)) ! - - Monica_Geller * -
+
+/friends-s01e18 03 0 Where WRB (TOP(FRAG(WHADVP* where - - Monica_Geller * -
+/friends-s01e18 03 1 ? . *))) ? - - Monica_Geller * -
+
+/friends-s01e18 03 0 Where WRB (TOP(FRAG(WHADVP* where - - Monica_Geller * -
+/friends-s01e18 03 1 ? . *))) ? - - Monica_Geller * -
+
+/friends-s01e18 03 0 : : (TOP(S(VP* : - - Rachel_Green * -
+/friends-s01e18 03 1 Sak NNP (NP* Sak - - Rachel_Green (PERSON) -
+/friends-s01e18 03 2 's POS *)) 's - - Rachel_Green * -
+/friends-s01e18 03 3 ... : *)) ... - - Rachel_Green * -
+
+/friends-s01e18 03 0 Fifth NNP (TOP(NP* Fifth - - Rachel_Green (ORDINAL) -
+/friends-s01e18 03 1 ... : *)) ... - - Rachel_Green * -
+
+/friends-s01e18 03 0 Avenue NNP (TOP(FRAG(NP*) Avenue - - Rachel_Green * -
+/friends-s01e18 03 1 . . *)) . - - Rachel_Green * -
+
+/friends-s01e18 03 0 Oh UH (TOP(FRAG(INTJ*) oh - - Monica_Geller * -
+/friends-s01e18 03 1 , , * , - - Monica_Geller * -
+/friends-s01e18 03 2 Rachel NNP (NP*) Rachel - - Monica_Geller (PERSON) -
+/friends-s01e18 03 3 ! . *)) ! - - Monica_Geller * -
+
+/friends-s01e18 03 0 Oh UH (TOP(S(INTJ*) oh - - Phoebe_Buffay * -
+/friends-s01e18 03 1 , , * , - - Phoebe_Buffay * -
+/friends-s01e18 03 2 it PRP (NP*) it - - Phoebe_Buffay * -
+/friends-s01e18 03 3 's VBZ (VP* be - - Phoebe_Buffay * -
+/friends-s01e18 03 4 like IN (SBAR* like - - Phoebe_Buffay * -
+/friends-s01e18 03 5 the DT (S(NP* the - - Phoebe_Buffay * -
+/friends-s01e18 03 6 mother NN * mother - - Phoebe_Buffay * -
+/friends-s01e18 03 7 ship NN *) ship - - Phoebe_Buffay * -
+/friends-s01e18 03 8 is VBZ (VP* be - - Phoebe_Buffay * -
+/friends-s01e18 03 9 calling VBG (VP* call - - Phoebe_Buffay * -
+/friends-s01e18 03 10 you PRP (NP*) you - - Phoebe_Buffay * -
+/friends-s01e18 03 11 home NN (ADVP*)))))) home - - Phoebe_Buffay * -
+/friends-s01e18 03 12 . . *)) . - - Phoebe_Buffay * -
+
+/friends-s01e18 03 0 Well RB (TOP(S(INTJ*) well - - Monica_Geller * -
+/friends-s01e18 03 1 , , * , - - Monica_Geller * -
+/friends-s01e18 03 2 what WP (NP*) what - - Monica_Geller * -
+/friends-s01e18 03 3 's VBZ (VP* be - - Monica_Geller * -
+/friends-s01e18 03 4 the DT (NP* the - - Monica_Geller * -
+/friends-s01e18 03 5 job NN *)) job - - Monica_Geller * -
+/friends-s01e18 03 6 ? . *)) ? - - Monica_Geller * -
+
+/friends-s01e18 03 0 Assistant NNP (TOP(NP(NP*) Assistant - - Rachel_Green * -
+/friends-s01e18 03 1 buyer NN (NP*) buyer - - Rachel_Green * (306)
+/friends-s01e18 03 2 . . *)) . - - Rachel_Green * -
+
+/friends-s01e18 03 0 Oh UH (TOP(INTJ* oh - - Rachel_Green * -
+/friends-s01e18 03 1 ! . *)) ! - - Rachel_Green * -
+
+/friends-s01e18 03 0 I PRP (TOP(S(NP*) I - - Rachel_Green * -
+/friends-s01e18 03 1 would MD (VP* would - - Rachel_Green * -
+/friends-s01e18 03 2 be VB (VP* be - - Rachel_Green * -
+/friends-s01e18 03 3 shopping VBG (VP*))) shop - - Rachel_Green * -
+/friends-s01e18 03 4 ... : *)) ... - - Rachel_Green * -
+
+/friends-s01e18 03 0 for IN (TOP(FRAG(PP* for - - Rachel_Green * -
+/friends-s01e18 03 1 a DT (NP* a - - Rachel_Green * -
+/friends-s01e18 03 2 living NN *)) living - - Rachel_Green * -
+/friends-s01e18 03 3 ! . *)) ! - - Rachel_Green * -
+
+/friends-s01e18 03 0 OK UH (TOP(FRAG(INTJ*) ok - - Monica_Geller * -
+/friends-s01e18 03 1 , , * , - - Monica_Geller * -
+/friends-s01e18 03 2 look NN (NP*) look - - Monica_Geller * -
+/friends-s01e18 03 3 . . *)) . - - Monica_Geller * -
+
+/friends-s01e18 03 0 That DT (TOP(S(NP*) that - - Monica_Geller * -
+/friends-s01e18 03 1 is VBZ (VP* be - - Monica_Geller * -
+/friends-s01e18 03 2 Aunt NNP (NP* Aunt - - Monica_Geller * -
+/friends-s01e18 03 3 Iris NNP *)) Iris - - Monica_Geller (PERSON) -
+/friends-s01e18 03 4 . . *)) . - - Monica_Geller * -
+
+/friends-s01e18 03 0 This DT (TOP(S(NP* this - - Monica_Geller * -
+/friends-s01e18 03 1 woman NN *) woman - - Monica_Geller * (22)
+/friends-s01e18 03 2 has VBZ (VP* have - - Monica_Geller * -
+/friends-s01e18 03 3 been VBN (VP* be - - Monica_Geller * -
+/friends-s01e18 03 4 playing VBG (VP* play - - Monica_Geller * -
+/friends-s01e18 03 5 poker NN (NP*) poker - - Monica_Geller * -
+/friends-s01e18 03 6 since IN (SBAR* since - - Monica_Geller * -
+/friends-s01e18 03 7 she PRP (S(NP*) she - - Monica_Geller * (22)
+/friends-s01e18 03 8 was VBD (VP* be - - Monica_Geller * -
+/friends-s01e18 03 9 five CD (NP*))))))) five - - Monica_Geller (NUMBER) -
+/friends-s01e18 03 10 . . *)) . - - Monica_Geller * -
+
+/friends-s01e18 03 0 You PRP (TOP(S(NP*) you - - Monica_Geller * -
+/friends-s01e18 03 1 got VBD (VP* get - - Monica_Geller * -
+/friends-s01e18 03 2 ta NN (SBAR(S(NP*) ta - - Monica_Geller * -
+/friends-s01e18 03 3 listen VBP (VP* listen - - Monica_Geller * -
+/friends-s01e18 03 4 to TO (PP* to - - Monica_Geller * -
+/friends-s01e18 03 5 every DT (NP(NP* every - - Monica_Geller * -
+/friends-s01e18 03 6 word NN *) word - - Monica_Geller * -
+/friends-s01e18 03 7 she PRP (SBAR(S(NP*) she - - Monica_Geller * (22)
+/friends-s01e18 03 8 says VBZ (VP*))))))))) say - - Monica_Geller * -
+/friends-s01e18 03 9 . . *)) . - - Monica_Geller * -
+
+/friends-s01e18 03 0 Hi NN (TOP(NP* hi - - Monica_Geller * -
+/friends-s01e18 03 1 ! . *)) ! - - Monica_Geller * -
+
+/friends-s01e18 03 0 Is VBZ (TOP(SQ* be - - Aunt_Iris * -
+/friends-s01e18 03 1 Tony NNP (NP* Tony - - Aunt_Iris (PERSON* (374
+/friends-s01e18 03 2 Randall NNP *) Randall - - Aunt_Iris *) 374)
+/friends-s01e18 03 3 dead JJ (ADJP*) dead - - Aunt_Iris * -
+/friends-s01e18 03 4 ? . *)) ? - - Aunt_Iris * -
+
+/friends-s01e18 03 0 No DT (TOP(FRAG(NP*) no - - Rachel_Green * -
+/friends-s01e18 03 1 . . *)) . - - Rachel_Green * -
+
+/friends-s01e18 03 0 I PRP (TOP(S(NP*) I - - Monica_Geller * -
+/friends-s01e18 03 1 do VBP (VP* do - - Monica_Geller * -
+/friends-s01e18 03 2 n't RB * not - - Monica_Geller * -
+/friends-s01e18 03 3 think VB (VP* think - - Monica_Geller * -
+/friends-s01e18 03 4 so RB (ADVP*))) so - - Monica_Geller * -
+/friends-s01e18 03 5 . . *)) . - - Monica_Geller * -
+
+/friends-s01e18 03 0 Why WRB (TOP(FRAG* why - - Rachel_Green * -
+/friends-s01e18 03 1 ? . *)) ? - - Rachel_Green * -
+
+/friends-s01e18 03 0 Well RB (TOP(S(INTJ*) well - - Aunt_Iris * -
+/friends-s01e18 03 1 , , * , - - Aunt_Iris * -
+/friends-s01e18 03 2 he PRP (NP*) he - - Aunt_Iris * (374)
+/friends-s01e18 03 3 may MD (VP* may - - Aunt_Iris * -
+/friends-s01e18 03 4 be VB (VP* be - - Aunt_Iris * -
+/friends-s01e18 03 5 now RB (ADVP*) now - - Aunt_Iris (DATE) -
+/friends-s01e18 03 6 , , * , - - Aunt_Iris * -
+/friends-s01e18 03 7 because IN (SBAR* because - - Aunt_Iris * -
+/friends-s01e18 03 8 I PRP (S(NP*) I - - Aunt_Iris * -
+/friends-s01e18 03 9 think VBP (VP* think - - Aunt_Iris * -
+/friends-s01e18 03 10 I PRP (SBAR(S(NP*) I - - Aunt_Iris * -
+/friends-s01e18 03 11 hit VBD (VP* hit - - Aunt_Iris * -
+/friends-s01e18 03 12 him PRP (NP*) he - - Aunt_Iris * (374)
+/friends-s01e18 03 13 with IN (PP* with - - Aunt_Iris * -
+/friends-s01e18 03 14 my PRP$ (NP* my - - Aunt_Iris * -
+/friends-s01e18 03 15 car NN *)))))))))) car - - Aunt_Iris * -
+/friends-s01e18 03 16 . . *)) . - - Aunt_Iris * -
+
+/friends-s01e18 03 0 What WDT (TOP(FRAG(WHNP*) what - - Monica_Geller * -
+/friends-s01e18 03 1 ? . *)) ? - - Monica_Geller * -
+
+/friends-s01e18 03 0 Oh UH (TOP(S(VP(NP(INTJ*) oh - - Rachel_Green * -
+/friends-s01e18 03 1 my PRP$ (NP* my - - Rachel_Green * -
+/friends-s01e18 03 2 God NNP *))) God - - Rachel_Green * -
+/friends-s01e18 03 3 ! . *)) ! - - Rachel_Green * -
+
+/friends-s01e18 03 0 Really RB (TOP(FRAG(ADVP*) really - - Monica_Geller * -
+/friends-s01e18 03 1 ? . *)) ? - - Monica_Geller * -
+
+/friends-s01e18 03 0 No DT (TOP(FRAG(NP*) no - - Aunt_Iris * -
+/friends-s01e18 03 1 ! . *)) ! - - Aunt_Iris * -
+
+/friends-s01e18 03 0 That DT (TOP(S(NP*) that - - Aunt_Iris * -
+/friends-s01e18 03 1 's VBZ (VP* be - - Aunt_Iris * -
+/friends-s01e18 03 2 bluffing NN (NP*)) bluffing - - Aunt_Iris * -
+/friends-s01e18 03 3 . . *)) . - - Aunt_Iris * -
+
+/friends-s01e18 03 0 Lesson NN (TOP(NP(NP* lesson - - Aunt_Iris * -
+/friends-s01e18 03 1 number NN *) number - - Aunt_Iris * -
+/friends-s01e18 03 2 one CD (NP*) one - - Aunt_Iris (NUMBER) -
+/friends-s01e18 03 3 . . *)) . - - Aunt_Iris * -
+
+/friends-s01e18 03 0 Let VB (TOP(S(VP* let - - Aunt_Iris * -
+/friends-s01e18 03 1 me PRP (S(NP*) I - - Aunt_Iris * -
+/friends-s01e18 03 2 tell VB (VP* tell - - Aunt_Iris * -
+/friends-s01e18 03 3 you PRP (NP*) you - - Aunt_Iris * -
+/friends-s01e18 03 4 something NN (NP*)))) something - - Aunt_Iris * -
+/friends-s01e18 03 5 ... : *)) ... - - Aunt_Iris * -
+
+/friends-s01e18 03 0 everything NN (TOP(S(NP(NP*) everything - - Aunt_Iris * -
+/friends-s01e18 03 1 you PRP (SBAR(S(NP*) you - - Aunt_Iris * -
+/friends-s01e18 03 2 hear VBP (VP* hear - - Aunt_Iris * -
+/friends-s01e18 03 3 at IN (PP* at - - Aunt_Iris * -
+/friends-s01e18 03 4 a DT (NP* a - - Aunt_Iris * -
+/friends-s01e18 03 5 poker NN * poker - - Aunt_Iris * -
+/friends-s01e18 03 6 game NN *)))))) game - - Aunt_Iris * -
+/friends-s01e18 03 7 is VBZ (VP* be - - Aunt_Iris * -
+/friends-s01e18 03 8 pure JJ (NP* pure - - Aunt_Iris * -
+/friends-s01e18 03 9 crap NN *)) crap - - Aunt_Iris * -
+/friends-s01e18 03 10 . . *)) . - - Aunt_Iris * -
+
+/friends-s01e18 03 0 : : (TOP(NP* : - - Aunt_Iris * -
+/friends-s01e18 03 1 Nice JJ * nice - - Aunt_Iris * -
+/friends-s01e18 03 2 earrings NNS * earring - - Aunt_Iris * -
+/friends-s01e18 03 3 . . *)) . - - Aunt_Iris * -
+
+/friends-s01e18 03 0 Thank VB (TOP(S(VP* thank - - Phoebe_Buffay * -
+/friends-s01e18 03 1 y NN (NP*)) y - - Phoebe_Buffay * -
+/friends-s01e18 03 2 ... : *)) ... - - Phoebe_Buffay * -
+
+/friends-s01e18 03 0 Girls NNS (TOP(S(NP*) girl - - Aunt_Iris * -
+/friends-s01e18 03 1 , , * , - - Aunt_Iris * -
+/friends-s01e18 03 2 sit VBP (VP* sit - - Aunt_Iris * -
+/friends-s01e18 03 3 down RP (PRT*)) down - - Aunt_Iris * -
+/friends-s01e18 03 4 . . *)) . - - Aunt_Iris * -
+
+/friends-s01e18 03 0 Uh RB (TOP(FRAG(ADVP*) uh - - Monica_Geller * -
+/friends-s01e18 03 1 , , * , - - Monica_Geller * -
+/friends-s01e18 03 2 Aunt NNP (NP* Aunt - - Monica_Geller * -
+/friends-s01e18 03 3 Iris NNP *) Iris - - Monica_Geller (PERSON) -
+/friends-s01e18 03 4 ? . *)) ? - - Monica_Geller * -
+
+/friends-s01e18 03 0 This DT (TOP(S(S(NP*) this - - Monica_Geller * -
+/friends-s01e18 03 1 is VBZ (VP* be - - Monica_Geller * -
+/friends-s01e18 03 2 Phoebe NNP (NP*))) Phoebe - - Monica_Geller (PERSON) (292)
+/friends-s01e18 03 3 , , * , - - Monica_Geller * -
+/friends-s01e18 03 4 and CC * and - - Monica_Geller * -
+/friends-s01e18 03 5 that DT (S(NP*) that - - Monica_Geller * -
+/friends-s01e18 03 6 's VBZ (VP* be - - Monica_Geller * -
+/friends-s01e18 03 7 Rachel NNP (NP*))) Rachel - - Monica_Geller (PERSON) (306)
+/friends-s01e18 03 8 ... : *)) ... - - Monica_Geller * -
+
+/friends-s01e18 03 0 Yeah UH (TOP(S(INTJ*) yeah - - Aunt_Iris * -
+/friends-s01e18 03 1 , , * , - - Aunt_Iris * -
+/friends-s01e18 03 2 yeah JJ (NP(NP*) yeah - - Aunt_Iris * -
+/friends-s01e18 03 3 , , * , - - Aunt_Iris * -
+/friends-s01e18 03 4 yeah JJ (ADJP* yeah - - Aunt_Iris * -
+/friends-s01e18 03 5 , , * , - - Aunt_Iris * -
+/friends-s01e18 03 6 yeah JJ * yeah - - Aunt_Iris * -
+/friends-s01e18 03 7 , , * , - - Aunt_Iris * -
+/friends-s01e18 03 8 yeah JJ *)) yeah - - Aunt_Iris * -
+/friends-s01e18 03 9 , , * , - - Aunt_Iris * -
+/friends-s01e18 03 10 listen VB (S(VP*)) listen - - Aunt_Iris * -
+/friends-s01e18 03 11 , , * , - - Aunt_Iris * -
+/friends-s01e18 03 12 I PRP (NP*) I - - Aunt_Iris * -
+/friends-s01e18 03 13 am VBP (VP* be - - Aunt_Iris * -
+/friends-s01e18 03 14 parked VBN (VP* park - - Aunt_Iris * -
+/friends-s01e18 03 15 at IN (PP* at - - Aunt_Iris * -
+/friends-s01e18 03 16 a DT (NP* a - - Aunt_Iris * -
+/friends-s01e18 03 17 meter NN *)))) meter - - Aunt_Iris * -
+/friends-s01e18 03 18 . . *)) . - - Aunt_Iris * -
+
+/friends-s01e18 03 0 Let VB (TOP(S(VP* let - - Aunt_Iris * -
+/friends-s01e18 03 1 's PRP (S(NP*) 's - - Aunt_Iris * -
+/friends-s01e18 03 2 do VB (VP* do - - Aunt_Iris * -
+/friends-s01e18 03 3 it PRP (NP*)))) it - - Aunt_Iris * -
+/friends-s01e18 03 4 . . *)) . - - Aunt_Iris * -
+
+#end document
+#begin document (/friends-s01e18); part 004
+/friends-s01e18 04 0 Ross NNP (TOP(S(S(NP* Ross - - Phoebe_Buffay (PERSON) (335)
+/friends-s01e18 04 1 , , *) , - - Phoebe_Buffay * -
+/friends-s01e18 04 2 could MD (VP*)) could - - Phoebe_Buffay * -
+/friends-s01e18 04 3 we PRP (S(NP*) we - - Phoebe_Buffay * -
+/friends-s01e18 04 4 please VB (INTJ* please - - Phoebe_Buffay * -
+/friends-s01e18 04 5 , , * , - - Phoebe_Buffay * -
+/friends-s01e18 04 6 please VB * please - - Phoebe_Buffay * -
+/friends-s01e18 04 7 , , * , - - Phoebe_Buffay * -
+/friends-s01e18 04 8 please VB *) please - - Phoebe_Buffay * -
+/friends-s01e18 04 9 listen VB (VP* listen - - Phoebe_Buffay * -
+/friends-s01e18 04 10 to TO (PP* to - - Phoebe_Buffay * -
+/friends-s01e18 04 11 anything NN (NP* anything - - Phoebe_Buffay * -
+/friends-s01e18 04 12 else RB *)))) else - - Phoebe_Buffay * -
+/friends-s01e18 04 13 ? . *)) ? - - Phoebe_Buffay * -
+
+/friends-s01e18 04 0 Alright NNP (TOP(FRAG(NP*) Alright - - Ross_Geller * -
+/friends-s01e18 04 1 . . *)) . - - Ross_Geller * -
+
+/friends-s01e18 04 0 I PRP (TOP(S(NP*) I - - Ross_Geller * -
+/friends-s01e18 04 1 'm VBP (VP* be - - Ross_Geller * -
+/friends-s01e18 04 2 gon VBG (VP* gon - - Ross_Geller * -
+/friends-s01e18 04 3 na TO (S(VP* na - - Ross_Geller * -
+/friends-s01e18 04 4 pay VB (VP* pay - - Ross_Geller * -
+/friends-s01e18 04 5 for IN (PP* for - - Ross_Geller * -
+/friends-s01e18 04 6 that DT (NP* that - - Ross_Geller * -
+/friends-s01e18 04 7 tonight NN *))))))) tonight - - Ross_Geller (DATE) -
+/friends-s01e18 04 8 . . *)) . - - Ross_Geller * -
+
+/friends-s01e18 04 0 Hi NN (TOP(NP* hi - - Rachel_Green * -
+/friends-s01e18 04 1 ! . *)) ! - - Rachel_Green * -
+
+/friends-s01e18 04 0 Hey UH (TOP(INTJ* hey - - Ross_Geller * -
+/friends-s01e18 04 1 . . *)) . - - Ross_Geller * -
+
+/friends-s01e18 04 0 Guys NNS (TOP(NP* guy - - Rachel_Green * -
+/friends-s01e18 04 1 ! . *)) ! - - Rachel_Green * -
+
+/friends-s01e18 04 0 Guess VB (TOP(SQ(VP(VP* guess - - Rachel_Green * -
+/friends-s01e18 04 1 what WP (NP*)) what - - Rachel_Green * -
+/friends-s01e18 04 2 , , * , - - Rachel_Green * -
+/friends-s01e18 04 3 guess VB (VP* guess - - Rachel_Green * -
+/friends-s01e18 04 4 what WP (NP*)) what - - Rachel_Green * -
+/friends-s01e18 04 5 , , * , - - Rachel_Green * -
+/friends-s01e18 04 6 guess VB (VP* guess - - Rachel_Green * -
+/friends-s01e18 04 7 what WP (NP*)) what - - Rachel_Green * -
+/friends-s01e18 04 8 , , * , - - Rachel_Green * -
+/friends-s01e18 04 9 guess VB (VP* guess - - Rachel_Green * -
+/friends-s01e18 04 10 what WP (NP*))) what - - Rachel_Green * -
+/friends-s01e18 04 11 ! . *)) ! - - Rachel_Green * -
+
+/friends-s01e18 04 0 Um RB (TOP(FRAG(ADVP*) um - - Chandler_Bing * -
+/friends-s01e18 04 1 , , * , - - Chandler_Bing * -
+/friends-s01e18 04 2 ok NN (NP*) ok - - Chandler_Bing * -
+/friends-s01e18 04 3 ... : *)) ... - - Chandler_Bing * -
+
+/friends-s01e18 04 0 the DT (TOP(NP(NP*) the - - Chandler_Bing * -
+/friends-s01e18 04 1 ... : *)) ... - - Chandler_Bing * -
+
+/friends-s01e18 04 0 the DT (TOP(S(S(NP* the - - Chandler_Bing * -
+/friends-s01e18 04 1 fifth JJ * fifth - - Chandler_Bing (ORDINAL) -
+/friends-s01e18 04 2 dentist NN *) dentist - - Chandler_Bing * (288)
+/friends-s01e18 04 3 caved VBD (VP*)) cave - - Chandler_Bing * -
+/friends-s01e18 04 4 and CC * and - - Chandler_Bing * -
+/friends-s01e18 04 5 now RB (S(ADVP*) now - - Chandler_Bing (DATE) -
+/friends-s01e18 04 6 they PRP (NP*) they - - Chandler_Bing * -
+/friends-s01e18 04 7 're VBP (VP* be - - Chandler_Bing * -
+/friends-s01e18 04 8 all DT (ADVP*) all - - Chandler_Bing * -
+/friends-s01e18 04 9 recommending VBG (VP* recommend - - Chandler_Bing * -
+/friends-s01e18 04 10 Trident NNP (NP*)))) Trident - - Chandler_Bing * -
+/friends-s01e18 04 11 ? . *)) ? - - Chandler_Bing * -
+
+/friends-s01e18 04 0 Noooo NNP (TOP(NP* Noooo - - Rachel_Green * -
+/friends-s01e18 04 1 ... : *)) ... - - Rachel_Green * -
+
+/friends-s01e18 04 0 the DT (TOP(NP* the - - Rachel_Green * -
+/friends-s01e18 04 1 interview NN * interview - - Rachel_Green * -
+/friends-s01e18 04 2 ! . *)) ! - - Rachel_Green * -
+
+/friends-s01e18 04 0 She PRP (TOP(S(NP*) she - - Rachel_Green * (310)
+/friends-s01e18 04 1 loved VBD (VP* love - - Rachel_Green * -
+/friends-s01e18 04 2 me PRP (NP*)) I - - Rachel_Green * -
+/friends-s01e18 04 3 ! . *)) ! - - Rachel_Green * -
+
+/friends-s01e18 04 0 She PRP (TOP(S(NP*) she - - Rachel_Green * (310)
+/friends-s01e18 04 1 absolutely RB (ADVP*) absolutely - - Rachel_Green * -
+/friends-s01e18 04 2 loved VBD (VP* love - - Rachel_Green * -
+/friends-s01e18 04 3 me PRP (NP*)) I - - Rachel_Green * -
+/friends-s01e18 04 4 . . *)) . - - Rachel_Green * -
+
+/friends-s01e18 04 0 We PRP (TOP(S(S(NP*) we - - Rachel_Green * -
+/friends-s01e18 04 1 talked VBD (VP* talk - - Rachel_Green * -
+/friends-s01e18 04 2 for IN (SBAR* for - - Rachel_Green * -
+/friends-s01e18 04 3 like IN (S(PP* like - - Rachel_Green * -
+/friends-s01e18 04 4 two CD (NP(QP* two - - Rachel_Green (NUMBER) -
+/friends-s01e18 04 5 and CC * and - - Rachel_Green * -
+/friends-s01e18 04 6 a DT * a - - Rachel_Green * -
+/friends-s01e18 04 7 half NN *) half - - Rachel_Green * -
+/friends-s01e18 04 8 hours NNS *)) hour - - Rachel_Green (DURATION) -
+/friends-s01e18 04 9 , , * , - - Rachel_Green * -
+/friends-s01e18 04 10 we PRP (NP*) we - - Rachel_Green * -
+/friends-s01e18 04 11 have VBP (VP* have - - Rachel_Green * -
+/friends-s01e18 04 12 the DT (NP(NP* the - - Rachel_Green * -
+/friends-s01e18 04 13 same JJ * same - - Rachel_Green * -
+/friends-s01e18 04 14 taste NN *) taste - - Rachel_Green * -
+/friends-s01e18 04 15 in IN (PP* in - - Rachel_Green * -
+/friends-s01e18 04 16 clothes NNS (NP(NP*) clothes - - Rachel_Green * -
+/friends-s01e18 04 17 , , * , - - Rachel_Green * -
+/friends-s01e18 04 18 andoh NN (NP*))))))))) andoh - - Rachel_Green * -
+/friends-s01e18 04 19 , , * , - - Rachel_Green * -
+/friends-s01e18 04 20 I PRP (NP*) I - - Rachel_Green * -
+/friends-s01e18 04 21 went VBD (VP* go - - Rachel_Green * -
+/friends-s01e18 04 22 to TO (PP* to - - Rachel_Green * -
+/friends-s01e18 04 23 camp NN (NP*)) camp - - Rachel_Green * -
+/friends-s01e18 04 24 with IN (PP* with - - Rachel_Green * -
+/friends-s01e18 04 25 her PRP$ (NP* she - - Rachel_Green * (310)
+/friends-s01e18 04 26 cousin NN *))) cousin - - Rachel_Green * (311)
+/friends-s01e18 04 27 ... : *)) ... - - Rachel_Green * -
+
+/friends-s01e18 04 0 And CC (TOP(S* and - - Rachel_Green * -
+/friends-s01e18 04 1 , , * , - - Rachel_Green * -
+/friends-s01e18 04 2 oh UH (INTJ*) oh - - Rachel_Green * -
+/friends-s01e18 04 3 , , * , - - Rachel_Green * -
+/friends-s01e18 04 4 the DT (NP* the - - Rachel_Green * -
+/friends-s01e18 04 5 job NN *) job - - Rachel_Green * -
+/friends-s01e18 04 6 is VBZ (VP* be - - Rachel_Green * -
+/friends-s01e18 04 7 perfect JJ (ADJP*)) perfect - - Rachel_Green * -
+/friends-s01e18 04 8 . . *)) . - - Rachel_Green * -
+
+/friends-s01e18 04 0 I PRP (TOP(S(NP*) I - - Rachel_Green * -
+/friends-s01e18 04 1 can MD (VP* can - - Rachel_Green * -
+/friends-s01e18 04 2 do VB (VP* do - - Rachel_Green * -
+/friends-s01e18 04 3 this DT (NP*))) this - - Rachel_Green * -
+/friends-s01e18 04 4 . . *)) . - - Rachel_Green * -
+
+/friends-s01e18 04 0 I PRP (TOP(S(NP*) I - - Rachel_Green * -
+/friends-s01e18 04 1 can MD (VP* can - - Rachel_Green * -
+/friends-s01e18 04 2 do VB (VP* do - - Rachel_Green * -
+/friends-s01e18 04 3 this DT (NP*) this - - Rachel_Green * -
+/friends-s01e18 04 4 well RB (ADVP*))) well - - Rachel_Green * -
+/friends-s01e18 04 5 ! . *)) ! - - Rachel_Green * -
+
+/friends-s01e18 04 0 That DT (TOP(S(NP*) that - - All * -
+/friends-s01e18 04 1 's VBZ (VP* be - - All * -
+/friends-s01e18 04 2 great JJ (ADJP*)) great - - All * -
+/friends-s01e18 04 3 ! . *)) ! - - All * -
+
+/friends-s01e18 04 0 That DT (TOP(S(NP*) that - - All * -
+/friends-s01e18 04 1 's VBZ (VP* be - - All * -
+/friends-s01e18 04 2 wonderful JJ (ADJP*)) wonderful - - All * -
+/friends-s01e18 04 3 ! . *)) ! - - All * -
+
+/friends-s01e18 04 0 Oh UH (TOP(FRAG(VP(PP(NP*) oh - - Rachel_Green * -
+/friends-s01e18 04 1 God NNP (NP(NP(ADJP(ADJP*) God - - Rachel_Green * -
+/friends-s01e18 04 2 , , (PRN* , - - Rachel_Green * -
+/friends-s01e18 04 3 oh UH (INTJ*) oh - - Rachel_Green * -
+/friends-s01e18 04 4 , , *))) , - - Rachel_Green * -
+/friends-s01e18 04 5 and CC * and - - Rachel_Green * -
+/friends-s01e18 04 6 then RB (NP(NP*) then - - Rachel_Green * -
+/friends-s01e18 04 7 she PRP (NP*)))) she - - Rachel_Green * (310)
+/friends-s01e18 04 8 told VBD * tell - - Rachel_Green * -
+/friends-s01e18 04 9 the DT (NP(NP*) the - - Rachel_Green * -
+/friends-s01e18 04 10 funniest JJS (SBAR(S(NP(NP*) funniest - - Rachel_Green * -
+/friends-s01e18 04 11 story NN (NP(ADJP*)) story - - Rachel_Green * -
+/friends-s01e18 04 12 ... : *))))))) ... - - Rachel_Green * -
+
+/friends-s01e18 04 0 OK UH (TOP(FRAG(INTJ*) ok - - Monica_Geller * -
+/friends-s01e18 04 1 , , * , - - Monica_Geller * -
+/friends-s01e18 04 2 great JJ (ADVP*) great - - Monica_Geller * -
+/friends-s01e18 04 3 . . *)) . - - Monica_Geller * -
+
+/friends-s01e18 04 0 You PRP (TOP(S(S(NP*) you - - Monica_Geller * -
+/friends-s01e18 04 1 'll MD (VP* will - - Monica_Geller * -
+/friends-s01e18 04 2 tell VB (VP* tell - - Monica_Geller * -
+/friends-s01e18 04 3 us PRP (NP*)))) we - - Monica_Geller * -
+/friends-s01e18 04 4 and CC * and - - Monica_Geller * -
+/friends-s01e18 04 5 we PRP (S(NP*) we - - Monica_Geller * -
+/friends-s01e18 04 6 'll MD (VP* will - - Monica_Geller * -
+/friends-s01e18 04 7 laugh NN (VP*))) laugh - - Monica_Geller * -
+/friends-s01e18 04 8 . . *)) . - - Monica_Geller * -
+
+/friends-s01e18 04 0 Let VB (TOP(S(VP* let - - Monica_Geller * -
+/friends-s01e18 04 1 's PRP (S(NP*) 's - - Monica_Geller * -
+/friends-s01e18 04 2 play VB (VP* play - - Monica_Geller * -
+/friends-s01e18 04 3 poker NN (NP*)))) poker - - Monica_Geller * -
+/friends-s01e18 04 4 . . *)) . - - Monica_Geller * -
+
+/friends-s01e18 04 0 Alright NNP (TOP(S(S(NP*) Alright - - Joey_Tribbiani * -
+/friends-s01e18 04 1 now RB (ADVP*) now - - Joey_Tribbiani (DATE) -
+/friends-s01e18 04 2 listen VBP (VP*)) listen - - Joey_Tribbiani * -
+/friends-s01e18 04 3 , , * , - - Joey_Tribbiani * -
+/friends-s01e18 04 4 you PRP (S(NP*) you - - Joey_Tribbiani * -
+/friends-s01e18 04 5 guys NNS (NP*)) guy - - Joey_Tribbiani * -
+/friends-s01e18 04 6 , , * , - - Joey_Tribbiani * -
+/friends-s01e18 04 7 we PRP (S(NP*) we - - Joey_Tribbiani * -
+/friends-s01e18 04 8 talked VBD (VP* talk - - Joey_Tribbiani * -
+/friends-s01e18 04 9 about IN (PP* about - - Joey_Tribbiani * -
+/friends-s01e18 04 10 it PRP (NP*)))) it - - Joey_Tribbiani * -
+/friends-s01e18 04 11 , , * , - - Joey_Tribbiani * -
+/friends-s01e18 04 12 and CC * and - - Joey_Tribbiani * -
+/friends-s01e18 04 13 if IN (S(SBAR* if - - Joey_Tribbiani * -
+/friends-s01e18 04 14 you PRP (S(NP*) you - - Joey_Tribbiani * -
+/friends-s01e18 04 15 do VBP (VP* do - - Joey_Tribbiani * -
+/friends-s01e18 04 16 n't RB * not - - Joey_Tribbiani * -
+/friends-s01e18 04 17 want VB (VP* want - - Joey_Tribbiani * -
+/friends-s01e18 04 18 to TO (S(VP* to - - Joey_Tribbiani * -
+/friends-s01e18 04 19 play VB (VP*))))))) play - - Joey_Tribbiani * -
+/friends-s01e18 04 20 , , * , - - Joey_Tribbiani * -
+/friends-s01e18 04 21 we PRP (NP*) we - - Joey_Tribbiani * -
+/friends-s01e18 04 22 completely RB (ADVP*) completely - - Joey_Tribbiani * -
+/friends-s01e18 04 23 understand VBP (VP*)) understand - - Joey_Tribbiani * -
+/friends-s01e18 04 24 . . *)) . - - Joey_Tribbiani * -
+
+/friends-s01e18 04 0 Oh UH (TOP(S(INTJ*) oh - - Chandler_Bing * -
+/friends-s01e18 04 1 yes UH (INTJ* yes - - Chandler_Bing * -
+/friends-s01e18 04 2 , , * , - - Chandler_Bing * -
+/friends-s01e18 04 3 yes UH *) yes - - Chandler_Bing * -
+/friends-s01e18 04 4 , , * , - - Chandler_Bing * -
+/friends-s01e18 04 5 we PRP (NP*) we - - Chandler_Bing * -
+/friends-s01e18 04 6 could MD (VP* could - - Chandler_Bing * -
+/friends-s01e18 04 7 play VB (VP* play - - Chandler_Bing * -
+/friends-s01e18 04 8 some DT (NP* some - - Chandler_Bing * -
+/friends-s01e18 04 9 other JJ * other - - Chandler_Bing * -
+/friends-s01e18 04 10 game NN *))) game - - Chandler_Bing * -
+/friends-s01e18 04 11 ... : *)) ... - - Chandler_Bing * -
+
+/friends-s01e18 04 0 like IN (TOP(S(PP*) like - - Chandler_Bing * -
+/friends-s01e18 04 1 , , * , - - Chandler_Bing * -
+/friends-s01e18 04 2 uh UH (INTJ*) uh - - Chandler_Bing * -
+/friends-s01e18 04 3 , , * , - - Chandler_Bing * -
+/friends-s01e18 04 4 I PRP (NP*) I - - Chandler_Bing * -
+/friends-s01e18 04 5 do VBP (VP* do - - Chandler_Bing * -
+/friends-s01e18 04 6 n't RB * not - - Chandler_Bing * -
+/friends-s01e18 04 7 know VB (VP*)) know - - Chandler_Bing * -
+/friends-s01e18 04 8 ... : *)) ... - - Chandler_Bing * -
+
+/friends-s01e18 04 0 Pictionary NNP (TOP(FRAG(NP*) Pictionary - - Chandler_Bing * -
+/friends-s01e18 04 1 ? . *)) ? - - Chandler_Bing * -
+
+/friends-s01e18 04 0 Ha NNP (TOP(NP(NP(NP*) Ha - - Monica_Geller * -
+/friends-s01e18 04 1 , , * , - - Monica_Geller * -
+/friends-s01e18 04 2 ha NN (NP*) ha - - Monica_Geller * -
+/friends-s01e18 04 3 , , * , - - Monica_Geller * -
+/friends-s01e18 04 4 very RB (ADJP* very - - Monica_Geller * -
+/friends-s01e18 04 5 funny JJ *) funny - - Monica_Geller * -
+/friends-s01e18 04 6 , , *) , - - Monica_Geller * -
+/friends-s01e18 04 7 very RB (ADJP* very - - Monica_Geller * -
+/friends-s01e18 04 8 funny JJ *) funny - - Monica_Geller * -
+/friends-s01e18 04 9 . . *)) . - - Monica_Geller * -
+
+/friends-s01e18 04 0 But CC (TOP(S* but - - Monica_Geller * -
+/friends-s01e18 04 1 I PRP (NP*) I - - Monica_Geller * -
+/friends-s01e18 04 2 think VBP (VP* think - - Monica_Geller * -
+/friends-s01e18 04 3 we PRP (SBAR(S(NP*) we - - Monica_Geller * -
+/friends-s01e18 04 4 'd MD (VP* would - - Monica_Geller * -
+/friends-s01e18 04 5 like VB (VP* like - - Monica_Geller * -
+/friends-s01e18 04 6 to TO (S(VP* to - - Monica_Geller * -
+/friends-s01e18 04 7 give VB (VP* give - - Monica_Geller * -
+/friends-s01e18 04 8 poker NN (NP*) poker - - Monica_Geller * -
+/friends-s01e18 04 9 another DT (NP* another - - Monica_Geller * -
+/friends-s01e18 04 10 try NN *))))))))) try - - Monica_Geller * -
+/friends-s01e18 04 11 . . *)) . - - Monica_Geller * -
+
+/friends-s01e18 04 0 Shall NNP (TOP(NP(NP*) Shall - - Monica_Geller * -
+/friends-s01e18 04 1 we PRP (NP(NP*) we - - Monica_Geller * -
+/friends-s01e18 04 2 , , * , - - Monica_Geller * -
+/friends-s01e18 04 3 ladies NNS (NP*)) lady - - Monica_Geller * -
+/friends-s01e18 04 4 ? . *)) ? - - Monica_Geller * -
+
+/friends-s01e18 04 0 Yes UH (TOP(S(INTJ*) yes - - Phoebe,_Rachel * -
+/friends-s01e18 04 1 , , * , - - Phoebe,_Rachel * -
+/friends-s01e18 04 2 we PRP (NP*) we - - Phoebe,_Rachel * -
+/friends-s01e18 04 3 should MD (VP*) should - - Phoebe,_Rachel * -
+/friends-s01e18 04 4 . . *)) . - - Phoebe,_Rachel * -
+
+/friends-s01e18 04 0 I PRP (TOP(S(NP*) I - - Phoebe,_Rachel * -
+/friends-s01e18 04 1 think VBP (VP* think - - Phoebe,_Rachel * -
+/friends-s01e18 04 2 we PRP (SBAR(S(NP*) we - - Phoebe,_Rachel * -
+/friends-s01e18 04 3 should MD (VP*)))) should - - Phoebe,_Rachel * -
+/friends-s01e18 04 4 . . *)) . - - Phoebe,_Rachel * -
+
+/friends-s01e18 04 0 Uh NNP (TOP(S(NP(NP*) Uh - - Ross_Geller * -
+/friends-s01e18 04 1 , , * , - - Ross_Geller * -
+/friends-s01e18 04 2 Rach NNP (NP*) Rach - - Ross_Geller * (306)
+/friends-s01e18 04 3 , , *) , - - Ross_Geller * -
+/friends-s01e18 04 4 do VBP (VP* do - - Ross_Geller * -
+/friends-s01e18 04 5 you PRP (S(NP*) you - - Ross_Geller * -
+/friends-s01e18 04 6 want VB (VP* want - - Ross_Geller * -
+/friends-s01e18 04 7 me PRP (NP*) I - - Ross_Geller * -
+/friends-s01e18 04 8 to TO (PP* to - - Ross_Geller * -
+/friends-s01e18 04 9 shuffle NN (NP(NP*) shuffle - - Ross_Geller * -
+/friends-s01e18 04 10 those DT (NP*)))))) those - - Ross_Geller * -
+/friends-s01e18 04 11 ? . *)) ? - - Ross_Geller * -
+
+/friends-s01e18 04 0 No DT (TOP(NP(NP*) no - - Rachel_Green * -
+/friends-s01e18 04 1 , , * , - - Rachel_Green * -
+/friends-s01e18 04 2 no DT (NP*) no - - Rachel_Green * -
+/friends-s01e18 04 3 , , * , - - Rachel_Green * -
+/friends-s01e18 04 4 that IN (PP* that - - Rachel_Green * -
+/friends-s01e18 04 5 s NNS (NP(NP*) s - - Rachel_Green * -
+/friends-s01e18 04 6 OK UH (FRAG(INTJ*)))) ok - - Rachel_Green * -
+/friends-s01e18 04 7 . . *)) . - - Rachel_Green * -
+
+/friends-s01e18 04 0 Y'know NNP (TOP(S(NP*) Y'know - - Rachel_Green * -
+/friends-s01e18 04 1 , , * , - - Rachel_Green * -
+/friends-s01e18 04 2 I PRP (NP*) I - - Rachel_Green * -
+/friends-s01e18 04 3 think VBP (VP* think - - Rachel_Green * -
+/friends-s01e18 04 4 I PRP (SBAR(S(NP*) I - - Rachel_Green * -
+/friends-s01e18 04 5 'm VBP (VP* be - - Rachel_Green * -
+/friends-s01e18 04 6 gon VBG (VP* gon - - Rachel_Green * -
+/friends-s01e18 04 7 na TO (S(VP* na - - Rachel_Green * -
+/friends-s01e18 04 8 give VB (VP* give - - Rachel_Green * -
+/friends-s01e18 04 9 it PRP (NP*) it - - Rachel_Green * -
+/friends-s01e18 04 10 a DT (NP* a - - Rachel_Green * -
+/friends-s01e18 04 11 go NN *))))))))) go - - Rachel_Green * -
+/friends-s01e18 04 12 . . *)) . - - Rachel_Green * -
+
+/friends-s01e18 04 0 Alright NNP (TOP(FRAG(NP*) Alright - - Ross_Geller * -
+/friends-s01e18 04 1 . . *)) . - - Ross_Geller * -
+
+/friends-s01e18 04 0 Alright NNP (TOP(NP* Alright - - Rachel_Green * -
+/friends-s01e18 04 1 ... : *)) ... - - Rachel_Green * -
+
+#end document
+#begin document (/friends-s01e18); part 005
+/friends-s01e18 05 0 So RB (TOP(S(S(ADVP*) so - - Ross_Geller * -
+/friends-s01e18 05 1 , , (PRN* , - - Ross_Geller * -
+/friends-s01e18 05 2 Phoebs NNP (S(NP*) Phoebs - - Ross_Geller * -
+/friends-s01e18 05 3 owes VBZ (VP* owe - - Ross_Geller * -
+/friends-s01e18 05 4 $ $ (NP(NP* $ - - Ross_Geller (MONEY* -
+/friends-s01e18 05 5 7.50 CD *) 7.50 - - Ross_Geller *) -
+/friends-s01e18 05 6 , , * , - - Ross_Geller * -
+/friends-s01e18 05 7 Monica NNP (NP*)))) Monica - - Ross_Geller (PERSON) (248)
+/friends-s01e18 05 8 , , *) , - - Ross_Geller * -
+/friends-s01e18 05 9 you PRP (NP*) you - - Ross_Geller * -
+/friends-s01e18 05 10 owe VBP (VP* owe - - Ross_Geller * -
+/friends-s01e18 05 11 $ $ (NP(NP* $ - - Ross_Geller (MONEY* -
+/friends-s01e18 05 12 10 CD *) 10 - - Ross_Geller *) -
+/friends-s01e18 05 13 , , * , - - Ross_Geller * -
+/friends-s01e18 05 14 and CC * and - - Ross_Geller * -
+/friends-s01e18 05 15 Rachel NNP (NP*)))) Rachel - - Ross_Geller (PERSON) -
+/friends-s01e18 05 16 , , * , - - Ross_Geller * -
+/friends-s01e18 05 17 you PRP (NP*) you - - Ross_Geller * -
+/friends-s01e18 05 18 owe VBP (VP* owe - - Ross_Geller * -
+/friends-s01e18 05 19 fifteen CD (NP* fifteen - - Ross_Geller (NUMBER) -
+/friends-s01e18 05 20 big JJ * big - - Ross_Geller * -
+/friends-s01e18 05 21 ones NNS *)) one - - Ross_Geller * -
+/friends-s01e18 05 22 . . *)) . - - Ross_Geller * -
+
+/friends-s01e18 05 0 But CC (TOP(FRAG* but - - Joey_Tribbiani * -
+/friends-s01e18 05 1 hey RB (ADVP*) hey - - Joey_Tribbiani * -
+/friends-s01e18 05 2 , , * , - - Joey_Tribbiani * -
+/friends-s01e18 05 3 thanks NNS (PP(NP*) thanks - - Joey_Tribbiani * -
+/friends-s01e18 05 4 for IN (PP* for - - Joey_Tribbiani * -
+/friends-s01e18 05 5 teachin NN (NP(NP* teachin - - Joey_Tribbiani * -
+/friends-s01e18 05 6 ' '' *) ' - - Joey_Tribbiani * -
+/friends-s01e18 05 7 us PRP (NP(NP*) we - - Joey_Tribbiani * -
+/friends-s01e18 05 8 Cross-Eyed JJ (NP* cross-eyed - - Joey_Tribbiani * -
+/friends-s01e18 05 9 Mary NNP *))))) Mary - - Joey_Tribbiani (PERSON) -
+/friends-s01e18 05 10 . . *)) . - - Joey_Tribbiani * -
+
+/friends-s01e18 05 0 You PRP (TOP(S(NP* you - - Joey_Tribbiani * -
+/friends-s01e18 05 1 guys NNS *) guy - - Joey_Tribbiani * -
+/friends-s01e18 05 2 , , * , - - Joey_Tribbiani * -
+/friends-s01e18 05 3 we PRP (NP*) we - - Joey_Tribbiani * -
+/friends-s01e18 05 4 got VBD (VP* get - - Joey_Tribbiani * -
+/friends-s01e18 05 5 ta NN (NP* ta - - Joey_Tribbiani * -
+/friends-s01e18 05 6 play NN *) play - - Joey_Tribbiani * -
+/friends-s01e18 05 7 that WDT (FRAG(WHNP*)) that - - Joey_Tribbiani * -
+/friends-s01e18 05 8 at IN (PP* at - - Joey_Tribbiani * -
+/friends-s01e18 05 9 our PRP$ (NP* we - - Joey_Tribbiani * -
+/friends-s01e18 05 10 regular JJ * regular - - Joey_Tribbiani * -
+/friends-s01e18 05 11 game NN *))) game - - Joey_Tribbiani * -
+/friends-s01e18 05 12 . . *)) . - - Joey_Tribbiani * -
+
+/friends-s01e18 05 0 Alright NNP (TOP(NP(NP*) Alright - - Phoebe_Buffay * -
+/friends-s01e18 05 1 , , * , - - Phoebe_Buffay * -
+/friends-s01e18 05 2 here RB (NP(NP* here - - Phoebe_Buffay * -
+/friends-s01e18 05 3 's POS *) 's - - Phoebe_Buffay * -
+/friends-s01e18 05 4 my PRP$ (NP* my - - Phoebe_Buffay * -
+/friends-s01e18 05 5 $ $ * $ - - Phoebe_Buffay (MONEY* -
+/friends-s01e18 05 6 7.50 CD *)) 7.50 - - Phoebe_Buffay *) -
+/friends-s01e18 05 7 . . *)) . - - Phoebe_Buffay * -
+
+/friends-s01e18 05 0 But CC (TOP(S* but - - Phoebe_Buffay * -
+/friends-s01e18 05 1 I PRP (NP*) I - - Phoebe_Buffay * -
+/friends-s01e18 05 2 think VBP (VP* think - - Phoebe_Buffay * -
+/friends-s01e18 05 3 you PRP (SBAR(S(NP*) you - - Phoebe_Buffay * -
+/friends-s01e18 05 4 should MD (VP* should - - Phoebe_Buffay * -
+/friends-s01e18 05 5 know VB (VP* know - - Phoebe_Buffay * -
+/friends-s01e18 05 6 that IN (SBAR* that - - Phoebe_Buffay * -
+/friends-s01e18 05 7 this DT (S(NP* this - - Phoebe_Buffay * -
+/friends-s01e18 05 8 money NN *) money - - Phoebe_Buffay * -
+/friends-s01e18 05 9 is VBZ (VP* be - - Phoebe_Buffay * -
+/friends-s01e18 05 10 cursed VBN (VP*))))))))) curse - - Phoebe_Buffay * -
+/friends-s01e18 05 11 . . *)) . - - Phoebe_Buffay * -
+
+/friends-s01e18 05 0 What WDT (TOP(FRAG(WHNP*) what - - Joey_Tribbiani * -
+/friends-s01e18 05 1 ? . *)) ? - - Joey_Tribbiani * -
+
+/friends-s01e18 05 0 Oh UH (TOP(S(INTJ*) oh - - Phoebe_Buffay * -
+/friends-s01e18 05 1 , , * , - - Phoebe_Buffay * -
+/friends-s01e18 05 2 I PRP (NP*) I - - Phoebe_Buffay * -
+/friends-s01e18 05 3 cursed VBD (VP* curse - - Phoebe_Buffay * -
+/friends-s01e18 05 4 it PRP (NP*)) it - - Phoebe_Buffay * -
+/friends-s01e18 05 5 . . *)) . - - Phoebe_Buffay * -
+
+/friends-s01e18 05 0 So RB (TOP(S* so - - Phoebe_Buffay * -
+/friends-s01e18 05 1 now RB (ADVP*) now - - Phoebe_Buffay (DATE) -
+/friends-s01e18 05 2 bad JJ (NP* bad - - Phoebe_Buffay * -
+/friends-s01e18 05 3 things NNS *) thing - - Phoebe_Buffay * -
+/friends-s01e18 05 4 will MD (VP* will - - Phoebe_Buffay * -
+/friends-s01e18 05 5 happen VB (VP* happen - - Phoebe_Buffay * -
+/friends-s01e18 05 6 to TO (PP* to - - Phoebe_Buffay * -
+/friends-s01e18 05 7 he PRP (NP(NP*) he - - Phoebe_Buffay * -
+/friends-s01e18 05 8 who WP (SBAR(WHNP*) who - - Phoebe_Buffay * -
+/friends-s01e18 05 9 spends VBZ (S(VP* spend - - Phoebe_Buffay * -
+/friends-s01e18 05 10 it PRP (NP*)))))))) it - - Phoebe_Buffay * -
+/friends-s01e18 05 11 . . *)) . - - Phoebe_Buffay * -
+
+/friends-s01e18 05 0 That DT (TOP(S(S(NP*) that - - Chandler_Bing * -
+/friends-s01e18 05 1 's VBZ (VP* be - - Chandler_Bing * -
+/friends-s01e18 05 2 alright JJ (ADJP*))) alright - - Chandler_Bing * -
+/friends-s01e18 05 3 , , * , - - Chandler_Bing * -
+/friends-s01e18 05 4 I PRP (NP*) I - - Chandler_Bing * -
+/friends-s01e18 05 5 'll MD (VP* will - - Chandler_Bing * -
+/friends-s01e18 05 6 take VB (VP* take - - Chandler_Bing * -
+/friends-s01e18 05 7 it PRP (NP*))) it - - Chandler_Bing * -
+/friends-s01e18 05 8 . . *)) . - - Chandler_Bing * -
+
+/friends-s01e18 05 0 Bad JJ (TOP(S(NP* bad - - Chandler_Bing * -
+/friends-s01e18 05 1 things NNS *) thing - - Chandler_Bing * -
+/friends-s01e18 05 2 happen VB (VP* happen - - Chandler_Bing * -
+/friends-s01e18 05 3 to TO (PP* to - - Chandler_Bing * -
+/friends-s01e18 05 4 me PRP (NP*)) I - - Chandler_Bing * -
+/friends-s01e18 05 5 anyway RB (ADVP*)) anyway - - Chandler_Bing * -
+/friends-s01e18 05 6 . . *)) . - - Chandler_Bing * -
+
+/friends-s01e18 05 0 This DT (TOP(S(NP(NP* this - - Chandler_Bing * -
+/friends-s01e18 05 1 way NN *) way - - Chandler_Bing * -
+/friends-s01e18 05 2 I PRP (SBAR(S(NP*) I - - Chandler_Bing * -
+/friends-s01e18 05 3 can MD (VP* can - - Chandler_Bing * -
+/friends-s01e18 05 4 break VB (VP* break - - Chandler_Bing * -
+/friends-s01e18 05 5 ' '' *))))) ' - - Chandler_Bing * -
+/friends-s01e18 05 6 em VB (VP* em - - Chandler_Bing * -
+/friends-s01e18 05 7 up RP (PRT*) up - - Chandler_Bing * -
+/friends-s01e18 05 8 with IN (PP* with - - Chandler_Bing * -
+/friends-s01e18 05 9 a DT (NP* a - - Chandler_Bing * -
+/friends-s01e18 05 10 movie NN *))) movie - - Chandler_Bing * -
+/friends-s01e18 05 11 . . *)) . - - Chandler_Bing * -
+
+/friends-s01e18 05 0 Well RB (TOP(S(INTJ*) well - - Ross_Geller * -
+/friends-s01e18 05 1 , , * , - - Ross_Geller * -
+/friends-s01e18 05 2 that DT (NP*) that - - Ross_Geller * -
+/friends-s01e18 05 3 just RB (ADVP*) just - - Ross_Geller * -
+/friends-s01e18 05 4 leaves VBZ (VP* leave - - Ross_Geller * -
+/friends-s01e18 05 5 the DT (NP(NP* the - - Ross_Geller * -
+/friends-s01e18 05 6 big JJ * big - - Ross_Geller * -
+/friends-s01e18 05 7 Green NN * green - - Ross_Geller * -
+/friends-s01e18 05 8 poker NN * poker - - Ross_Geller * -
+/friends-s01e18 05 9 machine NN *) machine - - Ross_Geller * -
+/friends-s01e18 05 10 , , * , - - Ross_Geller * -
+/friends-s01e18 05 11 who WP (SBAR(WHNP*) who - - Ross_Geller * -
+/friends-s01e18 05 12 owes VBZ (S(VP* owe - - Ross_Geller * -
+/friends-s01e18 05 13 fifteen CD (NP*)))))) fifteen - - Ross_Geller (NUMBER) -
+/friends-s01e18 05 14 ... : *)) ... - - Ross_Geller * -
+
+/friends-s01e18 05 0 Mmm SYM (TOP(PP(X*) mmm - - Rachel_Green * -
+/friends-s01e18 05 1 - : * - - - Rachel_Green * -
+/friends-s01e18 05 2 hmmm. NN (PP* hmmm. - - Rachel_Green * -
+/friends-s01e18 05 3 Oh UH (FRAG(INTJ*) oh - - Rachel_Green * -
+/friends-s01e18 05 4 , , * , - - Rachel_Green * -
+/friends-s01e18 05 5 so RB (NP* so - - Rachel_Green * -
+/friends-s01e18 05 6 typical JJ *))) typical - - Rachel_Green * -
+/friends-s01e18 05 7 . . *)) . - - Rachel_Green * -
+
+/friends-s01e18 05 0 Ooo NNP (TOP(S(NP*) Ooo - - Rachel_Green * -
+/friends-s01e18 05 1 , , * , - - Rachel_Green * -
+/friends-s01e18 05 2 I PRP (NP*) I - - Rachel_Green * -
+/friends-s01e18 05 3 'm VBP (VP* be - - Rachel_Green * -
+/friends-s01e18 05 4 a DT (NP* a - - Rachel_Green * -
+/friends-s01e18 05 5 man NN *)) man - - Rachel_Green * (335)
+/friends-s01e18 05 6 . . *)) . - - Rachel_Green * -
+
+/friends-s01e18 05 0 Ooo NNP (TOP(S(NP*) Ooo - - Rachel_Green * -
+/friends-s01e18 05 1 , , * , - - Rachel_Green * -
+/friends-s01e18 05 2 I PRP (NP*) I - - Rachel_Green * -
+/friends-s01e18 05 3 have VBP (VP* have - - Rachel_Green * -
+/friends-s01e18 05 4 a DT (NP* a - - Rachel_Green * -
+/friends-s01e18 05 5 penis NN *)) penis - - Rachel_Green * -
+/friends-s01e18 05 6 . . *)) . - - Rachel_Green * -
+
+/friends-s01e18 05 0 Ooo NNP (TOP(S(NP*) Ooo - - Rachel_Green * -
+/friends-s01e18 05 1 , , * , - - Rachel_Green * -
+/friends-s01e18 05 2 I PRP (NP*) I - - Rachel_Green * -
+/friends-s01e18 05 3 have VBP (VP* have - - Rachel_Green * -
+/friends-s01e18 05 4 to TO (S(VP* to - - Rachel_Green * -
+/friends-s01e18 05 5 win VB (VP* win - - Rachel_Green * -
+/friends-s01e18 05 6 money NN (NP*) money - - Rachel_Green * -
+/friends-s01e18 05 7 to TO (S(VP* to - - Rachel_Green * -
+/friends-s01e18 05 8 exert VB (VP* exert - - Rachel_Green * -
+/friends-s01e18 05 9 my PRP$ (NP* my - - Rachel_Green * -
+/friends-s01e18 05 10 power NN *) power - - Rachel_Green * -
+/friends-s01e18 05 11 over IN (PP* over - - Rachel_Green * -
+/friends-s01e18 05 12 women NNS (NP*))))))))) woman - - Rachel_Green * -
+/friends-s01e18 05 13 . . *)) . - - Rachel_Green * -
+
+/friends-s01e18 05 0 You PRP (TOP(S(NP*) you - - Monica_Geller * -
+/friends-s01e18 05 1 know VBP (VP* know - - Monica_Geller * -
+/friends-s01e18 05 2 what WP (NP*)) what - - Monica_Geller * -
+/friends-s01e18 05 3 ? . *)) ? - - Monica_Geller * -
+
+/friends-s01e18 05 0 This DT (TOP(S(NP*) this - - Monica_Geller * -
+/friends-s01e18 05 1 is VBZ (VP* be - - Monica_Geller * -
+/friends-s01e18 05 2 not RB * not - - Monica_Geller * -
+/friends-s01e18 05 3 over RB (ADJP*)) over - - Monica_Geller * -
+/friends-s01e18 05 4 . . *)) . - - Monica_Geller * -
+
+/friends-s01e18 05 0 We PRP (TOP(S(S(NP*) we - - Monica_Geller * -
+/friends-s01e18 05 1 will MD (VP* will - - Monica_Geller * -
+/friends-s01e18 05 2 play VB (VP* play - - Monica_Geller * -
+/friends-s01e18 05 3 you PRP (NP*) you - - Monica_Geller * -
+/friends-s01e18 05 4 again RB (ADVP*)))) again - - Monica_Geller * -
+/friends-s01e18 05 5 , , * , - - Monica_Geller * -
+/friends-s01e18 05 6 and CC * and - - Monica_Geller * -
+/friends-s01e18 05 7 we PRP (S(S(NP*) we - - Monica_Geller * -
+/friends-s01e18 05 8 will MD (VP* will - - Monica_Geller * -
+/friends-s01e18 05 9 win VB (VP*))) win - - Monica_Geller * -
+/friends-s01e18 05 10 , , * , - - Monica_Geller * -
+/friends-s01e18 05 11 and CC * and - - Monica_Geller * -
+/friends-s01e18 05 12 you PRP (S(S(NP*) you - - Monica_Geller * -
+/friends-s01e18 05 13 will MD (VP* will - - Monica_Geller * -
+/friends-s01e18 05 14 lose VB (VP*))) lose - - Monica_Geller * -
+/friends-s01e18 05 15 , , * , - - Monica_Geller * -
+/friends-s01e18 05 16 and CC * and - - Monica_Geller * -
+/friends-s01e18 05 17 you PRP (S(S(NP*) you - - Monica_Geller * -
+/friends-s01e18 05 18 will MD (VP* will - - Monica_Geller * -
+/friends-s01e18 05 19 beg VB (VP*))) beg - - Monica_Geller * -
+/friends-s01e18 05 20 , , * , - - Monica_Geller * -
+/friends-s01e18 05 21 and CC * and - - Monica_Geller * -
+/friends-s01e18 05 22 we PRP (S(S(NP*) we - - Monica_Geller * -
+/friends-s01e18 05 23 will MD (VP* will - - Monica_Geller * -
+/friends-s01e18 05 24 laugh NN (VP*))) laugh - - Monica_Geller * -
+/friends-s01e18 05 25 , , * , - - Monica_Geller * -
+/friends-s01e18 05 26 and CC * and - - Monica_Geller * -
+/friends-s01e18 05 27 we PRP (S(S(NP*) we - - Monica_Geller * -
+/friends-s01e18 05 28 will MD (VP* will - - Monica_Geller * -
+/friends-s01e18 05 29 take VB (VP* take - - Monica_Geller * -
+/friends-s01e18 05 30 every DT (NP(NP* every - - Monica_Geller * -
+/friends-s01e18 05 31 last JJ * last - - Monica_Geller * -
+/friends-s01e18 05 32 dime NN *) dime - - Monica_Geller * -
+/friends-s01e18 05 33 you PRP (SBAR(S(NP*) you - - Monica_Geller * -
+/friends-s01e18 05 34 have VBP (VP*))))))) have - - Monica_Geller * -
+/friends-s01e18 05 35 , , * , - - Monica_Geller * -
+/friends-s01e18 05 36 and CC * and - - Monica_Geller * -
+/friends-s01e18 05 37 you PRP (S(NP*) you - - Monica_Geller * -
+/friends-s01e18 05 38 will MD (VP* will - - Monica_Geller * -
+/friends-s01e18 05 39 hate VB (VP* hate - - Monica_Geller * -
+/friends-s01e18 05 40 yourselves NNS (NP*) yourselve - - Monica_Geller * -
+/friends-s01e18 05 41 forever RB (ADVP*))))))))) forever - - Monica_Geller * -
+/friends-s01e18 05 42 . . *)) . - - Monica_Geller * -
+
+/friends-s01e18 05 0 Hmm. NNP (TOP(S(NP* Hmm. - - Rachel_Green * -
+/friends-s01e18 05 1 Kinda NNP *) Kinda - - Rachel_Green * -
+/friends-s01e18 05 2 stepped VBD (VP* step - - Rachel_Green * -
+/friends-s01e18 05 3 on IN (PP* on - - Rachel_Green * -
+/friends-s01e18 05 4 my PRP$ (NP(NP* my - - Rachel_Green * -
+/friends-s01e18 05 5 point NN * point - - Rachel_Green * -
+/friends-s01e18 05 6 there RB *) there - - Rachel_Green * -
+/friends-s01e18 05 7 , , * , - - Rachel_Green * -
+/friends-s01e18 05 8 Mon. NN (NP*)))))) mon. - - Rachel_Green (LOCATION) -
+
+#end document

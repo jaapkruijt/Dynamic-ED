@@ -1,0 +1,3446 @@
+#begin document (/friends-s02e23); part 000
+/friends-s02e23 00 0 Ok NNP (TOP(S(NP(NP* Ok - - Rachel_Green * -
+/friends-s02e23 00 1 , , * , - - Rachel_Green * -
+/friends-s02e23 00 2 Chandler NNP * Chandler - - Rachel_Green (PERSON) (59)
+/friends-s02e23 00 3 , , * , - - Rachel_Green * -
+/friends-s02e23 00 4 Mon NNP * Mon - - Rachel_Green (PERSON) (248)
+/friends-s02e23 00 5 , , *) , - - Rachel_Green * -
+/friends-s02e23 00 6 there EX (SBAR(S(NP*) there - - Rachel_Green * -
+/friends-s02e23 00 7 's VBZ (VP* be - - Rachel_Green * -
+/friends-s02e23 00 8 only RB (ADVP*) only - - Rachel_Green * -
+/friends-s02e23 00 9 one CD (NP* one - - Rachel_Green (NUMBER) -
+/friends-s02e23 00 10 bananna NN * bananna - - Rachel_Green * -
+/friends-s02e23 00 11 nut NN * nut - - Rachel_Green * -
+/friends-s02e23 00 12 muffin NN *))))) muffin - - Rachel_Green * -
+/friends-s02e23 00 13 left VBD (VP*) leave - - Rachel_Green * -
+/friends-s02e23 00 14 . . *)) . - - Rachel_Green * -
+
+/friends-s02e23 00 0 Oh UH (TOP(S(INTJ*) oh - - Monica_Geller * -
+/friends-s02e23 00 1 , , * , - - Monica_Geller * -
+/friends-s02e23 00 2 I PRP (NP*) I - - Monica_Geller * -
+/friends-s02e23 00 3 ordered VBD (VP* order - - Monica_Geller * -
+/friends-s02e23 00 4 mine PRP (NP*) mine - - Monica_Geller * -
+/friends-s02e23 00 5 first RB (ADVP*)) first - - Monica_Geller (ORDINAL) -
+/friends-s02e23 00 6 . . *)) . - - Monica_Geller * -
+
+/friends-s02e23 00 0 Yeah UH (TOP(S(S(INTJ*) yeah - - Chandler_Bing * -
+/friends-s02e23 00 1 , , * , - - Chandler_Bing * -
+/friends-s02e23 00 2 but CC * but - - Chandler_Bing * -
+/friends-s02e23 00 3 I PRP (NP*) I - - Chandler_Bing * -
+/friends-s02e23 00 4 'm VBP (VP*)) be - - Chandler_Bing * -
+/friends-s02e23 00 5 , , * , - - Chandler_Bing * -
+/friends-s02e23 00 6 I PRP (NP*) I - - Chandler_Bing * -
+/friends-s02e23 00 7 'm VBP (VP* be - - Chandler_Bing * -
+/friends-s02e23 00 8 so RB (ADJP* so - - Chandler_Bing * -
+/friends-s02e23 00 9 much JJ *) much - - Chandler_Bing * -
+/friends-s02e23 00 10 faster RBR (ADVP*)) faster - - Chandler_Bing * -
+/friends-s02e23 00 11 ... : *)) ... - - Chandler_Bing * -
+
+/friends-s02e23 00 0 Give VB (TOP(S(VP* give - - Monica_Geller * -
+/friends-s02e23 00 1 it PRP (NP*) it - - Monica_Geller * -
+/friends-s02e23 00 2 to TO (PP* to - - Monica_Geller * -
+/friends-s02e23 00 3 me PRP (NP*))) I - - Monica_Geller * -
+/friends-s02e23 00 4 . . *)) . - - Monica_Geller * -
+
+/friends-s02e23 00 0 No DT (TOP(FRAG(NP*) no - - Chandler_Bing * -
+/friends-s02e23 00 1 . . *)) . - - Chandler_Bing * -
+
+/friends-s02e23 00 0 Give VB (TOP(S(VP* give - - Monica_Geller * -
+/friends-s02e23 00 1 it PRP (NP*) it - - Monica_Geller * -
+/friends-s02e23 00 2 to TO (PP* to - - Monica_Geller * -
+/friends-s02e23 00 3 me PRP (NP*))) I - - Monica_Geller * -
+/friends-s02e23 00 4 . . *)) . - - Monica_Geller * -
+
+/friends-s02e23 00 0 Ok NNP (TOP(S(NP-TMP*) Ok - - Chandler_Bing * -
+/friends-s02e23 00 1 , , * , - - Chandler_Bing * -
+/friends-s02e23 00 2 you PRP (NP*) you - - Chandler_Bing * -
+/friends-s02e23 00 3 can MD (VP* can - - Chandler_Bing * -
+/friends-s02e23 00 4 have VB (VP* have - - Chandler_Bing * -
+/friends-s02e23 00 5 it PRP (NP*))) it - - Chandler_Bing * -
+/friends-s02e23 00 6 . . *)) . - - Chandler_Bing * -
+
+/friends-s02e23 00 0 There EX (TOP(S(NP*) there - - Monica_Geller * -
+/friends-s02e23 00 1 you PRP (PRN(S(NP*) you - - Monica_Geller * -
+/friends-s02e23 00 2 go VBP (VP*)) go - - Monica_Geller * -
+/friends-s02e23 00 3 , , *) , - - Monica_Geller * -
+/friends-s02e23 00 4 enjoy VB (VP* enjoy - - Monica_Geller * -
+/friends-s02e23 00 5 your PRP$ (NP* you - - Monica_Geller * -
+/friends-s02e23 00 6 coffee NN *)) coffee - - Monica_Geller * -
+/friends-s02e23 00 7 . . *)) . - - Monica_Geller * -
+
+/friends-s02e23 00 0 That DT (TOP(S(NP*) that - - Chandler_Bing * -
+/friends-s02e23 00 1 was VBD (VP* be - - Chandler_Bing * -
+/friends-s02e23 00 2 there RB (ADVP*) there - - Chandler_Bing * -
+/friends-s02e23 00 3 when WRB (SBAR(WHADVP*) when - - Chandler_Bing * -
+/friends-s02e23 00 4 I PRP (S(NP*) I - - Chandler_Bing * -
+/friends-s02e23 00 5 got VBD (VP* get - - Chandler_Bing * -
+/friends-s02e23 00 6 here RB (ADVP*))))) here - - Chandler_Bing * -
+/friends-s02e23 00 7 . . *)) . - - Chandler_Bing * -
+
+/friends-s02e23 00 0 Hey UH (TOP(S(VP(VP(PP(NP*) hey - - Phoebe_Buffay * -
+/friends-s02e23 00 1 you PRP (NP(NP* you - - Phoebe_Buffay * -
+/friends-s02e23 00 2 guys NNS *) guy - - Phoebe_Buffay * -
+/friends-s02e23 00 3 , , * , - - Phoebe_Buffay * -
+/friends-s02e23 00 4 you PRP (NP*))) you - - Phoebe_Buffay * -
+/friends-s02e23 00 5 will MD * will - - Phoebe_Buffay * -
+/friends-s02e23 00 6 never RB (VP(ADVP*) never - - Phoebe_Buffay * -
+/friends-s02e23 00 7 guess VB *)) guess - - Phoebe_Buffay * -
+/friends-s02e23 00 8 who WP (SBAR(WHNP*) who - - Phoebe_Buffay * -
+/friends-s02e23 00 9 's VBZ (S(VP* be - - Phoebe_Buffay * -
+/friends-s02e23 00 10 coming VBG (VP* come - - Phoebe_Buffay * -
+/friends-s02e23 00 11 to TO (PP* to - - Phoebe_Buffay * -
+/friends-s02e23 00 12 New NNP (NP* New - - Phoebe_Buffay (LOCATION* -
+/friends-s02e23 00 13 York NNP *))))))) York - - Phoebe_Buffay *) -
+/friends-s02e23 00 14 . . *)) . - - Phoebe_Buffay * -
+
+/friends-s02e23 00 0 Quick RB (TOP(S(ADVP*) quick - - Monica_Geller * -
+/friends-s02e23 00 1 , , * , - - Monica_Geller * -
+/friends-s02e23 00 2 Phoebe NNP (NP* Phoebe - - Monica_Geller (PERSON) (292)
+/friends-s02e23 00 3 , , *) , - - Monica_Geller * -
+/friends-s02e23 00 4 tell VBP (VP* tell - - Monica_Geller * -
+/friends-s02e23 00 5 us PRP (NP*) we - - Monica_Geller * -
+/friends-s02e23 00 6 before IN (SBAR* before - - Monica_Geller * -
+/friends-s02e23 00 7 he PRP (S(NP*) he - - Monica_Geller * (59)
+/friends-s02e23 00 8 can MD (VP* can - - Monica_Geller * -
+/friends-s02e23 00 9 swallow VB (VP*))))) swallow - - Monica_Geller * -
+/friends-s02e23 00 10 . . *)) . - - Monica_Geller * -
+
+/friends-s02e23 00 0 Oh UH (TOP(S(S(VP(NP*) oh - - Phoebe_Buffay * -
+/friends-s02e23 00 1 ok NN (NP(NP* ok - - Phoebe_Buffay * -
+/friends-s02e23 00 2 , , * , - - Phoebe_Buffay * -
+/friends-s02e23 00 3 Ryan NNP * Ryan - - Phoebe_Buffay (PERSON) (339)
+/friends-s02e23 00 4 , , *) , - - Phoebe_Buffay * -
+/friends-s02e23 00 5 that WDT (SBAR(WHNP*))) that - - Phoebe_Buffay * -
+/friends-s02e23 00 6 guy NN (PP*))) guy - - Phoebe_Buffay * (339)
+/friends-s02e23 00 7 I PRP (NP*) I - - Phoebe_Buffay * -
+/friends-s02e23 00 8 went VBD (VP* go - - Phoebe_Buffay * -
+/friends-s02e23 00 9 out RP (PRT*) out - - Phoebe_Buffay * -
+/friends-s02e23 00 10 with IN (PP*) with - - Phoebe_Buffay * -
+/friends-s02e23 00 11 , , * , - - Phoebe_Buffay * -
+/friends-s02e23 00 12 who WP (SBAR(WHNP*) who - - Phoebe_Buffay * -
+/friends-s02e23 00 13 's VBZ (S(VP* be - - Phoebe_Buffay * -
+/friends-s02e23 00 14 in IN (PP* in - - Phoebe_Buffay * -
+/friends-s02e23 00 15 the DT (NP* the - - Phoebe_Buffay * -
+/friends-s02e23 00 16 Navy NNP *)))))) Navy - - Phoebe_Buffay (ORGANIZATION) -
+/friends-s02e23 00 17 . . *)) . - - Phoebe_Buffay * -
+
+/friends-s02e23 00 0 You PRP (TOP(S(NP*) you - - Rachel_Green * -
+/friends-s02e23 00 1 went VBD (VP* go - - Rachel_Green * -
+/friends-s02e23 00 2 out RP (PRT*) out - - Rachel_Green * -
+/friends-s02e23 00 3 with IN (PP* with - - Rachel_Green * -
+/friends-s02e23 00 4 a DT (NP(NP* a - - Rachel_Green * -
+/friends-s02e23 00 5 guy NN *) guy - - Rachel_Green * (339)
+/friends-s02e23 00 6 in IN (PP* in - - Rachel_Green * -
+/friends-s02e23 00 7 the DT (NP* the - - Rachel_Green * -
+/friends-s02e23 00 8 Navy NNP *))))) Navy - - Rachel_Green (ORGANIZATION) -
+/friends-s02e23 00 9 ? . *)) ? - - Rachel_Green * -
+
+/friends-s02e23 00 0 Yeah UH (TOP(S(INTJ*) yeah - - Phoebe_Buffay * -
+/friends-s02e23 00 1 , , * , - - Phoebe_Buffay * -
+/friends-s02e23 00 2 I PRP (NP*) I - - Phoebe_Buffay * -
+/friends-s02e23 00 3 met VBD (VP* meet - - Phoebe_Buffay * -
+/friends-s02e23 00 4 him PRP (NP*) he - - Phoebe_Buffay * (339)
+/friends-s02e23 00 5 when WRB (SBAR(WHADVP*) when - - Phoebe_Buffay * -
+/friends-s02e23 00 6 I PRP (S(NP*) I - - Phoebe_Buffay * -
+/friends-s02e23 00 7 was VBD (VP* be - - Phoebe_Buffay * -
+/friends-s02e23 00 8 playing VBG (VP* play - - Phoebe_Buffay * -
+/friends-s02e23 00 9 guitar NN (NP(NP*) guitar - - Phoebe_Buffay * -
+/friends-s02e23 00 10 in IN (PP* in - - Phoebe_Buffay * -
+/friends-s02e23 00 11 Washington NNP (NP* Washington - - Phoebe_Buffay (LOCATION* -
+/friends-s02e23 00 12 Square NNP * Square - - Phoebe_Buffay * -
+/friends-s02e23 00 13 Park NNP *)))))))) Park - - Phoebe_Buffay *) -
+/friends-s02e23 00 14 . . *)) . - - Phoebe_Buffay * -
+
+/friends-s02e23 00 0 Ryan NNP (TOP(S(NP*) Ryan - - Phoebe_Buffay (PERSON) (339)
+/friends-s02e23 00 1 threw VBD (VP* throw - - Phoebe_Buffay * -
+/friends-s02e23 00 2 in IN (SBAR(S(PP* in - - Phoebe_Buffay * -
+/friends-s02e23 00 3 salt NN (NP* salt - - Phoebe_Buffay * -
+/friends-s02e23 00 4 water NN * water - - Phoebe_Buffay * -
+/friends-s02e23 00 5 taffy NN * taffy - - Phoebe_Buffay * -
+/friends-s02e23 00 6 'cause NN *)) 'cause - - Phoebe_Buffay * -
+/friends-s02e23 00 7 he PRP (NP*) he - - Phoebe_Buffay * (339)
+/friends-s02e23 00 8 did VBD (VP* do - - Phoebe_Buffay * -
+/friends-s02e23 00 9 n't RB * not - - Phoebe_Buffay * -
+/friends-s02e23 00 10 have VB (VP* have - - Phoebe_Buffay * -
+/friends-s02e23 00 11 any DT (NP* any - - Phoebe_Buffay * -
+/friends-s02e23 00 12 change NN *)))))) change - - Phoebe_Buffay * -
+/friends-s02e23 00 13 . . *)) . - - Phoebe_Buffay * -
+
+/friends-s02e23 00 0 Hey UH (TOP(SINV(FRAG(INTJ*)) hey - - Joey_Tribbiani * -
+/friends-s02e23 00 1 , , * , - - Joey_Tribbiani * -
+/friends-s02e23 00 2 is VBZ (VP*) be - - Joey_Tribbiani * -
+/friends-s02e23 00 3 that IN (SBAR* that - - Joey_Tribbiani * -
+/friends-s02e23 00 4 when WRB (SBAR(WHADVP*) when - - Joey_Tribbiani * -
+/friends-s02e23 00 5 you PRP (S(NP*) you - - Joey_Tribbiani * -
+/friends-s02e23 00 6 wrote VBD (VP* write - - Joey_Tribbiani * -
+/friends-s02e23 00 7 salt NN (NP* salt - - Joey_Tribbiani * -
+/friends-s02e23 00 8 water NN * water - - Joey_Tribbiani * -
+/friends-s02e23 00 9 taffy NN * taffy - - Joey_Tribbiani * -
+/friends-s02e23 00 10 man NN *))))) man - - Joey_Tribbiani * -
+/friends-s02e23 00 11 ? . *)) ? - - Joey_Tribbiani * -
+
+/friends-s02e23 00 0 No DT (TOP(FRAG(NP*) no - - Phoebe_Buffay * -
+/friends-s02e23 00 1 . . *)) . - - Phoebe_Buffay * -
+
+/friends-s02e23 00 0 No DT (TOP(S(NP-TMP*) no - - Phoebe_Buffay * -
+/friends-s02e23 00 1 , , * , - - Phoebe_Buffay * -
+/friends-s02e23 00 2 he PRP (NP*) he - - Phoebe_Buffay * (339)
+/friends-s02e23 00 3 is VBZ (VP* be - - Phoebe_Buffay * -
+/friends-s02e23 00 4 my PRP$ (NP* my - - Phoebe_Buffay * -
+/friends-s02e23 00 5 submaring JJ * submaring - - Phoebe_Buffay * -
+/friends-s02e23 00 6 guy NN *)) guy - - Phoebe_Buffay * (339)
+/friends-s02e23 00 7 . . *)) . - - Phoebe_Buffay * -
+
+/friends-s02e23 00 0 He PRP (TOP(S(S(NP*) he - - Phoebe_Buffay * (339)
+/friends-s02e23 00 1 resurfaces VBZ (VP* resurface - - Phoebe_Buffay * -
+/friends-s02e23 00 2 like IN (PP* like - - Phoebe_Buffay * -
+/friends-s02e23 00 3 every DT (NP* every - - Phoebe_Buffay (SET* -
+/friends-s02e23 00 4 couple NN * couple - - Phoebe_Buffay * -
+/friends-s02e23 00 5 years NNS *)))) year - - Phoebe_Buffay *) -
+/friends-s02e23 00 6 and CC * and - - Phoebe_Buffay * -
+/friends-s02e23 00 7 we PRP (S(NP*) we - - Phoebe_Buffay * -
+/friends-s02e23 00 8 have VBP (VP* have - - Phoebe_Buffay * -
+/friends-s02e23 00 9 the DT (NP* the - - Phoebe_Buffay * -
+/friends-s02e23 00 10 most RBS * most - - Phoebe_Buffay * -
+/friends-s02e23 00 11 amazing JJ *) amazing - - Phoebe_Buffay * -
+/friends-s02e23 00 12 three CD (NP-TMP* three - - Phoebe_Buffay (DURATION* -
+/friends-s02e23 00 13 days NNS * day - - Phoebe_Buffay *) -
+/friends-s02e23 00 14 together RB *))) together - - Phoebe_Buffay * -
+/friends-s02e23 00 15 . . *)) . - - Phoebe_Buffay * -
+
+/friends-s02e23 00 0 Only RB (TOP(S(NP-TMP* only - - Phoebe_Buffay * -
+/friends-s02e23 00 1 this DT * this - - Phoebe_Buffay * -
+/friends-s02e23 00 2 time NN *) time - - Phoebe_Buffay * -
+/friends-s02e23 00 3 he PRP (NP*) he - - Phoebe_Buffay * -
+/friends-s02e23 00 4 's VBZ (VP* be - - Phoebe_Buffay * -
+/friends-s02e23 00 5 coming VBG (VP* come - - Phoebe_Buffay * -
+/friends-s02e23 00 6 for IN (PP* for - - Phoebe_Buffay * -
+/friends-s02e23 00 7 two CD (NP* two - - Phoebe_Buffay (DURATION* -
+/friends-s02e23 00 8 weeks NNS *)))) week - - Phoebe_Buffay *) -
+/friends-s02e23 00 9 . . *)) . - - Phoebe_Buffay * -
+
+/friends-s02e23 00 0 Two CD (TOP(FRAG(NP(NP* two - - Phoebe_Buffay (NUMBER) -
+/friends-s02e23 00 1 whole JJ * whole - - Phoebe_Buffay * -
+/friends-s02e23 00 2 weeks NNS *) week - - Phoebe_Buffay (DURATION) -
+/friends-s02e23 00 3 , , * , - - Phoebe_Buffay * -
+/friends-s02e23 00 4 which WDT (SBAR(WHNP*) which - - Phoebe_Buffay * -
+/friends-s02e23 00 5 means VBZ (S(VP* mean - - Phoebe_Buffay * -
+/friends-s02e23 00 6 yay NN (NP*))))) yay - - Phoebe_Buffay * -
+/friends-s02e23 00 7 . . *)) . - - Phoebe_Buffay * -
+
+/friends-s02e23 00 0 So RB (TOP(S* so - - Rachel_Green * -
+/friends-s02e23 00 1 wait VB (VP* wait - - Rachel_Green * -
+/friends-s02e23 00 2 , , * , - - Rachel_Green * -
+/friends-s02e23 00 3 this DT (S(NP* this - - Rachel_Green * -
+/friends-s02e23 00 4 guy NN *) guy - - Rachel_Green * (339)
+/friends-s02e23 00 5 goes VBZ (VP* go - - Rachel_Green * -
+/friends-s02e23 00 6 down RP (PRT*) down - - Rachel_Green * -
+/friends-s02e23 00 7 for IN (PP* for - - Rachel_Green * -
+/friends-s02e23 00 8 like IN * like - - Rachel_Green * -
+/friends-s02e23 00 9 two CD (NP(NP* two - - Rachel_Green (DURATION* -
+/friends-s02e23 00 10 years NNS *) year - - Rachel_Green *) -
+/friends-s02e23 00 11 at IN (PP* at - - Rachel_Green * -
+/friends-s02e23 00 12 a DT (NP* a - - Rachel_Green * -
+/friends-s02e23 00 13 time NN *))))))) time - - Rachel_Green * -
+/friends-s02e23 00 14 ? . *)) ? - - Rachel_Green * -
+
+/friends-s02e23 00 0 That DT (TOP(S(NP*) that - - Monica_Geller * -
+/friends-s02e23 00 1 'll MD (VP* will - - Monica_Geller * -
+/friends-s02e23 00 2 teach VB (VP* teach - - Monica_Geller * -
+/friends-s02e23 00 3 you PRP (S(NP*) you - - Monica_Geller * -
+/friends-s02e23 00 4 to TO (VP* to - - Monica_Geller * -
+/friends-s02e23 00 5 lick VB (VP* lick - - Monica_Geller * -
+/friends-s02e23 00 6 my PRP$ (NP* my - - Monica_Geller * -
+/friends-s02e23 00 7 muffin NN *)))))) muffin - - Monica_Geller * -
+/friends-s02e23 00 8 . . *)) . - - Monica_Geller * -
+
+/friends-s02e23 00 0 Hiii NNP (TOP(FRAG(NP*) Hiii - - Ross_Geller (PERSON) -
+/friends-s02e23 00 1 . . *)) . - - Ross_Geller * -
+
+/friends-s02e23 00 0 Oh UH (TOP(S(ADVP* oh - - Joey_Tribbiani * -
+/friends-s02e23 00 1 no DT *) no - - Joey_Tribbiani * -
+/friends-s02e23 00 2 , , * , - - Joey_Tribbiani * -
+/friends-s02e23 00 3 what WP (NP*) what - - Joey_Tribbiani * -
+/friends-s02e23 00 4 happened VBD (VP*) happen - - Joey_Tribbiani * -
+/friends-s02e23 00 5 ? . *)) ? - - Joey_Tribbiani * -
+
+/friends-s02e23 00 0 Well RB (TOP(S(INTJ*) well - - Ross_Geller * -
+/friends-s02e23 00 1 , , * , - - Ross_Geller * -
+/friends-s02e23 00 2 I PRP (NP*) I - - Ross_Geller * -
+/friends-s02e23 00 3 just RB (ADVP*) just - - Ross_Geller * -
+/friends-s02e23 00 4 spoke VBD (VP* speak - - Ross_Geller * -
+/friends-s02e23 00 5 to TO (PP* to - - Ross_Geller * -
+/friends-s02e23 00 6 Carol NNP (NP*))) Carol - - Ross_Geller (PERSON) (51)
+/friends-s02e23 00 7 . . *)) . - - Ross_Geller * -
+
+/friends-s02e23 00 0 Ben NNP (TOP(S(NP* Ben - - Ross_Geller (PERSON) (30)
+/friends-s02e23 00 1 's POS *) 's - - Ross_Geller * -
+/friends-s02e23 00 2 got VBD (VP* get - - Ross_Geller * -
+/friends-s02e23 00 3 the DT (NP* the - - Ross_Geller * -
+/friends-s02e23 00 4 chicken NN * chicken - - Ross_Geller * -
+/friends-s02e23 00 5 pox NN *)) pox - - Ross_Geller * -
+/friends-s02e23 00 6 . . *)) . - - Ross_Geller * -
+
+/friends-s02e23 00 0 Oh UH (TOP(S(VP(NP(INTJ*) oh - - All * -
+/friends-s02e23 00 1 no DT (NP*))) no - - All * -
+/friends-s02e23 00 2 . . *)) . - - All * -
+
+/friends-s02e23 00 0 Yeah UH (TOP(S(INTJ*) yeah - - Ross_Geller * -
+/friends-s02e23 00 1 , , * , - - Ross_Geller * -
+/friends-s02e23 00 2 so RB (ADVP*) so - - Ross_Geller * -
+/friends-s02e23 00 3 if IN (SBAR* if - - Ross_Geller * -
+/friends-s02e23 00 4 you PRP (S(NP*) you - - Ross_Geller * -
+/friends-s02e23 00 5 have VBP (VP* have - - Ross_Geller * -
+/friends-s02e23 00 6 n't RB * not - - Ross_Geller * -
+/friends-s02e23 00 7 already RB (VP(ADVP*) already - - Ross_Geller * -
+/friends-s02e23 00 8 had VBD (VP* have - - Ross_Geller * -
+/friends-s02e23 00 9 it PRP (NP*)))))) it - - Ross_Geller * -
+/friends-s02e23 00 10 , , * , - - Ross_Geller * -
+/friends-s02e23 00 11 chances NNS (NP*) chance - - Ross_Geller * -
+/friends-s02e23 00 12 are VBP (VP* be - - Ross_Geller * -
+/friends-s02e23 00 13 you PRP (SBAR(S(NP*) you - - Ross_Geller * -
+/friends-s02e23 00 14 're VBP (VP* be - - Ross_Geller * -
+/friends-s02e23 00 15 gon VBG (VP* gon - - Ross_Geller * -
+/friends-s02e23 00 16 na TO (S(VP* na - - Ross_Geller * -
+/friends-s02e23 00 17 get VB (VP* get - - Ross_Geller * -
+/friends-s02e23 00 18 it PRP (NP*))))))))) it - - Ross_Geller * -
+/friends-s02e23 00 19 . . *)) . - - Ross_Geller * -
+
+/friends-s02e23 00 0 Well UH (TOP(S(S(INTJ*) well - - Rachel_Green * -
+/friends-s02e23 00 1 I PRP (NP*) I - - Rachel_Green * -
+/friends-s02e23 00 2 've VBP (VP* have - - Rachel_Green * -
+/friends-s02e23 00 3 had VBD (VP* have - - Rachel_Green * -
+/friends-s02e23 00 4 it PRP (NP*)))) it - - Rachel_Green * -
+/friends-s02e23 00 5 . . *)) . - - Rachel_Green * -
+
+/friends-s02e23 00 0 Yeah UH (TOP(S(INTJ*) yeah - - Joey_Tribbiani * -
+/friends-s02e23 00 1 , , * , - - Joey_Tribbiani * -
+/friends-s02e23 00 2 I PRP (NP*) I - - Joey_Tribbiani * -
+/friends-s02e23 00 3 've VBP (VP* have - - Joey_Tribbiani * -
+/friends-s02e23 00 4 had VBD (VP* have - - Joey_Tribbiani * -
+/friends-s02e23 00 5 it PRP (NP*))) it - - Joey_Tribbiani * -
+/friends-s02e23 00 6 . . *)) . - - Joey_Tribbiani * -
+
+/friends-s02e23 00 0 Had VBD (TOP(S(VP* have - - Monica_Geller * -
+/friends-s02e23 00 1 it PRP (NP*)) it - - Monica_Geller * -
+/friends-s02e23 00 2 . . *)) . - - Monica_Geller * -
+
+/friends-s02e23 00 0 Had VBD (TOP(S(VP* have - - Chandler_Bing * -
+/friends-s02e23 00 1 it PRP (NP*)) it - - Chandler_Bing * -
+/friends-s02e23 00 2 . . *)) . - - Chandler_Bing * -
+
+/friends-s02e23 00 0 Well RB (TOP(S(S(INTJ*) well - - Phoebe_Buffay * -
+/friends-s02e23 00 1 , , * , - - Phoebe_Buffay * -
+/friends-s02e23 00 2 I PRP (NP*) I - - Phoebe_Buffay * -
+/friends-s02e23 00 3 've VBP (VP* have - - Phoebe_Buffay * -
+/friends-s02e23 00 4 never RB (ADVP*) never - - Phoebe_Buffay * -
+/friends-s02e23 00 5 had VBN (VP* have - - Phoebe_Buffay * -
+/friends-s02e23 00 6 it PRP (NP*)))) it - - Phoebe_Buffay * -
+/friends-s02e23 00 7 , , * , - - Phoebe_Buffay * -
+/friends-s02e23 00 8 I PRP (NP*) I - - Phoebe_Buffay * -
+/friends-s02e23 00 9 feel VBP (VP* feel - - Phoebe_Buffay * -
+/friends-s02e23 00 10 so RB (ADJP* so - - Phoebe_Buffay * -
+/friends-s02e23 00 11 left VBN * leave - - Phoebe_Buffay * -
+/friends-s02e23 00 12 out RP (PRT*))) out - - Phoebe_Buffay * -
+/friends-s02e23 00 13 . . *)) . - - Phoebe_Buffay * -
+
+/friends-s02e23 00 0 Oh UH (TOP(S(INTJ*) oh - - Phoebe_Buffay * -
+/friends-s02e23 00 1 look VB (VP*) look - - Phoebe_Buffay * -
+/friends-s02e23 00 2 ! . *)) ! - - Phoebe_Buffay * -
+
+#end document
+#begin document (/friends-s02e23); part 001
+/friends-s02e23 01 0 Honey NNP (TOP(S(NP*) Honey - - Monica_Geller * (317)
+/friends-s02e23 01 1 , , * , - - Monica_Geller * -
+/friends-s02e23 01 2 you PRP (NP*) you - - Monica_Geller * -
+/friends-s02e23 01 3 made VBD (VP* make - - Monica_Geller * -
+/friends-s02e23 01 4 the DT (NP* the - - Monica_Geller * -
+/friends-s02e23 01 5 bed NN *) bed - - Monica_Geller * -
+/friends-s02e23 01 6 again RB (ADVP*)) again - - Monica_Geller * -
+/friends-s02e23 01 7 . . *)) . - - Monica_Geller * -
+
+/friends-s02e23 01 0 I PRP (TOP(S(S(NP*) I - - Monica_Geller * -
+/friends-s02e23 01 1 told VBD (VP* tell - - Monica_Geller * -
+/friends-s02e23 01 2 you PRP (NP*))) you - - Monica_Geller * -
+/friends-s02e23 01 3 , , * , - - Monica_Geller * -
+/friends-s02e23 01 4 you PRP (NP*) you - - Monica_Geller * -
+/friends-s02e23 01 5 do VBP (VP* do - - Monica_Geller * -
+/friends-s02e23 01 6 n't RB * not - - Monica_Geller * -
+/friends-s02e23 01 7 have VB (VP* have - - Monica_Geller * -
+/friends-s02e23 01 8 to TO (S(VP* to - - Monica_Geller * -
+/friends-s02e23 01 9 do VB (VP* do - - Monica_Geller * -
+/friends-s02e23 01 10 that DT (NP*)))))) that - - Monica_Geller * -
+/friends-s02e23 01 11 . . *)) . - - Monica_Geller * -
+
+/friends-s02e23 01 0 This DT (TOP(S(NP*) this - - Monica_Geller * -
+/friends-s02e23 01 1 is VBZ (VP* be - - Monica_Geller * -
+/friends-s02e23 01 2 n't RB * not - - Monica_Geller * -
+/friends-s02e23 01 3 camp NN (NP*)) camp - - Monica_Geller * -
+/friends-s02e23 01 4 . . *)) . - - Monica_Geller * -
+
+/friends-s02e23 01 0 Ooh NNP (TOP(S(NP*) Ooh - - Richard * -
+/friends-s02e23 01 1 , , * , - - Richard * -
+/friends-s02e23 01 2 then RB (ADVP*) then - - Richard * -
+/friends-s02e23 01 3 I PRP (NP*) I - - Richard * -
+/friends-s02e23 01 4 guess VBP (VP* guess - - Richard * -
+/friends-s02e23 01 5 the DT (SBAR(S(NP* the - - Richard * -
+/friends-s02e23 01 6 panty NN * panty - - Richard * -
+/friends-s02e23 01 7 raid NN *) raid - - Richard * -
+/friends-s02e23 01 8 last JJ (NP-TMP* last - - Richard (TIME* -
+/friends-s02e23 01 9 night NN *) night - - Richard *) -
+/friends-s02e23 01 10 was VBD (VP* be - - Richard * -
+/friends-s02e23 01 11 totally RB (ADJP* totally - - Richard * -
+/friends-s02e23 01 12 uncalled JJ * uncalled - - Richard * -
+/friends-s02e23 01 13 for IN (PP*)))))) for - - Richard * -
+/friends-s02e23 01 14 . . *)) . - - Richard * -
+
+/friends-s02e23 01 0 Ok NNP (TOP(S(S(NP-TMP*) Ok - - Richard * -
+/friends-s02e23 01 1 , , * , - - Richard * -
+/friends-s02e23 01 2 I PRP (NP*) I - - Richard * -
+/friends-s02e23 01 3 am VBP (VP* be - - Richard * -
+/friends-s02e23 01 4 going VBG (VP* go - - Richard * -
+/friends-s02e23 01 5 to TO (S(VP* to - - Richard * -
+/friends-s02e23 01 6 take VB (VP* take - - Richard * -
+/friends-s02e23 01 7 a DT (NP* a - - Richard * -
+/friends-s02e23 01 8 shower NN *))))))) shower - - Richard * -
+/friends-s02e23 01 9 and CC * and - - Richard * -
+/friends-s02e23 01 10 today NN (S(NP-TMP*) today - - Richard (DATE) -
+/friends-s02e23 01 11 I PRP (NP*) I - - Richard * -
+/friends-s02e23 01 12 will MD (VP* will - - Richard * -
+/friends-s02e23 01 13 be VB (VP* be - - Richard * -
+/friends-s02e23 01 14 singing NN (NP(NP* singing - - Richard * -
+/friends-s02e23 01 15 Jim NNP * Jim - - Richard (PERSON* (178
+/friends-s02e23 01 16 Crochee NNP * Crochee - - Richard *) -
+/friends-s02e23 01 17 's POS *) 's - - Richard * 178)
+/friends-s02e23 01 18 Leroy NNP * Leroy - - Richard (PERSON* -
+/friends-s02e23 01 19 Brown NNP *)))) Brown - - Richard *) -
+/friends-s02e23 01 20 . . *)) . - - Richard * -
+
+/friends-s02e23 01 0 Monica NNP (TOP(NP* Monica - - Richard (PERSON) (248)
+/friends-s02e23 01 1 ... : *)) ... - - Richard * -
+
+/friends-s02e23 01 0 Hey UH (TOP(S(S(INTJ*) hey - - Richard * -
+/friends-s02e23 01 1 Mon NNP (NP* Mon - - Richard (DATE) (248)
+/friends-s02e23 01 2 , , *) , - - Richard * -
+/friends-s02e23 01 3 I PRP (VP(ADVP*) I - - Richard * -
+/friends-s02e23 01 4 have VBP (VP* have - - Richard * -
+/friends-s02e23 01 5 a DT (NP* a - - Richard * -
+/friends-s02e23 01 6 question NN *)))) question - - Richard * -
+/friends-s02e23 01 7 . . *)) . - - Richard * -
+
+/friends-s02e23 01 0 Is VBZ (TOP(SQ* be - - Richard * -
+/friends-s02e23 01 1 Leroy NNP (NP*) Leroy - - Richard (PERSON) (206)
+/friends-s02e23 01 2 the DT (NP(NP* the - - Richard * -
+/friends-s02e23 01 3 baddest JJS * baddest - - Richard * -
+/friends-s02e23 01 4 man NN *) man - - Richard * (206)
+/friends-s02e23 01 5 in IN (PP* in - - Richard * -
+/friends-s02e23 01 6 the DT (NP(NP* the - - Richard * -
+/friends-s02e23 01 7 whole JJ * whole - - Richard * -
+/friends-s02e23 01 8 damn JJ * damn - - Richard * -
+/friends-s02e23 01 9 town NN *) town - - Richard * -
+/friends-s02e23 01 10 or CC * or - - Richard * -
+/friends-s02e23 01 11 the DT (NP(NP* the - - Richard * -
+/friends-s02e23 01 12 fattest JJS * fattest - - Richard * -
+/friends-s02e23 01 13 man NN *) man - - Richard * (206)
+/friends-s02e23 01 14 in IN (PP* in - - Richard * -
+/friends-s02e23 01 15 the DT (NP* the - - Richard * -
+/friends-s02e23 01 16 whole JJ * whole - - Richard * -
+/friends-s02e23 01 17 damn JJ * damn - - Richard * -
+/friends-s02e23 01 18 town NN *)))))) town - - Richard * -
+/friends-s02e23 01 19 ? . *)) ? - - Richard * -
+
+/friends-s02e23 01 0 Baddest JJS (TOP(S(VP(ADVP*)) baddest - - Monica_Geller * -
+/friends-s02e23 01 1 . . *)) . - - Monica_Geller * -
+
+/friends-s02e23 01 0 Otherwise RB (TOP(S(ADVP*) otherwise - - Monica_Geller * -
+/friends-s02e23 01 1 the DT (NP* the - - Monica_Geller * -
+/friends-s02e23 01 2 song NN *) song - - Monica_Geller * -
+/friends-s02e23 01 3 would MD (VP* would - - Monica_Geller * -
+/friends-s02e23 01 4 be VB (VP* be - - Monica_Geller * -
+/friends-s02e23 01 5 Fat NNP (NP* Fat - - Monica_Geller * (206
+/friends-s02e23 01 6 Fat NNP * Fat - - Monica_Geller * -
+/friends-s02e23 01 7 Leroy NNP * Leroy - - Monica_Geller (PERSON* -
+/friends-s02e23 01 8 Brown NNP *))) Brown - - Monica_Geller *) 206)
+/friends-s02e23 01 9 . . *)) . - - Monica_Geller * -
+
+/friends-s02e23 01 0 What WDT (TOP(FRAG(SBAR(WHNP*) what - - Richard * -
+/friends-s02e23 01 1 're VBP (S(VP* be - - Richard * -
+/friends-s02e23 01 2 you PRP (NP(NP*) you - - Richard * -
+/friends-s02e23 01 3 doing VBG (VP*))))) do - - Richard * -
+/friends-s02e23 01 4 ? . *)) ? - - Richard * -
+
+/friends-s02e23 01 0 Just RB (TOP(S(NP(NP* just - - Monica_Geller * -
+/friends-s02e23 01 1 waiting VBG *) wait - - Monica_Geller * -
+/friends-s02e23 01 2 for IN (PP* for - - Monica_Geller * -
+/friends-s02e23 01 3 you PRP (NP*))) you - - Monica_Geller * -
+/friends-s02e23 01 4 sweetie VBP (VP*) sweetie - - Monica_Geller * -
+/friends-s02e23 01 5 . . *)) . - - Monica_Geller * -
+
+/friends-s02e23 01 0 Are VBP (TOP(SQ* be - - Richard * -
+/friends-s02e23 01 1 you PRP (NP*) you - - Richard * -
+/friends-s02e23 01 2 remaking VBG (VP* remake - - Richard * -
+/friends-s02e23 01 3 the DT (NP* the - - Richard * -
+/friends-s02e23 01 4 bed NN *)) bed - - Richard * -
+/friends-s02e23 01 5 ? . *)) ? - - Richard * -
+
+/friends-s02e23 01 0 I PRP (TOP(S(S(NP*) I - - Monica_Geller * -
+/friends-s02e23 01 1 'm VBP (VP* be - - Monica_Geller * -
+/friends-s02e23 01 2 sorry JJ (ADJP*))) sorry - - Monica_Geller * -
+/friends-s02e23 01 3 , , * , - - Monica_Geller * -
+/friends-s02e23 01 4 I PRP (NP*) I - - Monica_Geller * -
+/friends-s02e23 01 5 'm VBP (VP* be - - Monica_Geller * -
+/friends-s02e23 01 6 sorry JJ (ADJP*)) sorry - - Monica_Geller * -
+/friends-s02e23 01 7 . . *)) . - - Monica_Geller * -
+
+/friends-s02e23 01 0 You PRP (TOP(S(NP*) you - - Monica_Geller * -
+/friends-s02e23 01 1 know VBP (VP(VP* know - - Monica_Geller * -
+/friends-s02e23 01 2 what WP (NP*)) what - - Monica_Geller * -
+/friends-s02e23 01 3 , , * , - - Monica_Geller * -
+/friends-s02e23 01 4 the DT (NP(NP* the - - Monica_Geller * -
+/friends-s02e23 01 5 way NN *) way - - Monica_Geller * -
+/friends-s02e23 01 6 you PRP (SBAR(S(NP*) you - - Monica_Geller * -
+/friends-s02e23 01 7 did VBD (VP* do - - Monica_Geller * -
+/friends-s02e23 01 8 it PRP (SBAR(S(NP*) it - - Monica_Geller * -
+/friends-s02e23 01 9 was VBD (VP* be - - Monica_Geller * -
+/friends-s02e23 01 10 just RB (ADJP* just - - Monica_Geller * -
+/friends-s02e23 01 11 fine JJ *))))))))) fine - - Monica_Geller * -
+/friends-s02e23 01 12 . . *)) . - - Monica_Geller * -
+
+/friends-s02e23 01 0 Then RB (TOP(S(ADVP*) then - - Richard * -
+/friends-s02e23 01 1 , , * , - - Richard * -
+/friends-s02e23 01 2 you PRP (NP*) you - - Richard * -
+/friends-s02e23 01 3 're VBP (VP* be - - Richard * -
+/friends-s02e23 01 4 redoing VBG (VP* redo - - Richard * -
+/friends-s02e23 01 5 it PRP (NP*) it - - Richard * -
+/friends-s02e23 01 6 because IN (PP*))) because - - Richard * -
+/friends-s02e23 01 7 ... : *)) ... - - Richard * -
+
+/friends-s02e23 01 0 If IN (TOP(S(SBAR* if - - Monica_Geller * -
+/friends-s02e23 01 1 I PRP (S(NP*) I - - Monica_Geller * -
+/friends-s02e23 01 2 tell VBP (VP* tell - - Monica_Geller * -
+/friends-s02e23 01 3 you PRP (NP*)))) you - - Monica_Geller * -
+/friends-s02e23 01 4 , , * , - - Monica_Geller * -
+/friends-s02e23 01 5 you PRP (NP*) you - - Monica_Geller * -
+/friends-s02e23 01 6 'll MD (VP* will - - Monica_Geller * -
+/friends-s02e23 01 7 think VB (VP* think - - Monica_Geller * -
+/friends-s02e23 01 8 I PRP (SBAR(S(NP*) I - - Monica_Geller * -
+/friends-s02e23 01 9 'm VBP (VP* be - - Monica_Geller * -
+/friends-s02e23 01 10 crazy JJ (ADJP*)))))) crazy - - Monica_Geller * -
+/friends-s02e23 01 11 . . *)) . - - Monica_Geller * -
+
+/friends-s02e23 01 0 You PRP (TOP(S(NP*) you - - Richard * -
+/friends-s02e23 01 1 're VBP (VP* be - - Richard * -
+/friends-s02e23 01 2 pretty RB (ADVP* pretty - - Richard * -
+/friends-s02e23 01 3 much RB *) much - - Richard * -
+/friends-s02e23 01 4 running VBG (VP* run - - Richard * -
+/friends-s02e23 01 5 that IN (SBAR* that - - Richard * -
+/friends-s02e23 01 6 risk NN (S(VP* risk - - Richard * -
+/friends-s02e23 01 7 either CC (PP* either - - Richard * -
+/friends-s02e23 01 8 way NN (NP*))))))) way - - Richard * -
+/friends-s02e23 01 9 . . *)) . - - Richard * -
+
+/friends-s02e23 01 0 Ok NNP (TOP(S(S(NP*) Ok - - Monica_Geller * -
+/friends-s02e23 01 1 , , (PRN* , - - Monica_Geller * -
+/friends-s02e23 01 2 you PRP (S(NP*) you - - Monica_Geller * -
+/friends-s02e23 01 3 see VBP (VP*)) see - - Monica_Geller * -
+/friends-s02e23 01 4 , , *) , - - Monica_Geller * -
+/friends-s02e23 01 5 the DT (NP* the - - Monica_Geller * -
+/friends-s02e23 01 6 tag NN *) tag - - Monica_Geller * -
+/friends-s02e23 01 7 should MD (VP* should - - Monica_Geller * -
+/friends-s02e23 01 8 n't RB * not - - Monica_Geller * -
+/friends-s02e23 01 9 be VB (VP* be - - Monica_Geller * -
+/friends-s02e23 01 10 at IN (PP* at - - Monica_Geller * -
+/friends-s02e23 01 11 the DT (NP* the - - Monica_Geller * -
+/friends-s02e23 01 12 top JJ * top - - Monica_Geller * -
+/friends-s02e23 01 13 left NN * left - - Monica_Geller * -
+/friends-s02e23 01 14 corner NN *))))) corner - - Monica_Geller * -
+/friends-s02e23 01 15 , , * , - - Monica_Geller * -
+/friends-s02e23 01 16 it PRP (NP*) it - - Monica_Geller * -
+/friends-s02e23 01 17 should MD (VP* should - - Monica_Geller * -
+/friends-s02e23 01 18 be VB (VP* be - - Monica_Geller * -
+/friends-s02e23 01 19 at IN (PP* at - - Monica_Geller * -
+/friends-s02e23 01 20 the DT (NP* the - - Monica_Geller * -
+/friends-s02e23 01 21 bottom JJ * bottom - - Monica_Geller * -
+/friends-s02e23 01 22 right JJ * right - - Monica_Geller * -
+/friends-s02e23 01 23 corner NN *)))) corner - - Monica_Geller * -
+/friends-s02e23 01 24 . . *)) . - - Monica_Geller * -
+
+/friends-s02e23 01 0 Oh UH (TOP(S(INTJ*) oh - - Richard * -
+/friends-s02e23 01 1 , , * , - - Richard * -
+/friends-s02e23 01 2 well RB (ADVP*) well - - Richard * -
+/friends-s02e23 01 3 that DT (NP*) that - - Richard * -
+/friends-s02e23 01 4 's VBZ (VP* be - - Richard * -
+/friends-s02e23 01 5 not RB * not - - Richard * -
+/friends-s02e23 01 6 so RB (ADJP* so - - Richard * -
+/friends-s02e23 01 7 crazy JJ *)) crazy - - Richard * -
+/friends-s02e23 01 8 . . *)) . - - Richard * -
+
+/friends-s02e23 01 0 I PRP (TOP(S(NP*) I - - Monica_Geller * -
+/friends-s02e23 01 1 'm VBP (VP* be - - Monica_Geller * -
+/friends-s02e23 01 2 just RB (ADVP*) just - - Monica_Geller * -
+/friends-s02e23 01 3 easing VBG (VP* ease - - Monica_Geller * -
+/friends-s02e23 01 4 you PRP (NP*) you - - Monica_Geller * -
+/friends-s02e23 01 5 in. RB (ADVP*))))) in. - - Monica_Geller * -
+
+/friends-s02e23 01 0 Oh UH (TOP(FRAG(INTJ*) oh - - Richard * -
+/friends-s02e23 01 1 , , * , - - Richard * -
+/friends-s02e23 01 2 alright JJ (ADVP*) alright - - Richard * -
+/friends-s02e23 01 3 . . *)) . - - Richard * -
+
+/friends-s02e23 01 0 Alright NNP (TOP(S(NP*) Alright - - Monica_Geller * -
+/friends-s02e23 01 1 , , * , - - Monica_Geller * -
+/friends-s02e23 01 2 you PRP (NP*) you - - Monica_Geller * -
+/friends-s02e23 01 3 see VBP (VP* see - - Monica_Geller * -
+/friends-s02e23 01 4 these DT (NP* these - - Monica_Geller * -
+/friends-s02e23 01 5 little JJ * little - - Monica_Geller * -
+/friends-s02e23 01 6 flower NN * flower - - Monica_Geller * -
+/friends-s02e23 01 7 blossoms NNS *)) blossom - - Monica_Geller * -
+/friends-s02e23 01 8 ? . *)) ? - - Monica_Geller * -
+
+/friends-s02e23 01 0 They PRP (TOP(S(S(NP*) they - - Monica_Geller * -
+/friends-s02e23 01 1 should MD (VP* should - - Monica_Geller * -
+/friends-s02e23 01 2 be VB (VP* be - - Monica_Geller * -
+/friends-s02e23 01 3 facing VBG (VP* face - - Monica_Geller * -
+/friends-s02e23 01 4 up RB (ADVP*) up - - Monica_Geller * -
+/friends-s02e23 01 5 , , * , - - Monica_Geller * -
+/friends-s02e23 01 6 not RB (ADVP* not - - Monica_Geller * -
+/friends-s02e23 01 7 down RB *))))) down - - Monica_Geller * -
+/friends-s02e23 01 8 , , * , - - Monica_Geller * -
+/friends-s02e23 01 9 because RB (NP*) because - - Monica_Geller * -
+/friends-s02e23 01 10 , , * , - - Monica_Geller * -
+/friends-s02e23 01 11 well RB (ADVP*) well - - Monica_Geller * -
+/friends-s02e23 01 12 , , * , - - Monica_Geller * -
+/friends-s02e23 01 13 the DT (NP(NP* the - - Monica_Geller * -
+/friends-s02e23 01 14 head NN *) head - - Monica_Geller * -
+/friends-s02e23 01 15 of IN (PP* of - - Monica_Geller * -
+/friends-s02e23 01 16 the DT (NP* the - - Monica_Geller * -
+/friends-s02e23 01 17 bed NN *))) bed - - Monica_Geller * -
+/friends-s02e23 01 18 is VBZ (VP* be - - Monica_Geller * -
+/friends-s02e23 01 19 where WRB (SBAR(WHADVP*) where - - Monica_Geller * -
+/friends-s02e23 01 20 the DT (S(NP* the - - Monica_Geller * -
+/friends-s02e23 01 21 sun NN *) sun - - Monica_Geller * -
+/friends-s02e23 01 22 would MD (VP* would - - Monica_Geller * -
+/friends-s02e23 01 23 be VB (VP*))))) be - - Monica_Geller * -
+/friends-s02e23 01 24 . . *)) . - - Monica_Geller * -
+
+/friends-s02e23 01 0 You PRP (TOP(S(NP*) you - - Monica_Geller * -
+/friends-s02e23 01 1 do VBP (VP* do - - Monica_Geller * -
+/friends-s02e23 01 2 n't RB * not - - Monica_Geller * -
+/friends-s02e23 01 3 love VB (VP* love - - Monica_Geller * -
+/friends-s02e23 01 4 me PRP (SBAR(S(NP*) I - - Monica_Geller * -
+/friends-s02e23 01 5 any DT (VP(ADVP* any - - Monica_Geller * -
+/friends-s02e23 01 6 more JJR *) more - - Monica_Geller * -
+/friends-s02e23 01 7 do VBP * do - - Monica_Geller * -
+/friends-s02e23 01 8 you PRP (NP*)))))) you - - Monica_Geller * -
+/friends-s02e23 01 9 . . *)) . - - Monica_Geller * -
+
+/friends-s02e23 01 0 Actually RB (TOP(S(ADVP*) actually - - Richard * -
+/friends-s02e23 01 1 , , * , - - Richard * -
+/friends-s02e23 01 2 if IN (SBAR* if - - Richard * -
+/friends-s02e23 01 3 it PRP (S(NP*) it - - Richard * -
+/friends-s02e23 01 4 's VBZ (VP* be - - Richard * -
+/friends-s02e23 01 5 possible JJ (ADJP*)))) possible - - Richard * -
+/friends-s02e23 01 6 , , * , - - Richard * -
+/friends-s02e23 01 7 I PRP (NP*) I - - Richard * -
+/friends-s02e23 01 8 love VBP (VP* love - - Richard * -
+/friends-s02e23 01 9 you PRP (S(NP*) you - - Richard * -
+/friends-s02e23 01 10 more RBR (ADJP*))) more - - Richard * -
+/friends-s02e23 01 11 . . *)) . - - Richard * -
+
+/friends-s02e23 01 0 Really RB (TOP(FRAG(ADVP*) really - - Monica_Geller * -
+/friends-s02e23 01 1 ? . *)) ? - - Monica_Geller * -
+
+/friends-s02e23 01 0 Wow UH (TOP(S(S(INTJ*) wow - - Monica_Geller * -
+/friends-s02e23 01 1 , , * , - - Monica_Geller * -
+/friends-s02e23 01 2 well RB (VP(ADVP* well - - Monica_Geller * -
+/friends-s02e23 01 3 then RB *) then - - Monica_Geller * -
+/friends-s02e23 01 4 come VB * come - - Monica_Geller * -
+/friends-s02e23 01 5 on RP (PP*))) on - - Monica_Geller * -
+/friends-s02e23 01 6 , , * , - - Monica_Geller * -
+/friends-s02e23 01 7 I PRP (NP*) I - - Monica_Geller * -
+/friends-s02e23 01 8 wan VBP (VP* wan - - Monica_Geller * -
+/friends-s02e23 01 9 na TO (S(VP* na - - Monica_Geller * -
+/friends-s02e23 01 10 show VB (VP* show - - Monica_Geller * -
+/friends-s02e23 01 11 you PRP (NP*) you - - Monica_Geller * -
+/friends-s02e23 01 12 how WRB (SBAR(WHADVP*) how - - Monica_Geller * -
+/friends-s02e23 01 13 to TO (S(VP* to - - Monica_Geller * -
+/friends-s02e23 01 14 fold VB (VP* fold - - Monica_Geller * -
+/friends-s02e23 01 15 the DT (NP* the - - Monica_Geller * -
+/friends-s02e23 01 16 toilet NN * toilet - - Monica_Geller * -
+/friends-s02e23 01 17 paper NN *) paper - - Monica_Geller * -
+/friends-s02e23 01 18 into IN (PP* into - - Monica_Geller * -
+/friends-s02e23 01 19 a DT (NP* a - - Monica_Geller * -
+/friends-s02e23 01 20 point NN *)))))))))) point - - Monica_Geller * -
+/friends-s02e23 01 21 . . *)) . - - Monica_Geller * -
+
+#end document
+#begin document (/friends-s02e23); part 002
+/friends-s02e23 02 0 Hey UH (TOP(S(S(S(INTJ*) hey - - Chandler_Bing * -
+/friends-s02e23 02 1 , , * , - - Chandler_Bing * -
+/friends-s02e23 02 2 look VB (VP* look - - Chandler_Bing * -
+/friends-s02e23 02 3 Joey NNP (NP*))) Joey - - Chandler_Bing (PERSON) (183)
+/friends-s02e23 02 4 , , * , - - Chandler_Bing * -
+/friends-s02e23 02 5 I PRP (NP*) I - - Chandler_Bing * -
+/friends-s02e23 02 6 'm VBP (VP* be - - Chandler_Bing * -
+/friends-s02e23 02 7 just RB (ADVP*) just - - Chandler_Bing * -
+/friends-s02e23 02 8 saying VBG (VP* say - - Chandler_Bing * -
+/friends-s02e23 02 9 if IN (SBAR* if - - Chandler_Bing * -
+/friends-s02e23 02 10 you PRP (S(NP*) you - - Chandler_Bing * -
+/friends-s02e23 02 11 need VBP (VP* need - - Chandler_Bing * -
+/friends-s02e23 02 12 something NN (NP*) something - - Chandler_Bing * -
+/friends-s02e23 02 13 to TO (S(VP* to - - Chandler_Bing * -
+/friends-s02e23 02 14 hold VB (VP* hold - - Chandler_Bing * -
+/friends-s02e23 02 15 you PRP (NP*) you - - Chandler_Bing * -
+/friends-s02e23 02 16 over IN (PP*)))))))))) over - - Chandler_Bing * -
+/friends-s02e23 02 17 , , * , - - Chandler_Bing * -
+/friends-s02e23 02 18 I PRP (NP*) I - - Chandler_Bing * -
+/friends-s02e23 02 19 can MD (VP* can - - Chandler_Bing * -
+/friends-s02e23 02 20 get VB (VP* get - - Chandler_Bing * -
+/friends-s02e23 02 21 you PRP (S(NP*) you - - Chandler_Bing * -
+/friends-s02e23 02 22 a DT (NP* a - - Chandler_Bing * -
+/friends-s02e23 02 23 job NN * job - - Chandler_Bing * -
+/friends-s02e23 02 24 right NN *)) right - - Chandler_Bing * -
+/friends-s02e23 02 25 here RB (ADVP*) here - - Chandler_Bing * -
+/friends-s02e23 02 26 as IN (PP* as - - Chandler_Bing * -
+/friends-s02e23 02 27 an DT (NP* a - - Chandler_Bing * -
+/friends-s02e23 02 28 entry NN * entry - - Chandler_Bing * -
+/friends-s02e23 02 29 level NN * level - - Chandler_Bing * -
+/friends-s02e23 02 30 processor NN *)))) processor - - Chandler_Bing * -
+/friends-s02e23 02 31 . . *)) . - - Chandler_Bing * -
+
+/friends-s02e23 02 0 But CC (TOP(X* but - - Joey_Tribbiani * -
+/friends-s02e23 02 1 do VBP (VP(VP* do - - Joey_Tribbiani * -
+/friends-s02e23 02 2 n't RB *) not - - Joey_Tribbiani * -
+/friends-s02e23 02 3 you PRP (SBAR(S(NP*) you - - Joey_Tribbiani * -
+/friends-s02e23 02 4 need VBP (VP* need - - Joey_Tribbiani * -
+/friends-s02e23 02 5 experience NN (NP(NP*) experience - - Joey_Tribbiani * -
+/friends-s02e23 02 6 for IN (PP* for - - Joey_Tribbiani * -
+/friends-s02e23 02 7 a DT (NP(NP* a - - Joey_Tribbiani * -
+/friends-s02e23 02 8 job NN *) job - - Joey_Tribbiani * -
+/friends-s02e23 02 9 like IN (PP* like - - Joey_Tribbiani * -
+/friends-s02e23 02 10 that DT (NP*))))))))) that - - Joey_Tribbiani * -
+/friends-s02e23 02 11 ? . *)) ? - - Joey_Tribbiani * -
+
+/friends-s02e23 02 0 It PRP (TOP(S(NP*) it - - Chandler_Bing * -
+/friends-s02e23 02 1 's VBZ (VP* be - - Chandler_Bing * -
+/friends-s02e23 02 2 not RB * not - - Chandler_Bing * -
+/friends-s02e23 02 3 that DT (ADJP* that - - Chandler_Bing * -
+/friends-s02e23 02 4 hard JJ *) hard - - Chandler_Bing * -
+/friends-s02e23 02 5 to TO (S(VP* to - - Chandler_Bing * -
+/friends-s02e23 02 6 learn VB (VP*)))) learn - - Chandler_Bing * -
+/friends-s02e23 02 7 . . *)) . - - Chandler_Bing * -
+
+/friends-s02e23 02 0 And CC (TOP(S* and - - Chandler_Bing * -
+/friends-s02e23 02 1 as IN (PP* as - - Chandler_Bing * -
+/friends-s02e23 02 2 for IN * for - - Chandler_Bing * -
+/friends-s02e23 02 3 people NNS (NP(NP(NP*) people - - Chandler_Bing * -
+/friends-s02e23 02 4 realizing VBG (VP* realize - - Chandler_Bing * -
+/friends-s02e23 02 5 you PRP (SBAR(S(NP*) you - - Chandler_Bing * -
+/friends-s02e23 02 6 have VBP (VP* have - - Chandler_Bing * -
+/friends-s02e23 02 7 no DT (NP(NP* no - - Chandler_Bing * -
+/friends-s02e23 02 8 idea NN *) idea - - Chandler_Bing * -
+/friends-s02e23 02 9 what WP (SBAR(WHNP*) what - - Chandler_Bing * -
+/friends-s02e23 02 10 you PRP (S(NP*) you - - Chandler_Bing * -
+/friends-s02e23 02 11 're VBP (VP* be - - Chandler_Bing * -
+/friends-s02e23 02 12 doing VBG (VP*)))))))))) do - - Chandler_Bing * -
+/friends-s02e23 02 13 , , * , - - Chandler_Bing * -
+/friends-s02e23 02 14 hey NN (NP*))) hey - - Chandler_Bing * -
+/friends-s02e23 02 15 , , * , - - Chandler_Bing * -
+/friends-s02e23 02 16 you PRP (NP*) you - - Chandler_Bing * -
+/friends-s02e23 02 17 're VBP (VP* be - - Chandler_Bing * -
+/friends-s02e23 02 18 an DT (NP* a - - Chandler_Bing * -
+/friends-s02e23 02 19 actor NN *)) actor - - Chandler_Bing * (183)
+/friends-s02e23 02 20 . . *)) . - - Chandler_Bing * -
+
+/friends-s02e23 02 0 Act NNP (TOP(S(NP(NP*) Act - - Chandler_Bing * -
+/friends-s02e23 02 1 like IN (PP* like - - Chandler_Bing * -
+/friends-s02e23 02 2 a DT (NP(NP* a - - Chandler_Bing * -
+/friends-s02e23 02 3 processor NN *) processor - - Chandler_Bing * -
+/friends-s02e23 02 4 , , * , - - Chandler_Bing * -
+/friends-s02e23 02 5 people NNS (NP*)))) people - - Chandler_Bing * -
+/friends-s02e23 02 6 will MD (VP* will - - Chandler_Bing * -
+/friends-s02e23 02 7 think VB (VP* think - - Chandler_Bing * -
+/friends-s02e23 02 8 you PRP (SBAR(S(NP*) you - - Chandler_Bing * -
+/friends-s02e23 02 9 're VBP (VP* be - - Chandler_Bing * -
+/friends-s02e23 02 10 a DT (NP* a - - Chandler_Bing * -
+/friends-s02e23 02 11 processor NN *)))))) processor - - Chandler_Bing * -
+/friends-s02e23 02 12 . . *)) . - - Chandler_Bing * -
+
+/friends-s02e23 02 0 Hey UH (TOP(S(S(INTJ*) hey - - Scott_Alexander * -
+/friends-s02e23 02 1 Chandler NNP (NP* Chandler - - Scott_Alexander (PERSON) (59)
+/friends-s02e23 02 2 , , *) , - - Scott_Alexander * -
+/friends-s02e23 02 3 here RB (VP(ADVP*) here - - Scott_Alexander * -
+/friends-s02e23 02 4 's VBZ (VP* be - - Scott_Alexander * -
+/friends-s02e23 02 5 this DT (NP(NP* this - - Scott_Alexander (TIME* -
+/friends-s02e23 02 6 morning NN * morning - - Scott_Alexander *) -
+/friends-s02e23 02 7 's POS *) 's - - Scott_Alexander * -
+/friends-s02e23 02 8 projections NNS *)))) projection - - Scott_Alexander * -
+/friends-s02e23 02 9 . . *)) . - - Scott_Alexander * -
+
+/friends-s02e23 02 0 Hey UH (TOP(S(VP(NP(INTJ*) hey - - Chandler_Bing * -
+/friends-s02e23 02 1 thanks NNS (NP*))) thanks - - Chandler_Bing * -
+/friends-s02e23 02 2 . . *)) . - - Chandler_Bing * -
+
+/friends-s02e23 02 0 Scott NNP (TOP(NP(NP* Scott - - Chandler_Bing (PERSON* (342
+/friends-s02e23 02 1 Alexander NNP *) Alexander - - Chandler_Bing *) 342)
+/friends-s02e23 02 2 , , * , - - Chandler_Bing * -
+/friends-s02e23 02 3 Joey NNP (NP* Joey - - Chandler_Bing (PERSON* (183
+/friends-s02e23 02 4 Tribbianni NNP *) Tribbianni - - Chandler_Bing *) 183)
+/friends-s02e23 02 5 . . *)) . - - Chandler_Bing * -
+
+/friends-s02e23 02 0 Joey NNP (TOP(S(NP*) Joey - - Chandler_Bing (PERSON) (183)
+/friends-s02e23 02 1 is VBZ (VP* be - - Chandler_Bing * -
+/friends-s02e23 02 2 a DT (NP*) a - - Chandler_Bing * -
+/friends-s02e23 02 3 uh UH (FRAG(INTJ*) uh - - Chandler_Bing * -
+/friends-s02e23 02 4 , , * , - - Chandler_Bing * -
+/friends-s02e23 02 5 fellow JJ (NP* fellow - - Chandler_Bing * -
+/friends-s02e23 02 6 processor NN *))) processor - - Chandler_Bing * -
+/friends-s02e23 02 7 . . *)) . - - Chandler_Bing * -
+
+/friends-s02e23 02 0 No DT (TOP(NP* no - - Scott_Alexander * -
+/friends-s02e23 02 1 kidding NN * kidding - - Scott_Alexander * -
+/friends-s02e23 02 2 . . *)) . - - Scott_Alexander * -
+
+/friends-s02e23 02 0 Oh UH (TOP(S(VP(NP(INTJ*) oh - - Joey_Tribbiani * -
+/friends-s02e23 02 1 yeah JJ (NP* yeah - - Joey_Tribbiani * -
+/friends-s02e23 02 2 yeah NN *))) yeah - - Joey_Tribbiani * -
+/friends-s02e23 02 3 . . *)) . - - Joey_Tribbiani * -
+
+/friends-s02e23 02 0 I PRP (TOP(S(NP*) I - - Joey_Tribbiani * -
+/friends-s02e23 02 1 process VBP (VP*) process - - Joey_Tribbiani * -
+/friends-s02e23 02 2 . . *)) . - - Joey_Tribbiani * -
+
+/friends-s02e23 02 0 People NNS (TOP(S(S(NP*) people - - Joey_Tribbiani * -
+/friends-s02e23 02 1 want VBP (VP* want - - Joey_Tribbiani * -
+/friends-s02e23 02 2 the DT (NP* the - - Joey_Tribbiani * -
+/friends-s02e23 02 3 processing NN *))) processing - - Joey_Tribbiani * -
+/friends-s02e23 02 4 , , * , - - Joey_Tribbiani * -
+/friends-s02e23 02 5 I PRP (NP*) I - - Joey_Tribbiani * -
+/friends-s02e23 02 6 'm VBP (VP* be - - Joey_Tribbiani * -
+/friends-s02e23 02 7 the DT (NP(NP* the - - Joey_Tribbiani * -
+/friends-s02e23 02 8 one CD *) one - - Joey_Tribbiani (NUMBER) -
+/friends-s02e23 02 9 they PRP (SBAR(S(NP*) they - - Joey_Tribbiani * -
+/friends-s02e23 02 10 call VBP (VP*))))) call - - Joey_Tribbiani * -
+/friends-s02e23 02 11 . . *)) . - - Joey_Tribbiani * -
+
+/friends-s02e23 02 0 Where WRB (TOP(SBARQ(WHADVP*) where - - Scott_Alexander * -
+/friends-s02e23 02 1 do VBP (SQ* do - - Scott_Alexander * -
+/friends-s02e23 02 2 you PRP (NP*) you - - Scott_Alexander * -
+/friends-s02e23 02 3 work VB (VP*)) work - - Scott_Alexander * -
+/friends-s02e23 02 4 ? . *)) ? - - Scott_Alexander * -
+
+/friends-s02e23 02 0 Uhh NNP (TOP(S(NP*) Uhh - - Joey_Tribbiani * -
+/friends-s02e23 02 1 , , * , - - Joey_Tribbiani * -
+/friends-s02e23 02 2 well RB (ADVP*) well - - Joey_Tribbiani * -
+/friends-s02e23 02 3 , , * , - - Joey_Tribbiani * -
+/friends-s02e23 02 4 right RB (ADVP* right - - Joey_Tribbiani (DATE* -
+/friends-s02e23 02 5 now RB *) now - - Joey_Tribbiani *) -
+/friends-s02e23 02 6 I PRP (NP*) I - - Joey_Tribbiani * -
+/friends-s02e23 02 7 'm VBP (VP* be - - Joey_Tribbiani * -
+/friends-s02e23 02 8 in IN (PP* in - - Joey_Tribbiani * -
+/friends-s02e23 02 9 between IN (PP* between - - Joey_Tribbiani * -
+/friends-s02e23 02 10 things NNS (NP*)))) thing - - Joey_Tribbiani * -
+/friends-s02e23 02 11 . . *)) . - - Joey_Tribbiani * -
+
+/friends-s02e23 02 0 You PRP (TOP(S(NP*) you - - Joey_Tribbiani * -
+/friends-s02e23 02 1 know VBP (VP* know - - Joey_Tribbiani * -
+/friends-s02e23 02 2 how WRB (SBAR(WHADVP*) how - - Joey_Tribbiani * -
+/friends-s02e23 02 3 it PRP (S(NP*) it - - Joey_Tribbiani * -
+/friends-s02e23 02 4 is VBZ (VP*)))) be - - Joey_Tribbiani * -
+/friends-s02e23 02 5 . . *)) . - - Joey_Tribbiani * -
+
+/friends-s02e23 02 0 One CD (TOP(S(SBAR(S(NP-TMP* one - - Joey_Tribbiani (DURATION* -
+/friends-s02e23 02 1 day NN *) day - - Joey_Tribbiani *) -
+/friends-s02e23 02 2 you PRP (NP*) you - - Joey_Tribbiani * -
+/friends-s02e23 02 3 're VBP (VP* be - - Joey_Tribbiani * -
+/friends-s02e23 02 4 processing VBG (NP(NP*) process - - Joey_Tribbiani * -
+/friends-s02e23 02 5 , , * , - - Joey_Tribbiani * -
+/friends-s02e23 02 6 the DT (NP* the - - Joey_Tribbiani (DATE* -
+/friends-s02e23 02 7 next JJ * next - - Joey_Tribbiani * -
+/friends-s02e23 02 8 day NN *))))) day - - Joey_Tribbiani *) -
+/friends-s02e23 02 9 you PRP (NP*) you - - Joey_Tribbiani * -
+/friends-s02e23 02 10 're VBP (VP* be - - Joey_Tribbiani * -
+/friends-s02e23 02 11 not RB * not - - Joey_Tribbiani * -
+/friends-s02e23 02 12 so RB (ADJP* so - - Joey_Tribbiani * -
+/friends-s02e23 02 13 much JJ *)) much - - Joey_Tribbiani * -
+/friends-s02e23 02 14 ... : *)) ... - - Joey_Tribbiani * -
+
+/friends-s02e23 02 0 processing VBG (TOP(S(VP* process - - Joey_Tribbiani * -
+/friends-s02e23 02 1 any DT (NP* any - - Joey_Tribbiani * -
+/friends-s02e23 02 2 more JJR *)) more - - Joey_Tribbiani * -
+/friends-s02e23 02 3 . . *)) . - - Joey_Tribbiani * -
+
+/friends-s02e23 02 0 I PRP (TOP(S(NP*) I - - Chandler_Bing * -
+/friends-s02e23 02 1 was VBD (VP* be - - Chandler_Bing * -
+/friends-s02e23 02 2 just RB (ADVP*) just - - Chandler_Bing * -
+/friends-s02e23 02 3 telling VBG (VP* tell - - Chandler_Bing * -
+/friends-s02e23 02 4 Joey NNP (NP(NP*) Joey - - Chandler_Bing (PERSON) (183)
+/friends-s02e23 02 5 about IN (PP* about - - Chandler_Bing * -
+/friends-s02e23 02 6 the DT (NP(NP* the - - Chandler_Bing * -
+/friends-s02e23 02 7 opening NN *) opening - - Chandler_Bing * -
+/friends-s02e23 02 8 in IN (PP* in - - Chandler_Bing * -
+/friends-s02e23 02 9 Fleischman NNP (NP(NP* Fleischman - - Chandler_Bing (PERSON) -
+/friends-s02e23 02 10 's POS *) 's - - Chandler_Bing * -
+/friends-s02e23 02 11 group NN *))))))) group - - Chandler_Bing * -
+/friends-s02e23 02 12 . . *)) . - - Chandler_Bing * -
+
+/friends-s02e23 02 0 Fleischman NNP (TOP(FRAG(NP(NP* Fleischman - - Scott_Alexander (PERSON) -
+/friends-s02e23 02 1 's POS *) 's - - Scott_Alexander * -
+/friends-s02e23 02 2 group NN *) group - - Scott_Alexander * -
+/friends-s02e23 02 3 . . *)) . - - Scott_Alexander * -
+
+/friends-s02e23 02 0 Whatever WDT (TOP(S(NP*) whatever - - Scott_Alexander * -
+/friends-s02e23 02 1 you PRP (PRN(S(NP*) you - - Scott_Alexander * -
+/friends-s02e23 02 2 do VBP (VP*)) do - - Scott_Alexander * -
+/friends-s02e23 02 3 , , *) , - - Scott_Alexander * -
+/friends-s02e23 02 4 do VBP (VP* do - - Scott_Alexander * -
+/friends-s02e23 02 5 n't RB * not - - Scott_Alexander * -
+/friends-s02e23 02 6 touch VB (VP* touch - - Scott_Alexander * -
+/friends-s02e23 02 7 his PRP$ (NP* he - - Scott_Alexander * (127)
+/friends-s02e23 02 8 sandwiches NNS *))) sandwich - - Scott_Alexander * -
+/friends-s02e23 02 9 . . *)) . - - Scott_Alexander * -
+
+/friends-s02e23 02 0 Ha SYM (TOP(FRAG(FRAG(X*) ha - - Scott_Alexander * -
+/friends-s02e23 02 1 - : * - - - Scott_Alexander * -
+/friends-s02e23 02 2 ha SYM (NP*)) ha - - Scott_Alexander * -
+/friends-s02e23 02 3 - : * - - - Scott_Alexander * -
+/friends-s02e23 02 4 ha NN (FRAG(ADJP*) ha - - Scott_Alexander * -
+/friends-s02e23 02 5 ... : *))) ... - - Scott_Alexander * -
+
+/friends-s02e23 02 0 Ha SYM (TOP(X(X*) ha - - Joey_Tribbiani * -
+/friends-s02e23 02 1 - : * - - - Joey_Tribbiani * -
+/friends-s02e23 02 2 ha NN (NP*) ha - - Joey_Tribbiani * -
+/friends-s02e23 02 3 . . *)) . - - Joey_Tribbiani * -
+
+/friends-s02e23 02 0 Are VBP (TOP(S(VP* be - - Joey_Tribbiani * -
+/friends-s02e23 02 1 all DT (NP(NP* all - - Joey_Tribbiani * -
+/friends-s02e23 02 2 you PRP * you - - Joey_Tribbiani * -
+/friends-s02e23 02 3 processors NNS *) processor - - Joey_Tribbiani * -
+/friends-s02e23 02 4 dorks NNS (NP*))) dork - - Joey_Tribbiani * -
+/friends-s02e23 02 5 ? . *)) ? - - Joey_Tribbiani * -
+
+#end document
+#begin document (/friends-s02e23); part 003
+/friends-s02e23 03 0 Oh UH (TOP(S(INTJ*) oh - - Rachel_Green * -
+/friends-s02e23 03 1 , , * , - - Rachel_Green * -
+/friends-s02e23 03 2 this DT (NP* this - - Rachel_Green * -
+/friends-s02e23 03 3 lipstick NN *) lipstick - - Rachel_Green * -
+/friends-s02e23 03 4 looks VBZ (VP* look - - Rachel_Green * -
+/friends-s02e23 03 5 just RB (ADJP* just - - Rachel_Green * -
+/friends-s02e23 03 6 great JJ * great - - Rachel_Green * -
+/friends-s02e23 03 7 on IN (PP* on - - Rachel_Green * -
+/friends-s02e23 03 8 you PRP (NP*)))) you - - Rachel_Green * -
+/friends-s02e23 03 9 . . *)) . - - Rachel_Green * -
+
+/friends-s02e23 03 0 You PRP (TOP(S(S(NP*) you - - Monica_Geller * -
+/friends-s02e23 03 1 look VBP (VP* look - - Monica_Geller * -
+/friends-s02e23 03 2 fabulous JJ (NP* fabulous - - Monica_Geller * -
+/friends-s02e23 03 3 honey NN *))) honey - - Monica_Geller * (292)
+/friends-s02e23 03 4 , , * , - - Monica_Geller * -
+/friends-s02e23 03 5 you PRP (NP*) you - - Monica_Geller * -
+/friends-s02e23 03 6 really RB (ADVP*) really - - Monica_Geller * -
+/friends-s02e23 03 7 do VBP (VP*) do - - Monica_Geller * -
+/friends-s02e23 03 8 . . *)) . - - Monica_Geller * -
+
+/friends-s02e23 03 0 Yeah UH (TOP(INTJ* yeah - - Phoebe_Buffay * -
+/friends-s02e23 03 1 ? . *)) ? - - Phoebe_Buffay * -
+
+/friends-s02e23 03 0 Are VBP (TOP(S(VP* be - - Phoebe_Buffay * -
+/friends-s02e23 03 1 you PRP (ADJP(NP*) you - - Phoebe_Buffay * -
+/friends-s02e23 03 2 sure JJ *) sure - - Phoebe_Buffay * -
+/friends-s02e23 03 3 , , * , - - Phoebe_Buffay * -
+/friends-s02e23 03 4 really RB (ADVP*)) really - - Phoebe_Buffay * -
+/friends-s02e23 03 5 . . *)) . - - Phoebe_Buffay * -
+
+/friends-s02e23 03 0 You PRP (TOP(S(S(NP*) you - - Rachel_Green * -
+/friends-s02e23 03 1 see VBP (VP*)) see - - Rachel_Green * -
+/friends-s02e23 03 2 , , * , - - Rachel_Green * -
+/friends-s02e23 03 3 you PRP (NP*) you - - Rachel_Green * -
+/friends-s02e23 03 4 look VBP (VP* look - - Rachel_Green * -
+/friends-s02e23 03 5 beautiful JJ (ADJP*)) beautiful - - Rachel_Green * -
+/friends-s02e23 03 6 . . *)) . - - Rachel_Green * -
+
+/friends-s02e23 03 0 For IN (TOP(S(PP* for - - Rachel_Green * -
+/friends-s02e23 03 1 god NN (NP* god - - Rachel_Green * -
+/friends-s02e23 03 2 sakes NNS *)) sake - - Rachel_Green * -
+/friends-s02e23 03 3 , , * , - - Rachel_Green * -
+/friends-s02e23 03 4 dim VBP (VP* dim - - Rachel_Green * -
+/friends-s02e23 03 5 the DT (NP* the - - Rachel_Green * -
+/friends-s02e23 03 6 lights NNS *)) light - - Rachel_Green * -
+/friends-s02e23 03 7 . . *)) . - - Rachel_Green * -
+
+/friends-s02e23 03 0 I PRP (TOP(S(NP*) I - - Phoebe_Buffay * -
+/friends-s02e23 03 1 , , * , - - Phoebe_Buffay * -
+/friends-s02e23 03 2 I PRP (NP*) I - - Phoebe_Buffay * -
+/friends-s02e23 03 3 , , * , - - Phoebe_Buffay * -
+/friends-s02e23 03 4 I PRP (NP*) I - - Phoebe_Buffay * -
+/friends-s02e23 03 5 'm VBP (VP* be - - Phoebe_Buffay * -
+/friends-s02e23 03 6 hideous JJ (ADJP*)) hideous - - Phoebe_Buffay * -
+/friends-s02e23 03 7 . . *)) . - - Phoebe_Buffay * -
+
+/friends-s02e23 03 0 It PRP (TOP(S(NP*) it - - Monica_Geller * -
+/friends-s02e23 03 1 's VBZ (VP* be - - Monica_Geller * -
+/friends-s02e23 03 2 gon VBG (VP* gon - - Monica_Geller * -
+/friends-s02e23 03 3 na TO (S(VP* na - - Monica_Geller * -
+/friends-s02e23 03 4 be VB (VP* be - - Monica_Geller * -
+/friends-s02e23 03 5 ok JJ (ADJP*)))))) ok - - Monica_Geller * -
+/friends-s02e23 03 6 . . *)) . - - Monica_Geller * -
+
+/friends-s02e23 03 0 Ryan NNP (TOP(S(S(NP* Ryan - - Monica_Geller (PERSON) (339)
+/friends-s02e23 03 1 's POS *) 's - - Monica_Geller * -
+/friends-s02e23 03 2 been VBN (VP* be - - Monica_Geller * -
+/friends-s02e23 03 3 under IN (PP* under - - Monica_Geller * -
+/friends-s02e23 03 4 water NN (NP*)))) water - - Monica_Geller * -
+/friends-s02e23 03 5 . . *)) . - - Monica_Geller * -
+
+/friends-s02e23 03 0 He PRP (TOP(S(NP*) he - - Monica_Geller * (339)
+/friends-s02e23 03 1 's VBZ (VP* be - - Monica_Geller * -
+/friends-s02e23 03 2 just RB (ADVP*) just - - Monica_Geller * -
+/friends-s02e23 03 3 gon VBG (VP* gon - - Monica_Geller * -
+/friends-s02e23 03 4 na TO (S(VP* na - - Monica_Geller * -
+/friends-s02e23 03 5 be VB (VP* be - - Monica_Geller * -
+/friends-s02e23 03 6 so RB (ADJP* so - - Monica_Geller * -
+/friends-s02e23 03 7 glad JJ *) glad - - Monica_Geller * -
+/friends-s02e23 03 8 that IN (SBAR* that - - Monica_Geller * -
+/friends-s02e23 03 9 you PRP (S(NP*) you - - Monica_Geller * -
+/friends-s02e23 03 10 do VBP (VP* do - - Monica_Geller * -
+/friends-s02e23 03 11 n't RB * not - - Monica_Geller * -
+/friends-s02e23 03 12 have VB (VP* have - - Monica_Geller * -
+/friends-s02e23 03 13 barnicles NNS (NP(NP*) barnicle - - Monica_Geller * -
+/friends-s02e23 03 14 on IN (PP* on - - Monica_Geller * -
+/friends-s02e23 03 15 your PRP$ (NP* you - - Monica_Geller * -
+/friends-s02e23 03 16 butt NN *)))))))))))) butt - - Monica_Geller * -
+/friends-s02e23 03 17 . . *)) . - - Monica_Geller * -
+
+#end document
+#begin document (/friends-s02e23); part 004
+/friends-s02e23 04 0 Come VB (TOP(S(VP* come - - Phoebe_Buffay * -
+/friends-s02e23 04 1 in. RB (ADVP*)))) in. - - Phoebe_Buffay * -
+
+/friends-s02e23 04 0 Hey UH (TOP(S(PP* hey - - Ryan * -
+/friends-s02e23 04 1 baby NN (NP*)) baby - - Ryan * (292)
+/friends-s02e23 04 2 , , * , - - Ryan * -
+/friends-s02e23 04 3 I PRP (NP*) I - - Ryan * -
+/friends-s02e23 04 4 'm VBP (VP* be - - Ryan * -
+/friends-s02e23 04 5 back RB (ADVP*)) back - - Ryan * -
+/friends-s02e23 04 6 ... : *)) ... - - Ryan * -
+
+/friends-s02e23 04 0 Hey UH (TOP(SBARQ(PP* hey - - Phoebe_Buffay * -
+/friends-s02e23 04 1 Ryan NNP (NP*)) Ryan - - Phoebe_Buffay (PERSON) (339)
+/friends-s02e23 04 2 , , * , - - Phoebe_Buffay * -
+/friends-s02e23 04 3 what WP (WHNP*) what - - Phoebe_Buffay * -
+/friends-s02e23 04 4 's VBZ (SQ* be - - Phoebe_Buffay * -
+/friends-s02e23 04 5 up RP (ADVP*)) up - - Phoebe_Buffay * -
+/friends-s02e23 04 6 ? . *)) ? - - Phoebe_Buffay * -
+
+/friends-s02e23 04 0 What WP (TOP(SBARQ(WHNP*) what - - Ryan * -
+/friends-s02e23 04 1 's VBZ (SQ* be - - Ryan * -
+/friends-s02e23 04 2 goin NN (NP(NP* goin - - Ryan * -
+/friends-s02e23 04 3 ' '' *) ' - - Ryan * -
+/friends-s02e23 04 4 on IN (PP*))) on - - Ryan * -
+/friends-s02e23 04 5 ? . *)) ? - - Ryan * -
+
+/friends-s02e23 04 0 Well RB (TOP(S(INTJ*) well - - Phoebe_Buffay * -
+/friends-s02e23 04 1 , , * , - - Phoebe_Buffay * -
+/friends-s02e23 04 2 no DT (NP* no - - Phoebe_Buffay * -
+/friends-s02e23 04 3 no DT *) no - - Phoebe_Buffay * -
+/friends-s02e23 04 4 , , * , - - Phoebe_Buffay * -
+/friends-s02e23 04 5 you PRP (NP*) you - - Phoebe_Buffay * -
+/friends-s02e23 04 6 have VBP (VP* have - - Phoebe_Buffay * -
+/friends-s02e23 04 7 to TO (S(VP* to - - Phoebe_Buffay * -
+/friends-s02e23 04 8 stay VB (VP* stay - - Phoebe_Buffay * -
+/friends-s02e23 04 9 back RB (ADVP*))))) back - - Phoebe_Buffay * -
+/friends-s02e23 04 10 . . *)) . - - Phoebe_Buffay * -
+
+/friends-s02e23 04 0 I PRP (TOP(S(NP*) I - - Phoebe_Buffay * -
+/friends-s02e23 04 1 , , * , - - Phoebe_Buffay * -
+/friends-s02e23 04 2 I PRP (NP*) I - - Phoebe_Buffay * -
+/friends-s02e23 04 3 have VBP (VP* have - - Phoebe_Buffay * -
+/friends-s02e23 04 4 the DT (NP* the - - Phoebe_Buffay * -
+/friends-s02e23 04 5 pox NN *)) pox - - Phoebe_Buffay * -
+/friends-s02e23 04 6 . . *)) . - - Phoebe_Buffay * -
+
+/friends-s02e23 04 0 Chicken NN (TOP(FRAG(ADJP(ADJP*) chicken - - Ryan * -
+/friends-s02e23 04 1 or CC * or - - Ryan * -
+/friends-s02e23 04 2 small JJ (ADJP*)) small - - Ryan * -
+/friends-s02e23 04 3 ? . *)) ? - - Ryan * -
+
+/friends-s02e23 04 0 Chicken NN (TOP(INTJ* chicken - - Phoebe_Buffay * -
+/friends-s02e23 04 1 . . *)) . - - Phoebe_Buffay * -
+
+/friends-s02e23 04 0 Which WDT (TOP(S(NP*) which - - Phoebe_Buffay * -
+/friends-s02e23 04 1 is VBZ (VP* be - - Phoebe_Buffay * -
+/friends-s02e23 04 2 so RB (ADJP* so - - Phoebe_Buffay * -
+/friends-s02e23 04 3 ironic JJ *) ironic - - Phoebe_Buffay * -
+/friends-s02e23 04 4 considering VBG (S(VP* consider - - Phoebe_Buffay * -
+/friends-s02e23 04 5 I PRP (SBAR(S(NP*) I - - Phoebe_Buffay * -
+/friends-s02e23 04 6 'm VBP (VP* be - - Phoebe_Buffay * -
+/friends-s02e23 04 7 a DT (NP* a - - Phoebe_Buffay * -
+/friends-s02e23 04 8 vegetarian NN *))))))) vegetarian - - Phoebe_Buffay * -
+/friends-s02e23 04 9 . . *)) . - - Phoebe_Buffay * -
+
+/friends-s02e23 04 0 Why WRB (TOP(SBARQ(WHADVP*) why - - Ryan * -
+/friends-s02e23 04 1 are VBP (SQ(VP* be - - Ryan * -
+/friends-s02e23 04 2 n't RB * not - - Ryan * -
+/friends-s02e23 04 3 you PRP (VP(NP*) you - - Ryan * -
+/friends-s02e23 04 4 at IN (PP* at - - Ryan * -
+/friends-s02e23 04 5 home NN (NP(NP*) home - - Ryan * -
+/friends-s02e23 04 6 in IN (PP* in - - Ryan * -
+/friends-s02e23 04 7 bed NN (NP*))))))) bed - - Ryan * -
+/friends-s02e23 04 8 ? . *)) ? - - Ryan * -
+
+/friends-s02e23 04 0 ' '' (TOP(NP* ' - - Phoebe_Buffay * -
+/friends-s02e23 04 1 Cause VB * cause - - Phoebe_Buffay * -
+/friends-s02e23 04 2 my PRP$ (NP(NP*) my - - Phoebe_Buffay * -
+/friends-s02e23 04 3 , , * , - - Phoebe_Buffay * -
+/friends-s02e23 04 4 my PRP$ (NP(NP* my - - Phoebe_Buffay * -
+/friends-s02e23 04 5 grandmother NN *) grandmother - - Phoebe_Buffay * -
+/friends-s02e23 04 6 's POS (SBAR(S(NP*) 's - - Phoebe_Buffay * -
+/friends-s02e23 04 7 never RB (ADVP*) never - - Phoebe_Buffay * -
+/friends-s02e23 04 8 had VBD (VP* have - - Phoebe_Buffay * -
+/friends-s02e23 04 9 chicken NN (NP* chicken - - Phoebe_Buffay * -
+/friends-s02e23 04 10 pox NN *)))))) pox - - Phoebe_Buffay * -
+/friends-s02e23 04 11 . . *)) . - - Phoebe_Buffay * -
+
+/friends-s02e23 04 0 Please UH (TOP(S(INTJ*) please - - Phoebe_Buffay * -
+/friends-s02e23 04 1 , , * , - - Phoebe_Buffay * -
+/friends-s02e23 04 2 please VB (VP* please - - Phoebe_Buffay * -
+/friends-s02e23 04 3 tell VB (VP* tell - - Phoebe_Buffay * -
+/friends-s02e23 04 4 me PRP (SBAR(S(NP*) I - - Phoebe_Buffay * -
+/friends-s02e23 04 5 you PRP (PRN(S(NP*) you - - Phoebe_Buffay * -
+/friends-s02e23 04 6 have VBP (VP*)) have - - Phoebe_Buffay * -
+/friends-s02e23 04 7 , , *) , - - Phoebe_Buffay * -
+/friends-s02e23 04 8 'cause VBP (VP* 'cause - - Phoebe_Buffay * -
+/friends-s02e23 04 9 oh UH (S(INTJ* oh - - Phoebe_Buffay * -
+/friends-s02e23 04 10 my PRP$ * my - - Phoebe_Buffay * -
+/friends-s02e23 04 11 God NNP *) God - - Phoebe_Buffay * -
+/friends-s02e23 04 12 , , * , - - Phoebe_Buffay * -
+/friends-s02e23 04 13 I PRP (NP*) I - - Phoebe_Buffay * -
+/friends-s02e23 04 14 forgot VBD (VP* forget - - Phoebe_Buffay * -
+/friends-s02e23 04 15 how WRB (SBAR(WHADVP* how - - Phoebe_Buffay * -
+/friends-s02e23 04 16 cute JJ (ADJP*)) cute - - Phoebe_Buffay * -
+/friends-s02e23 04 17 you PRP (S(NP*) you - - Phoebe_Buffay * -
+/friends-s02e23 04 18 are VBP (VP*)))))))))) be - - Phoebe_Buffay * -
+/friends-s02e23 04 19 . . *)) . - - Phoebe_Buffay * -
+
+/friends-s02e23 04 0 I PRP (TOP(NP(NP*) I - - Ryan * -
+/friends-s02e23 04 1 'm VBP (SBAR(S(VP* be - - Ryan * -
+/friends-s02e23 04 2 sorry JJ (NP(NP*) sorry - - Ryan * -
+/friends-s02e23 04 3 , , * , - - Ryan * -
+/friends-s02e23 04 4 I PRP (NP(NP*) I - - Ryan * -
+/friends-s02e23 04 5 never RB (SBAR(S(ADVP*) never - - Ryan * -
+/friends-s02e23 04 6 had VBD (VP*)))) have - - Ryan * -
+/friends-s02e23 04 7 ' '' *)) ' - - Ryan * -
+/friends-s02e23 04 8 em NN (NP*))) em - - Ryan * -
+/friends-s02e23 04 9 . . *)) . - - Ryan * -
+
+/friends-s02e23 04 0 Ohh RB (TOP(FRAG(ADVP*) ohh - - Phoebe_Buffay * -
+/friends-s02e23 04 1 , , * , - - Phoebe_Buffay * -
+/friends-s02e23 04 2 ohh NN (NP*) ohh - - Phoebe_Buffay * -
+/friends-s02e23 04 3 . . *)) . - - Phoebe_Buffay * -
+
+/friends-s02e23 04 0 If IN (TOP(S(SBAR* if - - Ryan * -
+/friends-s02e23 04 1 I PRP (S(NP*) I - - Ryan * -
+/friends-s02e23 04 2 had VBD (VP* have - - Ryan * -
+/friends-s02e23 04 3 one CD (NP* one - - Ryan (NUMBER) -
+/friends-s02e23 04 4 wish NN *)))) wish - - Ryan * -
+/friends-s02e23 04 5 , , * , - - Ryan * -
+/friends-s02e23 04 6 it PRP (NP*) it - - Ryan * -
+/friends-s02e23 04 7 would MD (VP* would - - Ryan * -
+/friends-s02e23 04 8 be VB (VP* be - - Ryan * -
+/friends-s02e23 04 9 to TO (S(VP* to - - Ryan * -
+/friends-s02e23 04 10 build VB (VP(VP* build - - Ryan * -
+/friends-s02e23 04 11 a DT (NP* a - - Ryan * -
+/friends-s02e23 04 12 time NN * time - - Ryan * -
+/friends-s02e23 04 13 machine NN *)) machine - - Ryan * -
+/friends-s02e23 04 14 , , * , - - Ryan * -
+/friends-s02e23 04 15 go VB (VP* go - - Ryan * -
+/friends-s02e23 04 16 back RB (ADVP* back - - Ryan * -
+/friends-s02e23 04 17 to TO (PP* to - - Ryan * -
+/friends-s02e23 04 18 when WRB (SBAR(WHADVP*) when - - Ryan * -
+/friends-s02e23 04 19 I PRP (S(NP*) I - - Ryan * -
+/friends-s02e23 04 20 was VBD (VP* be - - Ryan * -
+/friends-s02e23 04 21 7 CD (NP*))))))) 7 - - Ryan (NUMBER) -
+/friends-s02e23 04 22 , , * , - - Ryan * -
+/friends-s02e23 04 23 when WRB (SBAR(WHADVP*) when - - Ryan * -
+/friends-s02e23 04 24 Jimmy NNP (S(NP* Jimmy - - Ryan (PERSON* (179
+/friends-s02e23 04 25 Hauser NNP *) Hauser - - Ryan *) 179)
+/friends-s02e23 04 26 had VBD (VP* have - - Ryan * -
+/friends-s02e23 04 27 the DT (NP* the - - Ryan * -
+/friends-s02e23 04 28 chicken NN * chicken - - Ryan * -
+/friends-s02e23 04 29 pox NN *))))))))) pox - - Ryan * -
+/friends-s02e23 04 30 . . *)) . - - Ryan * -
+
+/friends-s02e23 04 0 I PRP (TOP(S(NP*) I - - Ryan * -
+/friends-s02e23 04 1 would MD (VP* would - - Ryan * -
+/friends-s02e23 04 2 grab VB (VP(VP* grab - - Ryan * -
+/friends-s02e23 04 3 that IN (SBAR* that - - Ryan * -
+/friends-s02e23 04 4 kid NN (FRAG(NP*)))) kid - - Ryan * (179)
+/friends-s02e23 04 5 and CC * and - - Ryan * -
+/friends-s02e23 04 6 rub VB (VP* rub - - Ryan * -
+/friends-s02e23 04 7 him PRP (NP*) he - - Ryan * (179)
+/friends-s02e23 04 8 all DT (PP* all - - Ryan * -
+/friends-s02e23 04 9 over IN * over - - Ryan * -
+/friends-s02e23 04 10 my PRP$ (NP* my - - Ryan * -
+/friends-s02e23 04 11 face NN *))))) face - - Ryan * -
+/friends-s02e23 04 12 . . *)) . - - Ryan * -
+
+/friends-s02e23 04 0 Yeah UH (TOP(S(S(INTJ*) yeah - - Phoebe_Buffay * -
+/friends-s02e23 04 1 , , * , - - Phoebe_Buffay * -
+/friends-s02e23 04 2 or CC * or - - Phoebe_Buffay * -
+/friends-s02e23 04 3 you PRP (NP*) you - - Phoebe_Buffay * -
+/friends-s02e23 04 4 know VBP (VP*)) know - - Phoebe_Buffay * -
+/friends-s02e23 04 5 , , * , - - Phoebe_Buffay * -
+/friends-s02e23 04 6 you PRP (NP*) you - - Phoebe_Buffay * -
+/friends-s02e23 04 7 could MD (VP* could - - Phoebe_Buffay * -
+/friends-s02e23 04 8 just RB (ADVP*) just - - Phoebe_Buffay * -
+/friends-s02e23 04 9 wish VB (VP* wish - - Phoebe_Buffay * -
+/friends-s02e23 04 10 that IN (SBAR* that - - Phoebe_Buffay * -
+/friends-s02e23 04 11 I PRP (S(NP*) I - - Phoebe_Buffay * -
+/friends-s02e23 04 12 did VBD (VP* do - - Phoebe_Buffay * -
+/friends-s02e23 04 13 n't RB * not - - Phoebe_Buffay * -
+/friends-s02e23 04 14 have VB (VP* have - - Phoebe_Buffay * -
+/friends-s02e23 04 15 them PRP (NP*) they - - Phoebe_Buffay * -
+/friends-s02e23 04 16 now RB (ADVP*))))))) now - - Phoebe_Buffay (DATE) -
+/friends-s02e23 04 17 . . *)) . - - Phoebe_Buffay * -
+
+/friends-s02e23 04 0 Can MD (TOP(SQ* can - - Ryan * -
+/friends-s02e23 04 1 I PRP (NP*) I - - Ryan * -
+/friends-s02e23 04 2 please VB (VP* please - - Ryan * -
+/friends-s02e23 04 3 see VB (VP* see - - Ryan * -
+/friends-s02e23 04 4 your PRP$ (NP* you - - Ryan * -
+/friends-s02e23 04 5 face NN *))) face - - Ryan * -
+/friends-s02e23 04 6 ? . *)) ? - - Ryan * -
+
+/friends-s02e23 04 0 Nope UH (TOP(INTJ* nope - - Phoebe_Buffay * -
+/friends-s02e23 04 1 . . *)) . - - Phoebe_Buffay * -
+
+/friends-s02e23 04 0 You PRP (TOP(S(NP*) you - - Phoebe_Buffay * -
+/friends-s02e23 04 1 do VBP (VP* do - - Phoebe_Buffay * -
+/friends-s02e23 04 2 n't RB * not - - Phoebe_Buffay * -
+/friends-s02e23 04 3 want VB (VP* want - - Phoebe_Buffay * -
+/friends-s02e23 04 4 to TO (S(VP* to - - Phoebe_Buffay * -
+/friends-s02e23 04 5 see VB (VP* see - - Phoebe_Buffay * -
+/friends-s02e23 04 6 a DT (NP(NP* a - - Phoebe_Buffay * -
+/friends-s02e23 04 7 face NN *) face - - Phoebe_Buffay * -
+/friends-s02e23 04 8 covered VBN (VP* cover - - Phoebe_Buffay * -
+/friends-s02e23 04 9 with IN (PP* with - - Phoebe_Buffay * -
+/friends-s02e23 04 10 pox NN (NP*))))))))) pox - - Phoebe_Buffay * -
+/friends-s02e23 04 11 . . *)) . - - Phoebe_Buffay * -
+
+/friends-s02e23 04 0 Your PRP$ (TOP(S(S(NP* you - - Ryan * -
+/friends-s02e23 04 1 face NN *) face - - Ryan * -
+/friends-s02e23 04 2 could MD (VP* could - - Ryan * -
+/friends-s02e23 04 3 be VB (VP* be - - Ryan * -
+/friends-s02e23 04 4 covered VBN (VP* cover - - Ryan * -
+/friends-s02e23 04 5 with IN (PP* with - - Ryan * -
+/friends-s02e23 04 6 lochs NNS (NP*)))))) loch - - Ryan * -
+/friends-s02e23 04 7 , , * , - - Ryan * -
+/friends-s02e23 04 8 I PRP (NP*) I - - Ryan * -
+/friends-s02e23 04 9 would MD (VP* would - - Ryan * -
+/friends-s02e23 04 10 n't RB * not - - Ryan * -
+/friends-s02e23 04 11 care VB (VP*)) care - - Ryan * -
+/friends-s02e23 04 12 . . *)) . - - Ryan * -
+
+/friends-s02e23 04 0 And CC (TOP(S* and - - Phoebe_Buffay * -
+/friends-s02e23 04 1 you PRP (NP*) you - - Phoebe_Buffay * -
+/friends-s02e23 04 2 hate VBP (VP* hate - - Phoebe_Buffay * -
+/friends-s02e23 04 3 fish NN (NP*)) fish - - Phoebe_Buffay * -
+/friends-s02e23 04 4 . . *)) . - - Phoebe_Buffay * -
+
+/friends-s02e23 04 0 Oh UH (TOP(INTJ* oh - - Phoebe_Buffay * -
+/friends-s02e23 04 1 . . *)) . - - Phoebe_Buffay * -
+
+/friends-s02e23 04 0 That DT (TOP(S(NP*) that - - Phoebe_Buffay * -
+/friends-s02e23 04 1 's VBZ (VP* be - - Phoebe_Buffay * -
+/friends-s02e23 04 2 so RB (ADJP(ADJP* so - - Phoebe_Buffay * -
+/friends-s02e23 04 3 sweet JJ *) sweet - - Phoebe_Buffay * -
+/friends-s02e23 04 4 , , * , - - Phoebe_Buffay * -
+/friends-s02e23 04 5 alright JJ (ADJP*))) alright - - Phoebe_Buffay * -
+/friends-s02e23 04 6 . . *)) . - - Phoebe_Buffay * -
+
+/friends-s02e23 04 0 Ok NNP (TOP(S(NP*) Ok - - Phoebe_Buffay * -
+/friends-s02e23 04 1 , , * , - - Phoebe_Buffay * -
+/friends-s02e23 04 2 alright JJ (ADJP*) alright - - Phoebe_Buffay * -
+/friends-s02e23 04 3 , , * , - - Phoebe_Buffay * -
+/friends-s02e23 04 4 you PRP (NP*) you - - Phoebe_Buffay * -
+/friends-s02e23 04 5 can MD (VP* can - - Phoebe_Buffay * -
+/friends-s02e23 04 6 see VB (VP*)) see - - Phoebe_Buffay * -
+/friends-s02e23 04 7 . . *)) . - - Phoebe_Buffay * -
+
+/friends-s02e23 04 0 This DT (TOP(S(NP*) this - - Phoebe_Buffay * -
+/friends-s02e23 04 1 is VBZ (VP* be - - Phoebe_Buffay * -
+/friends-s02e23 04 2 me PRP (NP*)) I - - Phoebe_Buffay * -
+/friends-s02e23 04 3 ... : *)) ... - - Phoebe_Buffay * -
+
+/friends-s02e23 04 0 Oh UH (TOP(S(INTJ*) oh - - Phoebe_Buffay * -
+/friends-s02e23 04 1 , , * , - - Phoebe_Buffay * -
+/friends-s02e23 04 2 I PRP (NP*) I - - Phoebe_Buffay * -
+/friends-s02e23 04 3 am VBP (VP* be - - Phoebe_Buffay * -
+/friends-s02e23 04 4 scary JJ (ADJP*)) scary - - Phoebe_Buffay * -
+/friends-s02e23 04 5 . . *)) . - - Phoebe_Buffay * -
+
+/friends-s02e23 04 0 Sorry JJ (TOP(NP(NP*) sorry - - Ryan * -
+/friends-s02e23 04 1 , , * , - - Ryan * -
+/friends-s02e23 04 2 the DT (NP* the - - Ryan * -
+/friends-s02e23 04 3 lightning NN *) lightning - - Ryan * -
+/friends-s02e23 04 4 . . *)) . - - Ryan * -
+
+/friends-s02e23 04 0 Lightning NN (TOP(S(NP*) lightning - - Ryan * -
+/friends-s02e23 04 1 was VBD (VP* be - - Ryan * -
+/friends-s02e23 04 2 an DT (NP* a - - Ryan * -
+/friends-s02e23 04 3 unfortunate JJ (ADJP*) unfortunate - - Ryan * -
+/friends-s02e23 04 4 incidence NN *)) incidence - - Ryan * -
+/friends-s02e23 04 5 . . *)) . - - Ryan * -
+
+/friends-s02e23 04 0 You PRP (TOP(S(NP*) you - - Ryan * -
+/friends-s02e23 04 1 look VBP (VP* look - - Ryan * -
+/friends-s02e23 04 2 lovely JJ (ADJP*) lovely - - Ryan * -
+/friends-s02e23 04 3 , , * , - - Ryan * -
+/friends-s02e23 04 4 lovely JJ (S(ADJP*))) lovely - - Ryan * -
+/friends-s02e23 04 5 . . *)) . - - Ryan * -
+
+/friends-s02e23 04 0 I PRP (TOP(S(NP*) I - - Phoebe_Buffay * -
+/friends-s02e23 04 1 hate VBP (VP* hate - - Phoebe_Buffay * -
+/friends-s02e23 04 2 this DT (NP*)) this - - Phoebe_Buffay * -
+/friends-s02e23 04 3 . . *)) . - - Phoebe_Buffay * -
+
+/friends-s02e23 04 0 ' POS (TOP(S(S(NP*) ' - - Phoebe_Buffay * -
+/friends-s02e23 04 1 Cause NN (NP*)) cause - - Phoebe_Buffay * -
+/friends-s02e23 04 2 I PRP (PRN(S(NP*) I - - Phoebe_Buffay * -
+/friends-s02e23 04 3 tell VBP (VP* tell - - Phoebe_Buffay * -
+/friends-s02e23 04 4 you PRP (NP*))) you - - Phoebe_Buffay * -
+/friends-s02e23 04 5 , , * , - - Phoebe_Buffay * -
+/friends-s02e23 04 6 I PRP (S(NP*) I - - Phoebe_Buffay * -
+/friends-s02e23 04 7 had VBD (VP* have - - Phoebe_Buffay * -
+/friends-s02e23 04 8 the DT (NP(NP(NP(NP* the - - Phoebe_Buffay * -
+/friends-s02e23 04 9 most RBS (ADJP* most - - Phoebe_Buffay * -
+/friends-s02e23 04 10 amazing JJ *)) amazing - - Phoebe_Buffay * -
+/friends-s02e23 04 11 two CD (NP-TMP* two - - Phoebe_Buffay (DURATION* -
+/friends-s02e23 04 12 weeks NNS *)) week - - Phoebe_Buffay *) -
+/friends-s02e23 04 13 planned VBN (VP* plan - - Phoebe_Buffay * -
+/friends-s02e23 04 14 for IN (PP* for - - Phoebe_Buffay * -
+/friends-s02e23 04 15 us PRP (NP*)))) we - - Phoebe_Buffay * -
+/friends-s02e23 04 16 , , * , - - Phoebe_Buffay * -
+/friends-s02e23 04 17 and CC * and - - Phoebe_Buffay * -
+/friends-s02e23 04 18 almost RB (NP(NP* almost - - Phoebe_Buffay * -
+/friends-s02e23 04 19 everything NN *) everything - - Phoebe_Buffay * -
+/friends-s02e23 04 20 I PRP (SBAR(S(NP*) I - - Phoebe_Buffay * -
+/friends-s02e23 04 21 had VBD (VP* have - - Phoebe_Buffay * -
+/friends-s02e23 04 22 in IN (PP* in - - Phoebe_Buffay * -
+/friends-s02e23 04 23 mind NN (NP*))))))))) mind - - Phoebe_Buffay * -
+/friends-s02e23 04 24 , , *) , - - Phoebe_Buffay * -
+/friends-s02e23 04 25 we PRP (NP*) we - - Phoebe_Buffay * -
+/friends-s02e23 04 26 had VBD (VP* have - - Phoebe_Buffay * -
+/friends-s02e23 04 27 to TO (S(VP* to - - Phoebe_Buffay * -
+/friends-s02e23 04 28 be VB (VP* be - - Phoebe_Buffay * -
+/friends-s02e23 04 29 a DT (ADJP(NP* a - - Phoebe_Buffay * -
+/friends-s02e23 04 30 lot NN *) lot - - Phoebe_Buffay * -
+/friends-s02e23 04 31 closer JJR * closer - - Phoebe_Buffay * -
+/friends-s02e23 04 32 than IN (PP* than - - Phoebe_Buffay * -
+/friends-s02e23 04 33 this DT (NP*))))))) this - - Phoebe_Buffay * -
+/friends-s02e23 04 34 . . *)) . - - Phoebe_Buffay * -
+
+/friends-s02e23 04 0 Phoebe NNP (TOP(S(NP*) Phoebe - - Ryan (PERSON) (292)
+/friends-s02e23 04 1 , , * , - - Ryan * -
+/friends-s02e23 04 2 I PRP (NP*) I - - Ryan * -
+/friends-s02e23 04 3 have VBP (VP* have - - Ryan * -
+/friends-s02e23 04 4 spent VBN (VP* spend - - Ryan * -
+/friends-s02e23 04 5 the DT (NP(NP* the - - Ryan (DURATION) -
+/friends-s02e23 04 6 last JJ * last - - Ryan (DATE* -
+/friends-s02e23 04 7 eight CD * eight - - Ryan * -
+/friends-s02e23 04 8 months NNS *) month - - Ryan *) -
+/friends-s02e23 04 9 in IN (PP* in - - Ryan * -
+/friends-s02e23 04 10 a DT (NP* a - - Ryan * -
+/friends-s02e23 04 11 steel NN * steel - - Ryan * -
+/friends-s02e23 04 12 tube NN *))) tube - - Ryan * -
+/friends-s02e23 04 13 with IN (PP* with - - Ryan * -
+/friends-s02e23 04 14 men NNS (NP*)) man - - Ryan * -
+/friends-s02e23 04 15 , , * , - - Ryan * -
+/friends-s02e23 04 16 thinking VBG (S(VP* think - - Ryan * -
+/friends-s02e23 04 17 about IN (PP* about - - Ryan * -
+/friends-s02e23 04 18 this DT (NP* this - - Ryan * -
+/friends-s02e23 04 19 moment NN *)))))) moment - - Ryan * -
+/friends-s02e23 04 20 . . *)) . - - Ryan * -
+
+/friends-s02e23 04 0 I PRP (TOP(S(NP*) I - - Ryan * -
+/friends-s02e23 04 1 am VBP (VP* be - - Ryan * -
+/friends-s02e23 04 2 not RB * not - - Ryan * -
+/friends-s02e23 04 3 gon VBG (VP* gon - - Ryan * -
+/friends-s02e23 04 4 na TO (S(VP* na - - Ryan * -
+/friends-s02e23 04 5 let VB (VP* let - - Ryan * -
+/friends-s02e23 04 6 a DT (SBAR(S(NP(NP* a - - Ryan * -
+/friends-s02e23 04 7 bunch NN *) bunch - - Ryan * -
+/friends-s02e23 04 8 of IN (PP* of - - Ryan * -
+/friends-s02e23 04 9 itchy JJ (NP* itchy - - Ryan * -
+/friends-s02e23 04 10 spots NNS *))) spot - - Ryan * -
+/friends-s02e23 04 11 stand VBP (VP* stand - - Ryan * -
+/friends-s02e23 04 12 between IN (PP* between - - Ryan * -
+/friends-s02e23 04 13 us PRP (NP*)))))))))) we - - Ryan * -
+/friends-s02e23 04 14 . . *)) . - - Ryan * -
+
+/friends-s02e23 04 0 Ok NNP (TOP(S(NP-TMP*) Ok - - Phoebe_Buffay * -
+/friends-s02e23 04 1 , , * , - - Phoebe_Buffay * -
+/friends-s02e23 04 2 this DT (NP*) this - - Phoebe_Buffay * -
+/friends-s02e23 04 3 is VBZ (VP* be - - Phoebe_Buffay * -
+/friends-s02e23 04 4 the DT (NP(NP* the - - Phoebe_Buffay * -
+/friends-s02e23 04 5 most RBS (ADJP* most - - Phoebe_Buffay * -
+/friends-s02e23 04 6 romantic JJ *) romantic - - Phoebe_Buffay * -
+/friends-s02e23 04 7 disease NN *) disease - - Phoebe_Buffay * -
+/friends-s02e23 04 8 I PRP (SBAR(S(NP*) I - - Phoebe_Buffay * -
+/friends-s02e23 04 9 've VBP (VP* have - - Phoebe_Buffay * -
+/friends-s02e23 04 10 ever RB (ADVP*) ever - - Phoebe_Buffay * -
+/friends-s02e23 04 11 had VBN (VP*)))))) have - - Phoebe_Buffay * -
+/friends-s02e23 04 12 . . *)) . - - Phoebe_Buffay * -
+
+#end document
+#begin document (/friends-s02e23); part 005
+/friends-s02e23 05 0 Hey UH (TOP(INTJ* hey - - Joey_Tribbiani * -
+/friends-s02e23 05 1 . . *)) . - - Joey_Tribbiani * -
+
+/friends-s02e23 05 0 Hey UH (TOP(S(INTJ*) hey - - Chandler_Bing * -
+/friends-s02e23 05 1 , , * , - - Chandler_Bing * -
+/friends-s02e23 05 2 how WRB (ADVP*) how - - Chandler_Bing * -
+/friends-s02e23 05 3 's POS (VP* 's - - Chandler_Bing * -
+/friends-s02e23 05 4 the DT (NP* the - - Chandler_Bing (DURATION* -
+/friends-s02e23 05 5 first JJ * first - - Chandler_Bing * -
+/friends-s02e23 05 6 day NN * day - - Chandler_Bing *) -
+/friends-s02e23 05 7 goin NN * goin - - Chandler_Bing * -
+/friends-s02e23 05 8 ' '' *)) ' - - Chandler_Bing * -
+/friends-s02e23 05 9 ? . *)) ? - - Chandler_Bing * -
+
+/friends-s02e23 05 0 Pretty NNP (TOP(S(NP*) Pretty - - Joey_Tribbiani * -
+/friends-s02e23 05 1 good JJ (ADJP*) good - - Joey_Tribbiani * -
+/friends-s02e23 05 2 . . *)) . - - Joey_Tribbiani * -
+
+/friends-s02e23 05 0 It PRP (TOP(S(NP*) it - - Joey_Tribbiani * -
+/friends-s02e23 05 1 's VBZ (VP* be - - Joey_Tribbiani * -
+/friends-s02e23 05 2 like IN (SBAR* like - - Joey_Tribbiani * -
+/friends-s02e23 05 3 you PRP (S(NP*) you - - Joey_Tribbiani * -
+/friends-s02e23 05 4 said VBD (VP*)))) say - - Joey_Tribbiani * -
+/friends-s02e23 05 5 . . *)) . - - Joey_Tribbiani * -
+
+/friends-s02e23 05 0 It PRP (TOP(S(NP*) it - - Joey_Tribbiani * -
+/friends-s02e23 05 1 's VBZ (VP* be - - Joey_Tribbiani * -
+/friends-s02e23 05 2 mostly RB (ADVP*) mostly - - Joey_Tribbiani * -
+/friends-s02e23 05 3 just RB (VP(ADVP*) just - - Joey_Tribbiani * -
+/friends-s02e23 05 4 putting VBG * put - - Joey_Tribbiani * -
+/friends-s02e23 05 5 numbers NNS (NP(NP*) number - - Joey_Tribbiani * -
+/friends-s02e23 05 6 from IN (PP* from - - Joey_Tribbiani * -
+/friends-s02e23 05 7 one CD (NP* one - - Joey_Tribbiani (NUMBER) -
+/friends-s02e23 05 8 column NN *))) column - - Joey_Tribbiani * -
+/friends-s02e23 05 9 into IN (PP* into - - Joey_Tribbiani * -
+/friends-s02e23 05 10 another DT (NP* another - - Joey_Tribbiani * -
+/friends-s02e23 05 11 column NN *)))) column - - Joey_Tribbiani * -
+/friends-s02e23 05 12 . . *)) . - - Joey_Tribbiani * -
+
+/friends-s02e23 05 0 Well RB (TOP(FRAG(ADVP*) well - - Chandler_Bing * -
+/friends-s02e23 05 1 there EX (NP(NP*) there - - Chandler_Bing * -
+/friends-s02e23 05 2 you PRP (SBAR(S(NP*) you - - Chandler_Bing * -
+/friends-s02e23 05 3 go VBP (VP*)))) go - - Chandler_Bing * -
+/friends-s02e23 05 4 . . *)) . - - Chandler_Bing * -
+
+/friends-s02e23 05 0 Hey UH (TOP(S(S(INTJ*) hey - - Joey_Tribbiani * -
+/friends-s02e23 05 1 and CC (NP*) and - - Joey_Tribbiani * -
+/friends-s02e23 05 2 everbody NN (VP* everbody - - Joey_Tribbiani * -
+/friends-s02e23 05 3 is VBZ (VP* be - - Joey_Tribbiani * -
+/friends-s02e23 05 4 so RB (ADJP* so - - Joey_Tribbiani * -
+/friends-s02e23 05 5 nice JJ *)))) nice - - Joey_Tribbiani * -
+/friends-s02e23 05 6 . . *)) . - - Joey_Tribbiani * -
+
+/friends-s02e23 05 0 I PRP (TOP(S(NP*) I - - Joey_Tribbiani * -
+/friends-s02e23 05 1 just RB (ADVP*) just - - Joey_Tribbiani * -
+/friends-s02e23 05 2 had VBD (VP* have - - Joey_Tribbiani * -
+/friends-s02e23 05 3 a DT (NP(NP* a - - Joey_Tribbiani * -
+/friends-s02e23 05 4 good JJ * good - - Joey_Tribbiani * -
+/friends-s02e23 05 5 talk NN *) talk - - Joey_Tribbiani * -
+/friends-s02e23 05 6 with IN (PP* with - - Joey_Tribbiani * -
+/friends-s02e23 05 7 that DT (NP* that - - Joey_Tribbiani * -
+/friends-s02e23 05 8 lady NN *))) lady - - Joey_Tribbiani * (173)
+/friends-s02e23 05 9 with IN (PP* with - - Joey_Tribbiani * -
+/friends-s02e23 05 10 the DT (NP(NP* the - - Joey_Tribbiani * -
+/friends-s02e23 05 11 red JJ * red - - Joey_Tribbiani * -
+/friends-s02e23 05 12 hair NN *) hair - - Joey_Tribbiani * -
+/friends-s02e23 05 13 , , * , - - Joey_Tribbiani * -
+/friends-s02e23 05 14 Jeannie NNP (NP*)))) Jeannie - - Joey_Tribbiani (PERSON) (173)
+/friends-s02e23 05 15 . . *)) . - - Joey_Tribbiani * -
+
+/friends-s02e23 05 0 Jeannie NNP (TOP(NP(NP*) Jeannie - - Chandler_Bing (PERSON) (173)
+/friends-s02e23 05 1 , , * , - - Chandler_Bing * -
+/friends-s02e23 05 2 the DT (NP(NP(NP* the - - Chandler_Bing * -
+/friends-s02e23 05 3 head NN *) head - - Chandler_Bing * -
+/friends-s02e23 05 4 of IN (PP* of - - Chandler_Bing * -
+/friends-s02e23 05 5 east JJ (NP* east - - Chandler_Bing * -
+/friends-s02e23 05 6 coast NN * coast - - Chandler_Bing * -
+/friends-s02e23 05 7 operations NNS *))) operation - - Chandler_Bing * -
+/friends-s02e23 05 8 Jeannie NNP (NP*)) Jeannie - - Chandler_Bing (PERSON) (173)
+/friends-s02e23 05 9 ? . *)) ? - - Chandler_Bing * -
+
+/friends-s02e23 05 0 Yeah UH (TOP(SINV(FRAG(INTJ*)) yeah - - Joey_Tribbiani * -
+/friends-s02e23 05 1 , , * , - - Joey_Tribbiani * -
+/friends-s02e23 05 2 turns VBZ (VP* turn - - Joey_Tribbiani * -
+/friends-s02e23 05 3 out RP (PRT*) out - - Joey_Tribbiani * -
+/friends-s02e23 05 4 our PRP$ (NP* we - - Joey_Tribbiani * -
+/friends-s02e23 05 5 kids NNS *)) kid - - Joey_Tribbiani * -
+/friends-s02e23 05 6 go VBP (S(VP* go - - Joey_Tribbiani * -
+/friends-s02e23 05 7 to TO (PP* to - - Joey_Tribbiani * -
+/friends-s02e23 05 8 the DT (NP* the - - Joey_Tribbiani * -
+/friends-s02e23 05 9 same JJ * same - - Joey_Tribbiani * -
+/friends-s02e23 05 10 school NN *)))) school - - Joey_Tribbiani * -
+/friends-s02e23 05 11 . . *)) . - - Joey_Tribbiani * -
+
+/friends-s02e23 05 0 Small JJ (TOP(FRAG(NP* small - - Joey_Tribbiani * -
+/friends-s02e23 05 1 world NN *) world - - Joey_Tribbiani * -
+/friends-s02e23 05 2 huh RB (ADVP*) huh - - Joey_Tribbiani * -
+/friends-s02e23 05 3 ? . *)) ? - - Joey_Tribbiani * -
+
+/friends-s02e23 05 0 Weird JJ (TOP(NP* weird - - Chandler_Bing * -
+/friends-s02e23 05 1 world NN * world - - Chandler_Bing * -
+/friends-s02e23 05 2 . . *)) . - - Chandler_Bing * -
+
+/friends-s02e23 05 0 Your PRP$ (TOP(NP* you - - Chandler_Bing * -
+/friends-s02e23 05 1 kids NNS * kid - - Chandler_Bing * -
+/friends-s02e23 05 2 ? . *)) ? - - Chandler_Bing * -
+
+/friends-s02e23 05 0 I PRP (TOP(S(NP*) I - - Joey_Tribbiani * -
+/friends-s02e23 05 1 figure VBP (VP* figure - - Joey_Tribbiani * -
+/friends-s02e23 05 2 my PRP$ (SBAR(S(NP* my - - Joey_Tribbiani * -
+/friends-s02e23 05 3 character NN *) character - - Joey_Tribbiani * -
+/friends-s02e23 05 4 has VBZ (VP* have - - Joey_Tribbiani * -
+/friends-s02e23 05 5 kids NNS (NP*))))) kid - - Joey_Tribbiani * -
+/friends-s02e23 05 6 . . *)) . - - Joey_Tribbiani * -
+
+/friends-s02e23 05 0 Ya NNP (TOP(S(NP*) Ya - - Chandler_Bing * -
+/friends-s02e23 05 1 know VBP (VP* know - - Chandler_Bing * -
+/friends-s02e23 05 2 there EX (SBAR(S(NP*) there - - Chandler_Bing * -
+/friends-s02e23 05 3 is VBZ (VP* be - - Chandler_Bing * -
+/friends-s02e23 05 4 n't RB * not - - Chandler_Bing * -
+/friends-s02e23 05 5 a DT (NP(NP* a - - Chandler_Bing * -
+/friends-s02e23 05 6 part NN *) part - - Chandler_Bing * -
+/friends-s02e23 05 7 of IN (PP* of - - Chandler_Bing * -
+/friends-s02e23 05 8 that DT (NP(NP* that - - Chandler_Bing * -
+/friends-s02e23 05 9 sentence NN *) sentence - - Chandler_Bing * -
+/friends-s02e23 05 10 I PRP (SBAR(S(NP*) I - - Chandler_Bing * -
+/friends-s02e23 05 11 do VBP (VP* do - - Chandler_Bing * -
+/friends-s02e23 05 12 n't RB * not - - Chandler_Bing * -
+/friends-s02e23 05 13 need VB (VP* need - - Chandler_Bing * -
+/friends-s02e23 05 14 explained VBN (VP*)))))))))))) explain - - Chandler_Bing * -
+/friends-s02e23 05 15 . . *)) . - - Chandler_Bing * -
+
+/friends-s02e23 05 0 Well RB (TOP(S(INTJ*) well - - Joey_Tribbiani * -
+/friends-s02e23 05 1 , , * , - - Joey_Tribbiani * -
+/friends-s02e23 05 2 see VB (VP* see - - Joey_Tribbiani * -
+/friends-s02e23 05 3 when WRB (SBAR(WHADVP*) when - - Joey_Tribbiani * -
+/friends-s02e23 05 4 you PRP (S(NP*) you - - Joey_Tribbiani * -
+/friends-s02e23 05 5 're VBP (VP* be - - Joey_Tribbiani * -
+/friends-s02e23 05 6 acting VBG (VP* act - - Joey_Tribbiani * -
+/friends-s02e23 05 7 you PRP (SBAR(S(NP*) you - - Joey_Tribbiani * -
+/friends-s02e23 05 8 need VBP (VP* need - - Joey_Tribbiani * -
+/friends-s02e23 05 9 to TO (S(VP* to - - Joey_Tribbiani * -
+/friends-s02e23 05 10 think VB (VP* think - - Joey_Tribbiani * -
+/friends-s02e23 05 11 about IN (PP* about - - Joey_Tribbiani * -
+/friends-s02e23 05 12 stuff NN (NP(NP*) stuff - - Joey_Tribbiani * -
+/friends-s02e23 05 13 like IN (PP* like - - Joey_Tribbiani * -
+/friends-s02e23 05 14 that DT (NP*))))))))))))))) that - - Joey_Tribbiani * -
+/friends-s02e23 05 15 . . *)) . - - Joey_Tribbiani * -
+
+/friends-s02e23 05 0 My PRP$ (TOP(S(NP(NP* my - - Joey_Tribbiani * -
+/friends-s02e23 05 1 character NN *) character - - Joey_Tribbiani * -
+/friends-s02e23 05 2 , , * , - - Joey_Tribbiani * -
+/friends-s02e23 05 3 Joseph NNP (NP(NP*) Joseph - - Joey_Tribbiani (PERSON) (183)
+/friends-s02e23 05 4 the DT (NP* the - - Joey_Tribbiani * -
+/friends-s02e23 05 5 processor NN * processor - - Joey_Tribbiani * (183
+/friends-s02e23 05 6 guy NN *)) guy - - Joey_Tribbiani * 183)
+/friends-s02e23 05 7 , , *) , - - Joey_Tribbiani * -
+/friends-s02e23 05 8 has VBZ (VP* have - - Joey_Tribbiani * -
+/friends-s02e23 05 9 two CD (NP(NP* two - - Joey_Tribbiani (NUMBER) -
+/friends-s02e23 05 10 little JJ * little - - Joey_Tribbiani * -
+/friends-s02e23 05 11 girls NNS *) girl - - Joey_Tribbiani * -
+/friends-s02e23 05 12 , , * , - - Joey_Tribbiani * -
+/friends-s02e23 05 13 Ashley NNP (NP*) Ashley - - Joey_Tribbiani (PERSON) (20)
+/friends-s02e23 05 14 and CC * and - - Joey_Tribbiani * -
+/friends-s02e23 05 15 Brittany NNP (NP*))) Brittany - - Joey_Tribbiani (PERSON) -
+/friends-s02e23 05 16 . . *)) . - - Joey_Tribbiani * -
+
+/friends-s02e23 05 0 Ashley NNP (TOP(S(NP(NP* Ashley - - Joey_Tribbiani (PERSON) (20)
+/friends-s02e23 05 1 copies NNS * copy - - Joey_Tribbiani * -
+/friends-s02e23 05 2 everything NN *) everything - - Joey_Tribbiani * -
+/friends-s02e23 05 3 Brittany NNP (NP*)) Brittany - - Joey_Tribbiani (PERSON) (49)
+/friends-s02e23 05 4 does VBZ (VP*) do - - Joey_Tribbiani * -
+/friends-s02e23 05 5 . . *)) . - - Joey_Tribbiani * -
+
+/friends-s02e23 05 0 Well RB (TOP(S(INTJ*) well - - Chandler_Bing * -
+/friends-s02e23 05 1 , , * , - - Chandler_Bing * -
+/friends-s02e23 05 2 invisible JJ (NP* invisible - - Chandler_Bing * -
+/friends-s02e23 05 3 kids NNS *) kid - - Chandler_Bing * -
+/friends-s02e23 05 4 can MD (VP* can - - Chandler_Bing * -
+/friends-s02e23 05 5 be VB (VP* be - - Chandler_Bing * -
+/friends-s02e23 05 6 that DT (NP* that - - Chandler_Bing * -
+/friends-s02e23 05 7 way NN *) way - - Chandler_Bing * -
+/friends-s02e23 05 8 sometimes RB (ADVP*))) sometimes - - Chandler_Bing * -
+/friends-s02e23 05 9 . . *)) . - - Chandler_Bing * -
+
+/friends-s02e23 05 0 Yeah UH (TOP(INTJ* yeah - - Joey_Tribbiani * -
+/friends-s02e23 05 1 . . *)) . - - Joey_Tribbiani * -
+
+/friends-s02e23 05 0 Joseph NNP (TOP(S(NP(NP(NP*) Joseph - - Joey_Tribbiani (PERSON) (183)
+/friends-s02e23 05 1 and CC * and - - Joey_Tribbiani * -
+/friends-s02e23 05 2 his PRP$ (NP* he - - Joey_Tribbiani * (183)
+/friends-s02e23 05 3 wife NN *)) wife - - Joey_Tribbiani * -
+/friends-s02e23 05 4 , , * , - - Joey_Tribbiani * -
+/friends-s02e23 05 5 Karen NNP (NP*) Karen - - Joey_Tribbiani (PERSON) (199)
+/friends-s02e23 05 6 , , *) , - - Joey_Tribbiani * -
+/friends-s02e23 05 7 are VBP (VP* be - - Joey_Tribbiani * -
+/friends-s02e23 05 8 thinking VBG (VP* think - - Joey_Tribbiani * -
+/friends-s02e23 05 9 of IN (PP* of - - Joey_Tribbiani * -
+/friends-s02e23 05 10 having VBG (S(VP* have - - Joey_Tribbiani * -
+/friends-s02e23 05 11 a DT (NP* a - - Joey_Tribbiani * -
+/friends-s02e23 05 12 third JJ * third - - Joey_Tribbiani (ORDINAL) -
+/friends-s02e23 05 13 kid NN *)))))) kid - - Joey_Tribbiani * -
+/friends-s02e23 05 14 ... : *)) ... - - Joey_Tribbiani * -
+
+/friends-s02e23 05 0 Ya NNP (TOP(S(NP*) Ya - - Joey_Tribbiani * -
+/friends-s02e23 05 1 know VB (VP* know - - Joey_Tribbiani * -
+/friends-s02e23 05 2 what WP (NP*)) what - - Joey_Tribbiani * -
+/friends-s02e23 05 3 ? . *)) ? - - Joey_Tribbiani * -
+
+/friends-s02e23 05 0 Just RB (TOP(S(NP*) just - - Joey_Tribbiani * -
+/friends-s02e23 05 1 did VBD (VP*) do - - Joey_Tribbiani * -
+/friends-s02e23 05 2 . . *)) . - - Joey_Tribbiani * -
+
+/friends-s02e23 05 0 Really RB (TOP(FRAG(ADVP*) really - - Chandler_Bing * -
+/friends-s02e23 05 1 ? . *)) ? - - Chandler_Bing * -
+
+/friends-s02e23 05 0 Wow UH (TOP(INTJ* wow - - Chandler_Bing * -
+/friends-s02e23 05 1 . . *)) . - - Chandler_Bing * -
+
+/friends-s02e23 05 0 That DT (TOP(S(NP*) that - - Chandler_Bing * -
+/friends-s02e23 05 1 's VBZ (VP* be - - Chandler_Bing * -
+/friends-s02e23 05 2 some DT (NP(NP* some - - Chandler_Bing * -
+/friends-s02e23 05 3 pretty RB (ADJP* pretty - - Chandler_Bing * -
+/friends-s02e23 05 4 powerful JJ *) powerful - - Chandler_Bing * -
+/friends-s02e23 05 5 imaginary JJ * imaginary - - Chandler_Bing * -
+/friends-s02e23 05 6 sperm NN *) sperm - - Chandler_Bing * -
+/friends-s02e23 05 7 you PRP (SBAR(S(NP*) you - - Chandler_Bing * -
+/friends-s02e23 05 8 must MD (VP* must - - Chandler_Bing * -
+/friends-s02e23 05 9 have VB (VP* have - - Chandler_Bing * -
+/friends-s02e23 05 10 there RB (NP*))))))) there - - Chandler_Bing * -
+/friends-s02e23 05 11 . . *)) . - - Chandler_Bing * -
+
+#end document
+#begin document (/friends-s02e23); part 006
+/friends-s02e23 06 0 You PRP (TOP(S(NP*) you - - Ryan * -
+/friends-s02e23 06 1 know VBP (VP* know - - Ryan * -
+/friends-s02e23 06 2 what WP (SBAR(WHNP*) what - - Ryan * -
+/friends-s02e23 06 3 makes VBZ (S(VP* make - - Ryan * -
+/friends-s02e23 06 4 the DT (S(NP* the - - Ryan * -
+/friends-s02e23 06 5 itching VBG *) itch - - Ryan * -
+/friends-s02e23 06 6 even RB (ADJP* even - - Ryan * -
+/friends-s02e23 06 7 worse JJR *)))))) worse - - Ryan * -
+/friends-s02e23 06 8 ? . *)) ? - - Ryan * -
+
+/friends-s02e23 06 0 That DT (TOP(S(NP*) that - - Phoebe_Buffay * -
+/friends-s02e23 06 1 you PRP (NP*) you - - Phoebe_Buffay * -
+/friends-s02e23 06 2 do VBP (VP* do - - Phoebe_Buffay * -
+/friends-s02e23 06 3 n't RB * not - - Phoebe_Buffay * -
+/friends-s02e23 06 4 stop VB (VP* stop - - Phoebe_Buffay * -
+/friends-s02e23 06 5 talking VBG (S(VP* talk - - Phoebe_Buffay * -
+/friends-s02e23 06 6 about IN (PP* about - - Phoebe_Buffay * -
+/friends-s02e23 06 7 it PRP (NP*)))))) it - - Phoebe_Buffay * -
+/friends-s02e23 06 8 . . *)) . - - Phoebe_Buffay * -
+
+/friends-s02e23 06 0 Fine NNP (TOP(FRAG(NP*) Fine - - Ryan * -
+/friends-s02e23 06 1 . . *)) . - - Ryan * -
+
+/friends-s02e23 06 0 Let VB (TOP(S(S(VP* let - - Phoebe_Buffay * -
+/friends-s02e23 06 1 's PRP (SBAR(S(NP*) 's - - Phoebe_Buffay * -
+/friends-s02e23 06 2 just RB (ADVP*) just - - Phoebe_Buffay * -
+/friends-s02e23 06 3 play VBP (VP*))))) play - - Phoebe_Buffay * -
+/friends-s02e23 06 4 , , * , - - Phoebe_Buffay * -
+/friends-s02e23 06 5 ok VBP (VP*) ok - - Phoebe_Buffay * -
+/friends-s02e23 06 6 . . *)) . - - Phoebe_Buffay * -
+
+/friends-s02e23 06 0 Good JJ (TOP(FRAG(ADJP* good - - Phoebe_Buffay * -
+/friends-s02e23 06 1 , , * , - - Phoebe_Buffay * -
+/friends-s02e23 06 2 ok JJ *) ok - - Phoebe_Buffay * -
+/friends-s02e23 06 3 . . *)) . - - Phoebe_Buffay * -
+
+/friends-s02e23 06 0 Here RB (TOP(S(S(ADVP*) here - - Phoebe_Buffay * -
+/friends-s02e23 06 1 we PRP (NP*) we - - Phoebe_Buffay * -
+/friends-s02e23 06 2 go VBP (VP*)) go - - Phoebe_Buffay * -
+/friends-s02e23 06 3 , , * , - - Phoebe_Buffay * -
+/friends-s02e23 06 4 double JJ (NP* double - - Phoebe_Buffay * -
+/friends-s02e23 06 5 sixes NNS *) six - - Phoebe_Buffay * -
+/friends-s02e23 06 6 , , * , - - Phoebe_Buffay * -
+/friends-s02e23 06 7 here RB (ADVP*) here - - Phoebe_Buffay * -
+/friends-s02e23 06 8 we PRP (NP*) we - - Phoebe_Buffay * -
+/friends-s02e23 06 9 go VBP (VP*) go - - Phoebe_Buffay * -
+/friends-s02e23 06 10 ... : *)) ... - - Phoebe_Buffay * -
+
+/friends-s02e23 06 0 Here RB (TOP(S(SBAR(ADVP*) here - - Phoebe_Buffay * -
+/friends-s02e23 06 1 we PRP (S(NP*) we - - Phoebe_Buffay * -
+/friends-s02e23 06 2 go VBP (VP*))) go - - Phoebe_Buffay * -
+/friends-s02e23 06 3 , , * , - - Phoebe_Buffay * -
+/friends-s02e23 06 4 come VBP (VP* come - - Phoebe_Buffay * -
+/friends-s02e23 06 5 to TO (S(VP* to - - Phoebe_Buffay * -
+/friends-s02e23 06 6 mama VB (VP*))) mama - - Phoebe_Buffay * -
+/friends-s02e23 06 7 , , * , - - Phoebe_Buffay * -
+/friends-s02e23 06 8 just RB (S(ADVP*) just - - Phoebe_Buffay * -
+/friends-s02e23 06 9 getting VBG (VP* get - - Phoebe_Buffay * -
+/friends-s02e23 06 10 ready JJ (ADJP* ready - - Phoebe_Buffay * -
+/friends-s02e23 06 11 to TO (S(VP* to - - Phoebe_Buffay * -
+/friends-s02e23 06 12 roll VB (VP* roll - - Phoebe_Buffay * -
+/friends-s02e23 06 13 the DT (NP* the - - Phoebe_Buffay * -
+/friends-s02e23 06 14 dice NNS *)))))))) dice - - Phoebe_Buffay * -
+/friends-s02e23 06 15 ... : *)) ... - - Phoebe_Buffay * -
+
+/friends-s02e23 06 0 What WDT (TOP(FRAG(SBAR(WHNP*) what - - Ryan * -
+/friends-s02e23 06 1 're VBP (S(VP* be - - Ryan * -
+/friends-s02e23 06 2 you PRP (NP(NP*) you - - Ryan * -
+/friends-s02e23 06 3 doing VBG (VP*))))) do - - Ryan * -
+/friends-s02e23 06 4 ? . *)) ? - - Ryan * -
+
+/friends-s02e23 06 0 Are VBP (TOP(SQ* be - - Ryan * -
+/friends-s02e23 06 1 you PRP (NP*) you - - Ryan * -
+/friends-s02e23 06 2 scratching VBG (VP*) scratch - - Ryan * -
+/friends-s02e23 06 3 ? . *)) ? - - Ryan * -
+
+/friends-s02e23 06 0 No DT (TOP(FRAG(NP*) no - - Phoebe_Buffay * -
+/friends-s02e23 06 1 . . *)) . - - Phoebe_Buffay * -
+
+/friends-s02e23 06 0 This DT (TOP(S(NP*) this - - Phoebe_Buffay * -
+/friends-s02e23 06 1 is VBZ (VP* be - - Phoebe_Buffay * -
+/friends-s02e23 06 2 what WP (SBAR(WHNP*) what - - Phoebe_Buffay * -
+/friends-s02e23 06 3 I PRP (S(NP*) I - - Phoebe_Buffay * -
+/friends-s02e23 06 4 do VBP (VP* do - - Phoebe_Buffay * -
+/friends-s02e23 06 5 for IN (PP* for - - Phoebe_Buffay * -
+/friends-s02e23 06 6 luck NN (NP(NP*) luck - - Phoebe_Buffay * -
+/friends-s02e23 06 7 , , * , - - Phoebe_Buffay * -
+/friends-s02e23 06 8 ok NN (NP*))))))) ok - - Phoebe_Buffay * -
+/friends-s02e23 06 9 . . *)) . - - Phoebe_Buffay * -
+
+/friends-s02e23 06 0 You PRP (TOP(S(NP*) you - - Ryan * -
+/friends-s02e23 06 1 're VBP (VP* be - - Ryan * -
+/friends-s02e23 06 2 scratching VBG (VP*)) scratch - - Ryan * -
+/friends-s02e23 06 3 . . *)) . - - Ryan * -
+
+/friends-s02e23 06 0 Give VB (TOP(S(VP* give - - Ryan * -
+/friends-s02e23 06 1 me PRP (NP*) I - - Ryan * -
+/friends-s02e23 06 2 the DT (NP* the - - Ryan * -
+/friends-s02e23 06 3 dice NNS *)) dice - - Ryan * -
+/friends-s02e23 06 4 . . *)) . - - Ryan * -
+
+/friends-s02e23 06 0 No DT (TOP(FRAG(NP*) no - - Phoebe_Buffay * -
+/friends-s02e23 06 1 . . *)) . - - Phoebe_Buffay * -
+
+/friends-s02e23 06 0 Give VB (TOP(S(VP* give - - Ryan * -
+/friends-s02e23 06 1 me PRP (NP*) I - - Ryan * -
+/friends-s02e23 06 2 the DT (NP* the - - Ryan * -
+/friends-s02e23 06 3 dice NNS *)) dice - - Ryan * -
+/friends-s02e23 06 4 . . *)) . - - Ryan * -
+
+/friends-s02e23 06 0 No DT (TOP(FRAG(NP*) no - - Phoebe_Buffay * -
+/friends-s02e23 06 1 . . *)) . - - Phoebe_Buffay * -
+
+/friends-s02e23 06 0 Here RB (TOP(FRAG(ADVP*) here - - Phoebe_Buffay * -
+/friends-s02e23 06 1 . . *)) . - - Phoebe_Buffay * -
+
+/friends-s02e23 06 0 There EX (TOP(S(VP*) there - - Phoebe_Buffay * -
+/friends-s02e23 06 1 . . *)) . - - Phoebe_Buffay * -
+
+/friends-s02e23 06 0 Ooh NNP (TOP(NP(NP*) Ooh - - Phoebe_Buffay * -
+/friends-s02e23 06 1 , , * , - - Phoebe_Buffay * -
+/friends-s02e23 06 2 double JJ (NP* double - - Phoebe_Buffay * -
+/friends-s02e23 06 3 sixes NNS *) six - - Phoebe_Buffay * -
+/friends-s02e23 06 4 . . *)) . - - Phoebe_Buffay * -
+
+/friends-s02e23 06 0 We PRP (TOP(S(NP*) we - - Ryan * -
+/friends-s02e23 06 1 ca MD (VP* can - - Ryan * -
+/friends-s02e23 06 2 n't RB * not - - Ryan * -
+/friends-s02e23 06 3 scratch VB (VP*)) scratch - - Ryan * -
+/friends-s02e23 06 4 . . *)) . - - Ryan * -
+
+/friends-s02e23 06 0 You PRP (TOP(S(S(NP*) you - - Ryan * -
+/friends-s02e23 06 1 know VBP (VP* know - - Ryan * -
+/friends-s02e23 06 2 we PRP (SBAR(S(NP*) we - - Ryan * -
+/friends-s02e23 06 3 ca MD (VP* can - - Ryan * -
+/friends-s02e23 06 4 n't RB *))))) not - - Ryan * -
+/friends-s02e23 06 5 , , * , - - Ryan * -
+/friends-s02e23 06 6 we PRP (NP*) we - - Ryan * -
+/friends-s02e23 06 7 'll MD (VP* will - - Ryan * -
+/friends-s02e23 06 8 scar NN (VP*)) scar - - Ryan * -
+/friends-s02e23 06 9 . . *)) . - - Ryan * -
+
+/friends-s02e23 06 0 Uhh NNP (TOP(S(NP*) Uhh - - Phoebe_Buffay * -
+/friends-s02e23 06 1 , , * , - - Phoebe_Buffay * -
+/friends-s02e23 06 2 I PRP (NP*) I - - Phoebe_Buffay * -
+/friends-s02e23 06 3 ca MD (VP* can - - Phoebe_Buffay * -
+/friends-s02e23 06 4 n't RB * not - - Phoebe_Buffay * -
+/friends-s02e23 06 5 stop VB (VP* stop - - Phoebe_Buffay * -
+/friends-s02e23 06 6 thinking VBG (S(VP* think - - Phoebe_Buffay * -
+/friends-s02e23 06 7 about IN (PP* about - - Phoebe_Buffay * -
+/friends-s02e23 06 8 it PRP (NP*)))))) it - - Phoebe_Buffay * -
+/friends-s02e23 06 9 . . *)) . - - Phoebe_Buffay * -
+
+/friends-s02e23 06 0 It PRP (TOP(S(NP*) it - - Phoebe_Buffay * -
+/friends-s02e23 06 1 's VBZ (VP* be - - Phoebe_Buffay * -
+/friends-s02e23 06 2 just RB (ADVP*) just - - Phoebe_Buffay * -
+/friends-s02e23 06 3 so RB (ADJP* so - - Phoebe_Buffay * -
+/friends-s02e23 06 4 hard JJ *)) hard - - Phoebe_Buffay * -
+/friends-s02e23 06 5 . . *)) . - - Phoebe_Buffay * -
+
+/friends-s02e23 06 0 I PRP (TOP(S(NP*) I - - Phoebe_Buffay * -
+/friends-s02e23 06 1 just RB (ADVP*) just - - Phoebe_Buffay * -
+/friends-s02e23 06 2 wan VBP (VP* wan - - Phoebe_Buffay * -
+/friends-s02e23 06 3 na TO (S(VP* na - - Phoebe_Buffay * -
+/friends-s02e23 06 4 grab VB (VP* grab - - Phoebe_Buffay * -
+/friends-s02e23 06 5 all PDT (NP(NP* all - - Phoebe_Buffay * -
+/friends-s02e23 06 6 these DT * these - - Phoebe_Buffay * -
+/friends-s02e23 06 7 houses NNS *) house - - Phoebe_Buffay * -
+/friends-s02e23 06 8 and CC * and - - Phoebe_Buffay * -
+/friends-s02e23 06 9 rub NN (NP* rub - - Phoebe_Buffay * -
+/friends-s02e23 06 10 ' '' * ' - - Phoebe_Buffay * -
+/friends-s02e23 06 11 em NN *)) em - - Phoebe_Buffay * -
+/friends-s02e23 06 12 all DT (PP* all - - Phoebe_Buffay * -
+/friends-s02e23 06 13 over IN * over - - Phoebe_Buffay * -
+/friends-s02e23 06 14 my PRP$ (NP* my - - Phoebe_Buffay * -
+/friends-s02e23 06 15 body NN *)))))) body - - Phoebe_Buffay * -
+/friends-s02e23 06 16 . . *)) . - - Phoebe_Buffay * -
+
+/friends-s02e23 06 0 No DT (TOP(FRAG(NP*) no - - Ryan * -
+/friends-s02e23 06 1 . . *)) . - - Ryan * -
+
+/friends-s02e23 06 0 Give VB (TOP(S(VP* give - - Phoebe_Buffay * -
+/friends-s02e23 06 1 it PRP (NP*)) it - - Phoebe_Buffay * -
+/friends-s02e23 06 2 . . *)) . - - Phoebe_Buffay * -
+
+/friends-s02e23 06 0 No DT (TOP(FRAG(NP*) no - - Ryan * -
+/friends-s02e23 06 1 . . *)) . - - Ryan * -
+
+/friends-s02e23 06 0 Yeah UH (TOP(S(INTJ*) yeah - - Phoebe_Buffay * -
+/friends-s02e23 06 1 , , * , - - Phoebe_Buffay * -
+/friends-s02e23 06 2 come VBN (VP* come - - Phoebe_Buffay * -
+/friends-s02e23 06 3 on IN (PP*)) on - - Phoebe_Buffay * -
+/friends-s02e23 06 4 . . *)) . - - Phoebe_Buffay * -
+
+/friends-s02e23 06 0 You PRP (TOP(S(S(NP*) you - - Phoebe_Buffay * -
+/friends-s02e23 06 1 know VBP (VP* know - - Phoebe_Buffay * -
+/friends-s02e23 06 2 you PRP (S(NP*) you - - Phoebe_Buffay * -
+/friends-s02e23 06 3 want VB (VP* want - - Phoebe_Buffay * -
+/friends-s02e23 06 4 it PRP (NP*))))) it - - Phoebe_Buffay * -
+/friends-s02e23 06 5 , , * , - - Phoebe_Buffay * -
+/friends-s02e23 06 6 you PRP (NP*) you - - Phoebe_Buffay * -
+/friends-s02e23 06 7 know VBP (VP* know - - Phoebe_Buffay * -
+/friends-s02e23 06 8 you PRP (S(NP*) you - - Phoebe_Buffay * -
+/friends-s02e23 06 9 want VB (VP* want - - Phoebe_Buffay * -
+/friends-s02e23 06 10 it PRP (NP*) it - - Phoebe_Buffay * -
+/friends-s02e23 06 11 too RB (ADVP*) too - - Phoebe_Buffay * -
+/friends-s02e23 06 12 , , * , - - Phoebe_Buffay * -
+/friends-s02e23 06 13 come VBN (S(VP* come - - Phoebe_Buffay * -
+/friends-s02e23 06 14 on IN (PP*)))))) on - - Phoebe_Buffay * -
+/friends-s02e23 06 15 . . *)) . - - Phoebe_Buffay * -
+
+/friends-s02e23 06 0 Let VB (TOP(S(S(VP* let - - Phoebe_Buffay * -
+/friends-s02e23 06 1 's PRP (NP*) 's - - Phoebe_Buffay * -
+/friends-s02e23 06 2 just RB (ADVP*) just - - Phoebe_Buffay * -
+/friends-s02e23 06 3 be VB (VP* be - - Phoebe_Buffay * -
+/friends-s02e23 06 4 bad JJ (ADJP*)))) bad - - Phoebe_Buffay * -
+/friends-s02e23 06 5 , , * , - - Phoebe_Buffay * -
+/friends-s02e23 06 6 it PRP (NP*) it - - Phoebe_Buffay * -
+/friends-s02e23 06 7 'll MD (VP* will - - Phoebe_Buffay * -
+/friends-s02e23 06 8 feel VB (VP* feel - - Phoebe_Buffay * -
+/friends-s02e23 06 9 so RB (ADJP* so - - Phoebe_Buffay * -
+/friends-s02e23 06 10 good JJ *))) good - - Phoebe_Buffay * -
+/friends-s02e23 06 11 . . *)) . - - Phoebe_Buffay * -
+
+/friends-s02e23 06 0 Oh UH (TOP(S(INTJ*) oh - - Ryan * -
+/friends-s02e23 06 1 God NNP * God - - Ryan * -
+/friends-s02e23 06 2 help VB (VP* help - - Ryan * -
+/friends-s02e23 06 3 me PRP (NP*)) I - - Ryan * -
+/friends-s02e23 06 4 . . *)) . - - Ryan * -
+
+/friends-s02e23 06 0 Now RB (TOP(S(ADVP*) now - - Phoebe_Buffay (DATE) -
+/friends-s02e23 06 1 do VB (VP(VP* do - - Phoebe_Buffay * -
+/friends-s02e23 06 2 me PRP (NP*)) I - - Phoebe_Buffay * -
+/friends-s02e23 06 3 , , * , - - Phoebe_Buffay * -
+/friends-s02e23 06 4 do VB (VP* do - - Phoebe_Buffay * -
+/friends-s02e23 06 5 my PRP$ (NP* my - - Phoebe_Buffay * -
+/friends-s02e23 06 6 back NN *))) back - - Phoebe_Buffay * -
+/friends-s02e23 06 7 . . *)) . - - Phoebe_Buffay * -
+
+/friends-s02e23 06 0 Oh UH (TOP(INTJ* oh - - Phoebe_Buffay * -
+/friends-s02e23 06 1 come VBN (PP* come - - Phoebe_Buffay * -
+/friends-s02e23 06 2 on IN (PP(PP*) on - - Phoebe_Buffay * -
+/friends-s02e23 06 3 , , * , - - Phoebe_Buffay * -
+/friends-s02e23 06 4 harder RBR (ADVP*))) harder - - Phoebe_Buffay * -
+/friends-s02e23 06 5 . . *)) . - - Phoebe_Buffay * -
+
+/friends-s02e23 06 0 Oh UH (TOP(S(INTJ*) oh - - Rachel_Green * -
+/friends-s02e23 06 1 , , * , - - Rachel_Green * -
+/friends-s02e23 06 2 stop VB (VP(VP* stop - - Rachel_Green * -
+/friends-s02e23 06 3 that DT (NP*)) that - - Rachel_Green * -
+/friends-s02e23 06 4 , , * , - - Rachel_Green * -
+/friends-s02e23 06 5 stop VB (VP* stop - - Rachel_Green * -
+/friends-s02e23 06 6 that DT (NP*) that - - Rachel_Green * -
+/friends-s02e23 06 7 right RB (ADVP* right - - Rachel_Green (DATE* -
+/friends-s02e23 06 8 now RB *))) now - - Rachel_Green *) -
+/friends-s02e23 06 9 . . *)) . - - Rachel_Green * -
+
+/friends-s02e23 06 0 You PRP (TOP(S(S(NP*) you - - Ross_Geller * -
+/friends-s02e23 06 1 know VBP (VP*)) know - - Ross_Geller * -
+/friends-s02e23 06 2 , , (PRN* , - - Ross_Geller * -
+/friends-s02e23 06 3 I PRP (S(NP*) I - - Ross_Geller * -
+/friends-s02e23 06 4 might MD (VP* might - - Ross_Geller * -
+/friends-s02e23 06 5 have VB (VP* have - - Ross_Geller * -
+/friends-s02e23 06 6 expected VBN (VP* expect - - Ross_Geller * -
+/friends-s02e23 06 7 this DT (S(NP(NP*) this - - Ross_Geller * -
+/friends-s02e23 06 8 of IN (PP* of - - Ross_Geller * -
+/friends-s02e23 06 9 you PRP (NP*))) you - - Ross_Geller * -
+/friends-s02e23 06 10 Phoebe NNP (NP*)))))) Phoebe - - Ross_Geller (PERSON) (292)
+/friends-s02e23 06 11 , , *) , - - Ross_Geller * -
+/friends-s02e23 06 12 but CC * but - - Ross_Geller * -
+/friends-s02e23 06 13 Ryan NNP (S(NP*) Ryan - - Ross_Geller (PERSON) (339)
+/friends-s02e23 06 14 , , * , - - Ross_Geller * -
+/friends-s02e23 06 15 you PRP (NP*) you - - Ross_Geller * -
+/friends-s02e23 06 16 're VBP (VP* be - - Ross_Geller * -
+/friends-s02e23 06 17 a DT (NP* a - - Ross_Geller * -
+/friends-s02e23 06 18 military JJ * military - - Ross_Geller * -
+/friends-s02e23 06 19 man NN *))) man - - Ross_Geller * (339)
+/friends-s02e23 06 20 . . *)) . - - Ross_Geller * -
+
+#end document
+#begin document (/friends-s02e23); part 007
+/friends-s02e23 07 0 You PRP (TOP(S(NP* you - - Joey_Tribbiani * -
+/friends-s02e23 07 1 and CC * and - - Joey_Tribbiani * -
+/friends-s02e23 07 2 Milton NNP *) Milton - - Joey_Tribbiani (PERSON) (241)
+/friends-s02e23 07 3 have VBP (VP* have - - Joey_Tribbiani * -
+/friends-s02e23 07 4 to TO (S(VP* to - - Joey_Tribbiani * -
+/friends-s02e23 07 5 join VB (VP* join - - Joey_Tribbiani * -
+/friends-s02e23 07 6 us PRP (NP*) we - - Joey_Tribbiani * -
+/friends-s02e23 07 7 on IN (PP* on - - Joey_Tribbiani * -
+/friends-s02e23 07 8 the DT (NP* the - - Joey_Tribbiani * -
+/friends-s02e23 07 9 boat NN *)))))) boat - - Joey_Tribbiani * -
+/friends-s02e23 07 10 . . *)) . - - Joey_Tribbiani * -
+
+/friends-s02e23 07 0 Karen NNP (TOP(S(S(NP*) Karen - - Joey_Tribbiani * (199)
+/friends-s02e23 07 1 'll MD (VP* will - - Joey_Tribbiani * -
+/friends-s02e23 07 2 pack VB (VP* pack - - Joey_Tribbiani * -
+/friends-s02e23 07 3 a DT (NP* a - - Joey_Tribbiani * -
+/friends-s02e23 07 4 lunch NN *)))) lunch - - Joey_Tribbiani * -
+/friends-s02e23 07 5 , , * , - - Joey_Tribbiani * -
+/friends-s02e23 07 6 you PRP (S(NP*) you - - Joey_Tribbiani * -
+/friends-s02e23 07 7 'll MD (VP* will - - Joey_Tribbiani * -
+/friends-s02e23 07 8 bring VB (VP* bring - - Joey_Tribbiani * -
+/friends-s02e23 07 9 the DT (NP* the - - Joey_Tribbiani * -
+/friends-s02e23 07 10 kids NNS *)))) kid - - Joey_Tribbiani * -
+/friends-s02e23 07 11 , , * , - - Joey_Tribbiani * -
+/friends-s02e23 07 12 we PRP (S(NP*) we - - Joey_Tribbiani * -
+/friends-s02e23 07 13 'll MD (VP* will - - Joey_Tribbiani * -
+/friends-s02e23 07 14 make VB (VP* make - - Joey_Tribbiani * -
+/friends-s02e23 07 15 a DT (NP(NP* a - - Joey_Tribbiani (DURATION* -
+/friends-s02e23 07 16 day NN *) day - - Joey_Tribbiani *) -
+/friends-s02e23 07 17 of IN (PP* of - - Joey_Tribbiani * -
+/friends-s02e23 07 18 it PRP (NP*)))))) it - - Joey_Tribbiani * -
+/friends-s02e23 07 19 . . *)) . - - Joey_Tribbiani * -
+
+/friends-s02e23 07 0 Oh UH (TOP(S(INTJ*) oh - - Jeannie * -
+/friends-s02e23 07 1 , , * , - - Jeannie * -
+/friends-s02e23 07 2 that IN (ADVP*) that - - Jeannie * -
+/friends-s02e23 07 3 sounds VBZ (VP* sound - - Jeannie * -
+/friends-s02e23 07 4 lovely JJ (ADJP*)) lovely - - Jeannie * -
+/friends-s02e23 07 5 . . *)) . - - Jeannie * -
+
+/friends-s02e23 07 0 We PRP (TOP(S(NP*) we - - Jeannie * -
+/friends-s02e23 07 1 're VBP (VP* be - - Jeannie * -
+/friends-s02e23 07 2 gon VBG (VP* gon - - Jeannie * -
+/friends-s02e23 07 3 na TO (S(VP* na - - Jeannie * -
+/friends-s02e23 07 4 have VB (VP* have - - Jeannie * -
+/friends-s02e23 07 5 to TO (S(VP* to - - Jeannie * -
+/friends-s02e23 07 6 set VB (VP* set - - Jeannie * -
+/friends-s02e23 07 7 that IN (ADVP* that - - Jeannie * -
+/friends-s02e23 07 8 up RB *))))))))) up - - Jeannie * -
+/friends-s02e23 07 9 . . *)) . - - Jeannie * -
+
+/friends-s02e23 07 0 Oh UH (TOP(S(INTJ*) oh - - Jeannie * -
+/friends-s02e23 07 1 , , * , - - Jeannie * -
+/friends-s02e23 07 2 I PRP (NP*) I - - Jeannie * -
+/friends-s02e23 07 3 better JJR (ADVP*) better - - Jeannie * -
+/friends-s02e23 07 4 get VB (VP* get - - Jeannie * -
+/friends-s02e23 07 5 back RB (ADVP*)) back - - Jeannie * -
+/friends-s02e23 07 6 . . *)) . - - Jeannie * -
+
+/friends-s02e23 07 0 Hope NNP (TOP(S(NP(NP*) Hope - - Jeannie * -
+/friends-s02e23 07 1 the DT (NP* the - - Jeannie * -
+/friends-s02e23 07 2 baby NN *)) baby - - Jeannie * (288)
+/friends-s02e23 07 3 feels VBZ (VP* feel - - Jeannie * -
+/friends-s02e23 07 4 better JJR (ADJP*)) better - - Jeannie * -
+/friends-s02e23 07 5 . . *)) . - - Jeannie * -
+
+/friends-s02e23 07 0 Oh UH (TOP(FRAG(INTJ*) oh - - Joey_Tribbiani * -
+/friends-s02e23 07 1 , , * , - - Joey_Tribbiani * -
+/friends-s02e23 07 2 thanks NNS (NP(NP*) thanks - - Joey_Tribbiani * -
+/friends-s02e23 07 3 , , * , - - Joey_Tribbiani * -
+/friends-s02e23 07 4 thanks NNS (ADJP*)) thanks - - Joey_Tribbiani * -
+/friends-s02e23 07 5 . . *)) . - - Joey_Tribbiani * -
+
+/friends-s02e23 07 0 Bye NNP (TOP(NP* Bye - - Joey_Tribbiani * -
+/friends-s02e23 07 1 bye NNP * bye - - Joey_Tribbiani * -
+/friends-s02e23 07 2 Jeannie NNP * Jeannie - - Joey_Tribbiani (PERSON) (173)
+/friends-s02e23 07 3 . . *)) . - - Joey_Tribbiani * -
+
+/friends-s02e23 07 0 Bye NNP (TOP(NP* Bye - - Jeannie * -
+/friends-s02e23 07 1 bye NNP * bye - - Jeannie * -
+/friends-s02e23 07 2 Joey NNP * Joey - - Jeannie (PERSON) (183)
+/friends-s02e23 07 3 . . *)) . - - Jeannie * -
+
+/friends-s02e23 07 0 What WP (TOP(FRAG(X*) what - - Joey_Tribbiani * -
+/friends-s02e23 07 1 a DT (NP* a - - Joey_Tribbiani * -
+/friends-s02e23 07 2 phony NN * phony - - Joey_Tribbiani * -
+/friends-s02e23 07 3 . . *))) . - - Joey_Tribbiani * -
+
+/friends-s02e23 07 0 Well RB (TOP(S(INTJ*) well - - Chandler_Bing * -
+/friends-s02e23 07 1 , , * , - - Chandler_Bing * -
+/friends-s02e23 07 2 I PRP (NP*) I - - Chandler_Bing * -
+/friends-s02e23 07 3 'm VBP (VP* be - - Chandler_Bing * -
+/friends-s02e23 07 4 sure JJ (ADJP* sure - - Chandler_Bing * -
+/friends-s02e23 07 5 you PRP (SBAR(S(NP*) you - - Chandler_Bing * -
+/friends-s02e23 07 6 'll MD (VP* will - - Chandler_Bing * -
+/friends-s02e23 07 7 teach VB (VP* teach - - Chandler_Bing * -
+/friends-s02e23 07 8 her PRP (NP*) she - - Chandler_Bing * (173)
+/friends-s02e23 07 9 a DT (NP(NP* a - - Chandler_Bing * -
+/friends-s02e23 07 10 lesson NN *) lesson - - Chandler_Bing * -
+/friends-s02e23 07 11 when WRB (SBAR(WHADVP*) when - - Chandler_Bing * -
+/friends-s02e23 07 12 she PRP (S(NP*) she - - Chandler_Bing * (173)
+/friends-s02e23 07 13 steps VBZ (VP* step - - Chandler_Bing * -
+/friends-s02e23 07 14 off RP (PRT*) off - - Chandler_Bing * -
+/friends-s02e23 07 15 the DT (NP* the - - Chandler_Bing * -
+/friends-s02e23 07 16 dock NN *) dock - - Chandler_Bing * -
+/friends-s02e23 07 17 onto IN (PP* onto - - Chandler_Bing * -
+/friends-s02e23 07 18 nothing NN (NP*)))))))))))) nothing - - Chandler_Bing * -
+/friends-s02e23 07 19 . . *)) . - - Chandler_Bing * -
+
+/friends-s02e23 07 0 Hey UH (TOP(S(VP(NP(INTJ*) hey - - Chandler_Bing * -
+/friends-s02e23 07 1 Mr. NNP (NP* Mr. - - Chandler_Bing * -
+/friends-s02e23 07 2 Douglas NNP *))) Douglas - - Chandler_Bing (PERSON) (256)
+/friends-s02e23 07 3 . . *)) . - - Chandler_Bing * -
+
+/friends-s02e23 07 0 Sir NNP (TOP(FRAG(NP*) Sir - - Joey_Tribbiani * (256)
+/friends-s02e23 07 1 . . *)) . - - Joey_Tribbiani * -
+
+/friends-s02e23 07 0 Uh RB (TOP(S(S(ADVP*) uh - - Mr._Douglas * -
+/friends-s02e23 07 1 , , * , - - Mr._Douglas * -
+/friends-s02e23 07 2 listen VBP (VP* listen - - Mr._Douglas * -
+/friends-s02e23 07 3 Bing NNP (NP*))) Bing - - Mr._Douglas (PERSON) (59)
+/friends-s02e23 07 4 , , * , - - Mr._Douglas * -
+/friends-s02e23 07 5 I PRP (NP*) I - - Mr._Douglas * -
+/friends-s02e23 07 6 received VBD (VP* receive - - Mr._Douglas * -
+/friends-s02e23 07 7 your PRP$ (NP* you - - Mr._Douglas * -
+/friends-s02e23 07 8 memo NN *)) memo - - Mr._Douglas * -
+/friends-s02e23 07 9 . . *)) . - - Mr._Douglas * -
+
+/friends-s02e23 07 0 So RB (TOP(S(ADVP*) so - - Mr._Douglas * -
+/friends-s02e23 07 1 , , * , - - Mr._Douglas * -
+/friends-s02e23 07 2 we PRP (NP*) we - - Mr._Douglas * -
+/friends-s02e23 07 3 're VBP (VP* be - - Mr._Douglas * -
+/friends-s02e23 07 4 not RB * not - - Mr._Douglas * -
+/friends-s02e23 07 5 gon VBG (VP* gon - - Mr._Douglas * -
+/friends-s02e23 07 6 na TO (S(VP* na - - Mr._Douglas * -
+/friends-s02e23 07 7 receive VB (VP* receive - - Mr._Douglas * -
+/friends-s02e23 07 8 the DT (SBAR(S(NP* the - - Mr._Douglas * -
+/friends-s02e23 07 9 systems NNS *) system - - Mr._Douglas * -
+/friends-s02e23 07 10 report VBP (VP* report - - Mr._Douglas * -
+/friends-s02e23 07 11 until IN (PP* until - - Mr._Douglas * -
+/friends-s02e23 07 12 next JJ (NP-TMP* next - - Mr._Douglas (DATE* -
+/friends-s02e23 07 13 Friday NNP *)))))))))) Friday - - Mr._Douglas *) -
+/friends-s02e23 07 14 ? . *)) ? - - Mr._Douglas * -
+
+/friends-s02e23 07 0 Well RB (TOP(FRAG(ADVP*) well - - Chandler_Bing * -
+/friends-s02e23 07 1 the DT (NP(NP* the - - Chandler_Bing * -
+/friends-s02e23 07 2 people NNS *) people - - Chandler_Bing * -
+/friends-s02e23 07 3 in IN (PP* in - - Chandler_Bing * -
+/friends-s02e23 07 4 my PRP$ (NP(NP* my - - Chandler_Bing * -
+/friends-s02e23 07 5 group NN * group - - Chandler_Bing * -
+/friends-s02e23 07 6 wan NN *) wan - - Chandler_Bing * -
+/friends-s02e23 07 7 na TO (SBAR(S(VP* na - - Chandler_Bing * -
+/friends-s02e23 07 8 spend VB (VP* spend - - Chandler_Bing * -
+/friends-s02e23 07 9 the DT (NP(NP* the - - Chandler_Bing * -
+/friends-s02e23 07 10 holiday NN * holiday - - Chandler_Bing * -
+/friends-s02e23 07 11 weekend NN *) weekend - - Chandler_Bing (DATE) -
+/friends-s02e23 07 12 with IN (PP* with - - Chandler_Bing * -
+/friends-s02e23 07 13 their PRP$ * they - - Chandler_Bing * -
+/friends-s02e23 07 14 families NNS *))))))))) family - - Chandler_Bing * -
+/friends-s02e23 07 15 . . *)) . - - Chandler_Bing * -
+
+/friends-s02e23 07 0 I PRP (TOP(S(S(NP*) I - - Mr._Douglas * -
+/friends-s02e23 07 1 have VBP (VP* have - - Mr._Douglas * -
+/friends-s02e23 07 2 a DT (NP* a - - Mr._Douglas * -
+/friends-s02e23 07 3 family NN *))) family - - Mr._Douglas * -
+/friends-s02e23 07 4 , , * , - - Mr._Douglas * -
+/friends-s02e23 07 5 I PRP (NP*) I - - Mr._Douglas * -
+/friends-s02e23 07 6 'm VBP (VP* be - - Mr._Douglas * -
+/friends-s02e23 07 7 gon VBG (VP* gon - - Mr._Douglas * -
+/friends-s02e23 07 8 na TO (S(VP* na - - Mr._Douglas * -
+/friends-s02e23 07 9 be VB (VP* be - - Mr._Douglas * -
+/friends-s02e23 07 10 here RB (ADVP*)))))) here - - Mr._Douglas * -
+/friends-s02e23 07 11 . . *)) . - - Mr._Douglas * -
+
+/friends-s02e23 07 0 Yeah UH (TOP(SBARQ(PP* yeah - - Joey_Tribbiani * -
+/friends-s02e23 07 1 Bing NNP (NP*)) Bing - - Joey_Tribbiani (PERSON) (59)
+/friends-s02e23 07 2 , , * , - - Joey_Tribbiani * -
+/friends-s02e23 07 3 what WP (WHNP*) what - - Joey_Tribbiani * -
+/friends-s02e23 07 4 's VBZ (SQ* be - - Joey_Tribbiani * -
+/friends-s02e23 07 5 that DT (NP*) that - - Joey_Tribbiani * -
+/friends-s02e23 07 6 about IN (ADJP*)) about - - Joey_Tribbiani * -
+/friends-s02e23 07 7 ? . *)) ? - - Joey_Tribbiani * -
+
+/friends-s02e23 07 0 It PRP (TOP(S(S(NP*) it - - Chandler_Bing * -
+/friends-s02e23 07 1 's VBZ (VP* be - - Chandler_Bing * -
+/friends-s02e23 07 2 about IN (PP* about - - Chandler_Bing * -
+/friends-s02e23 07 3 cutting VBG (S(VP* cut - - Chandler_Bing * -
+/friends-s02e23 07 4 my PRP$ (NP* my - - Chandler_Bing * -
+/friends-s02e23 07 5 people NNS *) people - - Chandler_Bing * -
+/friends-s02e23 07 6 a DT (NP* a - - Chandler_Bing * -
+/friends-s02e23 07 7 little JJ * little - - Chandler_Bing * -
+/friends-s02e23 07 8 slack NN *)))))) slack - - Chandler_Bing * -
+/friends-s02e23 07 9 , , * , - - Chandler_Bing * -
+/friends-s02e23 07 10 ya PRP (NP*) ya - - Chandler_Bing * -
+/friends-s02e23 07 11 know VBP (VP* know - - Chandler_Bing * -
+/friends-s02e23 07 12 , , * , - - Chandler_Bing * -
+/friends-s02e23 07 13 for IN (PP* for - - Chandler_Bing * -
+/friends-s02e23 07 14 morale NN (NP*))) morale - - Chandler_Bing * -
+/friends-s02e23 07 15 . . *)) . - - Chandler_Bing * -
+
+/friends-s02e23 07 0 Look VB (TOP(S(S(VP* look - - Chandler_Bing * -
+/friends-s02e23 07 1 , , * , - - Chandler_Bing * -
+/friends-s02e23 07 2 if IN (SBAR* if - - Chandler_Bing * -
+/friends-s02e23 07 3 you PRP (S(NP*) you - - Chandler_Bing * -
+/friends-s02e23 07 4 wan VBP (VP* wan - - Chandler_Bing * -
+/friends-s02e23 07 5 na TO (S(VP* na - - Chandler_Bing * -
+/friends-s02e23 07 6 see VB (VP* see - - Chandler_Bing * -
+/friends-s02e23 07 7 some DT (NP* some - - Chandler_Bing * -
+/friends-s02e23 07 8 rough JJ * rough - - Chandler_Bing * -
+/friends-s02e23 07 9 numbers NNS *))))))))) number - - Chandler_Bing * -
+/friends-s02e23 07 10 , , * , - - Chandler_Bing * -
+/friends-s02e23 07 11 I PRP (NP*) I - - Chandler_Bing * -
+/friends-s02e23 07 12 can MD (VP* can - - Chandler_Bing * -
+/friends-s02e23 07 13 get VB (VP* get - - Chandler_Bing * -
+/friends-s02e23 07 14 them PRP (NP*) they - - Chandler_Bing * -
+/friends-s02e23 07 15 to TO (PP* to - - Chandler_Bing * -
+/friends-s02e23 07 16 you PRP (NP*)) you - - Chandler_Bing * -
+/friends-s02e23 07 17 by IN (PP* by - - Chandler_Bing * -
+/friends-s02e23 07 18 Wednesday NNP (NP*)))) Wednesday - - Chandler_Bing (DATE) -
+/friends-s02e23 07 19 . . *)) . - - Chandler_Bing * -
+
+/friends-s02e23 07 0 Rough JJ (TOP(FRAG(NP* rough - - Mr._Douglas * -
+/friends-s02e23 07 1 numbers NNS *) number - - Mr._Douglas * -
+/friends-s02e23 07 2 ? . *)) ? - - Mr._Douglas * -
+
+/friends-s02e23 07 0 This DT (TOP(S(NP* this - - Joey_Tribbiani * -
+/friends-s02e23 07 1 company NN *) company - - Joey_Tribbiani * -
+/friends-s02e23 07 2 was VBD (VP* be - - Joey_Tribbiani * -
+/friends-s02e23 07 3 not RB * not - - Joey_Tribbiani * -
+/friends-s02e23 07 4 built VBN (VP* build - - Joey_Tribbiani * -
+/friends-s02e23 07 5 on IN (PP* on - - Joey_Tribbiani * -
+/friends-s02e23 07 6 rough JJ (NP* rough - - Joey_Tribbiani * -
+/friends-s02e23 07 7 numbers NNS *)))) number - - Joey_Tribbiani * -
+/friends-s02e23 07 8 . . *)) . - - Joey_Tribbiani * -
+
+/friends-s02e23 07 0 Am VBP (TOP(SINV* be - - Joey_Tribbiani * -
+/friends-s02e23 07 1 I PRP (NP(NP*) I - - Joey_Tribbiani * -
+/friends-s02e23 07 2 right JJ (NP(NP*) right - - Joey_Tribbiani * -
+/friends-s02e23 07 3 Mr. NNP (NP* Mr. - - Joey_Tribbiani * -
+/friends-s02e23 07 4 Douglas NNP * Douglas - - Joey_Tribbiani (PERSON) (256)
+/friends-s02e23 07 5 . . *))))) . - - Joey_Tribbiani * -
+
+/friends-s02e23 07 0 Have VBP (TOP(S(VP* have - - Mr._Douglas * -
+/friends-s02e23 07 1 the DT (NP(NP* the - - Mr._Douglas * -
+/friends-s02e23 07 2 final JJ * final - - Mr._Douglas * -
+/friends-s02e23 07 3 numbers NNS *) number - - Mr._Douglas * -
+/friends-s02e23 07 4 on IN (PP* on - - Mr._Douglas * -
+/friends-s02e23 07 5 my PRP$ (NP* my - - Mr._Douglas * -
+/friends-s02e23 07 6 desk NN *))) desk - - Mr._Douglas * -
+/friends-s02e23 07 7 by IN (PP* by - - Mr._Douglas * -
+/friends-s02e23 07 8 Tuesday NNP (NP*))) Tuesday - - Mr._Douglas (DATE) -
+/friends-s02e23 07 9 . . *)) . - - Mr._Douglas * -
+
+/friends-s02e23 07 0 Uh RB (TOP(S(ADVP*) uh - - Chandler_Bing * -
+/friends-s02e23 07 1 , , * , - - Chandler_Bing * -
+/friends-s02e23 07 2 if IN (S(ADJP*)) if - - Chandler_Bing * -
+/friends-s02e23 07 3 you PRP (NP*) you - - Chandler_Bing * -
+/friends-s02e23 07 4 say VBP (VP* say - - Chandler_Bing * -
+/friends-s02e23 07 5 so RB (ADJP* so - - Chandler_Bing * -
+/friends-s02e23 07 6 sir JJ *)) sir - - Chandler_Bing * -
+/friends-s02e23 07 7 . . *)) . - - Chandler_Bing * -
+
+/friends-s02e23 07 0 Joseph NNP (TOP(S(NP(NP* Joseph - - Joey_Tribbiani (PERSON) (183)
+/friends-s02e23 07 1 's POS *) 's - - Joey_Tribbiani * -
+/friends-s02e23 07 2 good JJ *) good - - Joey_Tribbiani * -
+/friends-s02e23 07 3 , , * , - - Joey_Tribbiani * -
+/friends-s02e23 07 4 is VBZ (VP* be - - Joey_Tribbiani * -
+/friends-s02e23 07 5 n't RB * not - - Joey_Tribbiani * -
+/friends-s02e23 07 6 he PRP (NP*)) he - - Joey_Tribbiani * (183)
+/friends-s02e23 07 7 ? . *)) ? - - Joey_Tribbiani * -
+
+/friends-s02e23 07 0 Well RB (TOP(S(INTJ*) well - - Chandler_Bing * -
+/friends-s02e23 07 1 , , * , - - Chandler_Bing * -
+/friends-s02e23 07 2 I PRP (NP*) I - - Chandler_Bing * -
+/friends-s02e23 07 3 'm VBP (VP* be - - Chandler_Bing * -
+/friends-s02e23 07 4 going VBG (VP* go - - Chandler_Bing * -
+/friends-s02e23 07 5 to TO (S(VP* to - - Chandler_Bing * -
+/friends-s02e23 07 6 kill VB (VP* kill - - Chandler_Bing * -
+/friends-s02e23 07 7 you PRP (NP*)))))) you - - Chandler_Bing * -
+/friends-s02e23 07 8 . . *)) . - - Chandler_Bing * -
+
+/friends-s02e23 07 0 Hey UH (TOP(S(FRAG(INTJ*) hey - - Joey_Tribbiani * -
+/friends-s02e23 07 1 , , * , - - Joey_Tribbiani * -
+/friends-s02e23 07 2 hey NN (NP*)) hey - - Joey_Tribbiani * -
+/friends-s02e23 07 3 , , * , - - Joey_Tribbiani * -
+/friends-s02e23 07 4 I PRP (NP*) I - - Joey_Tribbiani * -
+/friends-s02e23 07 5 just RB (ADVP*) just - - Joey_Tribbiani * -
+/friends-s02e23 07 6 figure VBP (VP* figure - - Joey_Tribbiani * -
+/friends-s02e23 07 7 Joseph NNP (NP(NP(NP* Joseph - - Joey_Tribbiani (PERSON) (183)
+/friends-s02e23 07 8 's POS *) 's - - Joey_Tribbiani * -
+/friends-s02e23 07 9 the DT (NP* the - - Joey_Tribbiani * -
+/friends-s02e23 07 10 kinda NN * kinda - - Joey_Tribbiani * -
+/friends-s02e23 07 11 guy NN *)) guy - - Joey_Tribbiani * (183)
+/friends-s02e23 07 12 that WDT (SBAR(WHNP*) that - - Joey_Tribbiani * -
+/friends-s02e23 07 13 likes VBZ (S(VP* like - - Joey_Tribbiani * -
+/friends-s02e23 07 14 to TO (S(VP* to - - Joey_Tribbiani * -
+/friends-s02e23 07 15 mix VB (VP* mix - - Joey_Tribbiani * -
+/friends-s02e23 07 16 it PRP (NP*) it - - Joey_Tribbiani * -
+/friends-s02e23 07 17 up RP (PRT*))))))))) up - - Joey_Tribbiani * -
+/friends-s02e23 07 18 . . *)) . - - Joey_Tribbiani * -
+
+/friends-s02e23 07 0 Ya NNP (TOP(S(NP*) Ya - - Joey_Tribbiani * -
+/friends-s02e23 07 1 know VB (VP(VP*) know - - Joey_Tribbiani * -
+/friends-s02e23 07 2 , , * , - - Joey_Tribbiani * -
+/friends-s02e23 07 3 get VB (VP* get - - Joey_Tribbiani * -
+/friends-s02e23 07 4 in IN (PP* in - - Joey_Tribbiani * -
+/friends-s02e23 07 5 there RB (NP*))) there - - Joey_Tribbiani * -
+/friends-s02e23 07 6 , , * , - - Joey_Tribbiani * -
+/friends-s02e23 07 7 ruffle VB (VP* ruffle - - Joey_Tribbiani * -
+/friends-s02e23 07 8 some DT (NP* some - - Joey_Tribbiani * -
+/friends-s02e23 07 9 feathers NNS *))) feather - - Joey_Tribbiani * -
+/friends-s02e23 07 10 . . *)) . - - Joey_Tribbiani * -
+
+/friends-s02e23 07 0 Why WRB (TOP(FRAG* why - - Chandler_Bing * -
+/friends-s02e23 07 1 ? . *)) ? - - Chandler_Bing * -
+
+/friends-s02e23 07 0 Look VB (TOP(S(S(S(VP*)) look - - Joey_Tribbiani * -
+/friends-s02e23 07 1 , , * , - - Joey_Tribbiani * -
+/friends-s02e23 07 2 I PRP (NP*) I - - Joey_Tribbiani * -
+/friends-s02e23 07 3 'm VBP (VP* be - - Joey_Tribbiani * -
+/friends-s02e23 07 4 sorry JJ (ADJP*))) sorry - - Joey_Tribbiani * -
+/friends-s02e23 07 5 but CC * but - - Joey_Tribbiani * -
+/friends-s02e23 07 6 that DT (S(NP*) that - - Joey_Tribbiani * -
+/friends-s02e23 07 7 's VBZ (VP* be - - Joey_Tribbiani * -
+/friends-s02e23 07 8 what WP (NP(SBAR(WHNP*) what - - Joey_Tribbiani * -
+/friends-s02e23 07 9 Joseph NNP (S(NP*) Joseph - - Joey_Tribbiani (PERSON) (183)
+/friends-s02e23 07 10 does VBZ (VP*))) do - - Joey_Tribbiani * -
+/friends-s02e23 07 11 , , * , - - Joey_Tribbiani * -
+/friends-s02e23 07 12 ok NN (NP*)))) ok - - Joey_Tribbiani * -
+/friends-s02e23 07 13 . . *)) . - - Joey_Tribbiani * -
+
+/friends-s02e23 07 0 If IN (TOP(S(SBAR* if - - Joey_Tribbiani * -
+/friends-s02e23 07 1 you PRP (S(NP*) you - - Joey_Tribbiani * -
+/friends-s02e23 07 2 try VBP (VP* try - - Joey_Tribbiani * -
+/friends-s02e23 07 3 to TO (S(VP* to - - Joey_Tribbiani * -
+/friends-s02e23 07 4 pull VB (VP* pull - - Joey_Tribbiani * -
+/friends-s02e23 07 5 somethin NN (NP* somethin - - Joey_Tribbiani * -
+/friends-s02e23 07 6 ' '' *))))))) ' - - Joey_Tribbiani * -
+/friends-s02e23 07 7 , , * , - - Joey_Tribbiani * -
+/friends-s02e23 07 8 he PRP (NP*) he - - Joey_Tribbiani * (183)
+/friends-s02e23 07 9 'll MD (VP* will - - Joey_Tribbiani * -
+/friends-s02e23 07 10 call VB (VP* call - - Joey_Tribbiani * -
+/friends-s02e23 07 11 you PRP (NP*) you - - Joey_Tribbiani * -
+/friends-s02e23 07 12 on IN (PP* on - - Joey_Tribbiani * -
+/friends-s02e23 07 13 it PRP (NP*)))) it - - Joey_Tribbiani * -
+/friends-s02e23 07 14 . . *)) . - - Joey_Tribbiani * -
+
+/friends-s02e23 07 0 ' '' (TOP(S* ' - - Joey_Tribbiani * -
+/friends-s02e23 07 1 What WP (S(NP*) what - - Joey_Tribbiani * -
+/friends-s02e23 07 2 're VBP (VP* be - - Joey_Tribbiani * -
+/friends-s02e23 07 3 you PRP (NP(NP* you - - Joey_Tribbiani * -
+/friends-s02e23 07 4 tryin NN *) tryin - - Joey_Tribbiani * -
+/friends-s02e23 07 5 ' '' * ' - - Joey_Tribbiani * -
+/friends-s02e23 07 6 to TO (SBAR(S(VP* to - - Joey_Tribbiani * -
+/friends-s02e23 07 7 pull VB (VP*))))))) pull - - Joey_Tribbiani * -
+/friends-s02e23 07 8 , , * , - - Joey_Tribbiani * -
+/friends-s02e23 07 9 ' '' * ' - - Joey_Tribbiani * -
+/friends-s02e23 07 10 he PRP (NP*) he - - Joey_Tribbiani * (183)
+/friends-s02e23 07 11 'll MD (VP* will - - Joey_Tribbiani * -
+/friends-s02e23 07 12 say VB (VP*)) say - - Joey_Tribbiani * -
+/friends-s02e23 07 13 . . *)) . - - Joey_Tribbiani * -
+
+#end document
+#begin document (/friends-s02e23); part 008
+/friends-s02e23 08 0 Ooh NNP (TOP(NP(NP*) Ooh - - Richard * -
+/friends-s02e23 08 1 , , * , - - Richard * -
+/friends-s02e23 08 2 duct NN (NP* duct - - Richard * -
+/friends-s02e23 08 3 tape NN *) tape - - Richard * -
+/friends-s02e23 08 4 . . *)) . - - Richard * -
+
+/friends-s02e23 08 0 Was VBD (TOP(SQ* be - - Richard * -
+/friends-s02e23 08 1 I PRP (NP*) I - - Richard * -
+/friends-s02e23 08 2 supposed VBN (VP* suppose - - Richard * -
+/friends-s02e23 08 3 to TO (S(VP* to - - Richard * -
+/friends-s02e23 08 4 bring VB (VP* bring - - Richard * -
+/friends-s02e23 08 5 something NN (NP*) something - - Richard * -
+/friends-s02e23 08 6 too RB (ADVP*))))) too - - Richard * -
+/friends-s02e23 08 7 ? . *)) ? - - Richard * -
+
+/friends-s02e23 08 0 This DT (TOP(S(NP*) this - - Monica_Geller * -
+/friends-s02e23 08 1 is VBZ (VP* be - - Monica_Geller * -
+/friends-s02e23 08 2 for IN (PP* for - - Monica_Geller * -
+/friends-s02e23 08 3 the DT (NP* the - - Monica_Geller * -
+/friends-s02e23 08 4 scratchy JJ * scratchy - - Monica_Geller * -
+/friends-s02e23 08 5 twins NNS *)) twin - - Monica_Geller * -
+/friends-s02e23 08 6 out IN (ADVP* out - - Monica_Geller * -
+/friends-s02e23 08 7 there RB *)) there - - Monica_Geller * -
+/friends-s02e23 08 8 . . *)) . - - Monica_Geller * -
+
+/friends-s02e23 08 0 I PRP (TOP(S(NP*) I - - Monica_Geller * -
+/friends-s02e23 08 1 taped VBD (VP* tape - - Monica_Geller * -
+/friends-s02e23 08 2 oven NN (NP* oven - - Monica_Geller * -
+/friends-s02e23 08 3 mits NNS *) mit - - Monica_Geller * -
+/friends-s02e23 08 4 to TO (PP* to - - Monica_Geller * -
+/friends-s02e23 08 5 their PRP$ (NP* they - - Monica_Geller * -
+/friends-s02e23 08 6 hands NNS *))) hand - - Monica_Geller * -
+/friends-s02e23 08 7 . . *)) . - - Monica_Geller * -
+
+/friends-s02e23 08 0 You PRP (TOP(S(NP*) you - - Richard * -
+/friends-s02e23 08 1 're VBP (VP* be - - Richard * -
+/friends-s02e23 08 2 strict JJ (ADJP*)) strict - - Richard * -
+/friends-s02e23 08 3 . . *)) . - - Richard * -
+
+/friends-s02e23 08 0 It PRP (TOP(S(NP*) it - - Monica_Geller * -
+/friends-s02e23 08 1 's VBZ (VP* be - - Monica_Geller * -
+/friends-s02e23 08 2 for IN (PP* for - - Monica_Geller * -
+/friends-s02e23 08 3 their PRP$ (NP* they - - Monica_Geller * -
+/friends-s02e23 08 4 own JJ * own - - Monica_Geller * -
+/friends-s02e23 08 5 good JJ *))) good - - Monica_Geller * -
+/friends-s02e23 08 6 . . *)) . - - Monica_Geller * -
+
+/friends-s02e23 08 0 You PRP (TOP(S(S(NP*) you - - Richard * -
+/friends-s02e23 08 1 know VBP (VP*)) know - - Richard * -
+/friends-s02e23 08 2 , , * , - - Richard * -
+/friends-s02e23 08 3 I PRP (NP*) I - - Richard * -
+/friends-s02e23 08 4 like VBP (VP* like - - Richard * -
+/friends-s02e23 08 5 the DT (NP(NP* the - - Richard * -
+/friends-s02e23 08 6 way NN *) way - - Richard * -
+/friends-s02e23 08 7 you PRP (SBAR(S(NP*) you - - Richard * -
+/friends-s02e23 08 8 have VBP (VP* have - - Richard * -
+/friends-s02e23 08 9 efficiently RB (ADVP*) efficiently - - Richard * -
+/friends-s02e23 08 10 folded VBN (VP* fold - - Richard * -
+/friends-s02e23 08 11 this DT (NP* this - - Richard * -
+/friends-s02e23 08 12 tab NN *) tab - - Richard * -
+/friends-s02e23 08 13 under IN (PP*))))))) under - - Richard * -
+/friends-s02e23 08 14 . . *)) . - - Richard * -
+
+/friends-s02e23 08 0 See VB (TOP(S(S(VP* see - - Richard * -
+/friends-s02e23 08 1 in IN (PP* in - - Richard * -
+/friends-s02e23 08 2 a DT (NP* a - - Richard * -
+/friends-s02e23 08 3 tape NN * tape - - Richard * -
+/friends-s02e23 08 4 emergency NN *)))) emergency - - Richard * -
+/friends-s02e23 08 5 you PRP (NP*) you - - Richard * -
+/friends-s02e23 08 6 could MD (VP* could - - Richard * -
+/friends-s02e23 08 7 shave VB (VP* shave - - Richard * -
+/friends-s02e23 08 8 valuable JJ (NP* valuable - - Richard * -
+/friends-s02e23 08 9 seconds NNS *) seconds - - Richard (DURATION) -
+/friends-s02e23 08 10 off IN (PP* off - - Richard * -
+/friends-s02e23 08 11 your PRP$ (NP* you - - Richard * -
+/friends-s02e23 08 12 time NN *)))) time - - Richard * -
+/friends-s02e23 08 13 . . *)) . - - Richard * -
+
+/friends-s02e23 08 0 Exactly RB (TOP(FRAG(ADVP*) exactly - - Monica_Geller * -
+/friends-s02e23 08 1 . . *)) . - - Monica_Geller * -
+
+/friends-s02e23 08 0 Oh UH (TOP(S(INTJ*) oh - - Monica_Geller * -
+/friends-s02e23 08 1 , , * , - - Monica_Geller * -
+/friends-s02e23 08 2 I PRP (NP*) I - - Monica_Geller * -
+/friends-s02e23 08 3 love VBP (VP* love - - Monica_Geller * -
+/friends-s02e23 08 4 that IN (SBAR* that - - Monica_Geller * -
+/friends-s02e23 08 5 I PRP (S(NP*) I - - Monica_Geller * -
+/friends-s02e23 08 6 can MD (VP* can - - Monica_Geller * -
+/friends-s02e23 08 7 be VB (VP* be - - Monica_Geller * -
+/friends-s02e23 08 8 totally RB (ADJP* totally - - Monica_Geller * -
+/friends-s02e23 08 9 neurotic JJ * neurotic - - Monica_Geller * -
+/friends-s02e23 08 10 around IN (PP* around - - Monica_Geller * -
+/friends-s02e23 08 11 you PRP (NP*))) you - - Monica_Geller * -
+/friends-s02e23 08 12 now RB (ADVP*)))))) now - - Monica_Geller (DATE) -
+/friends-s02e23 08 13 . . *)) . - - Monica_Geller * -
+
+/friends-s02e23 08 0 Tell VB (TOP(S(VP* tell - - Monica_Geller * -
+/friends-s02e23 08 1 me PRP (NP*) I - - Monica_Geller * -
+/friends-s02e23 08 2 the DT (NP* the - - Monica_Geller * -
+/friends-s02e23 08 3 truth NN *)) truth - - Monica_Geller * -
+/friends-s02e23 08 4 . . *)) . - - Monica_Geller * -
+
+/friends-s02e23 08 0 Do VBP (TOP(SINV(VP* do - - Monica_Geller * -
+/friends-s02e23 08 1 n't RB *) not - - Monica_Geller * -
+/friends-s02e23 08 2 you PRP (NP*) you - - Monica_Geller * -
+/friends-s02e23 08 3 like IN (SBAR* like - - Monica_Geller * -
+/friends-s02e23 08 4 it PRP (S(NP*) it - - Monica_Geller * -
+/friends-s02e23 08 5 better RB (ADJP* better - - Monica_Geller * -
+/friends-s02e23 08 6 now RB (SBAR* now - - Monica_Geller (DATE) -
+/friends-s02e23 08 7 that IN * that - - Monica_Geller * -
+/friends-s02e23 08 8 everything NN (S(NP(NP*) everything - - Monica_Geller * -
+/friends-s02e23 08 9 on IN (PP* on - - Monica_Geller * -
+/friends-s02e23 08 10 your PRP$ (NP* you - - Monica_Geller * -
+/friends-s02e23 08 11 desk NN *))) desk - - Monica_Geller * -
+/friends-s02e23 08 12 is VBZ (VP* be - - Monica_Geller * -
+/friends-s02e23 08 13 perpendicular JJ (ADJP*))) perpendicular - - Monica_Geller * -
+/friends-s02e23 08 14 ? . *)))))) ? - - Monica_Geller * -
+
+/friends-s02e23 08 0 If IN (TOP(S(SBAR* if - - Richard * -
+/friends-s02e23 08 1 it PRP (S(NP*) it - - Richard * -
+/friends-s02e23 08 2 's VBZ (VP* be - - Richard * -
+/friends-s02e23 08 3 not RB * not - - Richard * -
+/friends-s02e23 08 4 a DT (NP* a - - Richard * -
+/friends-s02e23 08 5 right JJ * right - - Richard * -
+/friends-s02e23 08 6 angle NN *)))) angle - - Richard * -
+/friends-s02e23 08 7 , , * , - - Richard * -
+/friends-s02e23 08 8 it PRP (NP*) it - - Richard * -
+/friends-s02e23 08 9 is VBZ (VP* be - - Richard * -
+/friends-s02e23 08 10 a DT (NP* a - - Richard * -
+/friends-s02e23 08 11 wrong JJ * wrong - - Richard * -
+/friends-s02e23 08 12 angle NN *)) angle - - Richard * -
+/friends-s02e23 08 13 . . *)) . - - Richard * -
+
+/friends-s02e23 08 0 Very RB (TOP(FRAG(ADJP* very - - Monica_Geller * -
+/friends-s02e23 08 1 good JJ *) good - - Monica_Geller * -
+/friends-s02e23 08 2 . . *)) . - - Monica_Geller * -
+
+/friends-s02e23 08 0 Thank VB (TOP(S(VP* thank - - Richard * -
+/friends-s02e23 08 1 you PRP (NP*)) you - - Richard * -
+/friends-s02e23 08 2 . . *)) . - - Richard * -
+
+/friends-s02e23 08 0 You PRP (TOP(S(NP*) you - - Monica_Geller * -
+/friends-s02e23 08 1 know VBP (VP* know - - Monica_Geller * -
+/friends-s02e23 08 2 what WP (NP*)) what - - Monica_Geller * -
+/friends-s02e23 08 3 . . *)) . - - Monica_Geller * -
+
+/friends-s02e23 08 0 Tomorrow NN (TOP(S(NP-TMP*) tomorrow - - Monica_Geller (DATE) -
+/friends-s02e23 08 1 I PRP (NP*) I - - Monica_Geller * -
+/friends-s02e23 08 2 'm VBP (VP* be - - Monica_Geller * -
+/friends-s02e23 08 3 gon VBG (VP* gon - - Monica_Geller * -
+/friends-s02e23 08 4 na TO (S(VP* na - - Monica_Geller * -
+/friends-s02e23 08 5 do VB (VP* do - - Monica_Geller * -
+/friends-s02e23 08 6 your PRP$ (NP* you - - Monica_Geller * -
+/friends-s02e23 08 7 clocks NNS *)))))) clock - - Monica_Geller * -
+/friends-s02e23 08 8 . . *)) . - - Monica_Geller * -
+
+/friends-s02e23 08 0 You PRP (TOP(S(NP*) you - - Richard * -
+/friends-s02e23 08 1 're VBP (VP* be - - Richard * -
+/friends-s02e23 08 2 gon VBG (VP* gon - - Richard * -
+/friends-s02e23 08 3 na TO (S(VP* na - - Richard * -
+/friends-s02e23 08 4 do VB (VP* do - - Richard * -
+/friends-s02e23 08 5 what WP (NP*) what - - Richard * -
+/friends-s02e23 08 6 to TO (PP* to - - Richard * -
+/friends-s02e23 08 7 my PRP$ (NP* my - - Richard * -
+/friends-s02e23 08 8 clocks NNS *))))))) clock - - Richard * -
+/friends-s02e23 08 9 . . *)) . - - Richard * -
+
+/friends-s02e23 08 0 I PRP (TOP(S(NP*) I - - Monica_Geller * -
+/friends-s02e23 08 1 'm VBP (VP* be - - Monica_Geller * -
+/friends-s02e23 08 2 gon VBG (VP* gon - - Monica_Geller * -
+/friends-s02e23 08 3 na TO (S(VP* na - - Monica_Geller * -
+/friends-s02e23 08 4 set VB (VP* set - - Monica_Geller * -
+/friends-s02e23 08 5 them PRP (NP*) they - - Monica_Geller * -
+/friends-s02e23 08 6 to TO (PP* to - - Monica_Geller * -
+/friends-s02e23 08 7 my PRP$ (NP* my - - Monica_Geller * -
+/friends-s02e23 08 8 time NN *))))))) time - - Monica_Geller * -
+/friends-s02e23 08 9 . . *)) . - - Monica_Geller * -
+
+/friends-s02e23 08 0 Well RB (TOP(S(INTJ*) well - - Richard * -
+/friends-s02e23 08 1 , , * , - - Richard * -
+/friends-s02e23 08 2 I PRP (NP*) I - - Richard * -
+/friends-s02e23 08 3 'm VBP (VP* be - - Richard * -
+/friends-s02e23 08 4 confused VBN (ADJP*)) confuse - - Richard * -
+/friends-s02e23 08 5 . . *)) . - - Richard * -
+
+/friends-s02e23 08 0 I PRP (TOP(S(NP*) I - - Richard * -
+/friends-s02e23 08 1 thought VBD (VP* think - - Richard * -
+/friends-s02e23 08 2 we PRP (SBAR(S(NP*) we - - Richard * -
+/friends-s02e23 08 3 shared VBD (VP* share - - Richard * -
+/friends-s02e23 08 4 time NN (NP-TMP*))))) time - - Richard * -
+/friends-s02e23 08 5 . . *)) . - - Richard * -
+
+/friends-s02e23 08 0 No DT (TOP(S(VP(NP* no - - Monica_Geller * -
+/friends-s02e23 08 1 no DT (NP*))) no - - Monica_Geller * -
+/friends-s02e23 08 2 . . *)) . - - Monica_Geller * -
+
+/friends-s02e23 08 0 See VB (TOP(S(VP* see - - Monica_Geller * -
+/friends-s02e23 08 1 , , * , - - Monica_Geller * -
+/friends-s02e23 08 2 in IN (PP* in - - Monica_Geller * -
+/friends-s02e23 08 3 my PRP$ (NP* my - - Monica_Geller * -
+/friends-s02e23 08 4 bedroom NN *)) bedroom - - Monica_Geller * -
+/friends-s02e23 08 5 I PRP (SBAR(S(NP*) I - - Monica_Geller * -
+/friends-s02e23 08 6 set VBD (VP* set - - Monica_Geller * -
+/friends-s02e23 08 7 my PRP$ (NP* my - - Monica_Geller * -
+/friends-s02e23 08 8 clock NN *) clock - - Monica_Geller * -
+/friends-s02e23 08 9 six CD (ADVP(NP* six - - Monica_Geller (DURATION* -
+/friends-s02e23 08 10 minutes NNS *) minute - - Monica_Geller *) -
+/friends-s02e23 08 11 fast RB *))))) fast - - Monica_Geller * -
+/friends-s02e23 08 12 . . *)) . - - Monica_Geller * -
+
+/friends-s02e23 08 0 You PRP (TOP(S(NP*) you - - Monica_Geller * -
+/friends-s02e23 08 1 wan VBP (VP* wan - - Monica_Geller * -
+/friends-s02e23 08 2 na TO (S(VP* na - - Monica_Geller * -
+/friends-s02e23 08 3 know VB (VP* know - - Monica_Geller * -
+/friends-s02e23 08 4 why WRB (SBARQ(WHADVP*)))))) why - - Monica_Geller * -
+/friends-s02e23 08 5 ? . *)) ? - - Monica_Geller * -
+
+/friends-s02e23 08 0 Because IN (TOP(FRAG(SBAR* because - - Richard * -
+/friends-s02e23 08 1 it PRP (S(NP*) it - - Richard * -
+/friends-s02e23 08 2 's VBZ (VP* be - - Richard * -
+/friends-s02e23 08 3 in IN (PP* in - - Richard * -
+/friends-s02e23 08 4 a DT (NP(NP* a - - Richard * -
+/friends-s02e23 08 5 slightly RB (ADJP* slightly - - Richard * -
+/friends-s02e23 08 6 different JJ *) different - - Richard * -
+/friends-s02e23 08 7 time NN * time - - Richard * -
+/friends-s02e23 08 8 zone NN *) zone - - Richard * -
+/friends-s02e23 08 9 than IN (PP* than - - Richard * -
+/friends-s02e23 08 10 the DT (NP* the - - Richard * -
+/friends-s02e23 08 11 kitchen NN *))))))) kitchen - - Richard * -
+/friends-s02e23 08 12 . . *)) . - - Richard * -
+
+/friends-s02e23 08 0 No DT (TOP(S(S(NP*) no - - Monica_Geller * -
+/friends-s02e23 08 1 forget VB (VP* forget - - Monica_Geller * -
+/friends-s02e23 08 2 it PRP (NP*))) it - - Monica_Geller * -
+/friends-s02e23 08 3 , , * , - - Monica_Geller * -
+/friends-s02e23 08 4 I PRP (NP*) I - - Monica_Geller * -
+/friends-s02e23 08 5 'm VBP (VP* be - - Monica_Geller * -
+/friends-s02e23 08 6 not RB * not - - Monica_Geller * -
+/friends-s02e23 08 7 gon VBG (VP* gon - - Monica_Geller * -
+/friends-s02e23 08 8 na TO (S(VP* na - - Monica_Geller * -
+/friends-s02e23 08 9 tell VB (VP* tell - - Monica_Geller * -
+/friends-s02e23 08 10 you PRP (NP*) you - - Monica_Geller * -
+/friends-s02e23 08 11 now RB (ADVP*)))))) now - - Monica_Geller (DATE) -
+/friends-s02e23 08 12 . . *)) . - - Monica_Geller * -
+
+/friends-s02e23 08 0 No DT (TOP(S(NP*) no - - Richard * -
+/friends-s02e23 08 1 come VBN (VP* come - - Richard * -
+/friends-s02e23 08 2 on IN (PP*)) on - - Richard * -
+/friends-s02e23 08 3 . . *)) . - - Richard * -
+
+/friends-s02e23 08 0 Come VB (TOP(S(VP* come - - Richard * -
+/friends-s02e23 08 1 on IN (PP* on - - Richard * -
+/friends-s02e23 08 2 tell VB (S(VP* tell - - Richard * -
+/friends-s02e23 08 3 me PRP (NP*))))) I - - Richard * -
+/friends-s02e23 08 4 . . *)) . - - Richard * -
+
+/friends-s02e23 08 0 No DT (TOP(FRAG(NP*) no - - Monica_Geller * -
+/friends-s02e23 08 1 . . *)) . - - Monica_Geller * -
+
+/friends-s02e23 08 0 See VB (TOP(S(VP* see - - Monica_Geller * -
+/friends-s02e23 08 1 you PRP (SBAR(S(NP*) you - - Monica_Geller * -
+/friends-s02e23 08 2 do VBP (VP* do - - Monica_Geller * -
+/friends-s02e23 08 3 n't RB * not - - Monica_Geller * -
+/friends-s02e23 08 4 understand VB (VP*))))) understand - - Monica_Geller * -
+/friends-s02e23 08 5 . . *)) . - - Monica_Geller * -
+
+/friends-s02e23 08 0 Come VB (TOP(S(VP* come - - Richard * -
+/friends-s02e23 08 1 on IN (PP*)) on - - Richard * -
+/friends-s02e23 08 2 . . *)) . - - Richard * -
+
+/friends-s02e23 08 0 No DT (TOP(FRAG(NP*) no - - Monica_Geller * -
+/friends-s02e23 08 1 . . *)) . - - Monica_Geller * -
+
+/friends-s02e23 08 0 You PRP (TOP(S(NP*) you - - Monica_Geller * -
+/friends-s02e23 08 1 do VBP (VP* do - - Monica_Geller * -
+/friends-s02e23 08 2 n't RB * not - - Monica_Geller * -
+/friends-s02e23 08 3 have VB (VP* have - - Monica_Geller * -
+/friends-s02e23 08 4 any DT (NP(NP*) any - - Monica_Geller * -
+/friends-s02e23 08 5 of IN (PP* of - - Monica_Geller * -
+/friends-s02e23 08 6 these DT (NP* these - - Monica_Geller * -
+/friends-s02e23 08 7 cute JJ (ADJP*) cute - - Monica_Geller * -
+/friends-s02e23 08 8 little JJ * little - - Monica_Geller * -
+/friends-s02e23 08 9 obsessive JJ * obsessive - - Monica_Geller * -
+/friends-s02e23 08 10 things NNS *))))) thing - - Monica_Geller * -
+/friends-s02e23 08 11 . . *)) . - - Monica_Geller * -
+
+/friends-s02e23 08 0 No DT (TOP(S(NP* no - - Richard * -
+/friends-s02e23 08 1 that DT *) that - - Richard * -
+/friends-s02e23 08 2 's VBZ (VP* be - - Richard * -
+/friends-s02e23 08 3 not RB * not - - Richard * -
+/friends-s02e23 08 4 true JJ (ADJP*)) true - - Richard * -
+/friends-s02e23 08 5 . . *)) . - - Richard * -
+
+/friends-s02e23 08 0 That DT (TOP(S(NP*) that - - Richard * -
+/friends-s02e23 08 1 is VBZ (VP* be - - Richard * -
+/friends-s02e23 08 2 not RB * not - - Richard * -
+/friends-s02e23 08 3 true JJ (ADJP*)) true - - Richard * -
+/friends-s02e23 08 4 . . *)) . - - Richard * -
+
+/friends-s02e23 08 0 Oh UH (TOP(S(VP(NP(INTJ*) oh - - Monica_Geller * -
+/friends-s02e23 08 1 yeah RB (NP*))) yeah - - Monica_Geller * -
+/friends-s02e23 08 2 . . *)) . - - Monica_Geller * -
+
+/friends-s02e23 08 0 Yeah UH (TOP(INTJ* yeah - - Richard * -
+/friends-s02e23 08 1 . . *)) . - - Richard * -
+
+/friends-s02e23 08 0 Alright NNP (TOP(S(NP* Alright - - Monica_Geller * -
+/friends-s02e23 08 1 , , *) , - - Monica_Geller * -
+/friends-s02e23 08 2 well RB (ADVP*) well - - Monica_Geller * -
+/friends-s02e23 08 3 tell VB (VP* tell - - Monica_Geller * -
+/friends-s02e23 08 4 me PRP (NP*) I - - Monica_Geller * -
+/friends-s02e23 08 5 one CD (NP(NP*) one - - Monica_Geller (NUMBER) -
+/friends-s02e23 08 6 of IN (PP* of - - Monica_Geller * -
+/friends-s02e23 08 7 yours PRP$ (NP*)))) yours - - Monica_Geller * (317)
+/friends-s02e23 08 8 . . *)) . - - Monica_Geller * -
+
+/friends-s02e23 08 0 Ok NN (TOP(NP* ok - - Richard * -
+/friends-s02e23 08 1 . . *)) . - - Richard * -
+
+/friends-s02e23 08 0 Ahh RB (TOP(FRAG(ADVP*) ahh - - Richard * -
+/friends-s02e23 08 1 . . *)) . - - Richard * -
+
+/friends-s02e23 08 0 One CD (TOP(S(NP(NP*) one - - Richard (NUMBER) -
+/friends-s02e23 08 1 of IN (PP* of - - Richard * -
+/friends-s02e23 08 2 my PRP$ (NP* my - - Richard * -
+/friends-s02e23 08 3 things NNS *))) thing - - Richard * -
+/friends-s02e23 08 4 is VBZ (VP* be - - Richard * -
+/friends-s02e23 08 5 , , * , - - Richard * -
+/friends-s02e23 08 6 I PRP (S(NP*) I - - Richard * -
+/friends-s02e23 08 7 always RB (ADJP* always - - Richard * -
+/friends-s02e23 08 8 separate JJ *) separate - - Richard * -
+/friends-s02e23 08 9 my PRP$ (NP* my - - Richard * -
+/friends-s02e23 08 10 sweat NN * sweat - - Richard * -
+/friends-s02e23 08 11 socks NNS *) sock - - Richard * -
+/friends-s02e23 08 12 from IN (PP* from - - Richard * -
+/friends-s02e23 08 13 my PRP$ (NP* my - - Richard * -
+/friends-s02e23 08 14 dress NN * dress - - Richard * -
+/friends-s02e23 08 15 socks NNS *)))) sock - - Richard * -
+/friends-s02e23 08 16 . . *)) . - - Richard * -
+
+/friends-s02e23 08 0 What WP (TOP(SBAR* what - - Monica_Geller * -
+/friends-s02e23 08 1 if IN * if - - Monica_Geller * -
+/friends-s02e23 08 2 they PRP (S(NP*) they - - Monica_Geller * -
+/friends-s02e23 08 3 get VBP (VP* get - - Monica_Geller * -
+/friends-s02e23 08 4 mixed VBN (VP* mix - - Monica_Geller * -
+/friends-s02e23 08 5 up RP (PRT*)))) up - - Monica_Geller * -
+/friends-s02e23 08 6 ? . *)) ? - - Monica_Geller * -
+
+/friends-s02e23 08 0 Boy NN (TOP(S(NP(NP*) boy - - Richard * -
+/friends-s02e23 08 1 I PRP (SBAR(S(NP*) I - - Richard * -
+/friends-s02e23 08 2 would MD (VP* would - - Richard * -
+/friends-s02e23 08 3 just RB (PP* just - - Richard * -
+/friends-s02e23 08 4 uh UH (FRAG(INTJ*) uh - - Richard * -
+/friends-s02e23 08 5 , , * , - - Richard * -
+/friends-s02e23 08 6 I PRP (NP*))))))) I - - Richard * -
+/friends-s02e23 08 7 would MD (VP* would - - Richard * -
+/friends-s02e23 08 8 freak VB (VP* freak - - Richard * -
+/friends-s02e23 08 9 out RP (PRT*))) out - - Richard * -
+/friends-s02e23 08 10 . . *)) . - - Richard * -
+
+/friends-s02e23 08 0 You PRP (TOP(S(NP*) you - - Monica_Geller * -
+/friends-s02e23 08 1 would MD (VP* would - - Monica_Geller * -
+/friends-s02e23 08 2 not RB *) not - - Monica_Geller * -
+/friends-s02e23 08 3 . . *)) . - - Monica_Geller * -
+
+/friends-s02e23 08 0 I PRP (TOP(S(NP*) I - - Monica_Geller * -
+/friends-s02e23 08 1 ca MD (VP* can - - Monica_Geller * -
+/friends-s02e23 08 2 n't RB * not - - Monica_Geller * -
+/friends-s02e23 08 3 believe VB (VP* believe - - Monica_Geller * -
+/friends-s02e23 08 4 this DT (NP*))) this - - Monica_Geller * -
+/friends-s02e23 08 5 . . *)) . - - Monica_Geller * -
+
+/friends-s02e23 08 0 I PRP (TOP(S(S(NP*) I - - Monica_Geller * -
+/friends-s02e23 08 1 hate VBP (VP* hate - - Monica_Geller * -
+/friends-s02e23 08 2 this DT (NP*))) this - - Monica_Geller * -
+/friends-s02e23 08 3 , , * , - - Monica_Geller * -
+/friends-s02e23 08 4 you PRP (NP*) you - - Monica_Geller * -
+/friends-s02e23 08 5 're VBP (VP* be - - Monica_Geller * -
+/friends-s02e23 08 6 too RB (ADJP* too - - Monica_Geller * -
+/friends-s02e23 08 7 normal JJ *)) normal - - Monica_Geller * -
+/friends-s02e23 08 8 . . *)) . - - Monica_Geller * -
+
+/friends-s02e23 08 0 I PRP (TOP(S(NP*) I - - Monica_Geller * -
+/friends-s02e23 08 1 ca MD (VP* can - - Monica_Geller * -
+/friends-s02e23 08 2 n't RB * not - - Monica_Geller * -
+/friends-s02e23 08 3 believe VB (VP* believe - - Monica_Geller * -
+/friends-s02e23 08 4 my PRP$ (SBAR(S(NP* my - - Monica_Geller * -
+/friends-s02e23 08 5 boyfriend NN *) boyfriend - - Monica_Geller * -
+/friends-s02e23 08 6 does VBZ (VP* do - - Monica_Geller * -
+/friends-s02e23 08 7 n't RB * not - - Monica_Geller * -
+/friends-s02e23 08 8 have VB (VP* have - - Monica_Geller * -
+/friends-s02e23 08 9 a DT (NP* a - - Monica_Geller * -
+/friends-s02e23 08 10 thing NN *))))))) thing - - Monica_Geller * -
+/friends-s02e23 08 11 . . *)) . - - Monica_Geller * -
+
+/friends-s02e23 08 0 My PRP$ (TOP(S(NP* my - - Monica_Geller * -
+/friends-s02e23 08 1 boyfriend NN *) boyfriend - - Monica_Geller * -
+/friends-s02e23 08 2 does VBZ (VP* do - - Monica_Geller * -
+/friends-s02e23 08 3 n't RB * not - - Monica_Geller * -
+/friends-s02e23 08 4 have VB (VP* have - - Monica_Geller * -
+/friends-s02e23 08 5 a DT (NP* a - - Monica_Geller * -
+/friends-s02e23 08 6 thing NN *))) thing - - Monica_Geller * -
+/friends-s02e23 08 7 . . *)) . - - Monica_Geller * -
+
+/friends-s02e23 08 0 See VB (TOP(S(VP* see - - Richard * -
+/friends-s02e23 08 1 , , * , - - Richard * -
+/friends-s02e23 08 2 if IN (PP* if - - Richard * -
+/friends-s02e23 08 3 anyone NN (NP* anyone - - Richard * -
+/friends-s02e23 08 4 overheard NN *)) overheard - - Richard * -
+/friends-s02e23 08 5 that IN (SBAR* that - - Richard * -
+/friends-s02e23 08 6 , , * , - - Richard * -
+/friends-s02e23 08 7 I PRP (S(NP*) I - - Richard * -
+/friends-s02e23 08 8 did VBD (VP* do - - Richard * -
+/friends-s02e23 08 9 n't RB * not - - Richard * -
+/friends-s02e23 08 10 come VB (VP* come - - Richard * -
+/friends-s02e23 08 11 off RP (PRT*) off - - Richard * -
+/friends-s02e23 08 12 well RB (ADVP*)))))) well - - Richard * -
+/friends-s02e23 08 13 . . *)) . - - Richard * -
+
+#end document
+#begin document (/friends-s02e23); part 009
+/friends-s02e23 09 0 Hey UH (TOP(INTJ* hey - - Joey_Tribbiani * -
+/friends-s02e23 09 1 . . *)) . - - Joey_Tribbiani * -
+
+/friends-s02e23 09 0 Mr. NNP (TOP(S(NP* Mr. - - Joey_Tribbiani * -
+/friends-s02e23 09 1 Douglas NNP *) Douglas - - Joey_Tribbiani (PERSON) (256)
+/friends-s02e23 09 2 is VBZ (VP* be - - Joey_Tribbiani * -
+/friends-s02e23 09 3 looking VBG (VP* look - - Joey_Tribbiani * -
+/friends-s02e23 09 4 for IN (PP* for - - Joey_Tribbiani * -
+/friends-s02e23 09 5 you PRP (NP*)))) you - - Joey_Tribbiani * -
+/friends-s02e23 09 6 . . *)) . - - Joey_Tribbiani * -
+
+/friends-s02e23 09 0 Why WRB (TOP(FRAG* why - - Chandler_Bing * -
+/friends-s02e23 09 1 ? . *)) ? - - Chandler_Bing * -
+
+/friends-s02e23 09 0 Wh SYM (TOP(FRAG(X*) wh - - Chandler_Bing (PERSON* -
+/friends-s02e23 09 1 - : * - - - Chandler_Bing * -
+/friends-s02e23 09 2 wh SYM (VP* wh - - Chandler_Bing *) -
+/friends-s02e23 09 3 - : * - - - Chandler_Bing * -
+/friends-s02e23 09 4 why WRB (S(SBAR(WHADVP*) why - - Chandler_Bing * -
+/friends-s02e23 09 5 is VBZ (S(VP* be - - Chandler_Bing * -
+/friends-s02e23 09 6 Mr. NNP (NP(NP* Mr. - - Chandler_Bing * -
+/friends-s02e23 09 7 Douglas NNP *) Douglas - - Chandler_Bing (PERSON) (256)
+/friends-s02e23 09 8 looking VBG (VP* look - - Chandler_Bing * -
+/friends-s02e23 09 9 for IN (PP* for - - Chandler_Bing * -
+/friends-s02e23 09 10 me PRP (NP*))))))))) I - - Chandler_Bing * -
+/friends-s02e23 09 11 ? . *)) ? - - Chandler_Bing * -
+
+/friends-s02e23 09 0 ' POS (TOP(S(S(NP*) ' - - Joey_Tribbiani * -
+/friends-s02e23 09 1 Cause NN (NP*)) cause - - Joey_Tribbiani * -
+/friends-s02e23 09 2 he PRP (PRN(NP*) he - - Joey_Tribbiani * (256)
+/friends-s02e23 09 3 has VBZ (VP* have - - Joey_Tribbiani * -
+/friends-s02e23 09 4 a DT (NP(NP* a - - Joey_Tribbiani * -
+/friends-s02e23 09 5 strong JJ * strong - - Joey_Tribbiani * -
+/friends-s02e23 09 6 suspicion NN *) suspicion - - Joey_Tribbiani * -
+/friends-s02e23 09 7 that IN (SBAR(WHNP*))))) that - - Joey_Tribbiani * -
+/friends-s02e23 09 8 you PRP (NP*) you - - Joey_Tribbiani * -
+/friends-s02e23 09 9 dropped VBD (VP* drop - - Joey_Tribbiani * -
+/friends-s02e23 09 10 the DT (NP* the - - Joey_Tribbiani * -
+/friends-s02e23 09 11 ball NN *) ball - - Joey_Tribbiani * -
+/friends-s02e23 09 12 on IN (PP* on - - Joey_Tribbiani * -
+/friends-s02e23 09 13 the DT (NP* the - - Joey_Tribbiani * -
+/friends-s02e23 09 14 Lender NN * lender - - Joey_Tribbiani * -
+/friends-s02e23 09 15 project NN *))) project - - Joey_Tribbiani * -
+/friends-s02e23 09 16 . . *)) . - - Joey_Tribbiani * -
+
+/friends-s02e23 09 0 Wha SYM (TOP(SBARQ(FRAG(SBAR(WHNP(NP*) wha - - Chandler_Bing * -
+/friends-s02e23 09 1 - : (PRN* - - - Chandler_Bing * -
+/friends-s02e23 09 2 wh SYM (ADVP*) wh - - Chandler_Bing * -
+/friends-s02e23 09 3 - : *)) - - - Chandler_Bing * -
+/friends-s02e23 09 4 why WRB (FRAG(WHADVP*))) why - - Chandler_Bing * -
+/friends-s02e23 09 5 , , * , - - Chandler_Bing * -
+/friends-s02e23 09 6 why WRB (WHADVP*)) why - - Chandler_Bing * -
+/friends-s02e23 09 7 , , * , - - Chandler_Bing * -
+/friends-s02e23 09 8 why WRB (SBARQ(WHADVP*) why - - Chandler_Bing * -
+/friends-s02e23 09 9 does VBZ (SQ* do - - Chandler_Bing * -
+/friends-s02e23 09 10 he PRP (NP*) he - - Chandler_Bing * (256)
+/friends-s02e23 09 11 suspect VB (VP* suspect - - Chandler_Bing * -
+/friends-s02e23 09 12 that IN (ADVP*)))) that - - Chandler_Bing * -
+/friends-s02e23 09 13 ? . *)) ? - - Chandler_Bing * -
+
+/friends-s02e23 09 0 Becasue NNP (TOP(S(NP*) Becasue - - Joey_Tribbiani * -
+/friends-s02e23 09 1 at IN (ADVP*) at - - Joey_Tribbiani * -
+/friends-s02e23 09 2 first RB (ADVP*) first - - Joey_Tribbiani (ORDINAL) -
+/friends-s02e23 09 3 he PRP (NP*) he - - Joey_Tribbiani * (256)
+/friends-s02e23 09 4 thought VBD (VP* think - - Joey_Tribbiani * -
+/friends-s02e23 09 5 it PRP (SBAR(S(NP*) it - - Joey_Tribbiani * -
+/friends-s02e23 09 6 was VBD (VP* be - - Joey_Tribbiani * -
+/friends-s02e23 09 7 Joseph NNP (NP*))))) Joseph - - Joey_Tribbiani (PERSON) (183)
+/friends-s02e23 09 8 . . *)) . - - Joey_Tribbiani * -
+
+/friends-s02e23 09 0 But CC (TOP(S* but - - Joey_Tribbiani * -
+/friends-s02e23 09 1 after IN (SBAR* after - - Joey_Tribbiani * -
+/friends-s02e23 09 2 he PRP (S(NP*) he - - Joey_Tribbiani * (256)
+/friends-s02e23 09 3 asked VBD (VP* ask - - Joey_Tribbiani * -
+/friends-s02e23 09 4 Joseph NNP (NP(NP*) Joseph - - Joey_Tribbiani (PERSON) (183)
+/friends-s02e23 09 5 about IN (PP* about - - Joey_Tribbiani * -
+/friends-s02e23 09 6 it PRP (NP*)))))) it - - Joey_Tribbiani * -
+/friends-s02e23 09 7 , , * , - - Joey_Tribbiani * -
+/friends-s02e23 09 8 turns VBZ (VP* turn - - Joey_Tribbiani * -
+/friends-s02e23 09 9 out RP (PRT*) out - - Joey_Tribbiani * -
+/friends-s02e23 09 10 it PRP (SBAR(S(NP*) it - - Joey_Tribbiani * -
+/friends-s02e23 09 11 was VBD (VP* be - - Joey_Tribbiani * -
+/friends-s02e23 09 12 you PRP (NP*))))) you - - Joey_Tribbiani * -
+/friends-s02e23 09 13 . . *)) . - - Joey_Tribbiani * -
+
+/friends-s02e23 09 0 Anyway RB (TOP(S(ADVP*) anyway - - Joey_Tribbiani * -
+/friends-s02e23 09 1 , , * , - - Joey_Tribbiani * -
+/friends-s02e23 09 2 I PRP (NP*) I - - Joey_Tribbiani * -
+/friends-s02e23 09 3 just RB (ADVP*) just - - Joey_Tribbiani * -
+/friends-s02e23 09 4 thought VBD (VP* think - - Joey_Tribbiani * -
+/friends-s02e23 09 5 you PRP (SBAR(S(NP*) you - - Joey_Tribbiani * -
+/friends-s02e23 09 6 should MD (VP* should - - Joey_Tribbiani * -
+/friends-s02e23 09 7 know VB (VP*))))) know - - Joey_Tribbiani * -
+/friends-s02e23 09 8 . . *)) . - - Joey_Tribbiani * -
+
+/friends-s02e23 09 0 Alright NNP (TOP(S(NP*) Alright - - Chandler_Bing * -
+/friends-s02e23 09 1 , , * , - - Chandler_Bing * -
+/friends-s02e23 09 2 that DT (NP*) that - - Chandler_Bing * -
+/friends-s02e23 09 3 's VBZ (VP* be - - Chandler_Bing * -
+/friends-s02e23 09 4 it PRP (NP*)) it - - Chandler_Bing * -
+/friends-s02e23 09 5 . . *)) . - - Chandler_Bing * -
+
+/friends-s02e23 09 0 Look VB (TOP(S(S(S(S(VP* look - - Chandler_Bing * -
+/friends-s02e23 09 1 Joey NNP (NP*))) Joey - - Chandler_Bing (PERSON) (183)
+/friends-s02e23 09 2 , , (PRN* , - - Chandler_Bing * -
+/friends-s02e23 09 3 I PRP (S(NP*) I - - Chandler_Bing * -
+/friends-s02e23 09 4 'm VBP (VP* be - - Chandler_Bing * -
+/friends-s02e23 09 5 sorry JJ (ADJP*))) sorry - - Chandler_Bing * -
+/friends-s02e23 09 6 , , *) , - - Chandler_Bing * -
+/friends-s02e23 09 7 I PRP (NP*) I - - Chandler_Bing * -
+/friends-s02e23 09 8 realize VBP (VP* realize - - Chandler_Bing * -
+/friends-s02e23 09 9 this DT (SBAR(S(NP*) this - - Chandler_Bing * -
+/friends-s02e23 09 10 is VBZ (VP* be - - Chandler_Bing * -
+/friends-s02e23 09 11 the DT (NP(NP* the - - Chandler_Bing * -
+/friends-s02e23 09 12 role NN *) role - - Chandler_Bing * -
+/friends-s02e23 09 13 of IN (PP* of - - Chandler_Bing * -
+/friends-s02e23 09 14 a DT (NP(NP* a - - Chandler_Bing * -
+/friends-s02e23 09 15 lifetime NN *) lifetime - - Chandler_Bing * -
+/friends-s02e23 09 16 for IN (PP* for - - Chandler_Bing * -
+/friends-s02e23 09 17 ya PRP (NP*)))))))))) ya - - Chandler_Bing * -
+/friends-s02e23 09 18 , , * , - - Chandler_Bing * -
+/friends-s02e23 09 19 and CC * and - - Chandler_Bing * -
+/friends-s02e23 09 20 if IN (S(SBAR* if - - Chandler_Bing * -
+/friends-s02e23 09 21 I PRP (S(NP*) I - - Chandler_Bing * -
+/friends-s02e23 09 22 could MD (VP* could - - Chandler_Bing * -
+/friends-s02e23 09 23 just RB (ADVP*) just - - Chandler_Bing * -
+/friends-s02e23 09 24 fire VB (VP* fire - - Chandler_Bing * -
+/friends-s02e23 09 25 Joseph NNP (NP*))))) Joseph - - Chandler_Bing (PERSON) (183)
+/friends-s02e23 09 26 , , * , - - Chandler_Bing * -
+/friends-s02e23 09 27 I PRP (NP*) I - - Chandler_Bing * -
+/friends-s02e23 09 28 would MD (VP*))) would - - Chandler_Bing * -
+/friends-s02e23 09 29 , , * , - - Chandler_Bing * -
+/friends-s02e23 09 30 but CC * but - - Chandler_Bing * -
+/friends-s02e23 09 31 unfortunately RB (S(ADVP*) unfortunately - - Chandler_Bing * -
+/friends-s02e23 09 32 that DT (NP*) that - - Chandler_Bing * -
+/friends-s02e23 09 33 's VBZ (VP* be - - Chandler_Bing * -
+/friends-s02e23 09 34 not RB * not - - Chandler_Bing * -
+/friends-s02e23 09 35 possible JJ (ADJP*) possible - - Chandler_Bing * -
+/friends-s02e23 09 36 so IN (SBAR* so - - Chandler_Bing * -
+/friends-s02e23 09 37 I PRP (S(NP*) I - - Chandler_Bing * -
+/friends-s02e23 09 38 'm VBP (VP* be - - Chandler_Bing * -
+/friends-s02e23 09 39 gon VBG (VP* gon - - Chandler_Bing * -
+/friends-s02e23 09 40 na TO (S(VP* na - - Chandler_Bing * -
+/friends-s02e23 09 41 have VB (VP* have - - Chandler_Bing * -
+/friends-s02e23 09 42 to TO (S(VP* to - - Chandler_Bing * -
+/friends-s02e23 09 43 let VB (VP* let - - Chandler_Bing * -
+/friends-s02e23 09 44 both DT (SBAR(S(NP(NP*) both - - Chandler_Bing * -
+/friends-s02e23 09 45 of IN (PP* of - - Chandler_Bing * -
+/friends-s02e23 09 46 you PRP (NP*))) you - - Chandler_Bing * -
+/friends-s02e23 09 47 go VBP (VP*))))))))))))))) go - - Chandler_Bing * -
+/friends-s02e23 09 48 . . *)) . - - Chandler_Bing * -
+
+/friends-s02e23 09 0 What WDT (TOP(S(SBAR(WHNP*) what - - Joey_Tribbiani * -
+/friends-s02e23 09 1 're VBP (S(VP* be - - Joey_Tribbiani * -
+/friends-s02e23 09 2 you PRP (NP(NP*) you - - Joey_Tribbiani * -
+/friends-s02e23 09 3 talking VBG (VP* talk - - Joey_Tribbiani * -
+/friends-s02e23 09 4 about RB (ADVP*)))))) about - - Joey_Tribbiani * -
+/friends-s02e23 09 5 , , * , - - Joey_Tribbiani * -
+/friends-s02e23 09 6 everybody NN (NP*) everybody - - Joey_Tribbiani * -
+/friends-s02e23 09 7 loves VBZ (VP* love - - Joey_Tribbiani * -
+/friends-s02e23 09 8 Joseph NNP (NP*)) Joseph - - Joey_Tribbiani (PERSON) (183)
+/friends-s02e23 09 9 . . *)) . - - Joey_Tribbiani * -
+
+/friends-s02e23 09 0 I PRP (TOP(S(S(NP*) I - - Chandler_Bing * -
+/friends-s02e23 09 1 do VBP (VP* do - - Chandler_Bing * -
+/friends-s02e23 09 2 n't RB *)) not - - Chandler_Bing * -
+/friends-s02e23 09 3 , , * , - - Chandler_Bing * -
+/friends-s02e23 09 4 I PRP (NP*) I - - Chandler_Bing * -
+/friends-s02e23 09 5 hate VBP (VP* hate - - Chandler_Bing * -
+/friends-s02e23 09 6 Joseph NNP (NP(NP*) Joseph - - Chandler_Bing (PERSON) (183)
+/friends-s02e23 09 7 , , * , - - Chandler_Bing * -
+/friends-s02e23 09 8 ok NN (NP*))) ok - - Chandler_Bing * -
+/friends-s02e23 09 9 . . *)) . - - Chandler_Bing * -
+
+/friends-s02e23 09 0 I PRP (TOP(S(NP*) I - - Chandler_Bing * -
+/friends-s02e23 09 1 think VBP (VP* think - - Chandler_Bing * -
+/friends-s02e23 09 2 he PRP (SBAR(S(NP*) he - - Chandler_Bing * (183)
+/friends-s02e23 09 3 's VBZ (VP* be - - Chandler_Bing * -
+/friends-s02e23 09 4 a DT (NP(NP* a - - Chandler_Bing * -
+/friends-s02e23 09 5 brown JJ *) brown - - Chandler_Bing * -
+/friends-s02e23 09 6 - : * - - - Chandler_Bing * -
+/friends-s02e23 09 7 nosing VBG (S(NP*) nose - - Chandler_Bing * -
+/friends-s02e23 09 8 suck VB (VP* suck - - Chandler_Bing * -
+/friends-s02e23 09 9 up RP (PRT*)))))))) up - - Chandler_Bing * -
+/friends-s02e23 09 10 . . *)) . - - Chandler_Bing * -
+
+/friends-s02e23 09 0 Oh UH (TOP(S(VP(NP(INTJ*) oh - - Joey_Tribbiani * -
+/friends-s02e23 09 1 yeah RB (NP*))) yeah - - Joey_Tribbiani * -
+/friends-s02e23 09 2 . . *)) . - - Joey_Tribbiani * -
+
+/friends-s02e23 09 0 Well UH (TOP(S(S(INTJ*) well - - Joey_Tribbiani * -
+/friends-s02e23 09 1 you PRP (NP*) you - - Joey_Tribbiani * -
+/friends-s02e23 09 2 ca MD (VP* can - - Joey_Tribbiani * -
+/friends-s02e23 09 3 n't RB * not - - Joey_Tribbiani * -
+/friends-s02e23 09 4 fire VB (VP* fire - - Joey_Tribbiani * -
+/friends-s02e23 09 5 Joseph NNP (NP*)))) Joseph - - Joey_Tribbiani (PERSON) (183)
+/friends-s02e23 09 6 . . *)) . - - Joey_Tribbiani * -
+
+/friends-s02e23 09 0 You PRP (TOP(S(NP*) you - - Joey_Tribbiani * -
+/friends-s02e23 09 1 know VBP (VP* know - - Joey_Tribbiani * -
+/friends-s02e23 09 2 why WRB (SBAR(WHADVP*) why - - Joey_Tribbiani * -
+/friends-s02e23 09 3 , , * , - - Joey_Tribbiani * -
+/friends-s02e23 09 4 'cause VB (S(S(VP* 'cause - - Joey_Tribbiani * -
+/friends-s02e23 09 5 he PRP (NP*))) he - - Joey_Tribbiani * (183)
+/friends-s02e23 09 6 's VBZ (VP* be - - Joey_Tribbiani * -
+/friends-s02e23 09 7 not RB * not - - Joey_Tribbiani * -
+/friends-s02e23 09 8 in IN (PP* in - - Joey_Tribbiani * -
+/friends-s02e23 09 9 your PRP$ (NP* you - - Joey_Tribbiani * -
+/friends-s02e23 09 10 department NN *)))))) department - - Joey_Tribbiani * -
+/friends-s02e23 09 11 . . *)) . - - Joey_Tribbiani * -
+
+/friends-s02e23 09 0 Alright NNP (TOP(NP(NP*) Alright - - Chandler_Bing * -
+/friends-s02e23 09 1 , , * , - - Chandler_Bing * -
+/friends-s02e23 09 2 ok NN (NP(NP*) ok - - Chandler_Bing * -
+/friends-s02e23 09 3 , , * , - - Chandler_Bing * -
+/friends-s02e23 09 4 alright NN (NP*)) alright - - Chandler_Bing * -
+/friends-s02e23 09 5 . . *)) . - - Chandler_Bing * -
+
+/friends-s02e23 09 0 So IN (TOP(S(S* so - - Chandler_Bing * -
+/friends-s02e23 09 1 I PRP (NP*) I - - Chandler_Bing * -
+/friends-s02e23 09 2 ca MD (VP* can - - Chandler_Bing * -
+/friends-s02e23 09 3 n't RB * not - - Chandler_Bing * -
+/friends-s02e23 09 4 fire VB (VP* fire - - Chandler_Bing * -
+/friends-s02e23 09 5 Joseph NNP (NP*)))) Joseph - - Chandler_Bing (PERSON) (183)
+/friends-s02e23 09 6 but CC * but - - Chandler_Bing * -
+/friends-s02e23 09 7 uh UH (S(INTJ*) uh - - Chandler_Bing * -
+/friends-s02e23 09 8 , , * , - - Chandler_Bing * -
+/friends-s02e23 09 9 I PRP (NP*) I - - Chandler_Bing * -
+/friends-s02e23 09 10 can MD (VP* can - - Chandler_Bing * -
+/friends-s02e23 09 11 sleep VB (VP* sleep - - Chandler_Bing * -
+/friends-s02e23 09 12 with IN (PP* with - - Chandler_Bing * -
+/friends-s02e23 09 13 his PRP$ (NP* he - - Chandler_Bing * (183)
+/friends-s02e23 09 14 wife NN *))))) wife - - Chandler_Bing * -
+/friends-s02e23 09 15 . . *)) . - - Chandler_Bing * -
+
+/friends-s02e23 09 0 Karen NNP (TOP(FRAG(NP*) Karen - - Joey_Tribbiani (PERSON) (199)
+/friends-s02e23 09 1 . . *)) . - - Joey_Tribbiani * -
+
+/friends-s02e23 09 0 Yeah UH (TOP(FRAG(INTJ*) yeah - - Chandler_Bing * -
+/friends-s02e23 09 1 , , * , - - Chandler_Bing * -
+/friends-s02e23 09 2 Karen NNP (NP*) Karen - - Chandler_Bing (PERSON) (199)
+/friends-s02e23 09 3 . . *)) . - - Chandler_Bing * -
+
+/friends-s02e23 09 0 I PRP (TOP(S(NP*) I - - Chandler_Bing * -
+/friends-s02e23 09 1 'm VBP (VP* be - - Chandler_Bing * -
+/friends-s02e23 09 2 thinking VBG (VP* think - - Chandler_Bing * -
+/friends-s02e23 09 3 about IN (PP* about - - Chandler_Bing * -
+/friends-s02e23 09 4 having VBG (S(VP* have - - Chandler_Bing * -
+/friends-s02e23 09 5 an DT (NP* a - - Chandler_Bing * -
+/friends-s02e23 09 6 affair NN *) affair - - Chandler_Bing * -
+/friends-s02e23 09 7 with IN (PP* with - - Chandler_Bing * -
+/friends-s02e23 09 8 her PRP (NP*))))))) she - - Chandler_Bing * (199)
+/friends-s02e23 09 9 . . *)) . - - Chandler_Bing * -
+
+/friends-s02e23 09 0 Oh UH (TOP(S(INTJ*) oh - - Chandler_Bing * -
+/friends-s02e23 09 1 , , * , - - Chandler_Bing * -
+/friends-s02e23 09 2 you PRP (NP*) you - - Chandler_Bing * -
+/friends-s02e23 09 3 know VBP (VP* know - - Chandler_Bing * -
+/friends-s02e23 09 4 what WP (NP*)) what - - Chandler_Bing * -
+/friends-s02e23 09 5 ? . *)) ? - - Chandler_Bing * -
+
+/friends-s02e23 09 0 I PRP (TOP(S(NP*) I - - Chandler_Bing * -
+/friends-s02e23 09 1 just RB (ADVP*) just - - Chandler_Bing * -
+/friends-s02e23 09 2 did VBD (VP*) do - - Chandler_Bing * -
+/friends-s02e23 09 3 . . *)) . - - Chandler_Bing * -
+
+/friends-s02e23 09 0 Ahh RB (TOP(FRAG(ADVP*) ahh - - Joey_Tribbiani * -
+/friends-s02e23 09 1 . . *)) . - - Joey_Tribbiani * -
+
+/friends-s02e23 09 0 What WP (TOP(SBARQ(WHNP* what - - Joey_Tribbiani * -
+/friends-s02e23 09 1 the DT * the - - Joey_Tribbiani * -
+/friends-s02e23 09 2 hell NN *) hell - - Joey_Tribbiani * -
+/friends-s02e23 09 3 are VBP (SQ* be - - Joey_Tribbiani * -
+/friends-s02e23 09 4 you PRP (NP*) you - - Joey_Tribbiani * -
+/friends-s02e23 09 5 doing VBG (VP* do - - Joey_Tribbiani * -
+/friends-s02e23 09 6 to TO (PP* to - - Joey_Tribbiani * -
+/friends-s02e23 09 7 me PRP (NP(NP*) I - - Joey_Tribbiani * -
+/friends-s02e23 09 8 man NN (NP*))))) man - - Joey_Tribbiani * -
+/friends-s02e23 09 9 . . *)) . - - Joey_Tribbiani * -
+
+/friends-s02e23 09 0 Oh UH (TOP(S(S(INTJ*) oh - - Chandler_Bing * -
+/friends-s02e23 09 1 well RB (NP* well - - Chandler_Bing * -
+/friends-s02e23 09 2 it PRP *) it - - Chandler_Bing * -
+/friends-s02e23 09 3 's VBZ (VP* be - - Chandler_Bing * -
+/friends-s02e23 09 4 not RB * not - - Chandler_Bing * -
+/friends-s02e23 09 5 me PRP (NP*))) I - - Chandler_Bing * -
+/friends-s02e23 09 6 , , * , - - Chandler_Bing * -
+/friends-s02e23 09 7 it PRP (NP*) it - - Chandler_Bing * -
+/friends-s02e23 09 8 's VBZ (VP* be - - Chandler_Bing * -
+/friends-s02e23 09 9 my PRP$ (NP(NP* my - - Chandler_Bing * -
+/friends-s02e23 09 10 character NN *) character - - Chandler_Bing * -
+/friends-s02e23 09 11 , , * , - - Chandler_Bing * -
+/friends-s02e23 09 12 Chandy NNP (NP*))) Chandy - - Chandler_Bing (PERSON) (59)
+/friends-s02e23 09 13 . . *)) . - - Chandler_Bing * -
+
+/friends-s02e23 09 0 Yeah UH (TOP(S(S(VP(NP*) yeah - - Chandler_Bing * -
+/friends-s02e23 09 1 the DT (NP* the - - Chandler_Bing * -
+/friends-s02e23 09 2 rogue NN (NP*)) rogue - - Chandler_Bing * -
+/friends-s02e23 09 3 processor NN (PP*))) processor - - Chandler_Bing * -
+/friends-s02e23 09 4 who WP (NP*) who - - Chandler_Bing * -
+/friends-s02e23 09 5 seduces VBZ (VP(VP* seduce - - Chandler_Bing * -
+/friends-s02e23 09 6 his PRP$ (NP(NP* he - - Chandler_Bing * (59)
+/friends-s02e23 09 7 co-worker NN * co-worker - - Chandler_Bing * -
+/friends-s02e23 09 8 's POS *) 's - - Chandler_Bing * -
+/friends-s02e23 09 9 wives NNS *) wife - - Chandler_Bing * -
+/friends-s02e23 09 10 for IN (PP* for - - Chandler_Bing * -
+/friends-s02e23 09 11 sport NN (NP*))) sport - - Chandler_Bing * -
+/friends-s02e23 09 12 and CC * and - - Chandler_Bing * -
+/friends-s02e23 09 13 then RB (VP(ADVP*) then - - Chandler_Bing * -
+/friends-s02e23 09 14 laughs VBZ * laugh - - Chandler_Bing * -
+/friends-s02e23 09 15 about IN (PP* about - - Chandler_Bing * -
+/friends-s02e23 09 16 it PRP (NP*)) it - - Chandler_Bing * -
+/friends-s02e23 09 17 the DT (NP(NP* the - - Chandler_Bing (DATE* -
+/friends-s02e23 09 18 next JJ * next - - Chandler_Bing * -
+/friends-s02e23 09 19 day NN *) day - - Chandler_Bing *) -
+/friends-s02e23 09 20 at IN (PP* at - - Chandler_Bing * -
+/friends-s02e23 09 21 the DT (NP* the - - Chandler_Bing * -
+/friends-s02e23 09 22 water NN * water - - Chandler_Bing * -
+/friends-s02e23 09 23 cooler NN *))))) cooler - - Chandler_Bing * -
+/friends-s02e23 09 24 . . *)) . - - Chandler_Bing * -
+
+/friends-s02e23 09 0 In IN (TOP(S(PP* in - - Chandler_Bing * -
+/friends-s02e23 09 1 fact NN (NP*)) fact - - Chandler_Bing * -
+/friends-s02e23 09 2 , , * , - - Chandler_Bing * -
+/friends-s02e23 09 3 I PRP (NP*) I - - Chandler_Bing * -
+/friends-s02e23 09 4 have VBP (VP* have - - Chandler_Bing * -
+/friends-s02e23 09 5 her PRP$ (NP* she - - Chandler_Bing * (199)
+/friends-s02e23 09 6 panties NNS *) panties - - Chandler_Bing * -
+/friends-s02e23 09 7 right RB (ADVP* right - - Chandler_Bing * -
+/friends-s02e23 09 8 there RB *) there - - Chandler_Bing * -
+/friends-s02e23 09 9 in IN (PP* in - - Chandler_Bing * -
+/friends-s02e23 09 10 my PRP$ (NP* my - - Chandler_Bing * -
+/friends-s02e23 09 11 drawer NN *))) drawer - - Chandler_Bing * -
+/friends-s02e23 09 12 . . *)) . - - Chandler_Bing * -
+
+/friends-s02e23 09 0 Really RB (TOP(FRAG(ADVP*) really - - Joey_Tribbiani * -
+/friends-s02e23 09 1 ? . *)) ? - - Joey_Tribbiani * -
+
+/friends-s02e23 09 0 No DT (TOP(S(NP* no - - Chandler_Bing * -
+/friends-s02e23 09 1 freakshow NN *) freakshow - - Chandler_Bing * -
+/friends-s02e23 09 2 , , * , - - Chandler_Bing * -
+/friends-s02e23 09 3 she PRP (NP*) she - - Chandler_Bing * (199)
+/friends-s02e23 09 4 's VBZ (VP* be - - Chandler_Bing * -
+/friends-s02e23 09 5 fictional JJ (ADJP*)) fictional - - Chandler_Bing * -
+/friends-s02e23 09 6 . . *)) . - - Chandler_Bing * -
+
+/friends-s02e23 09 0 Take VB (TOP(S(VP* take - - Joey_Tribbiani * -
+/friends-s02e23 09 1 it PRP (S(NP*) it - - Joey_Tribbiani * -
+/friends-s02e23 09 2 easy JJ (ADJP*))) easy - - Joey_Tribbiani * -
+/friends-s02e23 09 3 . . *)) . - - Joey_Tribbiani * -
+
+/friends-s02e23 09 0 If IN (TOP(S(SBAR* if - - Joey_Tribbiani * -
+/friends-s02e23 09 1 it PRP (S(NP*) it - - Joey_Tribbiani * -
+/friends-s02e23 09 2 means VBZ (VP* mean - - Joey_Tribbiani * -
+/friends-s02e23 09 3 that IN (SBAR* that - - Joey_Tribbiani * -
+/friends-s02e23 09 4 much JJ (S(ADVP* much - - Joey_Tribbiani * -
+/friends-s02e23 09 5 to TO (PP* to - - Joey_Tribbiani * -
+/friends-s02e23 09 6 you PRP (NP*))) you - - Joey_Tribbiani * -
+/friends-s02e23 09 7 , , * , - - Joey_Tribbiani * -
+/friends-s02e23 09 8 I PRP (NP*) I - - Joey_Tribbiani * -
+/friends-s02e23 09 9 'll MD (VP* will - - Joey_Tribbiani * -
+/friends-s02e23 09 10 uh UH (VP(FRAG(INTJ*))))))))) uh - - Joey_Tribbiani * -
+/friends-s02e23 09 11 , , * , - - Joey_Tribbiani * -
+/friends-s02e23 09 12 I PRP (NP*) I - - Joey_Tribbiani * -
+/friends-s02e23 09 13 'll MD (VP* will - - Joey_Tribbiani * -
+/friends-s02e23 09 14 go VB (VP* go - - Joey_Tribbiani * -
+/friends-s02e23 09 15 find VB (S(VP* find - - Joey_Tribbiani * -
+/friends-s02e23 09 16 something NN (S(NP*) something - - Joey_Tribbiani * -
+/friends-s02e23 09 17 else RB (ADJP*)))))) else - - Joey_Tribbiani * -
+/friends-s02e23 09 18 . . *)) . - - Joey_Tribbiani * -
+
+/friends-s02e23 09 0 Thank VB (TOP(S(VP* thank - - Chandler_Bing * -
+/friends-s02e23 09 1 you PRP (NP*)) you - - Chandler_Bing * -
+/friends-s02e23 09 2 . . *)) . - - Chandler_Bing * -
+
+/friends-s02e23 09 0 It PRP (TOP(S(NP*) it - - Joey_Tribbiani * -
+/friends-s02e23 09 1 's VBZ (VP* be - - Joey_Tribbiani * -
+/friends-s02e23 09 2 just RB (ADVP*) just - - Joey_Tribbiani * -
+/friends-s02e23 09 3 that DT (SBAR(WHNP(WHNP*) that - - Joey_Tribbiani * -
+/friends-s02e23 09 4 , , * , - - Joey_Tribbiani * -
+/friends-s02e23 09 5 I PRP (NP*) I - - Joey_Tribbiani * -
+/friends-s02e23 09 6 , , *) , - - Joey_Tribbiani * -
+/friends-s02e23 09 7 I PRP (S(NP*) I - - Joey_Tribbiani * -
+/friends-s02e23 09 8 'm VBP (VP* be - - Joey_Tribbiani * -
+/friends-s02e23 09 9 gon VBG (VP* gon - - Joey_Tribbiani * -
+/friends-s02e23 09 10 na TO (S(VP* na - - Joey_Tribbiani * -
+/friends-s02e23 09 11 miss VB (VP* miss - - Joey_Tribbiani * -
+/friends-s02e23 09 12 Joseph NNP (NP*))))))))) Joseph - - Joey_Tribbiani (PERSON) (183)
+/friends-s02e23 09 13 . . *)) . - - Joey_Tribbiani * -
+
+/friends-s02e23 09 0 I PRP (TOP(S(NP*) I - - Joey_Tribbiani * -
+/friends-s02e23 09 1 liked VBD (VP* like - - Joey_Tribbiani * -
+/friends-s02e23 09 2 him PRP (NP*)) he - - Joey_Tribbiani * (183)
+/friends-s02e23 09 3 . . *)) . - - Joey_Tribbiani * -
+
+/friends-s02e23 09 0 His PRP$ (TOP(S(NP* he - - Joey_Tribbiani * (183)
+/friends-s02e23 09 1 wife NN *) wife - - Joey_Tribbiani * -
+/friends-s02e23 09 2 , , * , - - Joey_Tribbiani * -
+/friends-s02e23 09 3 she PRP (NP*) she - - Joey_Tribbiani * (199)
+/friends-s02e23 09 4 was VBD (VP* be - - Joey_Tribbiani * -
+/friends-s02e23 09 5 hot JJ (ADJP*)) hot - - Joey_Tribbiani * -
+/friends-s02e23 09 6 . . *)) . - - Joey_Tribbiani * -
+
+#end document
+#begin document (/friends-s02e23); part 010
+/friends-s02e23 10 0 So RB (TOP(S(INTJ*) so - - Rachel_Green * -
+/friends-s02e23 10 1 uh UH (INTJ*) uh - - Rachel_Green * -
+/friends-s02e23 10 2 , , * , - - Rachel_Green * -
+/friends-s02e23 10 3 Ryan NNP (NP* Ryan - - Rachel_Green (PERSON) (339)
+/friends-s02e23 10 4 , , *) , - - Rachel_Green * -
+/friends-s02e23 10 5 were VBD (VP* be - - Rachel_Green * -
+/friends-s02e23 10 6 you PRP (S(NP*) you - - Rachel_Green * -
+/friends-s02e23 10 7 shipping VBG (VP* ship - - Rachel_Green * -
+/friends-s02e23 10 8 off RP (PRT*) off - - Rachel_Green * -
+/friends-s02e23 10 9 to TO (PP*)))) to - - Rachel_Green * -
+/friends-s02e23 10 10 ? . *)) ? - - Rachel_Green * -
+
+/friends-s02e23 10 0 I PRP (TOP(S(NP*) I - - Ryan * -
+/friends-s02e23 10 1 really RB (ADVP*) really - - Ryan * -
+/friends-s02e23 10 2 ca MD (VP* can - - Ryan * -
+/friends-s02e23 10 3 n't RB * not - - Ryan * -
+/friends-s02e23 10 4 say VB (VP*)) say - - Ryan * -
+/friends-s02e23 10 5 . . *)) . - - Ryan * -
+
+/friends-s02e23 10 0 So RB (TOP(SBARQ(WHADVP*) so - - Ross_Geller * -
+/friends-s02e23 10 1 do VBP (SQ* do - - Ross_Geller * -
+/friends-s02e23 10 2 you PRP (NP*) you - - Ross_Geller * -
+/friends-s02e23 10 3 have VB (VP* have - - Ross_Geller * -
+/friends-s02e23 10 4 like IN (PP* like - - Ross_Geller * -
+/friends-s02e23 10 5 any DT (NP(NP* any - - Ross_Geller * -
+/friends-s02e23 10 6 nuclear JJ * nuclear - - Ross_Geller * -
+/friends-s02e23 10 7 weapons NNS *) weapon - - Ross_Geller * -
+/friends-s02e23 10 8 on IN (PP* on - - Ross_Geller * -
+/friends-s02e23 10 9 board NN (NP*)))))) board - - Ross_Geller * -
+/friends-s02e23 10 10 ? . *)) ? - - Ross_Geller * -
+
+/friends-s02e23 10 0 I PRP (TOP(S(NP*) I - - Ryan * -
+/friends-s02e23 10 1 ca MD (VP* can - - Ryan * -
+/friends-s02e23 10 2 n't RB * not - - Ryan * -
+/friends-s02e23 10 3 say VB (VP*)) say - - Ryan * -
+/friends-s02e23 10 4 . . *)) . - - Ryan * -
+
+/friends-s02e23 10 0 Well RB (TOP(SINV(ADVP*) well - - Rachel_Green * -
+/friends-s02e23 10 1 do VBP (VP* do - - Rachel_Green * -
+/friends-s02e23 10 2 you PRP (NP*)) you - - Rachel_Green * -
+/friends-s02e23 10 3 get VB (S(VP* get - - Rachel_Green * -
+/friends-s02e23 10 4 to TO (S(VP* to - - Rachel_Green * -
+/friends-s02e23 10 5 look VB (VP* look - - Rachel_Green * -
+/friends-s02e23 10 6 through IN (PP* through - - Rachel_Green * -
+/friends-s02e23 10 7 one CD (NP(NP*) one - - Rachel_Green (NUMBER) -
+/friends-s02e23 10 8 of IN (PP* of - - Rachel_Green * -
+/friends-s02e23 10 9 those DT (NP*)))) those - - Rachel_Green * -
+/friends-s02e23 10 10 like IN (PP*)))) like - - Rachel_Green * -
+/friends-s02e23 10 11 , , * , - - Rachel_Green * -
+/friends-s02e23 10 12 those DT (NP* those - - Rachel_Green * -
+/friends-s02e23 10 13 periscope JJ * periscope - - Rachel_Green * -
+/friends-s02e23 10 14 thingys NNS *))) thingy - - Rachel_Green * -
+/friends-s02e23 10 15 . . *)) . - - Rachel_Green * -
+
+/friends-s02e23 10 0 I PRP (TOP(S(S(NP*) I - - Ryan * -
+/friends-s02e23 10 1 'm VBP (VP* be - - Ryan * -
+/friends-s02e23 10 2 sorry JJ (ADJP*))) sorry - - Ryan * -
+/friends-s02e23 10 3 , , * , - - Ryan * -
+/friends-s02e23 10 4 but CC * but - - Ryan * -
+/friends-s02e23 10 5 I PRP (S(NP*) I - - Ryan * -
+/friends-s02e23 10 6 ca MD (VP* can - - Ryan * -
+/friends-s02e23 10 7 n't RB * not - - Ryan * -
+/friends-s02e23 10 8 say VB (VP*))) say - - Ryan * -
+/friends-s02e23 10 9 . . *)) . - - Ryan * -
+
+/friends-s02e23 10 0 Wow UH (TOP(S(FRAG(INTJ*) wow - - Ross_Geller * -
+/friends-s02e23 10 1 , , * , - - Ross_Geller * -
+/friends-s02e23 10 2 it PRP (NP*)) it - - Ross_Geller * -
+/friends-s02e23 10 3 , , * , - - Ross_Geller * -
+/friends-s02e23 10 4 it PRP (NP*) it - - Ross_Geller * -
+/friends-s02e23 10 5 's VBZ (VP* be - - Ross_Geller * -
+/friends-s02e23 10 6 neat JJ (ADJP*) neat - - Ross_Geller * -
+/friends-s02e23 10 7 learning VBG (S(VP* learn - - Ross_Geller * -
+/friends-s02e23 10 8 about IN (PP* about - - Ross_Geller * -
+/friends-s02e23 10 9 submarines NNS (NP*))))) submarine - - Ross_Geller * -
+/friends-s02e23 10 10 . . *)) . - - Ross_Geller * -
+
+/friends-s02e23 10 0 I PRP (TOP(S(S(NP*) I - - Ryan * -
+/friends-s02e23 10 1 better JJR (ADVP*) better - - Ryan * -
+/friends-s02e23 10 2 get VB (VP* get - - Ryan * -
+/friends-s02e23 10 3 out IN (ADVP* out - - Ryan * -
+/friends-s02e23 10 4 of IN (PP* of - - Ryan * -
+/friends-s02e23 10 5 here RB (ADVP*))))) here - - Ryan * -
+/friends-s02e23 10 6 , , * , - - Ryan * -
+/friends-s02e23 10 7 I PRP (NP*) I - - Ryan * -
+/friends-s02e23 10 8 'm VBP (VP* be - - Ryan * -
+/friends-s02e23 10 9 gon VBG (VP* gon - - Ryan * -
+/friends-s02e23 10 10 na TO (S(VP* na - - Ryan * -
+/friends-s02e23 10 11 miss VB (VP* miss - - Ryan * -
+/friends-s02e23 10 12 my PRP$ (NP* my - - Ryan * -
+/friends-s02e23 10 13 flight NN *)))))) flight - - Ryan * -
+/friends-s02e23 10 14 . . *)) . - - Ryan * -
+
+/friends-s02e23 10 0 Ok NNP (TOP(S(NP-TMP*) Ok - - Phoebe_Buffay * -
+/friends-s02e23 10 1 , , * , - - Phoebe_Buffay * -
+/friends-s02e23 10 2 I PRP (NP*) I - - Phoebe_Buffay * -
+/friends-s02e23 10 3 'll MD (VP* will - - Phoebe_Buffay * -
+/friends-s02e23 10 4 walk VB (VP* walk - - Phoebe_Buffay * -
+/friends-s02e23 10 5 you PRP (NP*) you - - Phoebe_Buffay * -
+/friends-s02e23 10 6 out RP (PRT*))) out - - Phoebe_Buffay * -
+/friends-s02e23 10 7 . . *)) . - - Phoebe_Buffay * -
+
+/friends-s02e23 10 0 Bye NNP (TOP(NP* Bye - - Ross_Geller * (339
+/friends-s02e23 10 1 Ryan NNP * Ryan - - Ross_Geller (PERSON) 339)
+/friends-s02e23 10 2 . . *)) . - - Ross_Geller * -
+
+/friends-s02e23 10 0 Pleasure NN (TOP(NP* pleasure - - Ryan * -
+/friends-s02e23 10 1 . . *)) . - - Ryan * -
+
+/friends-s02e23 10 0 It PRP (TOP(S(NP*) it - - Rachel_Green * -
+/friends-s02e23 10 1 was VBD (VP* be - - Rachel_Green * -
+/friends-s02e23 10 2 nice JJ (ADJP* nice - - Rachel_Green * -
+/friends-s02e23 10 3 to TO (S(VP* to - - Rachel_Green * -
+/friends-s02e23 10 4 meet VB (VP* meet - - Rachel_Green * -
+/friends-s02e23 10 5 you PRP (NP*)))))) you - - Rachel_Green * -
+/friends-s02e23 10 6 . . *)) . - - Rachel_Green * -
+
+/friends-s02e23 10 0 Take VB (TOP(S(VP* take - - Ryan * -
+/friends-s02e23 10 1 care NN (NP*)) care - - Ryan * -
+/friends-s02e23 10 2 . . *)) . - - Ryan * -
+
+/friends-s02e23 10 0 So RB (TOP(SINV(FRAG(VP(ADVP*) so - - Rachel_Green * -
+/friends-s02e23 10 1 do VBP * do - - Rachel_Green * -
+/friends-s02e23 10 2 you PRP (NP(NP*) you - - Rachel_Green * -
+/friends-s02e23 10 3 uh UH (FRAG(INTJ*))))) uh - - Rachel_Green * -
+/friends-s02e23 10 4 , , * , - - Rachel_Green * -
+/friends-s02e23 10 5 think VBP (VP* think - - Rachel_Green * -
+/friends-s02e23 10 6 we PRP (SBAR(S(NP*) we - - Rachel_Green * -
+/friends-s02e23 10 7 can MD (VP* can - - Rachel_Green * -
+/friends-s02e23 10 8 get VB (VP* get - - Rachel_Green * -
+/friends-s02e23 10 9 you PRP (NP*)))))) you - - Rachel_Green * -
+/friends-s02e23 10 10 one CD (NP(NP(NP*) one - - Rachel_Green (NUMBER) -
+/friends-s02e23 10 11 of IN (PP* of - - Rachel_Green * -
+/friends-s02e23 10 12 those DT (NP(NP*) those - - Rachel_Green * -
+/friends-s02e23 10 13 uh UH (FRAG(INTJ*))))) uh - - Rachel_Green * -
+/friends-s02e23 10 14 , , * , - - Rachel_Green * -
+/friends-s02e23 10 15 uniform JJ (NP* uniform - - Rachel_Green * -
+/friends-s02e23 10 16 things NNS *)) thing - - Rachel_Green * -
+/friends-s02e23 10 17 ? . *)) ? - - Rachel_Green * -
+
+/friends-s02e23 10 0 You PRP (TOP(S(NP*) you - - Ross_Geller * -
+/friends-s02e23 10 1 like IN (PP* like - - Ross_Geller * -
+/friends-s02e23 10 2 that DT (NP*)) that - - Ross_Geller * -
+/friends-s02e23 10 3 do VBP (VP* do - - Ross_Geller * -
+/friends-s02e23 10 4 ya PRP (NP*)) ya - - Ross_Geller * -
+/friends-s02e23 10 5 ? . *)) ? - - Ross_Geller * -
+
+/friends-s02e23 10 0 Oh UH (TOP(S(VP(NP(INTJ*) oh - - Rachel_Green * -
+/friends-s02e23 10 1 yeah RB (NP*))) yeah - - Rachel_Green * -
+/friends-s02e23 10 2 . . *)) . - - Rachel_Green * -
+
+/friends-s02e23 10 0 I PRP (TOP(S(NP*) I - - Ross_Geller * -
+/friends-s02e23 10 1 'll MD (VP* will - - Ross_Geller * -
+/friends-s02e23 10 2 make VB (VP* make - - Ross_Geller * -
+/friends-s02e23 10 3 some DT (NP* some - - Ross_Geller * -
+/friends-s02e23 10 4 calls NNS *))) call - - Ross_Geller * -
+/friends-s02e23 10 5 . . *)) . - - Ross_Geller * -
+
+/friends-s02e23 10 0 Ok NN (TOP(NP* ok - - Rachel_Green * -
+/friends-s02e23 10 1 . . *)) . - - Rachel_Green * -
+
+/friends-s02e23 10 0 Can MD (TOP(SQ* can - - Ryan * -
+/friends-s02e23 10 1 you PRP (NP*) you - - Ryan * -
+/friends-s02e23 10 2 believe VB (VP* believe - - Ryan * -
+/friends-s02e23 10 3 how WRB (SBAR(WHADVP*) how - - Ryan * -
+/friends-s02e23 10 4 we PRP (S(NP*) we - - Ryan * -
+/friends-s02e23 10 5 spent VBD (VP* spend - - Ryan * -
+/friends-s02e23 10 6 our PRP$ (NP* we - - Ryan * -
+/friends-s02e23 10 7 two CD * two - - Ryan (DURATION* -
+/friends-s02e23 10 8 weeks NNS *) week - - Ryan *) -
+/friends-s02e23 10 9 together RB (ADVP*))))) together - - Ryan * -
+/friends-s02e23 10 10 ? . *)) ? - - Ryan * -
+
+/friends-s02e23 10 0 I PRP (TOP(S(NP*) I - - Phoebe_Buffay * -
+/friends-s02e23 10 1 know VBP (VP*) know - - Phoebe_Buffay * -
+/friends-s02e23 10 2 . . *)) . - - Phoebe_Buffay * -
+
+/friends-s02e23 10 0 We PRP (TOP(S(S(NP*) we - - Phoebe_Buffay * -
+/friends-s02e23 10 1 did VBD (VP* do - - Phoebe_Buffay * -
+/friends-s02e23 10 2 n't RB * not - - Phoebe_Buffay * -
+/friends-s02e23 10 3 do VB (VP* do - - Phoebe_Buffay * -
+/friends-s02e23 10 4 any DT (NP(NP*) any - - Phoebe_Buffay * -
+/friends-s02e23 10 5 of IN (PP* of - - Phoebe_Buffay * -
+/friends-s02e23 10 6 the DT (NP(NP* the - - Phoebe_Buffay * -
+/friends-s02e23 10 7 romantic JJ * romantic - - Phoebe_Buffay * -
+/friends-s02e23 10 8 things NNS *) thing - - Phoebe_Buffay * -
+/friends-s02e23 10 9 I PRP (SBAR(S(NP*) I - - Phoebe_Buffay * -
+/friends-s02e23 10 10 had VBD (VP* have - - Phoebe_Buffay * -
+/friends-s02e23 10 11 planned VBN (VP* plan - - Phoebe_Buffay * -
+/friends-s02e23 10 12 , , * , - - Phoebe_Buffay * -
+/friends-s02e23 10 13 like IN (PP* like - - Phoebe_Buffay * -
+/friends-s02e23 10 14 having VBG (S(VP* have - - Phoebe_Buffay * -
+/friends-s02e23 10 15 a DT (NP* a - - Phoebe_Buffay * -
+/friends-s02e23 10 16 picnic NN *) picnic - - Phoebe_Buffay * -
+/friends-s02e23 10 17 at IN (PP* at - - Phoebe_Buffay * -
+/friends-s02e23 10 18 Central NNP (NP* Central - - Phoebe_Buffay (LOCATION* -
+/friends-s02e23 10 19 Park NNP *))))))))))))))) Park - - Phoebe_Buffay *) -
+/friends-s02e23 10 20 and CC * and - - Phoebe_Buffay * -
+/friends-s02e23 10 21 ya PRP (S(NP*) ya - - Phoebe_Buffay * -
+/friends-s02e23 10 22 know VBP (VP* know - - Phoebe_Buffay * -
+/friends-s02e23 10 23 , , * , - - Phoebe_Buffay * -
+/friends-s02e23 10 24 coffee NN (NP*) coffee - - Phoebe_Buffay * -
+/friends-s02e23 10 25 at IN (PP* at - - Phoebe_Buffay * -
+/friends-s02e23 10 26 Central NNP (NP* Central - - Phoebe_Buffay (LOCATION* -
+/friends-s02e23 10 27 Perk NNP *)))) Perk - - Phoebe_Buffay *) -
+/friends-s02e23 10 28 . . *)) . - - Phoebe_Buffay * -
+
+/friends-s02e23 10 0 Oh UH (TOP(S(S(INTJ*) oh - - Phoebe_Buffay * -
+/friends-s02e23 10 1 I PRP (NP*) I - - Phoebe_Buffay * -
+/friends-s02e23 10 2 just RB (VP(ADVP*) just - - Phoebe_Buffay * -
+/friends-s02e23 10 3 got VBD * get - - Phoebe_Buffay * -
+/friends-s02e23 10 4 that IN (PP*))) that - - Phoebe_Buffay * -
+/friends-s02e23 10 5 . . *)) . - - Phoebe_Buffay * -
+
+/friends-s02e23 10 0 Taxi NN (TOP(NP* taxi - - Ryan * -
+/friends-s02e23 10 1 . . *)) . - - Ryan * -
+
+/friends-s02e23 10 0 Bye VB (TOP(S(VP* bye - - Phoebe_Buffay * -
+/friends-s02e23 10 1 you PRP (NP*)) you - - Phoebe_Buffay * -
+/friends-s02e23 10 2 . . *)) . - - Phoebe_Buffay * -
+
+#end document
+#begin document (/friends-s02e23); part 011
+/friends-s02e23 11 0 Oh UH (TOP(S(S(INTJ*) oh - - Rachel_Green * -
+/friends-s02e23 11 1 I PRP (NP*) I - - Rachel_Green * -
+/friends-s02e23 11 2 'm VBP (VP* be - - Rachel_Green * -
+/friends-s02e23 11 3 sorry JJ (ADJP*))) sorry - - Rachel_Green * -
+/friends-s02e23 11 4 , , * , - - Rachel_Green * -
+/friends-s02e23 11 5 we PRP (NP*) we - - Rachel_Green * -
+/friends-s02e23 11 6 're VBP (VP* be - - Rachel_Green * -
+/friends-s02e23 11 7 clo SYM (VP(FRAG(ADVP* clo - - Rachel_Green * -
+/friends-s02e23 11 8 - : *)))) - - - Rachel_Green * -
+/friends-s02e23 11 9 ... : *)) ... - - Rachel_Green * -
+
+/friends-s02e23 11 0 Hey UH (TOP(S(VP(NP(INTJ*) hey - - Rachel_Green * -
+/friends-s02e23 11 1 sailor NN (NP*))) sailor - - Rachel_Green * -
+/friends-s02e23 11 2 . . *)) . - - Rachel_Green * -
+
+/friends-s02e23 11 0 Is VBZ (TOP(SQ* be - - Ross_Geller * -
+/friends-s02e23 11 1 this DT (NP*) this - - Ross_Geller * -
+/friends-s02e23 11 2 what WP (NP(NP*) what - - Ross_Geller * -
+/friends-s02e23 11 3 you PRP (SBAR(S(NP*) you - - Ross_Geller * -
+/friends-s02e23 11 4 had VBD (VP* have - - Ross_Geller * -
+/friends-s02e23 11 5 in IN (PP* in - - Ross_Geller * -
+/friends-s02e23 11 6 mind NN (NP*)))))) mind - - Ross_Geller * -
+/friends-s02e23 11 7 ? . *)) ? - - Ross_Geller * -
+
+/friends-s02e23 11 0 I PRP (TOP(S(NP*) I - - Rachel_Green * -
+/friends-s02e23 11 1 'll MD (VP* will - - Rachel_Green * -
+/friends-s02e23 11 2 say VB (VP*)) say - - Rachel_Green * -
+/friends-s02e23 11 3 . . *)) . - - Rachel_Green * -
+
+/friends-s02e23 11 0 I PRP (TOP(S(NP*) I - - Ross_Geller * -
+/friends-s02e23 11 1 'm VBP (VP* be - - Ross_Geller * -
+/friends-s02e23 11 2 shipping VBG (VP* ship - - Ross_Geller * -
+/friends-s02e23 11 3 out RP (PRT*) out - - Ross_Geller * -
+/friends-s02e23 11 4 tomorrow NN (NP-TMP*))) tomorrow - - Ross_Geller (DATE) -
+/friends-s02e23 11 5 . . *)) . - - Ross_Geller * -
+
+/friends-s02e23 11 0 Well RB (TOP(FRAG(ADVP*) well - - Rachel_Green * -
+/friends-s02e23 11 1 then RB (NP(NP*) then - - Rachel_Green * -
+/friends-s02e23 11 2 uh UH (SBAR(S(INTJ*) uh - - Rachel_Green * -
+/friends-s02e23 11 3 , , * , - - Rachel_Green * -
+/friends-s02e23 11 4 we PRP (NP*) we - - Rachel_Green * -
+/friends-s02e23 11 5 better RB (VP(ADVP*) better - - Rachel_Green * -
+/friends-s02e23 11 6 make VBP * make - - Rachel_Green * -
+/friends-s02e23 11 7 this DT (NP* this - - Rachel_Green (DATE* -
+/friends-s02e23 11 8 night NN * night - - Rachel_Green *) -
+/friends-s02e23 11 9 count NN *))))) count - - Rachel_Green * -
+/friends-s02e23 11 10 . . *)) . - - Rachel_Green * -
+
+/friends-s02e23 11 0 Oh UH (TOP(S(INTJ*) oh - - Rachel_Green * -
+/friends-s02e23 11 1 wait VB (VP* wait - - Rachel_Green * -
+/friends-s02e23 11 2 , , * , - - Rachel_Green * -
+/friends-s02e23 11 3 I PRP (S(NP*) I - - Rachel_Green * -
+/friends-s02e23 11 4 forgot VBD (VP* forget - - Rachel_Green * -
+/friends-s02e23 11 5 to TO (S(VP* to - - Rachel_Green * -
+/friends-s02e23 11 6 turn VB (VP* turn - - Rachel_Green * -
+/friends-s02e23 11 7 off RP (PRT*) off - - Rachel_Green * -
+/friends-s02e23 11 8 the DT (NP* the - - Rachel_Green * -
+/friends-s02e23 11 9 cappucino NN * cappucino - - Rachel_Green * -
+/friends-s02e23 11 10 machine NN *))))))) machine - - Rachel_Green * -
+/friends-s02e23 11 11 . . *)) . - - Rachel_Green * -
+
+/friends-s02e23 11 0 Anchors NNS (TOP(FRAG(NP*) anchor - - Rachel_Green * -
+/friends-s02e23 11 1 away RB (ADVP*) away - - Rachel_Green * -
+/friends-s02e23 11 2 . . *)) . - - Rachel_Green * -
+
+/friends-s02e23 11 0 Oh UH (TOP(S(VP(PP(NP*) oh - - Rachel_Green * -
+/friends-s02e23 11 1 no DT (NP(NP* no - - Rachel_Green * -
+/friends-s02e23 11 2 no DT *) no - - Rachel_Green * -
+/friends-s02e23 11 3 , , * , - - Rachel_Green * -
+/friends-s02e23 11 4 my PRP$ (NP* my - - Rachel_Green * -
+/friends-s02e23 11 5 purse NN *) purse - - Rachel_Green * -
+/friends-s02e23 11 6 , , * , - - Rachel_Green * -
+/friends-s02e23 11 7 my PRP$ (NP* my - - Rachel_Green * -
+/friends-s02e23 11 8 purse NN *) purse - - Rachel_Green * -
+/friends-s02e23 11 9 , , * , - - Rachel_Green * -
+/friends-s02e23 11 10 my PRP$ (NP* my - - Rachel_Green * -
+/friends-s02e23 11 11 purse NN *) purse - - Rachel_Green * -
+/friends-s02e23 11 12 , , * , - - Rachel_Green * -
+/friends-s02e23 11 13 my PRP$ (NP* my - - Rachel_Green * -
+/friends-s02e23 11 14 purse NN *) purse - - Rachel_Green * -
+/friends-s02e23 11 15 , , * , - - Rachel_Green * -
+/friends-s02e23 11 16 my PRP$ (NP* my - - Rachel_Green * -
+/friends-s02e23 11 17 purse NN *) purse - - Rachel_Green * -
+/friends-s02e23 11 18 , , * , - - Rachel_Green * -
+/friends-s02e23 11 19 my PRP$ (NP* my - - Rachel_Green * -
+/friends-s02e23 11 20 pu NN * pu - - Rachel_Green * -
+/friends-s02e23 11 21 rse NN *)))) rse - - Rachel_Green * -
+/friends-s02e23 11 22 . . *)) . - - Rachel_Green * -
+
+/friends-s02e23 11 0 Oh UH (TOP(S(INTJ*) oh - - Rachel_Green * -
+/friends-s02e23 11 1 , , * , - - Rachel_Green * -
+/friends-s02e23 11 2 you PRP (NP*) you - - Rachel_Green * -
+/friends-s02e23 11 3 know VBP (VP* know - - Rachel_Green * -
+/friends-s02e23 11 4 what WP (NP*)) what - - Rachel_Green * -
+/friends-s02e23 11 5 . . *)) . - - Rachel_Green * -
+
+/friends-s02e23 11 0 I PRP (TOP(S(NP*) I - - Rachel_Green * -
+/friends-s02e23 11 1 forgot VBD (VP* forget - - Rachel_Green * -
+/friends-s02e23 11 2 to TO (S(VP* to - - Rachel_Green * -
+/friends-s02e23 11 3 turn VB (VP* turn - - Rachel_Green * -
+/friends-s02e23 11 4 off RP (PRT*) off - - Rachel_Green * -
+/friends-s02e23 11 5 the DT (NP* the - - Rachel_Green * -
+/friends-s02e23 11 6 bathroom NN * bathroom - - Rachel_Green * -
+/friends-s02e23 11 7 light NN *))))) light - - Rachel_Green * -
+/friends-s02e23 11 8 . . *)) . - - Rachel_Green * -
+
+/friends-s02e23 11 0 Alright NNP (TOP(S(NP*) Alright - - Ross_Geller * -
+/friends-s02e23 11 1 you PRP (PRN(S(NP*) you - - Ross_Geller * -
+/friends-s02e23 11 2 know VBP (VP*)) know - - Ross_Geller * -
+/friends-s02e23 11 3 , , *) , - - Ross_Geller * -
+/friends-s02e23 11 4 why WRB (SBAR(WHADVP*) why - - Ross_Geller * -
+/friends-s02e23 11 5 do VBP (S(VP* do - - Ross_Geller * -
+/friends-s02e23 11 6 n't RB *))) not - - Ross_Geller * -
+/friends-s02e23 11 7 I PRP (NP*) I - - Ross_Geller * -
+/friends-s02e23 11 8 just RB (ADVP*) just - - Ross_Geller * -
+/friends-s02e23 11 9 meet VBP (VP* meet - - Ross_Geller * -
+/friends-s02e23 11 10 you PRP (NP*) you - - Ross_Geller * -
+/friends-s02e23 11 11 upstairs RB (ADVP*)) upstairs - - Ross_Geller * -
+/friends-s02e23 11 12 . . *)) . - - Ross_Geller * -
+
+#end document

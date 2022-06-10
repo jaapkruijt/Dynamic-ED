@@ -263,15 +263,35 @@ def change_outer_data(filename, outer):
     return data
 
 
-if __name__ == "__main__":
-    gold_data = prepare_data('friends.train.scene_delim.conll.txt')
-    gold_formatted = format_gold(gold_data)
-    entmap = map_entities('friends_entity_map.txt')
-    mention_patterns = find_patterns(gold_formatted, entmap)
-    # for entity in mention_patterns.keys():
-    #     if mention_patterns[entity]:
-    #         print(entity)
-    #         print(mention_patterns[entity])
+def make_nokey_files(filename_in, filename_out):
+    data = read_input(filename_in)
+    for line in data:
+        if not line:
+            continue
+        elif line[0] == '#begin' or line[0] == '#end':
+            continue
+        elif line[-1] == '-':
+            continue
+        else:
+            gold = line[-1]
+            ent = re.sub(r'[^0-9]', '', gold)
+            nokey = gold.replace(ent, '-1')
+            line[-1] = nokey
+    write_to_conll(data, filename_out)
+
+
+def show_mention_patterns(gold, entities):
+    mention_patterns = find_patterns(gold, entities)
+
+    for entity in mention_patterns.keys():
+        if mention_patterns[entity]:
+            print(entity)
+            print(mention_patterns[entity])
+
+
+def write_all_data(gold, entities):
+    mention_patterns = find_patterns(gold, entities)
+
     six_friends, famous_people, inner_circle, outer_circle = categorize_acquaintances(entmap, mention_patterns)
 
     file = '/Users/jaapkruijt/PycharmProjects/pythonProject/friends.ordered.scene_delim.conll.txt'
@@ -283,11 +303,68 @@ if __name__ == "__main__":
     write_to_conll(famous_data, 'famous.all')
     write_to_conll(outer_data, 'outer.all')
 
-    # raw_data = read_input('/Users/jaapkruijt/PycharmProjects/pythonProject/friends.ordered.scene_delim.conll.txt')
-    # episode_info = ratio_inner_outer_per_episode(inner_circle, six_friends, famous_people, raw_data, entmap)
-    # for episode, ep_info in episode_info.items():
-    #     print(f'episode {episode}:')
-    #     print(ep_info)
+
+def show_episode_ratios(gold, entities):
+    mention_patterns = find_patterns(gold, entities)
+
+    six_friends, famous_people, inner_circle, outer_circle = categorize_acquaintances(entmap, mention_patterns)
+
+    raw_data = read_input('/Users/jaapkruijt/PycharmProjects/pythonProject/friends.ordered.scene_delim.conll.txt')
+    episode_info = ratio_inner_outer_per_episode(inner_circle, six_friends, famous_people, raw_data, entmap)
+    for episode, ep_info in episode_info.items():
+        print(f'episode {episode}:')
+        print(ep_info)
+
+
+def process_gold_to_nokey():
+    nokeys = [
+        {'filename': 'all/test/all.test_109.gold.conll.txt', 'outname': 'all.test_109.nokey'},
+        {'filename': 'all/test/all.test_119.gold.conll.txt', 'outname': 'all.test_119.nokey'},
+        {'filename': 'all/test/all.test_214.gold.conll.txt', 'outname': 'all.test_214.nokey'},
+        {'filename': 'all/test/all.test_224.gold.conll.txt', 'outname': 'all.test.224.nokey'},
+        {'filename': 'famous/test/famous.test_109.gold.conll.txt', 'outname': 'famous.test_109.nokey'},
+        {'filename': 'famous/test/famous.test_119.gold.conll.txt', 'outname': 'famous.test_119.nokey'},
+        {'filename': 'famous/test/famous.test_214.gold.conll.txt', 'outname': 'famous.test_214.nokey'},
+        {'filename': 'famous/test/famous.test_224.gold.conll.txt', 'outname': 'famous.test_224.nokey'},
+        {'filename': 'inner_circle/test/inner.test_109.gold.conll.txt', 'outname': 'inner.test_109.nokey'},
+        {'filename': 'inner_circle/test/inner.test_119.gold.conll.txt', 'outname': 'inner.test_119.nokey'},
+        {'filename': 'inner_circle/test/inner.test_214.gold.conll.txt', 'outname': 'inner.test_214.nokey'},
+        {'filename': 'inner_circle/test/inner.test_224.gold.conll.txt', 'outname': 'inner.test_224.nokey'},
+        {'filename': 'outer_circle/test/outer.test_109.gold.conll.txt', 'outname': 'outer.test_109.nokey'},
+        {'filename': 'outer_circle/test/outer.test_119.gold.conll.txt', 'outname': 'outer.test_119.nokey'},
+        {'filename': 'outer_circle/test/outer.test_214.gold.conll.txt', 'outname': 'outer.test_214.nokey'},
+        {'filename': 'outer_circle/test/outer.test_224.gold.conll.txt', 'outname': 'outer.test.224.nokey'}
+    ]
+    for nkey in nokeys:
+        make_nokey_files(nkey['filename'], nkey['outname'])
+
+def show_circles(gold, entities):
+    mention_patterns = find_patterns(gold, entities)
+
+    six_friends, famous_people, inner_circle, outer_circle = categorize_acquaintances(entmap, mention_patterns)
+
+    print(f'friends: {six_friends}')
+    print(f"inner: {inner_circle}")
+    print(f'famous: {famous_people}')
+    print(f'outer: {outer_circle}')
+    print(len(inner_circle)+len(six_friends)+len(famous_people))
+    print(len(outer_circle))
+
+
+if __name__ == "__main__":
+    gold_data = prepare_data('friends.all.scene_delim.conll.txt')
+    gold_formatted = format_gold(gold_data)
+    entmap = map_entities('friends_entity_map.txt')
+
+    # show_circles(gold_formatted, entmap)
+
+    show_mention_patterns(gold_formatted, entmap)
+
+    # show_episode_ratios(gold_formatted, entmap)
+
+    # print(len(INNER_NAMES)+len(FAMOUS)+len(FRIENDS_NAMES))
+
+
 
     # /friends-s01e19 and /friends-s02e24 could be good candidates (based on 1/1 ratio)
     # also /friends-s01e09 and /friends-s02e14 with a 4/1 ratio
