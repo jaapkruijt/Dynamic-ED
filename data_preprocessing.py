@@ -146,12 +146,17 @@ def find_test_scenes(data):
 
 
 if __name__ == "__main__":
-    file_in_name, file_out_name = ("recency_based_EL/friends.all.scene_delim.conll.txt", 'friends.ordered.scene_delim')
+    gold_data = prepare_data('recency_based_EL/all/finetune/all.dev_214.english.conll.txt')
+    gold_formatted = format_gold(gold_data)
 
-    # create_dataset(file_in_name, file_out_name)
-    data = read_input(file_in_name)
-    for line in data:
-        print(line)
+    print(len(gold_formatted))
+
+    # file_in_name, file_out_name = ("recency_based_EL/friends.all.scene_delim.conll.txt", 'friends.ordered.scene_delim')
+    #
+    # # create_dataset(file_in_name, file_out_name)
+    # data = read_input(file_in_name)
+    # for line in data:
+    #     print(line)
 
     # for token in working_data:
     #     print(token)
