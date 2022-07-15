@@ -82,11 +82,12 @@ def compare_clusters(gold, sys):
                         false_pos = [sys_men for sys_men in system_cluster if sys_men not in cluster]
                         false_neg = [mention for mention in cluster[:-1] if mention not in system_cluster]
                         scene_errors[entity] = {'ref': ref, 'true positive': true_pos, 'false positive': false_pos,
-                                                'false negative': false_neg, 'support': len(cluster[:-1])}
+                                                            'false negative': false_neg, 'support': len(cluster[:-1])}
                         found = True
             if not found:
+                false_neg = cluster[:-1]
                 scene_errors[entity] = {'ref': ref, 'true positive': [], 'false positive': [],
-                                        'false negative': cluster[:-1], 'support': len(cluster[:-1])}
+                                        'false negative': false_neg, 'support': len(cluster[:-1])}
 
         errors[scene] = scene_errors
 
@@ -141,8 +142,12 @@ def calculate_precision_recall_f1(errors):
 
 
 if __name__ == "__main__":
-    gold_clusters = get_clusters('224_all_gold.english.128.jsonlines')
-    gold_clusters = add_entity_id(gold_clusters, 'all/test/224_all_gold.english.conll.txt')
+    ### OPTIES:
+    ### '214_all_gold.english.128.jsonlines' en '224_all_gold.english.128.jsonlines'
+    gold_clusters = get_clusters('214_all_gold.english.128.jsonlines')
+    ### OPTIES:
+    ### 'all/test/214_all_gold.english.conll.txt' en 'all/test/224_all_gold.english.conll.txt'
+    gold_clusters = add_entity_id(gold_clusters, 'all/test/214_all_gold.english.conll.txt')
 
     # support = 0
     # for sc, clusters in gold_clusters.items():
@@ -151,7 +156,10 @@ if __name__ == "__main__":
     #
     # print(support)
 
-    sys_clusters = get_clusters('224_small.jsonlines', predicted_clusters=True)
+    ### OPTIES:
+    ### '214_large.jsonlines', '214_medium.jsonlines', '214_small.jsonlines', '224_pretrained.jsonlines'
+    ### '224_large.jsonlines', '224_medium.jsonlines', 224_small.jsonlines', '224_pretrained.jsonlines'
+    sys_clusters = get_clusters('214_large.jsonlines', predicted_clusters=True)
 
     # for gold_cluster in gold_clusters:
     #     print(gold_cluster, gold_clusters[gold_cluster])
@@ -159,49 +167,52 @@ if __name__ == "__main__":
 
     err = compare_clusters(gold_clusters, sys_clusters)
 
-    # print("ERRORS")
-    # for scene, scene_err in err.items():
-    #     print(scene, scene_err)
+    ### Run dit om de fp, tp, fn clusters te krijgen per entity per scene
+    print("ERRORS")
+    for scene, scene_err in err.items():
+        print(scene, scene_err)
 
-    gold_data = prepare_data('friends.all.scene_delim.conll.txt')
-    gold_formatted = format_gold(gold_data)
-    entmap = map_entities('friends_entity_map.txt')
+    ### Uncomment alles hieronder om de outputs te krijgen voor de error analyse zoals in het paper:
 
-    mention_patterns = find_patterns(gold_data, entmap)
-
-    six_friends, famous_people, inner_circle, outer_circle = categorize_acquaintances(entmap, mention_patterns)
-    inner = six_friends + famous_people + inner_circle
-
-    categorisation = categorize_errors(err, inner)
-
-    print(f"Inner circle, noref: true positives: {categorisation['inner']['noref']['tp']}, "
-          f"false positives: {categorisation['inner']['noref']['fp']}, "
-          f"false negatives: {categorisation['inner']['noref']['fn']}\n"
-          f"Inner circle, coref: true positives: {categorisation['inner']['coref']['tp']}, "
-          f"false positives: {categorisation['inner']['coref']['fp']}, "
-          f"false negatives: {categorisation['inner']['coref']['fn']}\n"
-          f"Outer circle, noref: true positives: {categorisation['outer']['noref']['tp']}, "
-          f"false positives: {categorisation['outer']['noref']['fp']}, "
-          f"false negatives: {categorisation['outer']['noref']['fn']}\n"
-          f"Outer circle, coref: true positives: {categorisation['outer']['coref']['tp']}, "
-          f"false positives: {categorisation['outer']['coref']['fp']}, "
-          f"false negatives: {categorisation['outer']['coref']['fn']}")
-    print()
-
-    score = calculate_precision_recall_f1(categorisation)
-    print(f"Inner circle, noref: precision: {score['inner']['noref']['precision']}, "
-          f"recall: {score['inner']['noref']['recall']}, "
-          f"f1: {score['inner']['noref']['f1']}, "
-          f"support: {score['inner']['noref']['support']}\n"
-          f"Inner circle, coref: precision: {score['inner']['coref']['precision']}, "
-          f"recall: {score['inner']['coref']['recall']}, "
-          f"f1: {score['inner']['coref']['f1']},"
-          f"support: {score['inner']['coref']['support']}\n"
-          f"Outer circle, noref: precision: {score['outer']['noref']['precision']}, "
-          f"recall: {score['outer']['noref']['recall']}, "
-          f"f1: {score['outer']['noref']['f1']},"
-          f"support: {score['outer']['noref']['support']}\n"
-          f"Outer circle, coref: precision: {score['outer']['coref']['precision']}, "
-          f"recall: {score['outer']['coref']['recall']}, "
-          f"f1: {score['outer']['coref']['f1']},"
-          f"support: {score['outer']['coref']['support']}")
+    # gold_data = prepare_data('friends.all.scene_delim.conll.txt')
+    # gold_formatted = format_gold(gold_data)
+    # entmap = map_entities('friends_entity_map.txt')
+    #
+    # mention_patterns = find_patterns(gold_data, entmap)
+    #
+    # six_friends, famous_people, inner_circle, outer_circle = categorize_acquaintances(entmap, mention_patterns)
+    # inner = six_friends + famous_people + inner_circle
+    #
+    # categorisation = categorize_errors(err, inner)
+    #
+    # print(f"Inner circle, noref: true positives: {categorisation['inner']['noref']['tp']}, "
+    #       f"false positives: {categorisation['inner']['noref']['fp']}, "
+    #       f"false negatives: {categorisation['inner']['noref']['fn']}\n"
+    #       f"Inner circle, coref: true positives: {categorisation['inner']['coref']['tp']}, "
+    #       f"false positives: {categorisation['inner']['coref']['fp']}, "
+    #       f"false negatives: {categorisation['inner']['coref']['fn']}\n"
+    #       f"Outer circle, noref: true positives: {categorisation['outer']['noref']['tp']}, "
+    #       f"false positives: {categorisation['outer']['noref']['fp']}, "
+    #       f"false negatives: {categorisation['outer']['noref']['fn']}\n"
+    #       f"Outer circle, coref: true positives: {categorisation['outer']['coref']['tp']}, "
+    #       f"false positives: {categorisation['outer']['coref']['fp']}, "
+    #       f"false negatives: {categorisation['outer']['coref']['fn']}")
+    # print()
+    #
+    # score = calculate_precision_recall_f1(categorisation)
+    # print(f"Inner circle, noref: precision: {score['inner']['noref']['precision']}, "
+    #       f"recall: {score['inner']['noref']['recall']}, "
+    #       f"f1: {score['inner']['noref']['f1']}, "
+    #       f"support: {score['inner']['noref']['support']}\n"
+    #       f"Inner circle, coref: precision: {score['inner']['coref']['precision']}, "
+    #       f"recall: {score['inner']['coref']['recall']}, "
+    #       f"f1: {score['inner']['coref']['f1']},"
+    #       f"support: {score['inner']['coref']['support']}\n"
+    #       f"Outer circle, noref: precision: {score['outer']['noref']['precision']}, "
+    #       f"recall: {score['outer']['noref']['recall']}, "
+    #       f"f1: {score['outer']['noref']['f1']},"
+    #       f"support: {score['outer']['noref']['support']}\n"
+    #       f"Outer circle, coref: precision: {score['outer']['coref']['precision']}, "
+    #       f"recall: {score['outer']['coref']['recall']}, "
+    #       f"f1: {score['outer']['coref']['f1']},"
+    #       f"support: {score['outer']['coref']['support']}")
